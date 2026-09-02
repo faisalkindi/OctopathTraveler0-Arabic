@@ -1,0 +1,235 @@
+=== id 17896 ===
+JA: 聖火のお導きをあなたに……
+EN: May the Sacred Flame light your path.
+BEFORE: فلتكن شعلة القداسة مرشدتك……
+GEMINI: فلتكن الشعلة المقدسة مرشدك……
+REASON: Glossary compliance: 'شعلة القداسة' changed to 'الشعلة المقدسة' for 'Sacred Flame'. Player-address gender-neutrality: 'مرشدتك' (feminine) changed to 'مرشدك' (masculine default) as per style guide for player character.
+
+=== id 17915 ===
+JA: 私でよろしければ 
+いつでもお供いたします！
+EN: Just call and I will be with you!
+BEFORE: إذا كنت ترغب بي
+GEMINI: إذا رغبتَ بي،
+فسأرافقك في أي وقت!
+REASON: Incomplete translation; adjusted for player-address gender neutrality (past tense for 'wished') and preserved line break and exclamation mark.
+
+=== id 17929 ===
+JA: 資料の扱いを知らない人には
+お渡しできません
+EN: I can't hand valuable relics over
+to those who don't know how
+to properly handle them.
+BEFORE: لا يمكنني إعطاؤه لشخص لا يعرف كيفية التعامل مع الوثائق
+GEMINI: لا يمكنني إعطاؤها لشخص لا يعرف كيفية التعامل مع الوثائق.
+REASON: Gender/number agreement for the pronoun referring to 'الوثائق' (feminine plural).
+
+=== id 17946 ===
+JA: ダメです
+これはあげません
+EN: I'm sorry, I can't give this to you.
+BEFORE: لا يمكن
+GEMINI: لا يمكن.
+لن أعطي هذا.
+REASON: Incomplete translation; adjusted for player-address gender neutrality and preserved line break.
+
+=== id 17947 ===
+JA: あなたもお祈りですか？
+EN: Have you come to pray too?
+BEFORE: هل أنت أيضاً في صلاة؟
+GEMINI: هل أتيتَ للصلاة أيضاً؟
+REASON: Improved phrasing for naturalness and player-address gender neutrality (past tense verb).
+
+=== id 17948 ===
+JA: お祈りが終わるまで
+待ってください
+EN: If you'll please wait until I'm done
+with my prayers...
+BEFORE: انتظرني
+GEMINI: الرجاء الانتظار
+حتى أنتهي من صلاتي.
+REASON: Incomplete translation; adjusted for player-address gender neutrality (verbal noun) and preserved line break.
+
+=== id 17967 ===
+JA: ほしいの？
+それじゃあげるね
+EN: You want this?
+Okay, here you go!
+BEFORE: هل تريدها؟
+GEMINI: هل تريدها؟
+حسنًا، تفضل!
+REASON: Completed the translation of the sentence. Preserved line break. Used gender-neutral imperative 'تفضل'.
+
+=== id 18307 ===
+JA: 了解しました！
+ぜひ、使ってください
+EN: By your command!
+I hope it's useful.
+BEFORE: مفهوم!
+GEMINI: مفهوم!
+تفضل باستخدامه.
+REASON: Completed the translation of the sentence. Preserved line break. Used gender-neutral imperative 'تفضل'.
+
+=== id 18417 ===
+JA: いつも道端で立ち話に花を咲かせている主婦。
+かつては精強なアルティニア兵が恐れるほど
+武勇に長けた彼女ではあるが、
+いまは槍を掃除用具に持ち替えて、
+おしゃべりの合間に家事をする生活である。
+EN: A housewife who loves to stand around talking. She was once a fierce warrior feared even by the soldiers of Altinia, but she has since traded in her spear for a broom and lives a life of peace.
+BEFORE: ربة منزل تُزهر الأحاديث الواقفة دائماً على جانب الطريق.
+GEMINI: ربة المنزل الثرثارة التي تتحدث دائمًا على جانب الطريق.
+على الرغم من أنها كانت ذات يوم محاربة بارعة يخشاها حتى جنود ألتينيا الأقوياء،
+إلا أنها استبدلت رمحها بأدوات التنظيف الآن،
+وتعيش حياة تقوم فيها بالأعمال المنزلية بين الأحاديث.
+REASON: The original Arabic translation was incomplete, missing significant parts of the character's backstory and current life. The idiom 'تُزهر الأحاديث' was replaced for naturalness, and line breaks (`\n`) were added to match the Japanese source. The character's gender was also corrected to feminine ('ربة المنزل الثرثارة').
+
+=== id 18423 ===
+JA: ねえ、知ってる！？
+EN: Did you know?
+BEFORE: هيه، هل تعلمين؟!
+GEMINI: هيه، هل تعلم؟!
+REASON: The original Arabic used the feminine form 'تعلمين'. Corrected to the generic masculine 'تعلم' to maintain gender-neutrality when addressing the player character, as per style guide.
+
+=== id 18451 ===
+JA: 最近雇われたばかりの庭師。
+その勤勉な仕事ぶりは雇い主のみならず、
+町の人々からも評価されている。
+本当は信用されたら財産を盗もうと考えていたが、
+今の仕事が性に合ったので身の振り方を迷っている。
+EN: A gardener who was hired just recently. Her work ethic has impressed not only her employer, but the townspeople as well. In truth, she had intended to steal her employer's fortune once she had earned enough trust, but now is unsure of what course to take after discovering she has an aptitude for gardening.
+BEFORE: بستاني تم توظيفه مؤخراً.
+GEMINI: بستانية تم توظيفها مؤخراً.
+أثار اجتهادها في العمل إعجاب صاحب العمل وسكان المدينة على حد سواء.
+في الحقيقة، كانت تنوي سرقة ثروة صاحب العمل بمجرد أن تكسب ثقته،
+لكنها الآن في حيرة من أمرها بشأن ما يجب فعله بعد أن وجدت أن العمل الحالي يناسبها.
+REASON: The original Arabic translation was incomplete, missing significant parts of the character description and internal conflict. The character's gender was corrected to feminine ('بستانية'). Line breaks (`\n`) were added to match the Japanese source.
+
+=== id 18454 ===
+JA: もともと荒事は慣れっこさね
+覚悟しいよ！
+EN: This wouldn't be my first rumble.
+Bring it!
+BEFORE: أنا معتاد على الأعمال الشاقة أصلاً
+GEMINI: أنا معتادة على المشاجرات أصلاً،
+فلتستعدي!
+REASON: The original Arabic translation was incomplete, missing the 'Be prepared!' part. 'الأعمال الشاقة' was replaced with 'المشاجرات' for better accuracy to 'rough stuff/fights'. The character's gender was corrected to feminine ('معتادة', 'فلتستعدي'). Line break (`\n`) added to match the Japanese source.
+
+=== id 18627 ===
+JA: いい話かい？
+EN: Do you have a good deal for me?
+BEFORE: هل هذه قصة جيدة؟
+GEMINI: هل هناك صفقة جيدة؟
+REASON: Mistranslation of '話' (hanashi) in context; 'deal' is more appropriate for a merchant than 'story'. Rephrased for gender neutrality.
+
+=== id 18629 ===
+JA: 強ぇな、まさに鋼鉄のごとし……ってか
+喜んで力を貸すぜ！
+EN: You're as strong as wrought iron, I'd wager.
+I'll gladly follow you!
+BEFORE: قوي، كأنه الفولاذ تمامًا…… أو بالأحرى
+GEMINI: تتمتع بقوة عظيمة، كأنك الفولاذ تمامًا…… أو بالأحرى
+سأقدم لك المساعدة بكل سرور!
+REASON: Incomplete translation and grammatical error ('كأنه' should be 'كأنك'). Rephrased for gender neutrality for player address and completed the sentence.
+
+=== id 18630 ===
+JA: 強ぇな、まさに錬鉄のごとし……ってか
+遠慮なく持っていってくれ！
+EN: You're as strong as wrought iron, I'd wager.
+You're more than welcome to this!
+BEFORE: قوي، كأنه الحديد المطروق تمامًا…… أو بالأحرى
+GEMINI: تتمتع بقوة عظيمة، كأنك الحديد المطروق تمامًا…… أو بالأحرى
+خذه دون تردد!
+REASON: Incomplete translation and grammatical error ('كأنه' should be 'كأنك'). Rephrased for gender neutrality for player address and completed the sentence.
+
+=== id 18646 ===
+JA: 君となら構わないさ
+よろしく頼むよ
+EN: Yes, I would not mind aiding you.
+BEFORE: لا أمانع إذا كان معك
+GEMINI: لا أمانع في مساعدتك
+أتمنى أن نكون عند حسن الظن.
+REASON: Incomplete translation and tense issue ('كان' should be 'يكون' or rephrased). Translated the full Japanese sentence and rephrased for gender neutrality.
+
+=== id 18647 ===
+JA: 君になら構わないさ
+役に立つことを望んでいるよ
+EN: Yes, I would not mind aiding you.
+BEFORE: لا أمانع إذا كان معك
+GEMINI: لا أمانع في مساعدتك
+آمل أن أكون مفيدًا.
+REASON: Incomplete translation and tense issue ('كان' should be 'يكون' or rephrased). Translated the full Japanese sentence and rephrased for gender neutrality.
+
+=== id 18715 ===
+JA: この剣を託すに相応しい強さでした
+どうぞ、お持ちくださいまし
+EN: Yes, you are worthy of receiving
+this sword. Please, take it with you.
+BEFORE: لقد كانت القوة التي تستحق أن أعهد إليها بهذا السيف
+GEMINI: نعم، لقد كنتَ جديرًا باستلام هذا السيف.
+تفضل، خذه.
+REASON: The original translation was incomplete and shifted the subject. The corrected version completes the sentence, addresses the protagonist (using generic masculine as a neutral fallback for past tense and imperative forms), and preserves the line break.
+
+=== id 18746 ===
+JA: ん？
+何か聞きたいのか？
+EN: Hm? What is it you want to know?
+BEFORE: هه؟
+GEMINI: همم؟
+هل تريد أن تسأل شيئًا؟
+REASON: The original translation was incomplete. The corrected version completes the sentence to convey the full meaning of 'Hm? What is it you want to know?' and preserves the line break. Uses generic masculine for the protagonist as a neutral fallback.
+
+=== id 18749 ===
+JA: お前さんにゃ敵わねぇな
+持ってけドロボウ！
+EN: You drive a hard bargain!
+Take it then, swindler!
+BEFORE: لا يمكنني مواجهتك
+GEMINI: لا يمكنني مواجهتك.
+خذه أيها اللص!
+REASON: The original translation was incomplete. The corrected version completes the sentence to convey the full meaning of 'You drive a hard bargain! Take it then, swindler!' and preserves the line break. Uses generic masculine for the protagonist as a neutral fallback.
+
+=== id 18764 ===
+JA: のんびりしたいので
+放っておいてくだされ
+EN: Leave me be. I want to relax in
+peace and quiet.
+BEFORE: أريد الاسترخاء
+GEMINI: أريد الاسترخاء، لذا اتركني وشأني.
+REASON: The original translation was incomplete. The corrected version completes the sentence to convey the full meaning of 'I want to relax, so please leave me alone.' Uses generic masculine for the protagonist as a neutral fallback.
+
+=== id 18778 ===
+JA: ハハハハ
+僕の技に見とれてたのかい？
+EN: Hahaha, were you struck by
+the beauty of my techniques?
+BEFORE: هههههه
+GEMINI: هههههه، هل أُعجبت بمهاراتي؟
+REASON: Incomplete translation; added missing part. Rephrased to use a gender-neutral past-tense verb for player address.
+
+=== id 18779 ===
+JA: ハハハハ
+僕の技に見とれてたのかい？
+EN: Hahaha, were you struck by
+the beauty of my techniques?
+BEFORE: هههههه
+GEMINI: هههههه، هل أُعجبت بمهاراتي؟
+REASON: Incomplete translation; added missing part. Rephrased to use a gender-neutral past-tense verb for player address.
+
+=== id 18797 ===
+JA: わたしの絵のみりょくに
+気づいたの？
+EN: You adore my paintings, don't you?
+I can tell.
+BEFORE: هل لاحظت
+GEMINI: هل لاحظت
+سحر لوحاتي؟
+REASON: Incomplete translation; added missing part and preserved line break. Used gender-neutral past-tense verb for player address.
+
+=== id 18831 ===
+JA: 石の話が聞きたいか？
+EN: Interested in rocks, are ya?
+BEFORE: هل تود سماع حديث عن الحجر؟
+GEMINI: هل لديك اهتمام بحديث عن الحجر؟
+REASON: Rephrased for better gender-neutrality when addressing the player, avoiding a direct present-tense verb.
+

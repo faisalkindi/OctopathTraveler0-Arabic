@@ -1,0 +1,7 @@
+This batch is from the "Bestower of Fame" arc, set in Theatropolis, the city of arts. It features Auguste, "the genius playwright" and arc antagonist. Auguste is a cruel, manipulative figure obsessed with "realistic" art, even if it involves violence and psychological torment of his actors, such as his protégé Francesca. The tone is dark, gritty, and full of intrigue, reflecting morally gray characters and violent theatrical "performances" he orchestrates.
+
+The translation must use warm, natural, everyday MSA (فصحى ميسّرة), not archaic literary MSA (unlike FFT) nor any dialect. Auguste's dialogue should reflect his refined, authoritative, and theatrical personality within MSA, while his subordinates' lines are more deferential or fearful, but still natural MSA.
+
+The player character is silent and gender-customizable, with no gender-branching dialogue. Therefore, any line addressing the player must use gender-neutral Arabic phrasing. Prioritize past-tense verbs (e.g., استعددت) for true neutrality. If present-tense verbs or predicate adjectives are unavoidable, use the standard Arabic generic masculine as a fallback only if rephrasing is too awkward. This overrides the general style-guide default.
+
+Diacritics (تشكيل) should be light and targeted: roughly 10% of lines should carry any marks. Always apply shadda (ّ) for meaning-bearing gemination. Use fatha/kasra short vowels sparingly, only to disambiguate words that would otherwise be genuinely misread. Never fully vocalize an entire line or sentence.

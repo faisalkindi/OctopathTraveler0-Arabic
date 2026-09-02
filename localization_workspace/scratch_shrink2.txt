@@ -1,0 +1,102 @@
+========== 4402
+JA: 'エドラスの猛者たちよ……'
+EN: 'Warriors of Edoras...'
+BEFORE: 'يا أبطال إيدوراس……\nلا تستهينوا بـ أرتينيا'
+AR: 'يا أبطال إيدوراس……'
+REASON: "Split the combined line from the previous draft; this line should only contain the address 'Warriors of Edoras...'."
+========== 4403
+JA: 'アルティニアを\n甘く見ないでもらおうか'
+EN: 'Did you think Altinia would go\nso quietly?'
+BEFORE: 'يا أبطال إيدوراس……\nلا تستهينوا بـ أرتينيا'
+AR: 'لا تستهينوا بألتينيا'
+REASON: "Split the combined line from the previous draft and corrected the transliteration of 'أرتينيا' to 'ألتينيا' as per glossary/game context."
+========== 7183
+JA: '足枷になるようなら\n即刻帰らせるぞ'
+EN: 'Know that the instant you prove\nto be an impediment, I will send\nyou straight back.'
+BEFORE: 'إذا كانت ستكون قيداً على قدميك\nفسأسمح لك بالعودة فوراً'
+AR: 'إذا كنتَ ستكون عائقاً\nفسأعيدك فوراً.'
+REASON: "Register/nuance: 'قيداً على قدميك' (shackle on your feet) was too literal; changed to 'عائقاً' (an impediment). 'فسأسمح لك بالعودة' (I will allow you to return) was too soft; changed to 'فسأعيدك فوراً' (I will send you back immediately) to match the stern tone."
+========== 7225
+JA: 'おお……お待ちしていました\n聖火守指長殿'
+EN: "Ah, we've been awaiting you,\nFlameguard."
+BEFORE: 'أوه…… كنت في انتظارك\nأيها المسؤول عن حماية الشعلة المقدسة'
+AR: 'أوه…… كنا في انتظارك\nأيها القائد'
+REASON: "Changed 'كنت' (I was) to 'كنا' (We were) to match the English 'we've been awaiting you'. Also, replaced the overly literal and lengthy 'أيها المسؤول عن حماية الشعلة المقدسة' with the more concise and consistent 'أيها القائد' for 'Flameguard', aligning with its usage in line 7219."
+========== 3778
+JA: '……その言葉\nそのまま返そう'
+EN: '...I should say the same to you.'
+BEFORE: '……سأرد\nعلى تلك الكلمات\nعنها كما هي'
+AR: '……سأرد\nعليك بنفس الكلمات'
+REASON: "Corrected mistranslation of 'そのまま返そう' (return those words as they are) by removing the extraneous 'عنها' (about her) and rephrasing for natural flow."
+========== 4048
+JA: '目を離した隙に……\n何をしてらっしゃるか'
+EN: 'I swear, I take my eyes off you\nfor one second...'
+BEFORE: 'في اللحظة التي غبت فيها عن نظري……\nماذا تفعل؟'
+AR: 'ما إن غفلت عنك……\nماذا تفعل؟'
+REASON: "Register: Improved naturalness of the phrase 'في اللحظة التي غبت فيها عن نظري' to 'ما إن غفلت عنك'."
+========== 4311
+JA: 'おおおおおおっ！！'
+EN: 'GRAAAH!'
+BEFORE: 'أوه أوه أوه أوه!!'
+AR: 'آاااه!!'
+REASON: "Changed 'أوه أوه أوه أوه!!' to 'آاااه!!' to better convey the 'GRAAAH!' exclamation."
+========== 4389
+JA: 'おおおおおおっ！！'
+EN: 'GRAAAH!'
+BEFORE: 'أوه أوه أوه أوه!!'
+AR: 'أوهووووووو!!'
+REASON: 'Improved onomatopoeia to better match the length and sound of the Japanese exclamation.'
+========== 4548
+JA: 'おおおおおおっ！！'
+EN: 'GRAAAH!'
+BEFORE: 'أوه أوه أوه أوه!!'
+AR: 'آآآآآه!!'
+REASON: "Improved onomatopoeia for 'おおおおおおおっ！！'. 'آآآآآه!!' is a more natural sustained cry than 'أوه أوه أوه أوه!!'."
+========== 4698
+JA: 'よくぞここへ……'
+EN: 'Know that you are welcome here.'
+BEFORE: 'لقد جئت إلى هنا في الوقت المناسب……'
+AR: 'أحسنتَ المجيء إلى هنا……'
+REASON: "Corrected the added meaning 'في الوقت المناسب' (at the right time) which was not present in the Japanese source. Rephrased 'لقد جئت إلى هنا' to 'أحسنتَ المجيء إلى هنا' for a more direct and accurate translation of 'よくぞここへ'."
+========== 4810
+JA: '陛下は実に広く\n“人望”をお持ちなお方だ'
+EN: 'Your lord father is a man of great\npopularity throughout the realm.'
+BEFORE: 'إن جلالة الملك شخص يمتلك\n"ثقة" واسعة من الناس'
+AR: 'إن جلالة الملك يتمتع\nبشعبية واسعة'
+REASON: 'Replaced \'شخص يمتلك "ثقة" واسعة من الناس\' with \'يتمتع بشعبية واسعة\' for better register and more accurate translation of \'人望\' (popularity/esteem).'
+========== 4981
+JA: '城を出た我らが\n手配されていれば……'
+EN: 'There may be people searching\nfor us as we speak...'
+BEFORE: 'لو أننا قد تم\nالقبض علينا بعد خروجنا من القلعة……'
+AR: 'لو أننا مطلوبون\nبعد خروجنا من القلعة……'
+REASON: "Mistranslation: '手配されていれば' means 'if we are wanted/sought', not 'if we had been arrested'. Changed to 'مطلوبون'."
+========== 4989
+JA: '俺はリーヴェンの出でな'
+EN: 'I hail from Riven.'
+BEFORE: 'عندما كنتُ مع\nإيركا…… الأميرة إيركا'
+AR: 'أنا من ريفين.'
+REASON: "Mistranslation from Japanese. The original Japanese means 'I hail from Riven,' not 'When I was with Elrica... Princess Elrica'."
+========== 5320
+JA: 'へへ……\n国の皆に聞いたんだ'
+EN: 'Hehe... I asked the people\nof Riven.'
+BEFORE: 'هيه……\nلقد سمعتُ ما يقوله الجميع في البلاد'
+AR: 'هيه……\nلقد سألتُ أهل ريفين'
+REASON: "Corrected 'سمعتُ' (heard) to 'سألتُ' (asked) to match the Japanese '聞いたんだ' and specified 'أهل ريفين' (people of Riven) as per 'en_text' and context."
+========== 5350
+JA: '姉さんは、希望を抱き\n最期を迎えたはずです'
+EN: 'Sister faced her final moments\nwith a heart full of hope.'
+BEFORE: 'كان من المفترض أن أختي وافت المنية وهي تحمل الأمل'
+AR: 'واجهت أختي لحظاتها الأخيرة\nوهي تحمل الأمل.'
+REASON: 'Improved register (more natural phrasing) and preserved line break.'
+========== 7281
+JA: 'はい、また凶人が……'
+EN: 'Yes, another person transformed...'
+BEFORE: 'نعم، لقد ارتكب المجرمون جريمة أخرى……'
+AR: 'نعم، مجرم آخر……'
+REASON: "Simplified 'لقد ارتكب المجرمون جريمة أخرى' to 'مجرم آخر' to be a more direct translation of the Japanese 'また凶人が……' (another fiend...) without adding extra interpretive detail."
+========== 7828
+JA: 'もはや、何者も疑わねば……'
+EN: 'Is there no one who can be\ntrusted anymore?'
+BEFORE: 'لم يعد هناك من لا يجب الشك فيه……'
+AR: 'يجب الشك في الجميع الآن……'
+REASON: 'Register/naturalness: `لم يعد هناك من لا يجب الشك فيه` was convoluted. Rephrased to the more natural `يجب الشك في الجميع الآن` (One must doubt everyone now), which better reflects the JA `疑わねば` (must doubt).'

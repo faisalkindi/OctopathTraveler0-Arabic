@@ -1,0 +1,4 @@
+93898 | before: يقاتل | after: هجوم | reason: «يقاتل» is a present-tense verb («he fights»). For a menu command like «Attack», the verbal noun «هجوم» is the standard and more appropriate translation.
+94244 | before: يقاتل | after: قتال | reason: Changed the present tense verb 'يقاتل' to the verbal noun 'قتال' for consistency and better fit as a menu option ('Attack').
+94549 | before: قتال | after: هجوم | reason: Changed 'قتال' (noun: fighting) to 'هجوم' (noun: attack) for better fit as a UI command and consistency with 'ATK' stat term.
+152118 | before: يقاتل | after: هجوم | reason: Changed 'يقاتل' to 'هجوم' as it is the standard and more appropriate term for an 'Attack' command in RPGs, matching the EN.

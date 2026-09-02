@@ -1,0 +1,2141 @@
+ID=38288
+JA:今はもうデトフ族以外に 
+弓は作ってないのさ
+EN:I don't make bows for anyone
+outside the Detof clan.
+BEFORE:لم يعد أحد يصنع الأقواس سوى قبيلة ديتوف.
+AFTER:لم أعد أصنع الأقواس لأحد سوى قبيلة ديتوف.
+REASON:Corrected subject from 'أحد' (anyone) to 'أنا' (I) to match the speaker in the Japanese source.
+----
+ID=38295
+JA:あたし、おなかがへってるの
+……だめ？
+EN:I'm very hungry... Is that a no?
+BEFORE:أنا جائعةٌ جداً
+……ألا يمكنني؟
+AFTER:أنا جائعة جداً…… ألا يمكنني؟
+REASON:Removed unnecessary diacritics from 'جائعةٌ جداً' to align with the light tashkeel policy.
+----
+ID=38302
+JA:是非今度
+モデルになってくれないかしら？
+EN:You simply must be my next model!
+BEFORE:هل يمكنك أن تصبح
+عارضاً لي في المرة القادمة؟
+AFTER:ألا تكون عارضاً لي في المرة القادمة؟
+REASON:The original 'هل يمكنك' (Can you?) was too weak for the Japanese '是非' (by all means, definitely) and '～てくれないかしら' (polite strong request). 'ألا تكون' (Wouldn't you be?) better captures the tone of a st...
+----
+ID=38339
+JA:くーっ！
+やっぱり自由ってのはいいな！
+EN:Feels good to be free!
+BEFORE:كُف!
+الحرية رائعة حقًا!
+AFTER:الحرية رائعة حقًا!
+REASON:Removed mistranslation of interjection 'كُف!' which means 'Stop!' instead of expressing satisfaction. The English translation omits it, so the Arabic can too, or use a more appropriate interjection.
+----
+ID=38349
+JA:スカラベ様が殺されたと聞きました 
+それも、前領主様のご子息に……
+EN:I heard that Lord Scarabe was killed,
+and by the son of the former lord,
+no less...
+BEFORE:سمعتُ أن السيد سكاراب قد قُتل
+بل وقُتل على يد ابن اللورد السابق……
+AFTER:سمعتُ أن السيد سكاراب قد قُتل
+على يد ابن اللورد السابق……
+REASON:Removed redundancy 'بل وقُتل' and made the phrasing more natural.
+----
+ID=38353
+JA:疲れを癒やすには美しい景色が一番
+EN:The best cure for such a weary soul
+is taking in beautiful sights.
+BEFORE:أجمل المناظر هي الأفضل لراحة التعب
+AFTER:أجمل المناظر هي الأفضل لإزالة التعب.
+REASON:Improved naturalness of phrasing 'لراحة التعب' to 'لإزالة التعب'.
+----
+ID=38401
+JA:アトラスダムに行けば
+その写本の切れ端のこともわかるはずだ
+EN:You may learn something about
+the page in Atlasdam.
+BEFORE:إذا ذهبت إلى أطلسدام
+فمن المفترض أن تعرف شيئًا عن تلك القطعة المقطوعة من المخطوطة
+AFTER:إذا ذهبت إلى أطلسدام
+فمن المفترض أن تعرف شيئًا عن قصاصة المخطوطة
+REASON:Changed 'القطعة المقطوعة من المخطوطة' to 'قصاصة المخطوطة' for more natural phrasing of 'fragment'.
+----
+ID=38402
+JA:“聖火とは”
+この本を読みますか？
+EN:Read "The Sacred Flame"?
+BEFORE:"ما هو اللهب المقدس"
+هل ستقرأ هذا الكتاب؟
+AFTER:«ما هو اللهب المقدس»
+هل ستقرأ هذا الكتاب؟
+REASON:Changed ASCII quotes to Arabic quotation marks «».
+----
+ID=38403
+JA:“分け合うと大きくなるもの”
+この本を読みますか？
+EN:Read "That Which Grows When Shared"?
+BEFORE:"شيء يكبر عندما نتشاركه"
+هل ستقرأ هذا الكتاب؟
+AFTER:«شيء يكبر عندما نتشاركه»
+هل ستقرأ هذا الكتاب؟
+REASON:Changed ASCII quotes to Arabic quotation marks «».
+----
+ID=38404
+JA:“原初の炎”
+この本を読みますか？
+EN:Read "The First Flame"?
+BEFORE:"اللهب البدائي"
+هل ستقرأ هذا الكتاب؟
+AFTER:«اللهب البدائي»
+هل ستقرأ هذا الكتاب؟
+REASON:Changed ASCII quotes to Arabic quotation marks «».
+----
+ID=38405
+JA:“聖者オディプス伝”
+この本を読みますか？
+EN:Read "The Legend of Saint Odypus"?
+BEFORE:"سيرة القديس أوديبس"
+هل ستقرأ هذا الكتاب؟
+AFTER:«سيرة القديس أوديبس»
+هل ستقرأ هذا الكتاب؟
+REASON:Changed ASCII quotes to Arabic quotation marks «».
+----
+ID=38406
+JA:“３つの炎”
+この本を読みますか？
+EN:Read "The Three Flames"?
+BEFORE:"نيران الثلاثة"
+هل ستقرأ هذا الكتاب؟
+AFTER:«نيران الثلاثة»
+هل ستقرأ هذا الكتاب؟
+REASON:Changed ASCII quotes to Arabic quotation marks «».
+----
+ID=38416
+JA:海の男たちは大酒のみさ！
+認められたきゃ飲み負かしてやりなぁ！
+EN:Seafarers are heavy drinkers! If you
+wanna win their respect, you've gotta
+outdrink 'em!
+BEFORE:رجال البحر يحبون الشرب فقط!
+إذا أردت اعترافهم، اهزمهم في الشرب!
+AFTER:رجال البحر يشربون كثيرًا!
+إذا أردت اعترافهم، اهزمهم في الشرب!
+REASON:Changed 'يحبون الشرب فقط!' to 'يشربون كثيرًا!' for better accuracy and naturalness, reflecting 'heavy drinkers' rather than 'only drink'.
+----
+ID=38417
+JA:今日もいい本が買えたの
+だからとっても気分がいいのよ！
+EN:I bought a great book today.
+Hence why I'm in such a good mood!
+BEFORE:لقد اشتريتُ كتابًا جيدًا اليوم
+لذا أشعر بسعادة غامرة!
+AFTER:لقد اشتريتُ كتابًا جيدًا اليوم
+لذا أشعر بسعادة كبيرة!
+REASON:Changed 'سعادة غامرة!' to 'سعادة كبيرة!' to better match the intensity of 'very good mood' without overstating it.
+----
+ID=38426
+JA:十数年帰ってないし 
+もう帰る気もないんだけど
+EN:I haven't been back there in a dozen
+years or more. I have no interest in
+going back by now, either.
+BEFORE:لم أعد إلى هنا منذ عشر سنوات،
+ولم يعد لدي أي نية للعودة.
+AFTER:لم أعد إلى هناك منذ عشر سنوات،
+ولم يعد لدي أي نية للعودة.
+REASON:Corrected 'إلى هنا' (to here) to 'إلى هناك' (to there) to accurately reflect the Japanese source's meaning of returning to the distant birthplace, not the current location.
+----
+ID=38447
+JA:船が入り用かい？
+違うなら、仕事の邪魔をしないでくれ
+EN:Need a boat? If not, kindly don't interrupt
+my work...
+BEFORE:هل تحتاج السفينة إلى شيء؟
+إن لم يكن الأمر كذلك، فلا تعق عملي
+AFTER:هل تحتاج سفينة؟
+إن لم يكن الأمر كذلك، فلا تعق عملي
+REASON:Corrected 'هل تحتاج السفينة إلى شيء؟' (Does the ship need something?) to 'هل تحتاج سفينة؟' (Do you need a ship?) to accurately reflect the Japanese '船が入り用かい？' (Is a boat needed [by you]?)
+----
+ID=38674
+JA:この先は
+アトラスダム城です
+EN:The Royal Palace of Atlasdam is
+past here.
+BEFORE:ما وراء هذا هو
+AFTER:ما وراء هذا هو
+قلعة أطلسدام
+REASON:Completed the translation and preserved the line break as per source.
+----
+ID=38675
+JA:学者の卵たちの学び舎
+王立学院は東側にございますよ
+EN:You'll find the Royal Academy
+to the east, where our illustrious
+scholars study.
+BEFORE:مدرسة بذور العلماء
+AFTER:مدرسة بذور العلماء
+الأكاديمية الملكية تقع في الجانب الشرقي.
+REASON:Completed the translation and preserved the line break as per source.
+----
+ID=38677
+JA:誰もが学問を追究できる
+我が国自慢の学び舎さ
+EN:It is a place of pride for us, where
+everyone is welcome to pursue their
+studies.
+BEFORE:إنه مكان للتعلم نفخر به في بلادنا، حيث يمكن للجميع السعي وراء المعرفة.
+AFTER:إنه مكان للتعلم نفخر به في بلادنا،
+حيث يمكن للجميع السعي وراء المعرفة.
+REASON:Preserved line break as per source and slightly rephrased for better flow.
+----
+ID=38678
+JA:利用者の快適な読書環境を守るのが
+私の仕事だよ
+EN:It is my job to ensure a pleasant
+reading environment for all our
+visitors.
+BEFORE:إن حماية بيئة القراءة المريحة للمستخدمين
+AFTER:إن حماية بيئة القراءة المريحة للمستخدمين
+هي وظيفتي.
+REASON:Completed the translation and preserved the line break as per source.
+----
+ID=38679
+JA:な、何だよお前……
+ここには何もねぇよ！　本当だって！！
+EN:What do you want!?
+There's nothing here! Nothing!
+BEFORE:مـ..ماذا تريد……
+AFTER:مـ..ماذا تريد؟……
+لا يوجد شيء هنا! حقاً!!
+REASON:Completed the translation and preserved the line break as per source. Adjusted punctuation.
+----
+ID=38683
+JA:オルステラの歴史は戦争の連続……
+創世の時代から神々が争ってたくらいだ
+EN:Orsterra has a bloody history. Even the
+gods fought when the world was created.
+BEFORE:تاريخ أورستيلا هو سلسلة من الحروب……
+بسبب صراع الآلهة منذ عصر الخلق
+AFTER:تاريخ أورستيلا هو سلسلة من الحروب……
+حتى الآلهة تنازعت منذ عصر الخلق.
+REASON:Adjusted phrasing to better reflect the nuance of 'even the gods fought' from the Japanese source, rather than implying a direct cause.
+----
+ID=38688
+JA:城近くに大きな図書館が見えるだろ？
+歴史的書物がたくさんあるらしいんだ
+EN:You can see a big library near the castle,
+right? I heard there are lots of historical
+tomes in there.
+BEFORE:ألا ترى تلك المكتبة الكبيرة بالقرب من القلعة؟
+يُقال إنها تضم الكثير من المخطوطات التاريخية
+AFTER:ألا ترى تلك المكتبة الكبيرة بالقرب من القلعة؟
+يُقال إنها تضم الكثير من الكتب التاريخية
+REASON:Improved accuracy for '書物' (books/writings) which is broader than 'المخطوطات' (manuscripts).
+----
+ID=38690
+JA:いっぱい勉強して
+学者さんになるんだ～！
+EN:I'm gonna study lots and become
+a scholar!
+BEFORE:ادرس بجد
+وكن عالماً في المستقبل!
+AFTER:سأدرس بجد
+وأصبح عالمًا!
+REASON:Corrected mistranslation (original is an aspiration, not a command) and improved tone.
+----
+ID=38694
+JA:この先は謁見の間です
+EN:The throne room is up ahead.
+BEFORE:من هنا يبدأ قاعة الاستقبال
+AFTER:في الأمام توجد قاعة العرش.
+REASON:Corrected mistranslation ('reception hall' for 'throne room') and grammatical error ('يبدأ قاعة').
+----
+ID=38706
+JA:ウブな学者連中が多いから
+仕事もし放題さ
+EN:They may be smart, but there's
+no one more clever than me.
+BEFORE:وبسبب كثرة هؤلاء العلماء السذج
+فالعمل يسير كما يحلو لهم
+AFTER:وبسبب كثرة هؤلاء العلماء السذج،
+يمكنني القيام بالعمل كما يحلو لي.
+REASON:Corrected mistranslation (original implies speaker's advantage/exploitation, not that work proceeds as scholars wish).
+----
+ID=38722
+JA:お話、聞かせてくださる？
+EN:Would you tell me tales of your travels?
+BEFORE:هل يمكنكم إخباري ببعض التفاصيل؟
+AFTER:هل يمكنكم إخباري بأخباركم؟
+REASON:More accurately translates 'お話' (stories/tales) as 'أخباركم' rather than 'تفاصيل' (details), aligning with EN 'tales of your travels'.
+----
+ID=38726
+JA:王立学院の学長室を訪ねれば
+会えると思いますよ
+EN:If you wish to speak to him, he should
+be in his office at the Royal Academy.
+BEFORE:أعتقد أنك ستتمكن من مقابلته إذا زرت مكتب رئيس الأكاديمية الملكية
+AFTER:أعتقد أنك ستتمكن من مقابلته إذا زرت مكتب رئيس الأكاديمية الملكية
+
+REASON:Preserved the line break `\n` from the source text.
+----
+ID=38730
+JA:前までは、牢屋に放り込んだ罪人に
+手を差し伸べる側だったのに
+EN:It used to be that I was the one extending
+a helping hand to those locked away...
+BEFORE:في السابق، كنت أنا من يمد يده للمجرمين الذين أُلقي بهم في السجن
+AFTER:في السابق، كنت أنا من يمد يده للمجرمين
+الذين أُلقي بهم في السجن
+REASON:Preserved the line break `\n` from the source text.
+----
+ID=38731
+JA:今や私が檻の中……
+これも悪に加担した罰か
+EN:Yet now I find myself behind bars.
+But perhaps this is what I deserve
+for my misdeeds...
+BEFORE:والآن أنا داخل القفص…… هل هذا هو عقاب مشاركتي في الشر؟
+AFTER:والآن أنا داخل القفص……
+هل هذا هو عقاب مشاركتي في الشر؟
+REASON:Preserved the line break `\n` from the source text.
+----
+ID=38736
+JA:この町まで危ないなら
+どこに引っ越せばいいんだ……
+EN:If even this town is dangerous,
+where should I go...?
+BEFORE:إذا كان حتى هذا البلد خطيراً، فإلى أين عليّ الانتقال……
+AFTER:إذا كانت حتى هذه المدينة خطيراً، فإلى أين عليّ الانتقال……
+REASON:Changed 'بلد' to 'مدينة' for a more precise translation of '町' (town).
+----
+ID=38892
+JA:わしが大司教になったら
+腑抜けた団長の首をすげ替えてやるぞ！
+EN:Were I archbishop, I'd replace that
+cowardly captain in an instant!
+BEFORE:عندما أصبح الأسقف،
+سأقطع رأس القائد الضعيف هذا!
+AFTER:عندما أصبح رئيس الأساقفة،
+سأستبدل القائد الضعيف هذا!
+REASON:Corrected 'الأسقف' to 'رئيس الأساقفة' for 'Archbishop'. Replaced 'سأقطع رأس' (I will cut off the head) with 'سأستبدل' (I will replace) to accurately reflect the meaning of 'replace that cowardly capta...
+----
+ID=38979
+JA:ですから、どんな危険な研究をしても
+学者は許されるべきなの！
+EN:Consequently, scholars ought to be
+forgiven no matter how dangerous
+their research is!
+BEFORE:لذلك، مهما كان البحث خطيرًا،
+يجب السماح للعلماء بالقيام به!
+AFTER:لذلك، مهما كان البحث خطيرًا،
+يجب أن يُغفر للعلماء!
+REASON:Corrected 'يجب السماح للعلماء بالقيام به' (scholars should be allowed to do it) to 'يجب أن يُغفر للعلماء' (scholars should be forgiven) to match the source 'ought to be forgiven'.
+----
+ID=38983
+JA:しかし研究とは、とにかくまず資金が
+必要なものなのだ……世知辛いな
+EN:But research calls, first and foremost,
+for funding. The world is an unforgiving
+place.
+BEFORE:لكن البحث يتطلب أولاً التمويل على أي حال…… إنها حياة شاقة
+AFTER:لكن البحث يتطلب قبل كل شيء التمويل…… العالم قاسٍ.
+REASON:Improved accuracy and register: 'على أي حال' changed to 'قبل كل شيء' for 'first and foremost'. 'إنها حياة شاقة' changed to 'العالم قاسٍ' for 'unforgiving place' to better match the source tone.
+----
+ID=39048
+JA:本当だ！　何もないんだ！
+だから命ばかりはお助けを……！
+EN:It's true! I don't have anything!
+Please, spare me...!
+BEFORE:هذا صحيح! لا يوجد شيء!
+لذا، أرجوكم ساعدوني في إنقاذ الأرواح فقط……!
+AFTER:هذا صحيح! لا يوجد شيء!
+لذا، أرجوكم أنقذوا حياتي فقط……!
+REASON:Mistranslation: 'إنقاذ الأرواح فقط' (saving souls only) changed to 'أنقذوا حياتي فقط' (save my life only) to accurately reflect '命ばかりは' (just my life/at least my life).
+----
+ID=39063
+JA:ママ、すっごくよろこんでる！
+パパがいなくなったとき以来だよ！
+EN:Mama's super happy! I haven't seen her
+smile like this since before Papa passed!
+BEFORE:أمي، أنا سعيد جداً!
+هذه أول مرة منذ أن اختفى أبي!
+AFTER:أمي سعيدة جداً!
+هذه أول مرة منذ أن اختفى أبي!
+REASON:Corrected subject-verb agreement: 'أنا سعيد جداً' (I am very happy) changed to 'سعيدة جداً' (she is very happy) to correctly reflect 'Mama' as the subject. Removed the comma after 'أمي' as it is the s...
+----
+ID=39070
+JA:おいジジイ、起きろ！
+本当に死んじまうぞ！？
+EN:Wake up, old man! You don't wanna die,
+do ya!?
+BEFORE:هي أنت أيها العجوز، استيقظ!
+سوف تموت حقاًت؟!
+AFTER:هي أنت أيها العجوز، استيقظ!
+سوف تموت حقاً؟!
+REASON:Corrected typo: removed the extra 'ت' from 'حقاًت'.
+----
+ID=39103
+JA:聖者オディプスの肖像画と引き換えに
+異国の方から多額の寄付をいただきました！
+EN:We received a most generous donation
+from a foreign investor in exchange for
+a portrait of Saint Odypus!
+BEFORE:مقابل لوحة بورتريه القديس أوديبس
+تلقيتُ تبرعاً كبيراً من شخص من بلاد أجنبية!
+AFTER:مقابل لوحة بورتريه القديس أوديبس
+تلقينا تبرعاً كبيراً من شخص من بلاد أجنبية!
+REASON:Changed 'تلقيتُ' (I received) to 'تلقينا' (we received) to align with the English translation's 'We received' and the likely context of a town official speaking on behalf of the community.
+----
+ID=39104
+JA:こんな町ですが、神は見ていました！
+皆に聖火のお導きがありますように……！
+EN:The gods are watching over our
+little town! May the Sacred Flame
+light your path!
+BEFORE:رغم أن هذه بلدة صغيرة، إلا أن الإله كان يراقب!
+أتمنى أن يحظى الجميع بإرشاد النار المقدسة……!
+AFTER:رغم أن هذه بلدة صغيرة، إلا أن الإله يراقب!
+أتمنى أن يحظى الجميع بإرشاد النار المقدسة……!
+REASON:Changed 'كان يراقب' (was watching) to 'يراقب' (is watching) to better reflect the present tense implied by the English 'are watching' and the general sense of ongoing divine oversight.
+----
+ID=39122
+JA:町を直す今こそ
+あれが必要だってのにさ
+EN:If I still had them, I could've helped
+with repairs around the town...
+BEFORE:في الوقت الذي نحتاج فيه إلى تلك الأدوات
+لإعادة بناء البلدة الآن
+AFTER:الآن بالذات لإصلاح البلدة،
+نحتاج إليها
+REASON:Rephrased to more accurately reflect the Japanese meaning of 'Now is precisely the time to fix the town, and yet those are what's needed,' which implies regret over the absence of tools at a critical ...
+----
+ID=39129
+JA:ああ……
+助かったよ
+EN:Thank you so much.
+BEFORE:أجل……
+لقد أنقذتني
+AFTER:آه……
+لقد أنقذتني
+REASON:Changed 'أجل' (yes) to 'آه' (ah) to better convey an exclamation of relief or realization, matching the Japanese 'ああ'.
+----
+ID=39157
+JA:なぜか“行かなきゃならない”
+気がしてな、このザマだ
+EN:But something told me I had to come.
+And look at me now.
+BEFORE:لسبب ما، أشعر أنني "يجب أن أذهب"، بالنظر إلى هذا الوضع.
+AFTER:لسبب ما، شعرتُ أنني "يجب أن أذهب"، بالنظر إلى هذا الوضع.
+REASON:Tense mismatch: JA text '気がしてな' (felt, past tense) was translated as 'أشعر' (feel, present tense). Changed to 'شعرتُ' (felt, past tense).
+----
+ID=39170
+JA:水くせーな！
+遠慮すんなって
+EN:Oh, come now! Don't be modest.
+BEFORE:الماءُ مُرٌّ!
+لا تتردد
+AFTER:لا تكن خجولاً!
+لا تتردد
+REASON:Corrected mistranslation of '水くせーな！' (Mizukusē na!) from 'الماءُ مُرٌّ!' to 'لا تكن خجولاً!'.
+----
+ID=39172
+JA:“選ばれし者”よ
+そなたも来たのか
+EN:Ah, Ringbearer. You've come too.
+BEFORE:"المختار"
+هل أتيتَ أنتَ أيضاً؟
+AFTER:«حامل الخاتم»
+هل أتيتَ أنتَ أيضاً؟
+REASON:Used the game-specific term 'حامل الخاتم' (Ringbearer) as per game context and EN text, instead of 'المختار'.
+----
+ID=39184
+JA:ついにこの日が来ました
+エドラスを……いえ
+EN:The day has finally come that
+Edoras—no.
+BEFORE:أخيراً جاء هذا اليوم
+يتحرر إيدوراس…… لا
+AFTER:أخيراً جاء هذا اليوم
+إيدوراس…… لا
+REASON:Changed 'يتحرر إيدوراس' to 'إيدوراس' to match the fragment nature of the Japanese and English source, indicating a pause and correction.
+----
+ID=39188
+JA:……腹ごなしに
+川豆でも食ってくか？
+EN:...Care for a snack?
+BEFORE:……ولأجل سد الجوع
+هل نذهب لتناول بعض الفول؟
+AFTER:……ولأجل سد الجوع
+هل نذهب لتناول بعض فاصوليا النهر؟
+REASON:Ensured consistency by using 'فاصوليا النهر' (river beans) instead of the general 'الفول' (beans).
+----
+ID=39191
+JA:でも、そんな忌まわしい日々も
+ようやく終わりを告げるのですね
+EN:But those horrific days have finally
+come to an end.
+BEFORE:ولكن، تلك الأيام المشؤومة
+ستنتهي أخيراً، أليس كذلك؟
+AFTER:ولكن، تلك الأيام المشؤومة
+قد انتهت أخيراً.
+REASON:Corrected meaning from a question to a statement, and improved register. '終わりを告げる' means 'come to an end' or 'announce the end', not a question.
+----
+ID=39217
+JA:これからも、ヴァローレに
+聖火のお導きがあらんことを……
+EN:May the Sacred Flame continue to
+light Valore's path.
+BEFORE:من الآن فصاعداً، أتمنى أن
+تظل هداية النار المقدسة في فالور
+……
+AFTER:من الآن فصاعداً، أتمنى أن
+تظل هداية النار المقدسة في فالوري
+……
+REASON:Corrected 'فالور' to 'فالوري' for glossary compliance.
+----
+ID=39241
+JA:ここはヴァローレ
+家族と掟を守るものたちの町……
+EN:This is Valore, the town where people
+treasure their family and keep the law.
+BEFORE:هذه هي فالور
+مدينة العائلة والذين يحمون القوانين……
+AFTER:هذه هي فالور
+مدينة الذين يحمون عائلاتهم وقوانينهم……
+REASON:Rephrased 'مدينة العائلة والذين يحمون القوانين' to 'مدينة الذين يحمون عائلاتهم وقوانينهم' for more natural and grammatically cohesive Arabic phrasing.
+----
+ID=39259
+JA:ヴァローレ森道の北の奥に
+大きな屋敷があるじゃろう？
+EN:Do you know the mansion to
+the north of the Valore Trail?
+BEFORE:في عمق الشمال
+بمحاذاة طريق غابة فالوري
+هناك قصر كبير، أليس كذلك؟
+AFTER:في عمق الشمال بمحاذاة طريق غابة فالوري
+هناك قصر كبير، أليس كذلك؟
+REASON:Removed an extra newline character to match the source Japanese line break count (one '\n').
+----
+ID=39265
+JA:再開したら、今度こそ
+遊んであげる……ふふっ
+EN:We can have some fun once we're
+back up and running. Hehe.
+BEFORE:عندما نستأنف، سأسمح لك باللعب هذه المرة…… هه
+AFTER:عندما نستأنف، سنتسلى معًا هذه المرة…… هه
+REASON:Improved naturalness and tone for "遊んであげる" / "have some fun". "سأسمح لك باللعب" was too literal and stiff.
+----
+ID=39305
+JA:よそ者に対しては
+口を閉ざすか……
+EN:Outsiders are greeted with silence,
+I see...
+BEFORE:بالنسبة للغرباء
+يجب أن أصمت……
+AFTER:بالنسبة للغرباء، يلتزمون الصمت إذاً……
+REASON:Corrected subject of the verb. The original Arabic implied the speaker must be silent, but the Japanese means *others* remain silent towards outsiders.
+----
+ID=39347
+JA:“紅の丘に帰ろうよ
+銀の乙女に連れられて”
+EN:"Go back, go back to Red Hill...
+Following the silver maiden..."
+BEFORE:"لنعد إلى التل القرمزي
+بصحبة العذراء الفضية"
+AFTER:"لنعد إلى تلة القرمز بصحبة العذراء الفضية"
+REASON:Glossary compliance for "Red Hill" (تلة القرمز).
+----
+ID=39353
+JA:ベルケインの警備は
+我ら聖火騎士にお任せを！
+EN:Let the Knights Ardante guard Berecain!
+BEFORE:أمانة حراسة برلكين
+مهمة علينا نحن فرسان النار المقدسة!
+AFTER:دعوا حراسة برلكين
+لنا نحن فرسان اللهب المقدس!
+REASON:Improved phrasing for 'Let us guard' and corrected glossary term for 'Knights Ardante' to 'فرسان اللهب المقدس'.
+----
+ID=39354
+JA:……我が家系は
+ベルンシュタイン王家の末裔だ
+EN:My family descends from Bernstein's
+royal line.
+BEFORE:……سلالتي
+هي من سلالة ملك برنشتاين
+AFTER:……سلالتي
+تنحدر من سلالة برنشتاين الملكية
+REASON:More accurate translation of 'royal line' (سلالة برنشتاين الملكية) and more natural phrasing for 'descends from'.
+----
+ID=39358
+JA:ザロモンの魔物を封印したのは
+オージンという名の大賢者だった
+EN:Salomon's monsters were imprisoned
+by a great sage named Odin.
+BEFORE:من ختم وحوش زارومون
+كان الحكيم العظيم الذي يُدعى أوجين
+AFTER:الحكيم العظيم الذي يُدعى أوجين
+هو من ختم وحوش زارومون
+REASON:Rephrased for more natural Arabic sentence structure while maintaining the active voice of the Japanese source.
+----
+ID=39367
+JA:“銀の乙女”がやってきた……
+わらべ唄の通りね
+EN:The silver maiden came, just like
+in the song.
+BEFORE:لقد وصلت "فتاة الفضة"……
+تماماً كما تقول أغاني الأطفال
+AFTER:لقد وصلت «فتاة الفضة»……
+تماماً كما تقول أغاني الأطفال
+REASON:Used correct Arabic quotation marks «» as per style guide.
+----
+ID=39475
+JA:“ザロモンの遺産”とやらも
+溶けちまっちゃないかねぇ……？
+EN:And how can Salomon's fortune
+withstand this heat...?
+BEFORE:ألا يمكن أن يكون ما يسمى "تراث زارومون"
+قد ذاب تماماً……؟
+AFTER:ألا يمكن أن يكون ما يسمى «تراث زارومون»
+قد ذاب تماماً……؟
+REASON:Used correct Arabic quotation marks «» as per style guide.
+----
+ID=39564
+JA:欲望に染まらぬ澄んだ瞳～
+傷だらけでも心は優しく～
+EN:Bright eyes, not darkened by greed~
+A heart of scars, but one that bleeds~
+BEFORE:عيونٌ صافيةٌ لا تلوثها الرغبات~
+حتى لو كانت مليئةً بالجروح، يظل القلبُ لطيفاً~
+AFTER:عيون صافية لا تلوّثها الرغبات~
+حتى لو كانت مليئة بالجروح، يظلّ القلب لطيفاً~
+REASON:Stripped excessive harakat, keeping only essential shaddas for gemination as per style guide.
+----
+ID=39567
+JA:ニャニャッ！？
+ニンゲンにはシッポがないのニャ！？
+EN:Are you kitten me!?
+Humans don't have tails!?
+BEFORE:نيا نياح؟!
+البشرُ ليس لديهم ذيولٌ نيا؟!
+AFTER:نيا نياح؟!
+البشر ليس لديهم ذيول نيا؟!
+REASON:Removed non-essential harakat. Standardized cat sound 'نيا'.
+----
+ID=39577
+JA:……ゆっくりしていけ、ニャ
+EN:Take a meow-ment to relax.
+BEFORE:……خذ وقتك، ميا
+AFTER:……خذ وقتك، نيا
+REASON:Standardized cat sound from 'ميا' to 'نيا' for consistency.
+----
+ID=39581
+JA:ここだけの秘密ニャんだけど 
+そこにいる親分はすごい猫なのニャ
+EN:Just between us, the boss is really
+a-meow-zing!
+BEFORE:هذا سر بيننا فقط، ميا
+لكن الزعيم الموجود هناك قط مذهل، ميا
+AFTER:هذا سر بيننا فقط، نيا
+لكن الزعيم الموجود هناك قط مذهل، نيا
+REASON:Standardized cat sound from 'ميا' to 'نيا' for consistency.
+----
+ID=39582
+JA:親分の作るまたたび酒は
+どんな猫も骨抜きにしてしまうのニャ
+EN:The catsip they make has every cat
+purring in satisfaction.
+BEFORE:شراب النعناع الذي يصنعه الزعيم
+يجعل أي قط يفقد قواه، ميا
+AFTER:شراب النعناع الذي يصنعه الزعيم
+يجعل أي قط يفقد قواه، نيا
+REASON:Standardized cat sound from 'ميا' to 'نيا' for consistency.
+----
+ID=39583
+JA:いつかおいらも親分のような
+最高のまたたび酒を作ってみせるニャ！
+EN:I hope I can make catsip that
+su-purr-b someday, too!
+BEFORE:يوماً ما، سأصنع أنا أيضاً
+أفضل شراب نعناع مثل الزعيم، ميا!
+AFTER:يوماً ما، سأصنع أنا أيضاً
+أفضل شراب نعناع مثل الزعيم، نيا!
+REASON:Removed non-essential harakat. Standardized cat sound from 'ميا' to 'نيا' for consistency.
+----
+ID=39584
+JA:……ふっ
+戦争なんてくだらないニャ
+EN:*sigh* I just don't get the purr-pose
+of war...
+BEFORE:……هف
+الحرب أمر تافه، ميا
+AFTER:……هف
+الحرب أمر تافه، نيا
+REASON:Standardized cat sound from 'ميا' to 'نيا' for consistency.
+----
+ID=39585
+JA:賢者様が認めた人間しか、この島に
+足を踏み入れることは許さないニャ
+EN:I won't let any human set paw on
+this island unless the Great Sage
+gives them purr-mission.
+BEFORE:لن يُسمح إلا للبشر الذين اعترف بهم الحكيم
+بوضع أقدامهم على هذه الجزيرة، ميا
+AFTER:لن يسمح إلا للبشر الذين اعترف بهم الحكيم
+بوضع أقدامهم على هذه الجزيرة، نيا
+REASON:Removed non-essential harakat. Standardized cat sound from 'ميا' to 'نيا' for consistency.
+----
+ID=39586
+JA:またたび酒を味わう至福の時を
+壊さないでほしいからニャ
+EN:Shoo! You're disrupting my catsip
+time.
+BEFORE:لا أريدُ أن تُفسدَ لحظةَ السعادةِ هذهِ وأنا أستمتعُ بنبيذِ الرحلةِ، مياو
+AFTER:لا أريد أن تفسد لحظة السعادة هذه وأنا أستمتع بشراب النعناع، نيا
+REASON:Corrected mistranslation of 'またたび酒' (catnip wine) to 'شراب النعناع'. Standardized cat sound from 'مياو' to 'نيا'. Removed excessive harakat.
+----
+ID=39599
+JA:<chara_name>……
+皆、すでに揃っているぞ
+EN:<chara_name>...
+Everyone has already assembled.
+BEFORE:<chara_name>……
+الجميعُ هنا بالفعل
+AFTER:<chara_name>……
+الجميع هنا بالفعل
+REASON:Removed non-essential harakat.
+----
+ID=39600
+JA:頼む……アラウネ様を
+どうか守ってやってくれ
+EN:Please keep Her Majesty safe.
+BEFORE:أرجوكم…… احموا سمو ألاون
+أرجوكم
+AFTER:أرجوكم…… احموا سمو ألاون
+REASON:Removed redundant 'أرجوكم' at the end of the line, which was not present in the Japanese source.
+----
+ID=39601
+JA:ここはアラウネたちに任せ
+先に進もう……
+EN:Let Alaune and the others handle it.
+We need to keep going.
+BEFORE:اتركوا هذا المكانَ لألاون ورفاقه
+ولنتقدم للأمام……
+AFTER:اتركوا هذا المكان لألاون ورفاقه
+ولنتقدم للأمام……
+REASON:Removed unnecessary haraka (diacritic) from 'المكان'.
+----
+ID=39605
+JA:あら、あなたもサインが欲しいの？
+……なんてね、ふふっ
+EN:Were you hoping for my autograph?
+Haha, I was merely jesting.
+BEFORE:أوه، هل تريدُ توقيعي أنتَ أيضاً؟
+……أمزحُ فقط، هيهي
+AFTER:أوه، هل تريد توقيعي أنت أيضاً؟
+……أمزح فقط، هيهي
+REASON:Removed unnecessary harakat (diacritics) from 'تريد' and 'أمزح'.
+----
+ID=39606
+JA:私、こう見えても女優だったのよ
+ずっと、ずっと昔のことだけど
+EN:I may not look like much now, but I was
+once an actress. A long, long time ago.
+BEFORE:أنا، رغمُ مظهري هذا، كنتُ ممثلةً
+كان ذلك منذ زمنٍ بعيدٍ جداً
+AFTER:أنا، رغم مظهري هذا، كنت ممثلة
+كان ذلك منذ زمن بعيد جداً
+REASON:Removed unnecessary harakat (diacritics) from 'رغم', 'ممثلة', 'زمن', and 'بعيد'.
+----
+ID=39607
+JA:皆さま、城門前に行かれました
+お急ぎください
+EN:Everyone has gone to the castle gate.
+Please hurry.
+BEFORE:أيها السادة، لقد وصلتم إلى بوابة القلعة
+يرجى الإسراع
+AFTER:أيها السادة، لقد ذهب الجميع إلى بوابة القلعة
+يرجى الإسراع
+REASON:Corrected mistranslation: 'لقد وصلتم' (you have arrived) was changed to 'لقد ذهب الجميع' (everyone has gone) to match the Japanese source '行かれました'.
+----
+ID=39673
+JA:授富の宝玉を使いますか？
+EN:Place the valuable gem?
+BEFORE:هل ستستخدم جوهرة واهب كل شيء؟
+AFTER:هل ستستخدم جوهرة واهب الثراء؟
+REASON:Corrected translation of '授富の宝玉' (Gem of Bestowal of Wealth) from 'جوهرة واهب كل شيء' to 'جوهرة واهب الثراء' for accuracy with the 'Wealth' arc.
+----
+ID=39711
+JA:お礼は……ふふっ、いいの？
+照れ屋さんなのね
+EN:As a show of gratitude...
+It's not necessary, you say? Haha.
+There's no need to be shy.
+BEFORE:هل الشكر…… هه، لا بأس؟
+AFTER:الشكر…… هه، لا داعي له؟
+يا لك من خجول!
+REASON:Completed the translation of the second part of the Japanese sentence '照れ屋さんなのね' (You're shy, aren't you?) and rephrased the first part for better flow.
+----
+ID=39713
+JA:分厚い石扉で閉ざされている……
+EN:It is sealed off by a thick stone door.
+BEFORE:الباب الحجري السميك مغلق……
+AFTER:موصود بباب حجري سميك……
+REASON:Improved accuracy for 'sealed off' using 'موصود' instead of 'مغلق'.
+----
+ID=39714
+JA:壁に文字が刻まれている……
+EN:There are words engraved on the wall.
+BEFORE:هناك حروف محفورة على الجدار……
+AFTER:هناك كلمات محفورة على الجدار……
+REASON:Changed 'حروف' (letters) to 'كلمات' (words) for better accuracy to '文字' (words/text).
+----
+ID=39721
+JA:エドラス城 -庭園-に移動しますか？
+EN:Head to the castle courtyard?
+BEFORE:هل تود الانتقال إلى -حديقة- قلعة إيدوراس؟
+AFTER:هل تود الانتقال إلى -فناء- قلعة إيدوراس؟
+REASON:Changed 'حديقة' (garden) to 'فناء' (courtyard) for better accuracy to '庭園' in the context of a castle courtyard.
+----
+ID=39723
+JA:ここは僕に任せて
+先に行ってください！
+EN:Leave this area to me!
+You go on ahead!
+BEFORE:اترك هذا الأمر لي
+تفضل بالذهاب أولاً!
+AFTER:اترك هذا المكان لي
+تفضل بالذهاب أولاً!
+REASON:Changed 'هذا الأمر' (this matter) to 'هذا المكان' (this place/area) for better accuracy to 'ここ'.
+----
+ID=39804
+JA:しかし、亡者は神出鬼没……
+放置すれば大陸諸国が危機に晒されよう
+EN:But there's no telling when they'll rear
+their heads again... All of Orsterra will
+be in danger if we do nothing.
+BEFORE:ولكن الموتى يظهرون فجأة……
+إذا تركناهم، ستتعرض دول القارة للخطر
+AFTER:ولكن الموتى لا يمكن التنبؤ بظهورهم……
+إذا تركناهم، ستتعرض دول القارة للخطر
+REASON:Improved accuracy for '神出鬼没' (unpredictable/elusive) from 'يظهرون فجأة' to 'لا يمكن التنبؤ بظهورهم'.
+----
+ID=39813
+JA:おぉ、元気してるかぁ～？
+EN:Hey, long time!
+BEFORE:أوه، هل أنت بخير؟
+AFTER:أهلاً، هل أنت بخير؟
+REASON:Changed 'أوه' to 'أهلاً' for a warmer, more natural register matching the casual tone of the Japanese.
+----
+ID=39820
+JA:ウォルド王国一同は
+そなたらを歓迎しよう
+EN:The Kingdom of Wold welcomes you.
+BEFORE:أهلاً بكم
+AFTER:مملكة وولد ترحب بكم
+REASON:The original Arabic 'أهلاً بكم' was too short and did not convey the subject 'Kingdom of Wold' from the Japanese source. Changed to a more complete and accurate translation.
+----
+ID=39850
+JA:退屈か退屈じゃねぇか
+俺にはそれだけよ……
+EN:I like to keep myself busy. Nothing
+worse than being bored.
+BEFORE:هل هو ملل أم ليس مللاً؟
+هذا كل ما يهمني……
+AFTER:لا يهمني سوى الملل أو عدمه
+هذا كل ما يهمني……
+REASON:The original Arabic 'هل هو ملل أم ليس مللاً؟' was a literal translation but sounded stiff and less natural for the character's tone. Rephrased to 'لا يهمني سوى الملل أو عدمه' for better flow and natur...
+----
+ID=39851
+JA:どれ、子ウサギちゃんの
+遊び相手でもしてやろうかね
+EN:...Maybe I'll go play with that kid
+or something.
+BEFORE:حسنًا، هل عليَّ أن أكون رفيق لعب لفتى الأرنب الصغير هذا؟
+AFTER:حسنًا، ربما أكون رفيق لعب لفتى الأرنب الصغير هذا.
+REASON:The original Arabic 'هل عليَّ أن أكون رفيق لعب لفتى الأرنب الصغير هذا؟' was phrased as a direct question, while the Japanese 'してやろうかね' implies a musing or rhetorical question. Rephrased to 'ربما أكون ...
+----
+ID=39958
+JA:……俺なら、あの“女帝”に
+忠誠など期待しないがな
+EN:And I wouldn't expect that empress
+to swear fealty.
+BEFORE:……لو كنت مكانك، لما توقعت
+أي ولاء من تلك "الإمبراطورة"
+AFTER:……أما أنا، فلن أتوقع
+أي ولاء من تلك "الإمبراطورة"
+REASON:Changed 'لو كنت مكانك' to 'أما أنا، فلن أتوقع' to better reflect the speaker's personal opinion ('俺なら') rather than giving advice based on the listener's position.
+----
+ID=39994
+JA:いつエリカ様がお帰りになっても
+いいように、綺麗にしています
+EN:I maintain this room so that Princess
+Elrica may return at any time.
+BEFORE:أقوم بتنظيف المكان جيداً
+لكي يكون جاهزاً في أي وقت تعود فيه السيدة إيريكا
+AFTER:أقوم بتنظيف المكان جيداً
+لكي يكون جاهزاً في أي وقت تعود فيه الأميرة إيريكا
+REASON:Changed 'السيدة إيريكا' to 'الأميرة إيريكا' to match the English source and game context indicating she is a princess.
+----
+ID=40020
+JA:あなたの加護が
+感じられない……
+EN:I can no longer feel your blessing...
+BEFORE:لا أشعرُ
+بحمايتك……
+AFTER:لا أشعر
+بحمايتك……
+REASON:Removed unnecessary damma from 'أشعرُ' as it is not ambiguous without it, adhering to light tashkeel guidelines.
+----
+ID=40023
+JA:あぁ、ベオウルフ様が
+王になっていれば……
+EN:If only Prince Beowulf had been
+crowned king...
+BEFORE:آه، لو كان
+السيد بيولف ملكاً……
+AFTER:آه، لو كان
+الأمير بيولف ملكاً……
+REASON:Changed 'السيد بيولف' to 'الأمير بيولف' to match the English source and context indicating he is a prince.
+----
+ID=40339
+JA:俺は、何を守るために……
+あいつを刺したんだ……？
+EN:What was I defending...that I felt
+the need to stab him?
+BEFORE:لماذا……
+طعنتُه…… من أجل حماية ماذا……؟
+AFTER:ماذا كنت أحمي……
+عندما طعنتُه……؟
+REASON:Improved phrasing to be more natural and closer to the Japanese source structure. Corrected ellipsis count.
+----
+ID=40357
+JA:あのお客さん
+なんだったんだろう……
+EN:What was with that customer...?
+BEFORE:ذلك الزبون
+ماذا كان به……
+AFTER:ذلك الزبون
+ماذا به……
+REASON:Changed 'ماذا كان به' to 'ماذا به' for more natural, flowing MSA.
+----
+ID=40360
+JA:せめて食べていってくれよ……
+EN:They could have at least finished it...
+BEFORE:على الأقل كان يجب أن يأكل شيئاً……
+AFTER:على الأقل كان عليه أن يأكله……
+REASON:Changed 'كان يجب أن يأكل شيئاً' to 'كان عليه أن يأكله' to better reflect 'finished it' rather than 'eat something'.
+----
+ID=40375
+JA:<chara_name>様
+お力を貸してください
+EN:Chosen One, please lend me
+your strength.
+BEFORE:سمو <chara_name>
+أرجو تقديم المساعدة
+AFTER:سمو <chara_name>
+أرجو أن تمنحني قوتك
+REASON:Changed 'أرجو تقديم المساعدة' to 'أرجو أن تمنحني قوتك' to be more specific to 'lend your strength' as per the source.
+----
+ID=40379
+JA:ドンの許しがなけりゃ
+泊めるわけにいかないよ……
+EN:I can't let you stay here unless
+Taviani says so...
+BEFORE:بدون إذن دون
+لا يمكنني إيواءك……
+AFTER:بدون إذن اللورد تافياني
+لا يمكنني إيواءك……
+REASON:Corrected 'دون' to 'اللورد تافياني' for glossary compliance.
+----
+ID=40385
+JA:エドラス城 -庭園-
+EN:Castle Edoras: Courtyard
+BEFORE:قلعة إيدوراس -الحديقة-
+AFTER:قلعة إيدوراس -الفناء-
+REASON:Changed 'الحديقة' (garden) to 'الفناء' (courtyard) for better accuracy with 'Courtyard'.
+----
+ID=40446
+JA:あのような者に
+嫁いだばかりに……
+EN:And all because she married
+the likes of him...
+BEFORE:لمجرد أننا تزوجنا
+من شخص كهذا……
+AFTER:لمجرد أنها تزوجت
+من شخص كهذا……
+REASON:Corrected subject-verb agreement from 'تزوجنا' (we married) to 'أنها تزوجت' (she married) to match ja_text and en_text.
+----
+ID=40447
+JA:おひめさま……
+まだかな……
+EN:Is...is the princess coming...?
+BEFORE:سمو الأميرة……
+هل حان الوقت بعد……
+AFTER:الأميرة……
+هل هي قادمة بعد……
+REASON:Adjusted phrasing for better flow and to more accurately reflect 'Is the princess coming?' instead of 'Is it time yet?'.
+----
+ID=40465
+JA:“扉”の向こうに
+景色が揺らめいている……
+EN:The scenery wavers on the other side
+of the gate...
+BEFORE:خلف "الباب"
+المشهد يرتعش……
+AFTER:خلف "الباب"
+المشهد يتماوج……
+REASON:Changed 'يرتعش' (trembles) to 'يتماوج' (wavers) for a more accurate nuance of 'wavers' in en_text.
+----
+ID=40481
+JA:双璧の騎士たちが
+ケンカするなんて……
+EN:The twin blades of Hornburg
+fighting against one another...?
+BEFORE:أن يتشاجر
+فارسا الجناحين……
+AFTER:أن يتشاجر
+الفارسان العظيمان……
+REASON:Replaced 'فارسا الجناحين' (knights of the two wings) with 'الفارسان العظيمان' (the two great knights) for a more accurate interpretation of '双璧' (twin pillars/great figures).
+----
+ID=40491
+JA:町は時を止めている……
+醜き争いから民を守るため……
+EN:Time has stopped in this village,
+that the people may be spared
+the horrors of war...
+BEFORE:المدينة توقفت عن الحركة……
+لحماية الشعب من الصراع القبيح……
+AFTER:المدينة توقف فيها الزمن……
+لحماية الشعب من الصراع القبيح……
+REASON:Changed 'توقفت عن الحركة' (stopped moving) to 'توقف فيها الزمن' (time stopped in it) to accurately reflect 'Time has stopped' in en_text.
+----
+ID=40513
+JA:皆さん、いかなる時も
+エルフリックが見守ってくださいます
+EN:Aelfric watches over us at all times.
+BEFORE:أيها الجميع، في كل وقت
+يحرص إلفريك على حمايتكم
+AFTER:أيها الجميع، في كل وقت
+يرعاكم إلفريك
+REASON:Changed 'يحرص على حمايتكم' to 'يرعاكم' for a more natural and concise translation of 'watches over'.
+----
+ID=40563
+JA:試練を始めるか？
+EN:Begin the trials?
+BEFORE:هل تبدأ التجربة؟
+AFTER:هل تبدأ الاختبار؟
+REASON:Changed 'التجربة' to 'الاختبار' for a more precise translation of 'trial' in a JRPG context.
+----
+ID=40568
+JA:ぜったい
+オルベリクさまの方がつよいよ……
+EN:Olberic is stronger, I'm sure of it.
+BEFORE:بالتأكيد
+السيد أولبيريك هو الأنسب……
+AFTER:بالتأكيد
+السيد أولبيريك هو الأقوى……
+REASON:Corrected mistranslation: 'الأنسب' (most suitable) to 'الأقوى' (stronger) to match 'つよい' (strong).
+----
+ID=40579
+JA:かんぬきを外しますか？
+EN:Unbolt the door?
+BEFORE:هل ستزيل القفل؟
+AFTER:هل ستزيل المزلاج؟
+REASON:Changed 'القفل' (lock) to 'المزلاج' (bolt) for a more precise translation of 'かんぬき' and 'unbolt'.
+----
+ID=40580
+JA:向こう側から
+封鎖されているようだ……
+EN:The door is sealed off
+on the other side.
+BEFORE:يبدو أنه محاصر من الجانب الآخر……
+AFTER:يبدو أنه مغلق من الجانب الآخر……
+REASON:Changed 'محاصر' (besieged/surrounded) to 'مغلق' (sealed/closed) for a more accurate translation of '封鎖されている' (sealed off).
+----
+ID=40590
+JA:邪悪な念が行く手を阻んでいる……
+EN:An evil presence is blocking
+the way forward.
+BEFORE:الأفكار الشريرة تعترض الطريق……
+AFTER:وجود شرير يعترض الطريق……
+REASON:Changed 'الأفكار الشريرة' (evil thoughts) to 'وجود شرير' (evil presence) to better match the 'evil presence' in `en_text` and the context of something blocking the way.
+----
+ID=40591
+JA:今はこの先に進めないようだ……
+EN:It doesn't look like you can go
+any further right now.
+BEFORE:يبدو أنه لا يمكن التقدم إلى الأمام الآن……
+AFTER:يبدو أنه لا يمكن المضي قدمًا الآن……
+REASON:Changed 'التقدم إلى الأمام' to 'المضي قدمًا' for better conciseness and natural flow in Arabic.
+----
+ID=40999
+JA:ある巫女の手記
+
+
+物心ついたときには
+青い空と清浄な風が包む島で
+白い巫女たちに囲まれていた
+
+巫女の長である母も、共に育った姉たちも
+みなが私に優しかった
+
+美しきアガペア島での暮らしに
+なんの疑問も感じなかった
+
+
+指輪の巫女になるための修行は苛烈だった
+この島は巫女の力を継承するために在る
+...
+EN:A Priestess's Journal
+
+I've lived on the island all my life, surrounded by pure blue skies, gentle breezes, and loving priestesses.
+
+They were all so ...
+BEFORE:مذكرات كاهنة معينة
+عندما بدأت أدرك ما حولي
+كنت محاطة بالكاهنات البيضاوات
+في جزيرة تغلفها السماء الزرقاء والرياح النقية
+كانت أمي، وهي كبيرة الكاهنات، و...
+AFTER:مذكرات كاهنة
+عندما بدأت أدرك ما حولي
+كنت محاطة بالكاهنات البيضاوات
+في جزيرة تغلفها السماء الزرقاء والرياح النقية
+كانت أمي، وهي كبيرة الكاهنات، وأخواتي...
+REASON:Removed 'معينة' from title for naturalness. Corrected 'لوريثة' to 'لوراثة' for grammatical accuracy (inheritance vs heiress). Corrected 'حتى وأنا مثله' to 'حتى أنا' for accurate translation of `こんな私にも...
+----
+ID=41436
+JA:殿下の輝かしい未来に
+聖火と“愛”の祝福を、お祈りいたします
+EN:I pray that his path is full of love
+and illuminated by the Sacred Flame.
+BEFORE:من أجل مستقبل سموّكم المشرق
+أصلي من أجل مباركة النار المقدسة و"الحب"
+AFTER:من أجل مستقبل سموّكم المشرق
+أصلي أن يكون مباركاً بالنار المقدسة و"الحب"
+REASON:Rephrased for more natural flow and grammatical correctness in MSA. The original 'أصلي من أجل مباركة' was a bit clunky. 'أصلي أن يكون مباركاً' (I pray that it be blessed) is smoother.
+----
+ID=41491
+JA:女王様も殿下も
+俺が命を懸けて守っていくぜ……
+EN:I shall protect the queen and her son
+with my life.
+BEFORE:سأحمي الملكة وسمو الأمير بكل ما أوتيت من قوة……
+AFTER:سأحمي الملكة وسمو الأمير بحياتي……
+REASON:More accurate translation of '命を懸けて' (with my life).
+----
+ID=41594
+JA:やめる
+EN:Cancel
+BEFORE:توقف
+AFTER:إلغاء
+REASON:Glossary compliance for UI command 'Cancel'.
+----
+ID=41612
+JA:私が生まれたのは、光からか、闇からか――
+
+
+強い光は濃い影を生む。
+
+闇を照らそうと光を灯せば
+新たな影が生み出される。
+
+私は強い光として望まれ
+闇を伴ってこの世に生を受けた。
+
+青き炎の才を持つ私は
+聖火守指長となることを運命づけられ
+そのためだけに修行を積み、生きてきた。
+
+
+
+母の存在を明...
+EN:Was I born from light or darkness?
+
+The stronger the light, the greater the shadow that springs from it.
+
+Any attempt to illuminate the darkness only ...
+BEFORE:هل وُلدتُ من الضوء، أم من الظلام――
+الضوء القوي يولد ظلاً كثيفاً.
+وإذا أوقدتُ الضوء لأُضيء الظلام
+فإن ظلاً جديداً سيُخلق.
+لُقيتُ كضوءٍ قوي
+وولدتُ في هذ...
+AFTER:هل وُلدتُ من الضوء، أم من الظلام――
+الضوء القوي يولد ظلاً كثيفاً.
+وإذا أوقدتُ الضوء لأُضيء الظلام
+فإن ظلاً جديداً سيُخلق.
+لُقيتُ كضوءٍ قوي
+وولدتُ في هذ...
+REASON:Corrected proper noun 'Gabriella' to 'غالديرا' (Galdera) as per game lore and EN text.
+----
+ID=41678
+JA:共にあった炎が……
+今も、心の内にあるのです……
+EN:His flame still burns bright in my heart.
+BEFORE:لكن الشعلة التي كانت بيننا……
+لا تزال في أعماق قلبي حتى الآن……
+AFTER:الشعلة التي كانت بيننا……
+لا تزال في أعماق قلبي حتى الآن……
+REASON:Removed 'لكن' (but) as it was an addition not present in the JA source's sentence structure.
+----
+ID=411363
+JA:平和じゃのう
+EN:What a peaceful day.
+BEFORE:إنه السلام
+AFTER:يا له من سلام
+REASON:Improved register/naturalness for 'What a peaceful day'.
+----
+ID=411370
+JA:今夜、聖火にお祈りするよ
+“末永く一緒にいられるように”とな
+EN:When I pray to the Sacred Flame
+tonight, I'm going to wish for us
+to be together forever.
+BEFORE:سأصلي للشعلة الليلة……
+"لأجل أن نبقى معًا لفترة طويلة"
+AFTER:سأصلي للشعلة الليلة……
+"لأجل أن نبقى معًا للأبد"
+REASON:More accurate translation of 'forever' (末永く) as 'للأبد' instead of 'لفترة طويلة'.
+----
+ID=411378
+JA:ふたりとも……
+幸せになってほしいなぁ
+EN:I hope the two of them are happy
+together for a long time.
+BEFORE:أتمنى لكما……
+أن تكونا سعيدين
+AFTER:أتمنى لهما……
+أن يكونا سعيدين
+REASON:Changed second-person dual 'لكما' to third-person dual 'لهما' to match the Japanese source's perspective ('the two of them' rather than 'you two').
+----
+ID=411380
+JA:はぁ……
+ウチのパパったらこまっちゃう
+EN:*sigh* Papa can be so annoying
+sometimes.
+BEFORE:هاه……
+والدي يثير حيرتي حقًا
+AFTER:هاه……
+والدي يزعجني حقًا
+REASON:Changed 'يثير حيرتي حقًا' (puzzles me) to 'يزعجني حقًا' (annoys me) for a more accurate translation of 'こまっちゃう' (troublesome/annoying).
+----
+ID=411386
+JA:ふふん、ママのダンスで大はしゃぎして
+バジルもまだまだコドモねぇ
+EN:Heh, Basil is having so much fun
+watching Mama dance. He's such
+a child!
+BEFORE:هيه، بازيل لا يزال طفلاً
+حتى وهو يرقص بحماس على رقصتي
+AFTER:هيه، بازيل لا يزال طفلاً
+وهو مبتهج للغاية برقص أمي
+REASON:Corrected mistranslation: 'يرقص بحماس على رقصتي' (dances enthusiastically to my dance) to 'مبتهج للغاية برقص أمي' (very excited by Mama's dance) to reflect that Basil is watching, not dancing, as per ...
+----
+ID=411504
+JA:デカい山がある
+……想像はついてるだろ？
+EN:We've got a huge job. I'm sure
+you can guess what it is.
+BEFORE:هناك جبل ضخم
+……أنت تتخيل الأمر، أليس كذلك؟
+AFTER:هناك مهمة ضخمة
+……أنت تتخيل الأمر، أليس كذلك؟
+REASON:Changed 'جبل ضخم' (huge mountain) to 'مهمة ضخمة' (huge task) to better convey the idiomatic meaning of 'デカい山がある'.
+----
+ID=411505
+JA:<chara_name>さん
+どうぞ、お掛けください
+EN:<chara_name>...
+Please, have a seat.
+BEFORE:<chara_name>
+تفضل، تفضل بالجلوس
+AFTER:<chara_name>
+تفضل بالجلوس
+REASON:Removed redundant repetition of 'تفضل' for more natural flow.
+----
+ID=411507
+JA:研究体から血液を……
+不純物を取り除いて……
+EN:I must draw blood from the subjects...
+And eliminate the impurities...
+BEFORE:من عينة البحث، الدم……
+أزل الشوائب……
+AFTER:أستخلص الدم من عينة البحث…… وأزيل الشوائب……
+REASON:Rephrased for better flow and to reflect the speaker's action (active voice) as implied by the English translation and Japanese fragments.
+----
+ID=411510
+JA:はぁ……はぁ……
+ゼイゼイ……
+EN:*pant* *pant* *wheeze*
+BEFORE:هاه…… هاه……
+هـ…… هـ……
+AFTER:هاه…… هاه……
+أزيز……
+REASON:Replaced generic sound 'هـ…… هـ……' with 'أزيز……' to better represent 'wheeze' from the English text.
+----
+ID=411576
+JA:すまんが調薬用具を
+手に入れてきてくれんか？
+EN:Would you mind procuring a set of
+apothecary's tools from him?
+BEFORE:هل يمكنك إحضار أدوات طبية؟
+AFTER:هل يمكنك إحضار أدوات الصيدلي؟
+REASON:Changed 'أدوات طبية' (medical tools) to 'أدوات الصيدلي' (apothecary's tools) for better precision, matching '調薬用具' and 'apothecary's tools'.
+----
+ID=411629
+JA:どこに行ったんだろう……
+EN:I wonder where she went...
+BEFORE:أين ذهبوا……
+AFTER:أين ذهبت……
+REASON:Subject-verb agreement: 'ذهبوا' (they went) changed to 'ذهبت' (she went) to match EN source's 'she'.
+----
+ID=411669
+JA:殺せ……
+EN:Kill me...
+BEFORE:اقتله……
+AFTER:اقتلني……
+REASON:Mistranslation: 'اقتله' (kill him) changed to 'اقتلني' (kill me) to match EN source.
+----
+ID=411672
+JA:僕も父さんのように旅に出て
+多くの人を救いたいと思っています
+EN:I want to follow in my father's footsteps,
+and save as many people as I can.
+BEFORE:أرغب في الخروج في رحلة مثل والدك
+وأريد إنقاذ الكثير من الناس
+AFTER:أرغب في الخروج في رحلة مثل والدي
+وأريد إنقاذ الكثير من الناس
+REASON:Mistranslation: 'والدك' (your father) changed to 'والدي' (my father) to match JA source.
+----
+ID=411706
+JA:ふぅ……
+あの人にも困ったものだなぁ……
+EN:*sigh* What will I do with him...
+BEFORE:هف……
+ذلك الشخص يسبب المتاعب حقاً……
+AFTER:هف……
+ذلك الشخص مزعج حقاً……
+REASON:Changed 'يسبب المتاعب حقاً' to 'مزعج حقاً' for a more natural and less formal register, better fitting the 'warm, natural MSA' style guide.
+----
+ID=411707
+JA:この時間なら、奴はシェパードロック山道で
+修行をしてますよ
+EN:Right now, he ought to be training
+on Shepherds Rock Pass.
+BEFORE:في هذا الوقت، يكون هو
+يتدرب في ممر جبل شيباردلوك
+AFTER:في هذا الوقت، يتدرب
+في ممر جبل شيباردلوك
+REASON:Removed redundant 'يكون هو' and simplified to 'يتدرب' for conciseness and natural flow in MSA.
+----
+ID=411722
+JA:……これ、野菜の作り方？
+EN:Is this...how to grow veggies?
+BEFORE:……هل هذا طريقة صنع الخضروات؟
+AFTER:……هل هذا طريقة زراعة الخضروات؟
+REASON:Corrected 'طريقة صنع الخضروات' to 'طريقة زراعة الخضروات' for accuracy, as '作り方' in this context refers to growing, not making/cooking.
+----
+ID=411732
+JA:この島には
+招待状がないと入れない……ニャ
+EN:You need an invitation to set foot
+on this island.
+BEFORE:لا يمكن دخول هذه الجزيرة
+دون بطاقة استضافة……نيا
+AFTER:لا يمكن دخول هذه الجزيرة
+دون دعوة……نيا
+REASON:Changed 'بطاقة استضافة' to 'دعوة' for naturalness and conciseness.
+----
+ID=411733
+JA:招待状の断片が
+全然揃ってない匂いがする……ニャ
+EN:You don't have nearly enough pieces
+of the invitation.
+BEFORE:أشتم رائحة
+عدم اكتمال قطع بطاقة الاستضافة تماماً……نيا
+AFTER:أشعر بأن قطع الدعوة ليست مكتملة بعد……نيا
+REASON:Rephrased 'أشتم رائحة عدم اكتمال قطع بطاقة الاستضافة تماماً' to 'أشعر بأن قطع الدعوة ليست مكتملة بعد' for naturalness and better flow, and changed 'بطاقة الاستضافة' to 'الدعوة'.
+----
+ID=411734
+JA:招待状の断片が
+あと１枚くらい足りない……ニャ
+EN:You're still missing a piece of
+the invitation.
+BEFORE:يبدو أن هناك
+قطعة واحدة تقريباً تنقص من قطع بطاقة الاستضافة……نيا
+AFTER:يبدو أن هناك
+قطعة واحدة تقريباً تنقص من قطع الدعوة……نيا
+REASON:Changed 'بطاقة الاستضافة' to 'الدعوة' for naturalness and conciseness.
+----
+ID=411735
+JA:招待状の断片が
+あと２枚くらい足りない……ニャ
+EN:You're still missing two pieces of
+the invitation.
+BEFORE:يبدو أن هناك
+قطعتان تقريباً تنقصان من قطع بطاقة الاستضافة……نيا
+AFTER:يبدو أن هناك
+قطعتان تقريباً تنقصان من قطع الدعوة……نيا
+REASON:Changed 'بطاقة الاستضافة' to 'الدعوة' for naturalness and conciseness.
+----
+ID=411736
+JA:招待状の断片が
+あと３枚くらい足りない……ニャ
+EN:You're still missing three pieces of
+the invitation.
+BEFORE:يبدو أن هناك
+ثلاث قطع تقريباً تنقص من قطع بطاقة الاستضافة……نيا
+AFTER:يبدو أن هناك
+ثلاث قطع تقريباً تنقص من قطع الدعوة……نيا
+REASON:Changed 'بطاقة الاستضافة' to 'الدعوة' for naturalness and conciseness.
+----
+ID=411737
+JA:招待状の断片が
+あと４枚くらい足りない……ニャ
+EN:You're still missing four pieces of
+the invitation.
+BEFORE:يبدو أن هناك
+أربع قطع تقريباً تنقص من قطع بطاقة الاستضافة……نيا
+AFTER:يبدو أن هناك
+أربع قطع تقريباً تنقص من قطع الدعوة……نيا
+REASON:Changed 'بطاقة الاستضافة' to 'الدعوة' for naturalness and conciseness.
+----
+ID=411739
+JA:招待状を持っているようだニャ
+通っていい……ニャ
+EN:I see you have an invitation.
+Welcome!
+BEFORE:يبدو أنك تحمل دعوة استضافة
+يمكنك المرور…… نيا
+AFTER:يبدو أنك تحمل دعوة
+يمكنك المرور…… نيا
+REASON:Changed 'دعوة استضافة' to 'دعوة' for naturalness and conciseness.
+----
+ID=411750
+JA:どうだい、腕試ししてみないかい
+飛び切りのスリルを味わえるぜ……
+EN:Care to test your strength?
+It'll be an experience, I tell ya.
+BEFORE:ما رأيك، ألا تود اختبار مهاراتك؟
+ستتمكن من تذوق إثارة القفز من المرتفعات……
+AFTER:ما رأيك، ألا تود اختبار مهاراتك؟
+ستتمكن من تذوق إثارة لا مثيل لها……
+REASON:Corrected mistranslation of '飛び切りのスリル' (exceptional thrill) by removing 'القفز من المرتفعات' (jumping from heights) and replacing it with 'إثارة لا مثيل لها' (unparalleled thrill).
+----
+ID=411790
+JA:……“十二天の書”
+叡智は武器を生み、力は運命を弄ぶ
+EN:The twelve heavenly scriptures...
+Turn wisdom into a weapon and
+allow strength to overrule fate.
+BEFORE:……"كتاب الأيام الاثني عشر"
+الحكمة تخلق السلاح، والقوة تتلاعب بالقدر
+AFTER:……"الكتب السماوية الاثني عشر"
+الحكمة تخلق السلاح، والقوة تتلاعب بالقدر
+REASON:Corrected mistranslation of "十二天の書" from "Book of the Twelve Days" to "The Twelve Heavenly Scriptures" to match source meaning.
+----
+ID=411795
+JA:妹夫婦の家が燃えたんだ
+もうずいぶん昔のことだけどね……
+EN:My sister's house that burned down
+years ago...
+BEFORE:احترق منزل زوج أختي
+لقد مر وقت طويل على ذلك……
+AFTER:احترق منزل أختي
+لقد مر وقت طويل على ذلك……
+REASON:Simplified "منزل زوج أختي" to "منزل أختي" to match the `en_text`'s simplification of "sister's house" and improve natural flow.
+----
+ID=411799
+JA:こんな俺でも
+炊き出しの手伝いくらいはできるぜ
+EN:I can't do much, but I <i>can</> help
+feed those in need.
+BEFORE:حتى شخص مثلي
+يمكنه المساعدة في إعداد الطعام
+AFTER:حتى شخص مثلي
+يمكنه المساعدة في إطعام المحتاجين
+REASON:Clarified "المساعدة في إعداد الطعام" to "المساعدة في إطعام المحتاجين" to better reflect the meaning of "炊き出し" (providing food for the needy) as conveyed in `en_text`.
+----
+ID=411802
+JA:この町でなら
+僕の腕の振るい甲斐があるね
+EN:This town is the perfect place to put
+my skills to use.
+BEFORE:في هذه المدينة
+سيكون هناك مجال لأبذل مهاراتي
+AFTER:في هذه المدينة
+سيكون هناك مجال لأستغل مهاراتي
+REASON:Changed "لأبذل مهاراتي" to "لأستغل مهاراتي" for a more natural and accurate translation of "put my skills to use".
+----
+ID=411821
+JA:ずいぶん住民が増えてきたなぁ
+こっちも腕の振るい甲斐があるぜ！
+EN:(Unlocalized)
+BEFORE:لقد زاد عدد السكان بشكل كبير
+هذا يجعل عملي ممتعاً أكثر!
+AFTER:لقد زاد عدد السكان بشكل كبير
+هذا يجعل عملي مجدياً أكثر!
+REASON:Changed "ممتعاً أكثر" to "مجدياً أكثر" to better reflect the meaning of "甲斐がある" (worthwhile/rewarding) in the `ja_text`.
+----
+ID=411836
+JA:“食の祭典”はシアトポリスで
+開催されております
+EN:The Food Festival is being held in
+Theatropolis.
+BEFORE:يُقام "مهرجان الطعام" في سياتوبوليس
+AFTER:يُقام "مهرجان الطعام" في سياتوبوليس
+
+REASON:Preserved line break `\n`.
+----
+ID=411849
+JA:おや、息子のお客さんかい？
+あの子はしばらく帰ってなくてね
+EN:Oh, are you a friend of my son?
+I'm afraid he hasn't been back
+for a while.
+BEFORE:أوه، هل أنتَ زبون ابني؟ لقد غاب ذلك الفتى لفترة.
+AFTER:أوه، هل أنت زبون ابني؟
+لقد غاب ذلك الفتى لفترة.
+REASON:Removed unnecessary diacritic from 'أنت' and preserved line break `\n`.
+----
+ID=411850
+JA:すまないね
+まだ熱が下がらなくて……
+EN:I'm sorry for being a terrible host,
+but my fever just won't go away...
+BEFORE:اعتذر عن ذلك، لم تنخفض حرارتي بعد……
+AFTER:اعتذر عن ذلك،
+لم تنخفض حرارتي بعد……
+REASON:Preserved line break `\n`.
+----
+ID=411860
+JA:神はすべてを
+見ていてくださいますから……
+EN:After all, the gods are always watching...
+BEFORE:لأن الإله يرى كل شيء……
+AFTER:لأن الإله يرى كل شيء
+……
+REASON:Preserved line break `\n`.
+----
+ID=411877
+JA:タイタスのお膝元じゃなけりゃ
+どんな町も楽園だぜ
+EN:Any town's a paradise as long as it
+isn't under Tytos's thumb.
+BEFORE:ما لم تكن في موطن تايتوس
+فإن أي بلدة هي جنة
+AFTER:ما لم تكن تحت سيطرة تايتوس
+فإن أي بلدة هي جنة
+REASON:More accurately translated 'お膝元' (under one's direct control/influence) as 'تحت سيطرة تايتوس' (under Tytos's control) instead of 'في موطن تايتوس' (in Tytos's homeland).
+----
+ID=411889
+JA:劇を観るのに
+おひとつどうだい？
+EN:How about one to go see the show?
+BEFORE:ما رأيك في
+مشاهدة مسرحية واحدة؟
+AFTER:ما رأيك بواحدة
+لمشاهدة العرض؟
+REASON:Rephrased to better capture the nuance of offering something ('How about one?') for the show, rather than just asking for an opinion on watching a play. 'العرض' (show) is more general than 'مسرحية' (p...
+----
+ID=411913
+JA:父として、自警団長として……
+お前のことを誇らしく思う
+EN:As both your father and captain
+of the watch...know that I am very
+proud of you.
+BEFORE:كأب، وكقائد للميليشيا……
+أنا فخور بك
+AFTER:كأب، وكقائد للحرس……
+أنا فخور بك
+REASON:`الميليشيا` has a stronger, often negative, connotation than `自警団長` (captain of the watch/self-defense corps). `الحرس` (guard) is a better fit for the context of a village watch.
+----
+ID=411919
+JA:これもムラ社会の
+弊害というヤツじゃな……
+EN:Guess that's the trouble with these
+closed-off communities...
+BEFORE:هذا هو ما يسمى بآثار
+المجتمع القروي……
+AFTER:هذا هو ما يسمى بمساوئ
+المجتمع القروي……
+REASON:`弊害` specifically means "harmful effects" or "drawbacks". `آثار` is more general "effects". `مساوئ` (disadvantages/drawbacks) is a more precise translation.
+----
+ID=411927
+JA:やれやれ……チケットを
+落としてしまったみたいだな……
+EN:*sigh* It seems I've lost my ticket...
+BEFORE:يا للهول…… يبدو أنني
+أسقطت التذكرة……
+AFTER:آه…… يبدو أنني
+أسقطت التذكرة……
+REASON:`يا للهول` is too strong for `やれやれ` (an expression of exasperation/weariness). `آه` or simply starting with the ellipsis better conveys the sigh/resignation.
+----
+ID=411969
+JA:ふぅ……
+荒くれ者どもの相手は疲れるわい……
+EN:Phew... Dealing with these outlaws sure
+isn't easy.
+BEFORE:هاه……
+التعامل مع هؤلاء الهمجيين مرهق……
+AFTER:هاه……
+التعامل مع هؤلاء الخارجين عن القانون مرهق……
+REASON:`الهمجيين` (barbarians/savages) is too strong for `荒くれ者ども` (ruffians/outlaws). `الخارجين عن القانون` (outlaws) or `المشاغبين` (troublemakers) are better fits. The English uses "outlaws".
+----
+ID=411983
+JA:工房を建てる素材が必要なんだ
+EN:We're going to need some
+things to build a workshop.
+BEFORE:أحتاجُ إلى مواد لبناء ورشة عمل
+AFTER:أحتاج إلى مواد لبناء ورشة عمل
+REASON:Removed unnecessary diacritic (damma) for light tashkeel.
+----
+ID=412026
+JA:おひねりでひと稼ぎよ
+EN:I made some pretty good tips.
+BEFORE:سأجني بعض المال من الرقص
+AFTER:لقد جنيتُ بعض المال من الإكراميات.
+REASON:More accurate translation of `おひねり` (tips/gratuities) instead of assuming 'dancing'.
+----
+ID=412038
+JA:あなたと一緒なら
+さらなる冒険ができそうです
+EN:With you, I feel like my adventures
+may yet continue.
+BEFORE:إذا كنتُ معك
+فقد يبدو أننا قادرون على خوض مغامراتٍ أكثر
+AFTER:إذا كنتُ معك
+فقد يبدو أن مغامراتي قد تستمر.
+REASON:More accurate translation of 'my adventures may continue' instead of 'we are able to undertake more adventures'.
+----
+ID=412063
+JA:兄を捜すという使命はあるが
+旅は色々見聞きできて楽しいものだ
+EN:I know I need to find my brother,
+but I've enjoyed and experienced
+so much on this journey.
+BEFORE:لديّ مهمة للبحث عن أخي، ولكن
+AFTER:لديّ مهمة للبحث عن أخي، لكن الرحلة ممتعة وقد رأيت وسمعت فيها الكثير.
+REASON:The second half of the Japanese sentence was omitted in the draft; completed the translation to reflect the full source meaning.
+----
+ID=412075
+JA:本を食べると
+知識を丸ごと吸収できるらしいな
+EN:Did you know that eating a book
+will allow you to absorb the
+knowledge in its pages directly?
+BEFORE:يقال إن قراءة الكتب
+تسمح بامتصاص المعرفة بالكامل
+AFTER:يقال إن أكل الكتب
+يسمح بامتصاص المعرفة بالكامل
+REASON:Mistranslation of '食べる' (to eat) as 'قراءة' (to read); corrected to 'أكل'.
+----
+ID=412085
+JA:この町の者は皆、過去を乗り越え
+懸命に生きているな
+EN:Everyone in this town has overcome
+their past and is living in the present
+as best as they can.
+BEFORE:لكنَّ جميعَ سكانِ هذه البلدةِ
+تجاوزوا ماضيهم
+ويعيشون بجدٍّ.
+AFTER:جميعُ سكانِ هذه البلدةِ تجاوزوا ماضيهم
+ويعيشون بجدٍّ.
+REASON:Removed extraneous 'لكنَّ' and extra line break not present in the Japanese source.
+----
+ID=412093
+JA:いい町だな！
+みんないい顔してるぜ
+EN:What a nice town you've got here!
+Everyone looks so happy.
+BEFORE:بلدة جيدة!
+الجميع هنا يبدون ودودين
+AFTER:بلدة جيدة!
+الجميع هنا يبدون سعداء
+REASON:Changed 'ودودين' (friendly) to 'سعداء' (happy) to better match the Japanese 'いい顔してる' (looking happy/cheerful) and English 'look so happy'.
+----
+ID=412098
+JA:師匠がお前との縁を結んでくれた
+EN:Master hath woven the threads of
+our fate together.
+BEFORE:المعلم هو من ربط بينك وبينه
+AFTER:المعلم هو من ربط بيننا
+REASON:Changed 'بينك وبينه' (between you and him) to 'بيننا' (between us) to correctly reflect that the Master connected the speaker (H'aanit) and the player.
+----
+ID=412100
+JA:大司教様はわたしもリアナも
+区別せず大切にしてくれました
+EN:His Excellency treasures both
+Lianna and I equally.
+BEFORE:لقد اعتنى بالأسقف بي وبليانا دون تمييز بيننا
+AFTER:لقد اعتنى الأسقف الأكبر بي وبليانا دون تمييز بيننا
+REASON:Corrected the subject and object of the verb. '大司教様' (Archbishop-sama) is the subject who cared for the speaker and Lianna, not an object. Changed 'بالأسقف بي وبليانا' to 'الأسقف الأكبر بي وبليانا' to...
+----
+ID=412112
+JA:本当なら姉が女王に
+なるはずだったんです……
+EN:In truth, my older sister should
+have been queen...
+BEFORE:لو كان الأمر حقيقياً، لكانت أختي هي من ستصبح الملكة……
+AFTER:لو كان الأمر حقيقياً، لكانت أختي هي الملكة……
+REASON:Changed 'هي من ستصبح الملكة' (she is the one who will become queen) to 'هي الملكة' (she is the queen) to better convey the past conditional 'should have been queen' from the Japanese 'なるはずだった'.
+----
+ID=412115
+JA:川豆っていうのは
+リバーランドの川の中に根を張るんだ
+EN:As you might've guessed,
+river beans are rooted in the
+river back where I come from.
+BEFORE:كوادو تعني
+تجذير الجذور في أنهار ريفرلاند
+AFTER:حبوب النهر هذه تتجذر في أنهار ريفرلاند.
+REASON:Corrected mistranslation of `川豆っていうのは` and redundant `تجذير الجذور`. Used "حبوب النهر" consistently.
+----
+ID=412141
+JA:さーて、どうしようかな
+EN:Hmm... What to do...
+BEFORE:حسناً، ماذا سنفعل؟
+AFTER:حسناً، ماذا أفعل؟
+REASON:Mistranslation of subject from 'I' to 'we'.
+----
+ID=412156
+JA:さぁ、腹に一発入れてみな！
+EN:Come on, gimme a punch in the gut!
+BEFORE:هيا، تناول لقمة!
+AFTER:هيا، وجّه لي لكمة في البطن!
+REASON:Mistranslation of 'gimme a punch in the gut' as 'take a bite'.
+----
+ID=412164
+JA:釣れたな……
+EN:I caught something...
+BEFORE:لقد اصطدنا شيئاً……
+AFTER:لقد اصطدتُ شيئاً……
+REASON:Mistranslation of subject from 'I' to 'we'.
+----
+ID=412165
+JA:来たぞ！
+なにをすればいい！？
+EN:I'm here! What do ya need me to do!?
+BEFORE:لقد وصل!
+ماذا عليّ أن أفعل؟!
+AFTER:لقد وصلتُ!
+ماذا عليّ أن أفعل؟!
+REASON:Mistranslation of subject from 'I' to 'he'.
+----
+ID=412172
+JA:困っている人がいれば
+いつでも力になろう
+EN:I'm more than willing to aid
+anyone in need.
+BEFORE:إذا كان هناك من يحتاج للمساعدة
+فليكن ذلك في أي وقت
+AFTER:إذا كان هناك من يحتاج للمساعدة
+فسأكون عوناً في أي وقت
+REASON:Improved naturalness and directness of 'I will help anytime'.
+----
+ID=412187
+JA:この町で新たな人生を
+探してみようと思います
+EN:I think I will try to make a new life for
+myself in this town.
+BEFORE:أخططُ لاستكشافِ حياةٍ جديدةٍ في هذه البلدة.
+AFTER:أخطط لاستكشاف حياة جديدة في هذه البلدة.
+REASON:Removed unnecessary harakat.
+----
+ID=412190
+JA:きっといい町になるぜ
+俺がいるからな
+EN:This is definitely going to be a good
+town. How do I know? Because I'm here!
+BEFORE:ستصبح بلدة رائعة بالتأكيد
+AFTER:ستصبح بلدة رائعة بالتأكيد، لأنني هنا!
+REASON:The original Arabic omitted the second part of the Japanese sentence 'Because I'm here!' (俺がいるからな).
+----
+ID=412192
+JA:なにを建てるにしろ
+まずは建材がなくちゃな
+EN:You can't build anything without
+any materials.
+BEFORE:أياً كان ما ستبنيه
+AFTER:أياً كان ما ستبنيه، فلا بد من وجود مواد البناء أولاً.
+REASON:The original Arabic omitted the second part of the Japanese sentence 'you can't build anything without any materials' (まずは建材がなくちゃな).
+----
+ID=412193
+JA:来てしまったなあ……
+EN:So here I am...
+BEFORE:لقد حدث هذا بالفعل……
+AFTER:ها أنا ذا……
+REASON:The original Arabic 'لقد حدث هذا بالفعل' (This has already happened) was a mistranslation of '来てしまったなあ' (So here I am...). Changed to a more accurate and natural phrasing.
+----
+ID=412219
+JA:なかなか良さそうな
+土地じゃない
+EN:This place has some great soil.
+BEFORE:هذه الأرض لا تبدو
+جيدة بما يكفي
+AFTER:تبدو هذه الأرض جيدة جدًا.
+REASON:The original Arabic 'هذه الأرض لا تبدو جيدة بما يكفي' (This land doesn't look good enough) was the opposite meaning of the Japanese 'なかなか良さそうな土地じゃない' (Isn't this quite good land?). Changed to reflect ...
+----
+ID=412225
+JA:腹を空かせたやつが
+山ほどいそうな町だなぁ！？
+EN:I bet this town is packed with
+hungry people!
+BEFORE:يبدو أن هذه البلدة مليئة بالأشخاص الجائعين……
+AFTER:يبدو أن هذه البلدة مليئة بالأشخاص الجائعين!
+REASON:The Japanese 'なぁ！？' implies a strong exclamation/question, not a trailing thought. Replaced the ellipsis '……' with an exclamation mark '!' to match the source's tone.
+----
+ID=412227
+JA:仕入れたぜ！
+使ってくんな！
+EN:Just got some ingredients!
+Have at it!
+BEFORE:لقد حصلتُ على الإمدادات! لا تستخدموها!
+AFTER:لقد حصلتُ على الإمدادات! استخدموها!
+REASON:The original Arabic 'لا تستخدموها!' (Don't use them!) was the opposite meaning of the Japanese '使ってくんな！' (Please use them! / Have at it!). Corrected to 'استخدموها!'.
+----
+ID=412239
+JA:伝手があったから
+仕入れておいたわよ
+EN:I used my connections to get
+you some good metal.
+BEFORE:لقد حصلتُ على وسيلةٍ للتواصل،
+لذا قمتُ بشراء هذه الأغراض.
+AFTER:بفضل علاقاتي، تمكنتُ من توفير بعض المعادن الجيدة لك.
+REASON:Rephrased for more natural expression of 'connections' and specified 'metal' as per EN context, which is implied by 'procured goods'.
+----
+ID=412276
+JA:どんな鉱石と出会えるかな？
+楽しみだよ
+EN:I can't wait to see what kind of ore
+I'll find here.
+BEFORE:أي نوع من المعادن سنعثر عليه؟
+أنا متحمس
+AFTER:أي نوع من المعادن سأعثر عليه؟
+أنا متحمس
+REASON:Corrected 'we will find' (سنعثر) to 'I will find' (سأعثر) to match the first-person subject implied by the Japanese '出会えるかな'.
+----
+ID=412293
+JA:獲れたての海産物だ
+持ってってくんな
+EN:You won't find fish fresher than this.
+BEFORE:إنها مأكولات بحرية طازجة
+لا تأخذها معك
+AFTER:إنها مأكولات بحرية طازجة
+خذها معك
+REASON:Mistranslation: `持ってってくんな` means 'Take it (with you),' but was translated as 'Do not take it with you.' Corrected to an affirmative imperative.
+----
+ID=412303
+JA:……この町のために
+また働くとするか
+EN:I guess I can get to work to help
+this town.
+BEFORE:……هل سنعمل من أجل هذه البلدة
+مرة أخرى؟
+AFTER:……سأعمل مجددًا من أجل هذه البلدة
+REASON:`また働くとするか` implies a personal decision or resolve ('I guess I'll work again'), not a question ('Shall we work...?'). Corrected to a statement of intent.
+----
+ID=412350
+JA:あなたに癒やしを……
+EN:May you be blessed...
+BEFORE:جلب الشفاء إليك……
+AFTER:أتمنى لك الشفاء……
+REASON:Changed 'جلب الشفاء إليك' (bringing healing to you) to 'أتمنى لك الشفاء' (I wish you healing) for a more natural and idiomatic expression of a blessing/wish, matching the English interpretation and th...
+----
+ID=412374
+JA:拒んでも……
+指ごと置いてってもらうけどね！
+EN:Not that I really need your permission.
+I'll take it along with your whole finger
+if I have to!
+BEFORE:حتى لو رفضت……
+سأطلب منك تركه مع الإصبع!
+AFTER:حتى لو رفضت……
+سآخذه مع إصبعك!
+REASON:Changed 'سأطلب منك تركه مع الإصبع!' (I will ask you to leave it with the finger!) to 'سآخذه مع إصبعك!' (I will take it with your finger!) to better convey the aggressive, threatening tone implied by t...
+----
+ID=412383
+JA:昔はガキ同士
+つるんで遊んだもんさ
+EN:We all used to play together when
+we were kids.
+BEFORE:في الماضي، كنا نلعبُ معاً
+ونحن أطفال
+AFTER:في الماضي، كنا نلعب معاً
+ونحن أطفال
+REASON:Removed unnecessary diacritic (damma) to align with light tashkeel policy.
+----
+ID=412396
+JA:船で取れた魚だぜ！
+EN:Here you go! Fresh from the sea!
+BEFORE:هذه أسماكٌ صيدت من القارب!
+AFTER:هذه أسماك صيدت من القارب!
+REASON:Removed unnecessary diacritic (tanwin damma) to align with light tashkeel policy.
+----
+ID=412402
+JA:たくさん狩れたんだ
+持って行ってくれ
+EN:The hunt went really well today.
+Here's your share.
+BEFORE:لقد اصطدتُ الكثير
+خُذها معك
+AFTER:لقد اصطدتُ الكثير
+خذها معك
+REASON:Removed unnecessary diacritic (damma) to align with light tashkeel policy.
+----
+ID=412404
+JA:さぁ、働くぞ！
+仕事のあとの一杯のためにな！！
+EN:All right, time to work! Those drinks
+won't pay for themselves!
+BEFORE:هيا، لنعمل!
+من أجل كأسٍ بعد العمل!!
+AFTER:هيا، لنعمل!
+من أجل كأس بعد العمل!!
+REASON:Removed unnecessary diacritic (tanwin kasra) to align with light tashkeel policy.
+----
+ID=412410
+JA:リーフってのは
+いくらあっても困らないからね
+EN:Funny thing about leaves is that
+you can never have too many.
+BEFORE:أوراقُ العملة
+لا يمكن أن تكون كثيرة جداً بحيث تسبب مشكلة
+AFTER:أوراق العملة
+لا يمكن أن تكون كثيرة جداً بحيث تسبب مشكلة
+REASON:Removed unnecessary diacritic (damma) to align with light tashkeel policy.
+----
+ID=412417
+JA:余った実験素材だ
+持って行け
+EN:Here. They're left over from my research.
+BEFORE:هذه مواد تجارب فائضة
+خُذها معك
+AFTER:هذه مواد تجارب فائضة
+خذها معك
+REASON:Removed unnecessary diacritic (damma) to align with light tashkeel policy.
+----
+ID=412420
+JA:君にもわけてあげよう
+EN:I have more than just a few,
+so let me share them with you!
+BEFORE:سأعطيك جزءاً منه أيضاً
+AFTER:سأعطيك جزءا منه أيضاً
+REASON:Removed unnecessary diacritic (tanwin fatha) to align with light tashkeel policy.
+----
+ID=412442
+JA:誰が何のために建てたのか知らんが
+今は誰もいない……空き家だ
+EN:I don't know who built it or for what
+purpose, but it's abandoned now.
+BEFORE:لا أعلم من بنى هذا ولأي غرض
+لكنه الآن خالٍ…… منزل مهجور
+AFTER:لا أعلم من بنى هذا ولأي غرض
+لكنه الآن خال…… منزل مهجور
+REASON:Removed unnecessary diacritic (tanwin kasra) to align with light tashkeel policy.
+----
+ID=412444
+JA:知らないね
+商売の邪魔だ、帰っておくれ
+EN:I have no idea what you're talking
+about. Now leave. I'm busy.
+BEFORE:لا أعرف
+هذا يعيق التجارة، عُد إلى منزلك
+AFTER:لا أعرف
+هذا يعيق التجارة، عد إلى منزلك
+REASON:Removed unnecessary diacritic (damma) to align with light tashkeel policy.
+----
+ID=412445
+JA:またお前か……
+まだ何か用なのかね？
+EN:You again... What do you want now?
+BEFORE:أنت مجددًا……
+هل لا تزال هناك حاجة ما؟
+AFTER:أنت مجددًا……
+هل لديك عمل آخر؟
+REASON:Changed phrasing for 'حاجة ما' to 'عمل آخر' for a more natural and direct tone, aligning with the 'grounded, grittier' style.
+----
+ID=412475
+JA:助けてもらっといてなんだが……
+これ以上ボグナーを刺激するな
+EN:I appreciate what you did for us,
+but if I were you, I'd steer clear
+of Vaughner.
+BEFORE:رغم أنني أطلب منك المساعدة……
+لكن لا تستفز بوغنر أكثر من ذلك
+AFTER:أقدر مساعدتك……
+لكن لا تستفز بوغنر أكثر من ذلك
+REASON:Corrected the opening phrase 'رغم أنني أطلب منك المساعدة' which was a mistranslation of 'I appreciate what you did for us'.
+----
+ID=412492
+JA:だが、魔物相手なら
+やれるかもって思うんだ！
+EN:I bet I can fight monsters just fine,
+though!
+BEFORE:لكن، إذا كان الخصم وحشاً،
+أعتقد أننا قد نتمكن من فعلها!
+AFTER:لكن، إذا كان الخصم وحشاً،
+أعتقد أنني قد أتمكن من فعلها!
+REASON:Corrected the subject from 'we' (أننا/نتمكن) to 'I' (أنني/أتمكن) to match the Japanese source where the speaker refers to themselves.
+----
+ID=412499
+JA:ヤツは“吸血公”……
+逆らえば血の一滴も吸い取られちまう
+EN:They call him the Man-Eating Miser
+for a reason. He'll drain you dry if
+you dare to oppose him.
+BEFORE:إنه "دوق مصاصي الدماء"……
+إذا عارضناه، فسيُسحب منا حتىت قطرة دم واحدة
+AFTER:إنه "دوق مصاصي الدماء"……
+إذا عارضناه، فسيُسحب منا حتى قطرة دم واحدة
+REASON:Fixed typo: `حتىت` to `حتى`. `دوق` is the correct translation for `公` (duke), not `كونت` (count).
+----
+ID=412500
+JA:“吸血公”を倒したのか！？
+コイツはたまげたぜ！
+EN:You beat the Man-Eating Miser!?
+I can't believe it!
+BEFORE:هل هزمت "كونت مصاص الدماء"؟!
+لقد ذُهل هذا الرجل!
+AFTER:هل هزمت "دوق مصاص الدماء"؟!
+هذا أمر مذهل!
+REASON:Changed `كونت` to `دوق` for consistency with `吸血公`. Rephrased `لقد ذُهل هذا الرجل!` to `هذا أمر مذهل!` for more natural expression and to avoid referring to 'this man' when the speaker is expressing t...
+----
+ID=412501
+JA:あの二人も
+幸せに暮らしていればなによりだ
+EN:I'm glad those two are happy
+more than anything.
+BEFORE:وأولئك الاثنان أيضًا
+من الأفضل أن يعيشا في سعادة
+AFTER:ويسعدني أكثر من أي شيء أن يعيشا بسعادة
+REASON:Rephrased `من الأفضل أن يعيشا في سعادة` to `ويسعدني أكثر من أي شيء أن يعيشا بسعادة` to better convey the speaker's sentiment of being glad (`なによりだ`).
+----
+ID=412525
+JA:バルジェロたちに
+シロブドウの作り方を教わってるんだ
+EN:Bargello and his friends taught me
+how to grow white grapes.
+BEFORE:لقد تعلمت من بارجيلو وأمثاله
+كيفية صنع العنب الأبيض
+AFTER:لقد تعلمت من بارجيلو وأمثاله
+كيفية زراعة العنب الأبيض
+REASON:Changed 'صنع العنب الأبيض' (making white grapes) to 'زراعة العنب الأبيض' (growing white grapes) for better naturalness and accuracy to the Japanese '作り方' in the context of grapes.
+----
+ID=412589
+JA:故郷……ってのは
+こんな感じなのかもしれないね
+EN:Being here makes me wonder
+if this is what "home" feels like.
+BEFORE:ربما يكونُ هذا هو
+معنى الوطن……
+AFTER:ربما يكونُ هذا هو
+الشعور بالوطن……
+REASON:Improved translation to better reflect 'this kind of feeling' (こんな感じ) rather than 'the meaning' (معنى).
+----
+ID=412638
+JA:この町の連中は満ち足りている……
+EN:Everyone here is perfectly content.
+BEFORE:سكان هذه البلدة لديهم ما يكفيهم……
+AFTER:سكان هذه البلدة مكتفون……
+REASON:Changed 'لديهم ما يكفيهم' (they have enough) to 'مكتفون' (they are content/satisfied) to better reflect the meaning of '満ち足りている' (perfectly content/fulfilled) in the source.
+----
+ID=412652
+JA:タイタス様にヘルミニアさん……
+多くの方が研究を支えてくださってます
+EN:Many are graciously supporting
+my research, including Lord Tytos
+and Lady Herminia.
+BEFORE:السيدة هيرمينيا، من أجل السيد تايتوس……
+الكثيرون يدعمون الأبحاث
+AFTER:الكثيرون يدعمون أبحاثي، منهم السيد تايتوس والسيدة هيرمينيا……
+REASON:The original Arabic 'السيدة هيرمينيا، من أجل السيد تايتوس' (Lady Herminia, for Lord Tytos) was a mistranslation. Rephrased to 'الكثيرون يدعمون أبحاثي، منهم السيد تايتوس والسيدة هيرمينيا' (Many are sup...
+----
+ID=412663
+JA:ごめんなさい、宿は満室なの
+知り合いを紹介するから、そこに……
+EN:I'm so sorry, but we're full. I can
+introduce you to an acquaintance,
+though, who—
+BEFORE:معذرة، النزل ممتلئ بالكامل
+سأعرفك على شخص أعرفه، اذهب إلى هناك……
+AFTER:معذرة، النزل ممتلئ بالكامل
+سأعرفك على شخص أعرفه……
+REASON:Rephrased to better reflect the implied interruption/hesitation in the Japanese and English, removing the direct command 'اذهب إلى هناك'.
+----
+ID=412665
+JA:知ってるか？　ヴァローレの酒は
+ワインだけじゃなくブランデーもいいんだぜ
+EN:Did you know? Valore doesn't just
+have good wine, but good brandy,
+too.
+BEFORE:هل تعلم؟ نبيذ فالور
+ليس فقط نبيذاً، بل البراندي فيه جيد أيضاً
+AFTER:هل تعلم؟ في فالور، ليس النبيذ فقط هو الجيد، بل البراندي أيضاً.
+REASON:Corrected awkward and redundant phrasing 'نبيذ فالور ليس فقط نبيذاً' to a more natural and accurate sentence.
+----
+ID=412666
+JA:フフ……この町を見ていると
+そのような言葉、杞憂に思えるな
+EN:Hehe... That proverb seems completely
+unfounded when I look at this town.
+BEFORE:فُه…… عندما أنظر إلى هذه البلدة
+تبدو تلك الكلمات وكأنها مخاوف لا أساس لها
+AFTER:ههه…… عندما أنظر إلى هذه البلدة
+تبدو تلك الكلمات وكأنها مخاوف لا أساس لها
+REASON:Changed 'فُه……' to 'ههه……' for a more natural and common representation of a light laugh in Arabic, matching the English 'Hehe...'.
+----
+ID=412689
+JA:みんなに飲んでもらってね
+EN:We want everyone to have some.
+BEFORE:دع الجميع يتذوقونه
+AFTER:دع الجميع يشربونه
+REASON:Mistranslation: 'يتذوقونه' (taste) changed to 'يشربونه' (drink) to match Japanese '飲んでもらって'.
+----
+ID=412690
+JA:さて、どの交易品を
+仕入れてこうかな
+EN:What should I stock up on...?
+BEFORE:حسناً، أي بضائع تجارية
+سوف نشتريها؟
+AFTER:حسناً، أي بضائع تجارية
+سوف أشتريها؟
+REASON:Subject-verb agreement: 'نشتريها' (we buy) changed to 'أشتريها' (I buy) to reflect the speaker's internal monologue.
+----
+ID=412692
+JA:皆さんには
+感謝してもしきれません
+EN:I couldn't be more grateful to
+all of them.
+BEFORE:لا يمكنني
+شكركم بما يكفي
+AFTER:لا يمكنني
+شكرهم بما يكفي
+REASON:Pronoun agreement: 'شكركم' (thank you all) changed to 'شكرهم' (thank them) to match Japanese 'みんなに' (to everyone/them).
+----
+ID=412698
+JA:……ほら、ルータスも練習！
+お客さん、まだまだ来るんだから！
+EN:Come on, Lutus! You need to practice
+with me. More visitors are on their way!
+BEFORE:……هيا، لوتاس تدرب أيضًا!
+الزبائن سيأتون أكثر بعد ذلك!
+AFTER:……هيا، لوتاس تدرب أيضًا!
+المزيد من الزبائن سيأتون!
+REASON:Register/naturalness: 'الزبائن سيأتون أكثر بعد ذلك!' (Customers will come more after that!) rephrased to 'المزيد من الزبائن سيأتون!' (More customers will come!) for better flow.
+----
+ID=412752
+JA:剣の紋章が刻まれた鍵を
+鍵穴に差し込みますか？
+EN:Use the key engraved with
+the crest of a sword?
+BEFORE:هل ستُدخل المفتاح المنقوش عليه شعار السيف في ثقب القفل؟
+AFTER:هل ستُدخل المفتاح المنقوش عليه شعار السيف
+في ثقب القفل؟
+REASON:Preserved line break from source text.
+----

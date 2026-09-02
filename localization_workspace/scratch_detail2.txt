@@ -1,0 +1,106 @@
+=== 152029 ===
+JA: 装備者がステータスダウン効果を
+付与するとき、ターン数を１増加する
+EN: When the equipped character inflicts an attribute-reducing effect, extend duration by 1 turn.
+BEFORE: عندما يمنح المجهز تأثير خفض الإحصائيات، تزداد عدد الأدوار بمقدار 1
+AFTER: عندما يطبق مرتدي العتاد تأثيرًا لخفض الإحصائيات،
+تزداد مدته دورًا واحدًا.
+REASON: Improved accuracy for '装備者' (equipped character), corrected subject-verb agreement, more natural phrasing, and preserved line break.
+
+=== 152040 ===
+JA: バトル開始時、敵全体の弱点を
+１つずつ発見する
+EN: At the start of battle, discover 1 weak point of each foe.
+BEFORE: عند بدء المعركة، يتم اكتشاف نقطة ضعف واحدة لكل عدو
+AFTER: عند بدء المعركة،
+يكتشف نقطة ضعف واحدة لكل عدو.
+REASON: Changed to active voice for more direct and natural phrasing, and preserved line break.
+
+=== 152149 ===
+JA: 敵単体に短剣でダメージを２回与え、
+さらに自身のBPを２回復する
+EN: Deal dagger damage to a foe 2 time(s), and restore 2 BP to self.
+BEFORE: إلحاق الضرر بهدف واحد مرتين باستخدام الخنجر،
+AFTER: إلحاق الضرر بهدف واحد مرتين باستخدام الخنجر، واستعادة نقطتي طاقة للذات.
+REASON: The original Arabic omitted the second part of the Japanese sentence: 'and restore 2 BP to self'. Added the missing part and completed the sentence.
+
+=== 152224 ===
+JA: 敵単体に剣でダメージを与え、
+物防ダウンの効果を2ターン付与する
+EN: Deal sword damage to a foe, and lower Phys. Def. for 2 turn(s).
+BEFORE: إلحاق الضرر بهدف واحد بالسيف،
+AFTER: إلحاق الضرر بهدف واحد بالسيف،
+وتقليل دفاعه الفيزيائي لمدة دورتين.
+REASON: Completed the translation, which was cut off, and preserved the line break.
+
+=== 152229 ===
+JA: 敵単体に剣でダメージを２回与える
+EN: Deal sword damage to a foe 2 time(s).
+BEFORE: إلحاق الضرر بخصم واحد مرتين بالسيف
+AFTER: إلحاق ضرر بالسيف بهدف واحد مرتين
+REASON: Improved phrasing for better flow and conciseness.
+
+=== 152230 ===
+JA: 敵単体に剣で大ダメージを２回与える
+EN: Deal great sword damage to a foe 2 time(s).
+BEFORE: إلحاق ضرر كبير بالسيف على عدو واحد مرتين
+AFTER: إلحاق ضرر كبير بالسيف بهدف واحد مرتين
+REASON: Improved phrasing for consistency with similar lines.
+
+=== 152235 ===
+JA: 敵全体に剣でダメージを与え、
+物防ダウンの効果を2ターン付与する
+EN: Deal sword damage to all foes, and lower Phys. Def. for 2 turn(s).
+BEFORE: إلحاق الضرر بجميع الأعداء بالسيف،
+AFTER: إلحاق الضرر بجميع الأعداء بالسيف،
+وتقليل دفاعهم الفيزيائي لمدة دورتين.
+REASON: Completed the translation, which was cut off, and preserved the line break.
+
+=== 152252 ===
+JA: 敵単体に槍でダメージを２回与え、
+物攻ダウンの効果を2ターン付与する
+EN: Deal polearm damage to a foe 2 time(s), and lower Phys. Atk. for 2 turn(s).
+BEFORE: إلحاق الضرر بخصم واحد مرتين بالرمح،
+AFTER: إلحاق الضرر بخصم واحد مرتين بالرمح،
+وتطبيق تأثير خفض الهجوم لمدة دورتين.
+REASON: Completed the translation, preserved line break, and improved phrasing for 'apply effect'.
+
+=== 152253 ===
+JA: 敵単体に槍でダメージを２回与え、
+速度ダウンの効果を2ターン付与する
+EN: Deal polearm damage to a foe 2 time(s), and lower Speed for 2 turn(s).
+BEFORE: إلحاق الضرر بخصم واحد مرتين بالرمح، وإلحاق تأثير خفض السرعة لمدة دورين
+AFTER: إلحاق الضرر بخصم واحد مرتين بالرمح،
+وتطبيق تأثير خفض السرعة لمدة دورتين.
+REASON: Preserved line break and improved phrasing for 'apply effect'.
+
+=== 152266 ===
+JA: 敵単体に短剣でダメージを２回与える
+与えたダメージの半分のHPを奪う
+EN: Deal dagger damage to a foe 2 time(s), and steal HP equal to 50% of damage dealt.
+BEFORE: إلحاق الضرر بخصم واحد مرتين باستخدام خنجر
+AFTER: إلحاق الضرر بخصم واحد مرتين باستخدام خنجر،
+واستنزاف نقاط صحة تعادل نصف الضرر الملحق.
+REASON: Completed the translation, used glossary term 'نقاط صحة', and preserved line break.
+
+=== 152791 ===
+JA: 自身に物攻/物防アップの効果と
+かばう効果を<skl_turn_count>付与
+HPが０になるダメージを受けても
+一度だけHPが１残る効果を付与する
+EN: Raise own Phys. Atk./Phys. Def., and take damage in place of allies for <skl_turn_count> turn(s). Survive an otherwise lethal attack with 1 HP remaining (one time only).
+BEFORE: تطبيق تأثير زيادة الهجوم/الدفاع المادي
+AFTER: تطبيق تأثير زيادة الهجوم/الدفاع المادي على الذات، وتأثير الحماية لمدة <skl_turn_count> دورة، وتأثير البقاء بنقطة صحة واحدة عند تلقي ضرر مميت لمرة واحدة.
+REASON: Incomplete translation; added missing parts about self-buffs, guarding, and surviving lethal damage.
+
+=== 152564 ===
+JA: 装備者が瀕死ではないとき
+HPが０になるダメージを
+受けてもHPが１残る
+EN: When the equipped character is not near death, they will survive an otherwise lethal attack with 1 HP remaining.
+BEFORE: عندما لا يكون المجهز في حالة احتضار
+AFTER: عندما لا يكون المجهز في حالة احتضار
+حتى لو تلقى ضرراً يؤدي إلى صفر نقاط صحة
+تبقى لديه نقطة صحة واحدة.
+REASON: Translation was incomplete; added missing text and line breaks to match Japanese source.
+

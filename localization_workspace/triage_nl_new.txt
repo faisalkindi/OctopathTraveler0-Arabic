@@ -1,0 +1,195 @@
+ID:118799
+JA:お楽しみの所
+失礼いたします、陛下
+EN:My sincerest apologies for
+the interruption, Empress.
+ARb:مكان المتعة
+أعتذر عن المقاطعة، يا سموّكِ
+ARa:عذرًا على مقاطعة متعتكِ، يا سموّكِ.
+REASON:Rephrased the first part 'مكان المتعة' to 'عذرًا على مقاطعة متعتكِ' for better meaning and flow, conveying 'My sincerest apologies for the interruption' from the English.
+---
+ID:118824
+JA:アラウネ様
+考えがおありとのことですが
+EN:If I may provide some counsel,
+my queen...
+ARb:سمو ألاون
+تقول إن لديك فكرة ما
+ARa:سمو ألاون، يقال إن لديكِ فكرة ما
+REASON:Grammatical error in 'تقول' and 'لديك'. 'とのことですが' implies 'it is said that', so 'يقال' is more accurate than 'تقول'. Also, 'لديك' should be feminine 'لديكِ' when addressing Alaune.
+---
+ID:118856
+JA:こんな屑でも殺せば
+金がもらえるのだとな
+EN:One can make a tidy sum of leaves
+routing vermin like these.
+ARb:أنه حتى لو قتلتُ حثالةً كهذه
+فسأحصل على المال
+ARa:أنه حتى لو قُتلت حثالة كهذه، فسيُحصل على المال
+REASON:Changed first-person verbs (قتلتُ، فسأحصل) to passive voice (قُتلت، فسيُحصل) to reflect the general statement in the Japanese source, rather than a personal action.
+---
+ID:118878
+JA:領主にお話があり
+伺いました
+EN:I have come to speak with your lord.
+ARb:جئتُ لأتحدث مع اللورد
+لذا حضرتُ هنا
+ARa:جئتُ لأتحدث مع اللورد
+REASON:Removed the redundant phrase 'لذا حضرتُ هنا' to improve conciseness and natural flow.
+---
+ID:119037
+JA:罪の無い子供らを
+逃がすのだ
+EN:I can help them escape.
+ARb:يجب أن نهرب
+الأطفال الأبرياء
+ARa:يجب أن نساعد الأطفال الأبرياء على الهرب
+REASON:The original Arabic 'يجب أن نهرب الأطفال الأبرياء' used the intransitive verb 'نهرب' (we escape), while the Japanese '逃がすのだ' (nigasu no da) is transitive, meaning 'to let them escape' or 'to help them escape'. Corrected to 'يجب أن نساعد الأطفال الأبرياء على الهرب' (We must help the innocent children escape) to accurately reflect the transitive meaning and align with the English reference.
+---
+ID:119232
+JA:このグランポート
+全面的に協力しよう
+EN:I hereby swear that you have
+Grandport's full support.
+ARb:لنعمل معاً
+بكل طاقتنا في هذا الميناء الكبير
+ARa:لنتعاون معاً بكل طاقتنا في غرانبورت
+REASON:Removed the added descriptive phrase 'في هذا الميناء الكبير' (in this great port) which was not present in the Japanese source, and integrated 'غرانبورت' more directly into the sentence.
+---
+ID:122868
+JA:こうやって俺は
+７つの町と国を滅ぼした
+EN:I've already destroyed seven
+civilizations in the same fashion.
+ARb:هكذا قمتُ أنا
+بإبادة سبع مدن ودول
+ARa:هكذا أبَدتُ سبع مدن ودول
+REASON:Simplified phrasing for more natural MSA; 'أنا' is redundant with the verb 'أبَدتُ'.
+---
+ID:122962
+JA:俺は、暴動を
+“鎮圧しろ”と言ったが
+EN:I admit I asked you to put an end
+to this madness.
+ARb:لقد قلتُ لكِ
+"قمعي" للتمرد
+ARa:لقد قلتُ لكِ أن تقمعي التمرد، لكن...
+REASON:Corrected grammar for 'suppress the rebellion' and added the implied 'but' from the Japanese source's 'が' particle. 'قمعي للتمرد' was grammatically awkward.
+---
+ID:125569
+JA:魔神ガルデラの血を賜った
+この悠久の時を……
+EN:In this moment of perpetuity
+granted unto us by the blood
+of Galdera the Fallen...
+ARb:دم إله الشيطان غارديلا
+هذا الزمن الأبدي……
+ARa:في هذا الزمن الأبدي الذي مُنح لنا بفضل دم إله الشيطان غارديلا……
+REASON:Corrected grammatical connection and meaning. The original Arabic was a fragmented literal translation, missing the 'granted unto us by' aspect and the flow of the sentence.
+---
+ID:125570
+JA:リブラック様へ使わずして
+どうするのです？
+EN:How dare you not use it for
+Lady Lyblac?
+ARb:ماذا سنفعل
+دون استخدامه لصالح السيد ليبراك؟
+ARa:كيف لا تستخدمه لصالح السيدة ليبراك؟
+REASON:Corrected mistranslation of 'どうするのです？' from 'ماذا سنفعل' (what will we do) to 'كيف لا تستخدمه' (how can you not use it) to match the accusatory tone of the English 'How dare you not use it'. Also corrected 'السيد ليبراك' to 'السيدة ليبراك' as Lyblac is female.
+---
+ID:125729
+JA:母なる神オルサを
+殺害したという、あの……
+EN:You mean the one who murdered
+Orsa, Mother of All?
+ARb:ذلك المكان الذي يُقال فيه
+أن الإلهة الأم أورسا قد قُتلت……
+ARa:ذلك الذي يُقال إنه قتل الإلهة الأم أورسا……
+REASON:Corrected the subject of the clause. The Japanese 'あの' refers to the 'sealed god' (the one who murdered), not 'ذلك المكان' (that place where it is said she was murdered).
+---
+ID:125754
+JA:貴様のような邪悪に
+その指輪は相応しくない
+EN:That ring does not befit evil
+such as you.
+ARb:شخصٌ شريرٌ مثلك
+لا يستحق ذلك الخاتم
+ARa:ذلك الخاتم لا يليق بشرير مثلك
+REASON:Rephrased for better flow and used 'لا يليق' (does not befit) instead of 'لا يستحق' (does not deserve) to more accurately reflect the source.
+---
+ID:126013
+JA:ご存じだったのですね
+父を……
+EN:So you knew my father, then.
+ARb:لقد كنت تعلم بذلك
+والدي……
+ARa:إذًا، كنت تعرف والدي……
+REASON:Corrected 'بذلك' to 'والدي' to match the English and Japanese meaning, and combined the phrases for better flow.
+---
+ID:126456
+JA:<chara_name>様
+行きましょう
+EN:Come, <chara_name>.
+ARb:سيدي
+لننطلق
+ARa:يا <chara_name>، لننطلق
+REASON:The protagonist is gender-neutral, so the address `سيدي` (My Lord) is incorrect. Changed to `يا <chara_name>، لننطلق` to use the placeholder directly with a neutral address particle `يا`, following the English translation's approach of using the name directly.
+---
+ID:126459
+JA:戦でも
+始めようってのか……！？
+EN:Are they planning to start a war!?
+ARb:هل تعني أننا
+سنبدأ بالقتال……؟!
+ARa:هل سيبدأون بالقتال……؟!
+REASON:The original Arabic `أننا سنبدأ` (that *we* will start) implies the speaker's group. The English translation "Are *they* planning to start a war!?" implies a third party. Changed to `هل سيبدأون بالقتال` (Will *they* start fighting) to match the English and the likely context of observing another fleet.
+---
+ID:126535
+JA:真打ちは
+遅れてやって来ると
+EN:The lead actor always appears last!
+ARb:إن الضربة القاضية
+تأتي متأخرة
+ARa:النجم الرئيسي يأتي متأخراً
+REASON:Mistranslation: The Arabic idiom 'الضربة القاضية' (knockout blow) loses the theatrical metaphor of '真打ち' (lead actor/star performer) present in the Japanese and English. Changed to 'النجم الرئيسي يأتي متأخراً' (The main star arrives late) to preserve the original nuance.
+---
+ID:126643
+JA:だれ……ひとり……
+ひと……り……
+EN:...the...em...press...
+ARb:من…… واحد……
+واحد……
+ARa:لا أحد…… منكم……
+REASON:Corrected mistranslation/misinterpretation of 'だれ……ひとり…… ひと……り……' (not a single person) from 'من…… واحد…… واحد……' to 'لا أحد…… منكم……' to convey the meaning of 'none of you' in the context of broken speech.
+---
+ID:126691
+JA:パーディスも奪えなかった
+力じゃ
+EN:A power that not even Pardis
+could steal.
+ARb:لم أستطع أخذ بارديس أيضاً
+بالقوة
+ARa:قوة لم يتمكن بارديس حتى من سرقتها.
+REASON:Mistranslation of 'パーディスも奪えなかった力じゃ'. Original Arabic 'لم أستطع أخذ بارديس أيضاً بالقوة' incorrectly made the speaker the subject and Pardis the object. Corrected to 'قوة لم يتمكن بارديس حتى من سرقتها.' to reflect 'A power that not even Pardis could steal'.
+---
+ID:127380
+JA:あなたは、エンバーグロウ研究所で
+作られていた“緋晶薬”が……
+EN:We know for a fact that the
+elixir you made in the Emberglow
+Laboratory...
+ARb:أنت، في مختبر إمبروجلو
+كان "دواء الكريستال القرمزي" الذي صُنع……
+ARa:أنت، كنت تعلم أن "دواء الكريستال القرمزي" الذي صُنع في مختبر إمبروجلو……
+REASON:Improved sentence flow and clarity by adding 'كنت تعلم أن' (you knew that) to set up the following line more naturally, aligning with the implied meaning.
+---
+ID:127396
+JA:まさか“黒緋”のことでも
+疑っているのか！？
+EN:You do not honestly believe that
+I am behind the Black Scarlet!?
+ARb:هل تعتقد
+بأنني أشك في "القرمز الأسود" أيضاً؟!
+ARa:هل تشك بي حتى في أمر "القرمز الأسود" أيضاً؟!
+REASON:Corrected mistranslation. The original Japanese 'まさか…疑っているのか' implies the speaker is surprised to be suspected, not that they doubt something themselves. The previous Arabic meant 'Do you think I doubt Black Scarlet too?'. The corrected version means 'Are you suspecting me even about the Black Scarlet matter too?!'.
+---

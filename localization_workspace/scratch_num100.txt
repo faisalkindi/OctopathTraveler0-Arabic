@@ -1,0 +1,19 @@
+id=152052
+JA=味方単体に、戦闘不能になったとき
+一度だけ最大HPの<skl_boostcol>100</skl_boostcol>%で
+復活する効果を付与
+EN=Grant an effect that allows an ally to recover with <skl_boostcol>100</skl_boostcol>% of their max. HP upon being incapacitated (one time only).
+BEFORE=يمنح حليفًا واحدًا تأثيرًا للبعث مرة واحدة بنسبة <skl_boostcol>100</skl_boostcol>% من الحد الأقصى لنقاط الصحة عند فقدانه للقدرة على القتال
+AFTER=يمنح حليفًا واحدًا تأثيرًا للبعث مرة واحدة
+بنسبة <skl_boostcol>100</skl_boostcol>% من الحد الأقصى لنقاط الصحة
+عند فقدانه للقدرة على القتال.
+REASON=Preserved line breaks.
+
+id=152386
+JA=装備者が与えるダメージは
+最大99999となる
+EN=The equipped character will deal up to 99,999 damage.
+BEFORE=يصبح الضرر الذي يلحقه مرتدي العتاد
+AFTER=يصبح الضرر الذي يلحقه مرتدي العتاد بحد أقصى 99999.
+REASON=Incomplete translation; added the missing maximum damage value.
+

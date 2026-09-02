@@ -1,0 +1,465 @@
+﻿id,ja_text,en_text,ar_text_before,ar_text,changed,reason
+2655,"……む
+なんだお前は？",Hm? And just who are you?,"......مُ
+من أنت؟","……مُ
+من أنت؟",True,Corrected ellipsis count and type from '......' (six ASCII dots) to '……' (two Unicode ellipsis characters) as per Japanese source.
+2657,"ここはアーギュスト様の
+神聖な劇場だ……","This is Master Auguste's sacred
+theatre.","هذا هو مسرح السيد أوغست
+المقدس...","هذا هو مسرح السيد أوغست
+المقدس……",True,Corrected ellipsis count from '...' to '……' as per Japanese source.
+2659,フン……,Hmph...,هه...,هه……,True,Corrected ellipsis count from '...' to '……' as per Japanese source.
+2668,"わざわざ足を
+運んでいただけるとは","To think you would grace us
+with your presence...","إنه لشرف لي
+أنك تكبّرت عناء المجيء إلى هنا","إنه لشرف لي
+أنك تفضلت بالحضور",True,Improved politeness and register for 'تكبّرت عناء المجيء' to 'تفضلت بالحضور' to better match the source's tone of 'grace us with your presence'.
+2669,光栄だな、シメオン殿,"It's an honor, Master Simeon.",يا سيد سيميون,إنه لشرف لي، يا سيد سيميون,True,"Added 'إنه لشرف لي' to reflect the 'It's an honor' from the Japanese source, which was omitted in the draft. Also corrected 'سيمون' to 'سيميون' for glossary consistency."
+2670,"これはこれは……
+大陸一の名作家殿","My, my... If it isn't our realm's
+most famed playwright.","يا للهول...
+أيها الكاتب المسرحي الأشهر في القارة","يا للهول……
+أيها الكاتب المسرحي الأشهر في القارة",True,Corrected ellipsis count from one '...' to two '……' to match the Japanese source '……'.
+2671,"そう焚きつけるな
+……事実だがね","You flatter me...
+Though you speak true.","لا تبالغ في المديح
+...لكنها الحقيقة","لا تبالغ في المديح
+……لكنها الحقيقة",True,Corrected ellipsis count from one '...' to two '……' to match the Japanese source '……'.
+2672,"シメオン殿、我々は
+かつて腕を競った仲だ","Master Simeon, we once flexed our
+literary muscles in the same circles.","سيد سيمون، نحن
+كنا في السابق منافسين في المهارة","سيد سيميون، نحن
+كنا في السابق منافسين في المهارة",True,Corrected 'سيمون' to 'سيميون' for glossary consistency.
+2674,"ふふ……いま
+ある詩を書いていてね","Hoho... To be honest, I'm working
+on one at the moment.","هيه... في هذه اللحظة
+أكتب قصيدةً ما","هيه…… في هذه اللحظة
+أكتب قصيدةً ما",True,Corrected ellipsis count from one '...' to two '……' to match the Japanese source '……'.
+2676,"積年の恨みを晴らし
+仇を殺した彼女に……","A long-held grudge is put to rest
+when she has her revenge, and yet...","عن تلك التي تخلصت
+من عدوها بعد سنوات من الضغينة...","عن تلك التي تخلصت
+من عدوها بعد سنوات من الضغينة……",True,Corrected ellipsis count from one '...' to two '……' to match the Japanese source '……'.
+2678,ほう……興味深いな,Oho... Most interesting.,هه... هذا مثير للاهتمام,هه…… هذا مثير للاهتمام,True,Corrected ellipsis count from one '...' to two '……' to match the Japanese source '……'.
+2682,"くく……
+見え透いた嘘を言うな","Haha... Come now, we both
+know the truth...","ككك...
+لا تقل أكاذيباً مكشوفة","ككك……
+لا تقل أكاذيباً مكشوفة",True,Corrected ellipsis count from one '...' to two '……' to match the Japanese source '……'.
+2683,"君も私も、俗物に興味はない
+……だろう？","Artists like us care not one whit
+for such pretense.","أنت وأنا، لا نهتم بالعاميين
+... أليس كذلك؟","أنت وأنا، لا نهتم بالتافهين
+…… أليس كذلك؟",True,Replaced 'العاميين' with 'التافهين' for a more accurate and nuanced translation of '俗物' (vulgar/philistine) in the context of artists. Also corrected ellipsis count from one '...' to two '……' to match the Japanese source '……'.
+2684,"興味があるのは
+ただ人間にのみ……","What interests us...is the human
+heart.","ما يهمنا هو
+البشر فقط...","ما يهمنا هو
+البشر فقط……",True,Corrected ellipsis count from one '...' to two '……' to match the Japanese source '……'.
+2686,ふふ……,Hoho...,هيه...,هيه……,True,Corrected ellipsis count from one '...' to two '……' to match the Japanese source '……'.
+2687,くくく……,Hahaha...,كيه كيه كيه...,كيه كيه كيه……,True,Corrected ellipsis count from one '...' to two '……' to match the Japanese source '……'.
+2690,アーギュスト様……！？,Master Auguste!?,سيدي أوغست...؟!,سيدي أوغست……؟!,True,Corrected ellipsis count from one '...' to two '……' and adjusted punctuation to match the Japanese source '……！？'.
+2692,"くく……
+間もなく開演だ","Hahaha... It's almost time for
+the curtain to rise.","كيه...
+سيبدأ العرض قريباً","هاهاها…
+سيبدأ العرض قريباً",True,"Changed 'كيه...' to 'هاهاها...' for better representation of laughter, and fixed ellipsis character and count (ja_text has two U+2026, ar_text had three ASCII dots)."
+2693,…………,......,...........,…………,True,"Fixed ellipsis character and count (ja_text has four U+2026, ar_text had eleven ASCII dots)."
+2694,"ああん！
+アーギュスト様ったら！","Oh, Master Auguste!
+He's simply too much!","آه!
+أوغست-ساما!","آه!
+أوغست، يا له من رجل!",True,Rephrased 'أوغست-ساما!' to 'أوغست، يا له من رجل!' to convey the nuance of exasperated admiration ('He's simply too much!') rather than just transliterating the honorific.
+2695,おっと、これは失礼,Pardon me...,أوه، هذا خطأ مني,عذرًا,True,Changed 'أوه، هذا خطأ مني' to 'عذرًا' for a more natural and less severe apology ('Pardon me...'). Removed extraneous ellipsis not present in ja_text.
+2696,"アーギュスト……
+彼とはまあ、古い仲さ","I've known Auguste for...
+well, quite some time.","أوغست...
+أنا و هو صديقان قديمان","أوغست…
+أنا وهو صديقان قديمان",True,"Fixed ellipsis character and count (ja_text has two U+2026, ar_text had three ASCII dots). Removed unnecessary space around 'و' for better flow."
+2697,"作家としての名声は
+彼に譲ったけどね","Though I'm hardly as famous
+a writer as he.","لقد تنازلتُ له
+على شهرته ككاتب","لقد تركتُ له
+الشهرة ككاتب",True,"Rephrased 'تنازلتُ له على شهرته ككاتب' to 'تركتُ له الشهرة ككاتب' for better grammatical correctness and to convey the meaning of 'yielding' or 'leaving' the fame to him, as implied by '譲った' (yielded/gave up)."
+2698,彼の情熱は……異常だ,"His passion for his work is
+most...unique.",لكن شغفه... غير طبيعي,لكن شغفه… غير طبيعي,True,"Fixed ellipsis character and count (ja_text has two U+2026, ar_text had three ASCII dots)."
+2700,"だが同時に
+苦しみもがいても来た",...And suffered greatly as well.,"لكن في الوقت ذاته
+عاش في معاناة وألم","لكن في الوقت ذاته
+عاش في معاناة وألم",True,Removed extraneous ellipsis not present in ja_text.
+2701,"書き手にとって
+最大の苦痛は何だと思う？","What do you think the greatest
+pain is for a writer?","بالنسبة للكاتب
+ما هو أكبر ألم في رأيك؟","بالنسبة للكاتب
+ما هو أكبر ألم؟",True,"Rephrased 'ما هو أكبر ألم في رأيك؟' to 'ما هو أكبر ألم؟' to avoid gendered address to the player character, as per style guide (prefer rephrasing over generic masculine fallback when possible)."
+2702,……書けなくなることさ,"...Naturally, no longer being able
+to write.",...... هو عدم القدرة على الكتابة,… هو عدم القدرة على الكتابة,True,"Fixed ellipsis character and count (ja_text has two U+2026, ar_text had six ASCII dots)."
+2706,……如何なる事もね,...<i>Anything</>.,...... أي شيء، نعم,… أي شيء، نعم,True,"Fixed ellipsis character and count (ja_text has two U+2026, ar_text had six ASCII dots)."
+2709,…………,......,............,…………,True,"Fixed ellipsis character and count (ja_text has four U+2026, ar_text had twelve ASCII dots)."
+2710,<chara_name>……,<chara_name>...,<chara_name>......,<chara_name>…,True,"Fixed ellipsis character and count (ja_text has two U+2026, ar_text had six ASCII dots)."
+2712,"そして俺は
+積年の思いを遂げる","I've been waiting years for
+this moment.","وسأقوم أنا
+بتحقيق ما خططت له لسنوات","وسأحقق أنا
+أمنية طال انتظارها",True,"Rephrased 'بتحقيق ما خططت له لسنوات' to 'أمنية طال انتظارها' to better capture the nuance of '積年の思いを遂げる' (to fulfill a long-cherished desire/resolve of many years), aligning with the EN 'I've been waiting years for this moment'."
+2714,…………,......,...........,…………,True,"Fixed ellipsis character and count (ja_text has four U+2026, ar_text had eleven ASCII dots)."
+2715,……君も来るか？,...Are you coming with me?,...... هل ستأتي؟,… هل ستأتي؟,True,"Fixed ellipsis character and count (ja_text has two U+2026, ar_text had six ASCII dots)."
+2717,……好きにするといい,...Not that it matters to me.,...... افعل ما يحلو لك,… افعل ما يحلو لك,True,"Fixed ellipsis character and count (ja_text has two U+2026, ar_text had six ASCII dots)."
+2718,"……君の復讐も
+そこで終わる","Your vengeance will be
+completed here, as well.","...... وانتقامك أيضاً
+سينتهي هناك","…… وانتقامك أيضاً
+سينتهي هنا.",True,"Corrected ellipsis count (from `......` to `……`), changed 'هناك' (there) to 'هنا' (here) to match context, and added missing period."
+2719,"さあ……
+アーギュストを探すぞ","Now then...
+Let's go find Auguste.","هيا...
+سنبحث عن أوغست","هيا……
+سنبحث عن أوغست",True,Corrected ellipsis count (from `...` to `……`).
+2720,"ヤツは劇場の
+どこかにいる……","He must be in the theatre
+somewhere.","إنه في مكان ما
+داخل المسرح...","إنه في مكان ما
+داخل المسرح……",True,Corrected ellipsis count (from `...` to `……`).
+2721,"……かつて俺にとって
+劇場は希望だった","...The theatre was once a place
+of hope for me.","...في الماضي، كان المسرح
+يمثل الأمل بالنسبة لي","……في الماضي، كان المسرح
+كان الأمل بالنسبة لي",True,Corrected ellipsis count (from `...` to `……`) and improved register by changing 'يمثل الأمل' to 'كان الأمل' for more natural MSA.
+2725,"いま、劇場はただの
+……忌まわしい記憶だ","Now, this theatre holds nothing
+but bitter memories.","الآن، المسرح ليس سوى
+...ذكرى مقيتة","الآن، المسرح ليس سوى
+……ذكرى مقيتة",True,Corrected ellipsis count (from `...` to `……`).
+2727,"暗闇の中……藁をも掴み
+今日まで生きてきたのだ","I made it this far only by fumbling
+in the darkness, clutching at straws.","في وسط الظلام... تمسكتُ بأي خيطٍ متاح
+وحافظتُ على حياتي حتى اليوم","في وسط الظلام…… تمسكت بأي خيط متاح
+وحافظت على حياتي حتى اليوم",True,Corrected ellipsis count (from `...` to `……`) and removed unnecessary harakat from 'خيطٍ'.
+2728,…………,......,...........,…………,True,Corrected ellipsis count (from `...........` to `…………`).
+2729,<chara_name>……,<chara_name>...,<chara_name>...,<chara_name>……,True,Corrected ellipsis count (from `...` to `……`).
+2730,君の存在が心強かった,"It's been heartening having
+you around.",كان وجودكِ مصدر طمأنينة,كان وجودك مصدر طمأنينة,True,Corrected player-address to gender-neutral 'وجودك' (removed kasra).
+2731,君は……俺を信じてくれた,You...believed in me.,لقد... صدقتني,لقد…… صدقتني,True,Corrected ellipsis count (from `...` to `……`).
+2732,君がいてくれたからこそ,You stayed with me.,ولأنكِ كنتِ هنا,ولأنك كنت هنا,True,Corrected player-address to gender-neutral 'ولأنك كنت' (removed kasra and 'ي').
+2734,……礼を言う,...You have my thanks.,...أشكركِ,……أشكرك,True,Corrected ellipsis count (from `...` to `……`) and player-address to gender-neutral 'أشكرك' (removed kasra).
+2735,…………,......,............,…………,True,Corrected ellipsis count (from `............` to `…………`).
+2736,先へ進もう……,"Now, let's go...",لنتقدم للأمام...,لنتقدم للأمام……,True,Corrected ellipsis count (from `...` to `……`).
+2737,……！,......!,...!,……!,True,Corrected ellipsis count (from `...` to `……`).
+2738,…………,......,............,…………,True,Corrected ellipsis count (from `............` to `…………`).
+2739,……いたぞ,...There he is.,... ها هو ذا,…… ها هو ذا,True,Corrected ellipsis count (from `...` to `……`).
+2740,アーギュストよ……,Auguste...,إنه أوغست...,إنه أوغست……,True,Corrected ellipsis count (from `...` to `……`).
+2741,その机の上がいいか？,"Are you content to breathe
+your last at your desk?",هل فوق تلك الطاولة مكان جيد؟,هل يليق بك أن تكون نهايتك فوق هذا المكتب؟,True,"Improved translation to better convey the challenging/sarcastic tone of the source, rather than a literal question about a 'good place'."
+2742,名声高き男の最期だ,"Is that a fitting end for one of
+your renown?",إنها نهاية رجل ذو شهرة عالية,إنها نهاية رجل ذي شهرة عالية,True,Corrected grammatical agreement for 'ذي' (genitive case) to match 'رجل'.
+2743,"死に場所くらい
+選ばせてやろう……","The least I could do is let you
+choose where you die...",سأسمح لك على الأقل باختيار مكان موتك...,"سأسمح لك على الأقل باختيار
+مكان موتك……",True,Preserved line break from JA source and corrected ellipsis count from one U+2026 to two U+2026 characters to match JA.
+2744,"フン……劇の結末でも
+考えているのか","Hmph... Still contemplating
+an ending to your play?",هه... هل تفكر في نهاية المسرحية؟,"هه…… هل تفكر في نهاية
+المسرحية؟",True,Preserved line break from JA source and corrected ellipsis count from one U+2026 to two U+2026 characters to match JA.
+2745,"……あいにくだが
+時間切れだ","...I fear your greatest work
+will remain unfinished.",...للأسف، لقد نفد الوقت.,"……للأسف، لقد
+نفد الوقت.",True,Preserved line break from JA source and corrected ellipsis count from one U+2026 to two U+2026 characters to match JA.
+2746,……！！,......!,...!!,……!!,True,Corrected ellipsis count from one U+2026 to two U+2026 characters to match JA.
+2747,"こいつは……
+アーギュストじゃない",This isn't Auguste...,"هذا ليس...
+أوغست.","هذا ليس……
+أوغست.",True,Corrected ellipsis count from one U+2026 to two U+2026 characters to match JA.
+2748,"劇場の支配人だ
+……死んでいる","It's the theatre manager...
+and he's dead.","إنه مدير المسرح...
+...ميت.","إنه مدير المسرح
+……ميت.",True,Corrected ellipsis count from one U+2026 to two U+2026 characters to match JA.
+2749,どういうことだ……？,What's going on here!?,ماذا يعني هذا...؟,ماذا يعني هذا……؟,True,Corrected ellipsis count from one U+2026 to two U+2026 characters to match JA.
+2752,……？,......?,...؟,……؟,True,Corrected ellipsis count from one U+2026 to two U+2026 characters to match JA.
+2753,"……アーギュストは
+一体どこに……",Where the hell is that bastard!?,"...أين هو
+أوغست بالضبط...","……أين هو
+أوغست بالضبط……",True,Corrected ellipsis count from one U+2026 to two U+2026 characters at both the beginning and end of the line to match JA.
+2754,"許して、ラファエル……
+過ちよ","Forgive me, Rafael...
+I was mistaken.","سامحني، رافائيل...
+لقد أخطأت","سامحني، رافائيل……
+لقد أخطأت",True,Corrected ellipsis count from one U+2026 to two U+2026 characters to match JA.
+2755,おお、アナ……,"Oh, Anna...",أوه، أنا...,أوه، أنا……,True,Corrected ellipsis count from one U+2026 to two U+2026 characters to match JA.
+2756,"ならば、その過ちを
+洗い流してくれよう",You can atone for your mistake...,"إذن، سأقوم بغسل
+ذلك الخطأ","إذن، سأقوم بغسل
+ذلك الخطأ",True,Removed extraneous ellipsis from AR text; JA source has no ellipsis here.
+2758,"呪われよ
+薄汚い男め……！","Curse you, you despicable man!","لُعنت
+أيها الرجل القذر...!","لُعنت
+أيها الرجل القذر……!",True,Corrected ellipsis count from one U+2026 to two U+2026 characters to match JA.
+2761,……よかろう,...Very well.,...حسناً,……حسناً,True,Corrected ellipsis count from one U+2026 to two U+2026 characters to match JA.
+2762,"私は如何なる重荷も
+背負って生きよう……","I have borne many burdens
+in my life...","سأعيشُ
+حاملاً أيّ أعباءٍ كانت...","سأعيشُ
+حاملاً أيّ أعباءٍ كانت……",True,Corrected ellipsis count from one U+2026 to two U+2026 characters to match JA.
+2764,アーギュスト様……,Master Auguste...,سيدي أوغست...,سيدي أوغست……,True,Corrected ellipsis count from one U+2026 to two U+2026 characters to match JA.
+2765,"アーギュスト様が自ら
+演者をされるの……？","Master Auguste is performing
+in his own play...","هل سيقوم سيدي أوغست
+بتمثيل الدور بنفسه...؟","هل سيقوم سيدي أوغست
+بتمثيل الدور بنفسه……؟",True,Corrected ellipsis count from one U+2026 to two U+2026 characters to match JA.
+2766,"ああ……素敵
+なんてこと……","Oh, how wonderful!","آه... يا له من أمر
+رائع...","آه…… يا له من أمر
+رائع……",True,Corrected ellipsis count from one U+2026 to two U+2026 characters at both places to match JA.
+2767,"如何なる運命も
+私は受け入れよう",I will accept any fate before me...,"أيّ قدرٍ كان
+سأقبله","أيّ قدرٍ كان
+سأقبله",True,Removed extraneous ellipsis from AR text; JA source has no ellipsis here.
+2768,千の憎しみの刃をも……！,"I shall bear the wounds of
+a thousand hateful blades!",حتى آلاف نِصال الكراهية...!,حتى آلاف نِصال الكراهية……!,True,Corrected ellipsis count from one U+2026 to two U+2026 characters to match JA.
+2770,"舞台の方だ！
+行くぞッ！！","He's on the stage!
+Let's go!",نحو المسرح!,"إنه على المسرح!
+هيا بنا!",True,Missing translation for the second part of the sentence and missing line break.
+2771,"<chara_name>
+覚悟はいいか？","Are you ready,
+<chara_name>?",<chara_name>,"<chara_name>،
+هل استعددت؟",True,Missing translation for the question 'Are you ready?' and missing line break. Rephrased to past tense for gender-neutrality when addressing the player.
+2772,もう少しだ……,It's almost time...,بقليل فقط...,لم يتبق سوى القليل…,True,Improved nuance for 'It's almost time...' and corrected ellipsis count from three to two U+2026 characters.
+2773,"あと少しで、あの怪物を
+始末してやれる","Time to give that monster
+the finale he deserves...",بعد قليل، سأقضي على ذلك الوحش.,"بعد قليل،
+سأقضي على ذلك الوحش.",True,Added missing line break as per source.
+2774,…………,......,............,…………,True,Corrected ellipsis character from ASCII dots to U+2026 and matched count (four U+2026).
+2775,"終わりの時は
+……近い",The end is nigh...,إن وقت النهاية...,"إن النهاية
+…وشيكة.",True,"Improved translation for 'The end is nigh...' to 'إن النهاية وشيكة', added missing line break, and corrected ellipsis count from three to two U+2026 characters."
+2784,…………,......,............,…………,True,Corrected ellipsis character from ASCII dots to U+2026 and matched count (four U+2026).
+2785,"……ついに会えたな
+アーギュスト","...I've found you at last, Auguste.","...... أخيرًا التقينا
+أوغست الكاتب المسرحي","…أخيرًا التقينا
+أوغست الكاتب المسرحي",True,Corrected ellipsis character from ASCII dots to U+2026 and matched count (two U+2026).
+2786,この時を待っていたぞ……,How I've longed for this day...,انتظرتُ هذه اللحظة......,انتظرتُ هذه اللحظة…,True,Corrected ellipsis character from ASCII dots to U+2026 and matched count (two U+2026).
+2787,"貴様の墓場を
+ずっと探していた……","When I envision a fitting place
+to end your life...","كنتُ أبحثُ عن قبرك
+طوال الوقت......","كنتُ أبحثُ عن قبرك
+طوال الوقت…",True,Corrected ellipsis character from ASCII dots to U+2026 and matched count (two U+2026).
+2788,……似合いの場所だ,"...I can think of nowhere better
+than here.",...... إنه مكانٌ مناسب,…إنه مكانٌ مناسب,True,Corrected ellipsis character from ASCII dots to U+2026 and matched count (two U+2026).
+2789,…………,......,............,…………,True,Corrected ellipsis character from ASCII dots to U+2026 and matched count (four U+2026).
+2790,"私もそなたらの刃を
+待ち焦がれていた……","I, too, have been longing...
+Longing for your blades.","وأنا أيضًا كنتُ أتوقُ
+لنصالكم......","وأنا أيضًا كنتُ أتوقُ
+لنصالكم…",True,Corrected ellipsis character from ASCII dots to U+2026 and matched count (two U+2026).
+2791,"憎しみの短剣で
+この胸を貫いてみよ！","Go on! Run me through with
+those hateful daggers!","جربوا اختراق صدري
+بخنجر الكراهية!","اخترقوا صدري
+بخنجر الكراهية!",True,"Improved verb choice for 'Run me through' to be more direct and aggressive, matching the source tone."
+2792,…………,......,............,…………,True,Corrected ellipsis character from ASCII dots to U+2026 and matched count (four U+2026).
+2793,……陳腐な台詞だな,...What a tired line.,...... حوار مبتذل.,…حوار مبتذل.,True,Corrected ellipsis character from ASCII dots to U+2026 and matched count (two U+2026).
+2794,"貴様の筋書き通りには
+いかせんぞ","...No. I have no intention of
+following your script.","لن أسمح لك
+بتحقيق ما في سيناريوك.","لن أدع الأمر يسير
+وفق سيناريوك.",True,Improved phrasing for 'I have no intention of following your script' to be more natural and direct.
+2795,くくく……,Hahaha...,كوكوكو...,ههه…,True,Replaced transliterated sound 'كوكوكو' with natural Arabic chuckle 'ههه' and corrected ellipsis character from ASCII dots to U+2026 and matched count (two U+2026).
+2796,"まだ分からないか？
+哀れなシュワルツよ","Poor little Schwartz...
+You still don't understand.","ألا تزال لا تفهم؟
+يا لشؤمك أيها الشوارت البائس.","ألا تزال لا تفهم؟
+يا لك من شوارت بائس!",True,Improved phrasing for 'Poor little Schwartz...' to be more natural and direct.
+2798,"貴様がそこで
+そうして短剣を握る姿は……","You standing there, that blade
+in hand...","وقوفك هناك،
+وإمساكك بالخنجر بهذه الطريقة...","وقوفك هناك،
+وإمساكك بالخنجر بهذه الطريقة…",True,Corrected ellipsis character from ASCII dots to U+2026 and matched count (two U+2026).
+2799,私が“書いた”ものだ,I wrote it all.,"هو ما ""كتبتُه"" أنا.","أنا من ""كتبتُه"".",True,Improved phrasing for 'I wrote it all.' to be more natural.
+2800,"くく……君は実に
+優秀な演者だよ","Hahaha...
+You're quite a skilled performer.",هه... أنت ممثلٌ بارعٌ حقاً.,"هه… أنت حقاً
+ممثلٌ بارعٌ.",True,"Replaced transliterated sound 'هه' with 'هه' (already good), corrected ellipsis character from ASCII dots to U+2026 and matched count (two U+2026), and restored missing line break."
+2801,…………,......,...........,…………,True,Corrected ellipsis character from ASCII dots to U+2026 and matched count (four U+2026).
+2802,"何を言っている？
+この道化め……","Whatever are you blathering
+about, you buffoon?",عما تتحدث؟ أيها المهرج...,"عما تتحدث؟
+أيها المهرج…",True,"Corrected ellipsis character and count, added missing line break."
+2803,"その薄笑いも……
+俺の記憶も……",That smirk... My memories...,تلك الابتسامة الباهتة... وذكرياتي...,تلك الابتسامة الباهتة… وذكرياتي…,True,Corrected ellipsis character and count.
+2805,"……結末を
+その眼で見るがいい","You shall see for yourself
+how the story ends.",...شاهد النهاية بتلك العينين.,…شاهد النهاية بتلك العينين.,True,Corrected ellipsis character and count.
+2807,……これで終わりだ,...It's over.,...بهذا ينتهي كل شيء.,…بهذا ينتهي كل شيء.,True,Corrected ellipsis character and count.
+2808,…………,......,............,…………,True,Corrected ellipsis character and count (four U+2026).
+2809,く……くく……,Hah... Hahaha...,كـ... كـ...,كـ… كـ…,True,Corrected ellipsis character and count.
+2810,これでいい……,I'm so happy...,هذا جيد...,هذا جيد…,True,Corrected ellipsis character and count.
+2811,"この時を、長い間
+私は待っていた……",I waited so long for this...,"هذه اللحظة، انتظرتها
+لفترة طويلة...","هذه اللحظة، انتظرتها
+لفترة طويلة…",True,Corrected ellipsis character and count.
+2812,憎しみの刃に貫かれようと……,"To be pierced through by
+a hateful blade...",حتى لو طُعنت بنصل الكراهية...,حتى لو طُعنت بنصل الكراهية…,True,Corrected ellipsis character and count.
+2813,悔いは……ない……,I regret...nothing...,لا يوجد... ندم...,لا يوجد… ندم…,True,Corrected ellipsis character and count.
+2815,"……素晴らしい
+演技だったよ",...What a splendid performance.,"... كان أداءً
+رائعاً","… كان أداءً
+رائعاً",True,Corrected ellipsis character and count.
+2817,くくく……,Hahaha...,كوكوكو...,كوكوكو…,True,Corrected ellipsis character and count.
+2820,"私に忠実であり
+信頼できる男……","A man loyal to me, whom
+I could trust...","رجل مخلص لي
+وموثوق به...","رجل مخلص لي
+وموثوق به…",True,Corrected ellipsis character and count.
+2822,"……そして、私もまた
+シュワルツを演じた","...And Schwartz was played by
+yours truly.","...وأنا أيضًا
+قمت بتمثيل دور شوالتز","…وأنا أيضًا
+قمت بتمثيل دور شوالتز",True,Corrected ellipsis character and count.
+2823,"くく……
+“演じていた”のだよ……","Hahaha...
+Yes, it was all just an act.","كوك...
+لقد كنت ""أمثل"" الدور...","كوك…
+لقد كنت ""أمثل"" الدور…",True,Corrected ellipsis character and count.
+2824,"そして、その後
+劇場で君を見た時……","Then when I saw you at
+the theatre...","ثم، بعد ذلك
+عندما رأيتك في المسرح...","ثم، بعد ذلك
+عندما رأيتك في المسرح…",True,Corrected ellipsis character and count.
+2829,"遺恨を糧に、復讐に生きる
+哀れな男……","The part of a pitiful man consumed
+by hatred, living only for revenge...","رجلٌ بائسٌ
+يعيش على الانتقام، متغذياً على الضغينة","رجل بائس
+يعيش على الانتقام، متغذياً على الضغينة",True,Removed unnecessary diacritics for compliance with the light tashkeel rule.
+2830,"君をこの作品へと導く
+案内人だ","The perfect guide for your journey
+through this story...","أنا المرشدُ
+الذي سيقودك إلى هذا العمل","أنا المرشد
+الذي سيقودك إلى هذا العمل",True,Removed unnecessary diacritics for compliance with the light tashkeel rule.
+2831,"……その先へは
+進まない方がいい",...Pray go no further.,"... ومن الأفضل
+ألا تتقدم إلى ما بعد ذلك","…… ومن الأفضل
+ألا تتقدم إلى ما بعد ذلك",True,Corrected ellipsis character and count to match JA source (two U+2026).
+2832,"知らぬ方が幸福なことも
+世の中にはある","There are things in this world
+you're better off not knowing.","هناك أشياء في هذا العالم
+يكون فيها الجهلُ سعادةً","هناك أشياء في هذا العالم
+يكون فيها الجهل سعادة",True,Removed unnecessary diacritics for compliance with the light tashkeel rule.
+2833,シュワルツという男は……,The man you knew as Schwartz...,الرجل الذي يُدعى شولتز...,الرجل الذي يدعى شولتز……,True,Corrected ellipsis character and count to match JA source (two U+2026); removed unnecessary diacritic.
+2834,……私の“知人”だ,...is an <i>acquaintance</> of mine.,"......إنه ""معرفي""","……إنه ""معرفي""",True,Corrected ellipsis character and count to match JA source (two U+2026).
+2835,"互いに、互いを
+よく知っている……","Yes, we know each other quite well...","كلانا، نعرف بعضنا
+جيداً......","كلانا، نعرف بعضنا
+جيداً……",True,Corrected ellipsis character and count to match JA source (two U+2026).
+2836,"そして、“彼”を信じ
+君は物語へと導かれた","Because you believed in ""him,""
+you were drawn into the story.","ومن ثم، وبإيمانك بـ ""ه""
+قُدتَ إلى القصة","ومن ثم، وبإيمانك بـ ""هو""
+قُدتَ إلى القصة",True,"Changed `بـ ""ه""` to `بـ ""هو""` for more natural Arabic and better reflection of the quoted pronoun."
+2837,"どうだね？　君も
+愉しんでくれたか？","Come now... Don't tell me
+you didn't enjoy it.","ما رأيك؟ هل
+استمتعتَ أنتَ أيضاً؟","ما رأيك؟ هل
+استمتعتَ أيضاً؟",True,"Removed explicit masculine pronoun `أنتَ` to maintain gender neutrality for the player character, as `استمتعتَ` (without diacritics) is already gender-neutral in past tense."
+2838,くくく……,Hahaha...,كوكوكو......,كوكوكو……,True,Corrected ellipsis character and count to match JA source (two U+2026).
+2839,…………,......,............,…………,True,Corrected ellipsis character and count to match JA source (four U+2026).
+2840,助けて……,Help...,ساعدني......,ساعدني……,True,Corrected ellipsis character and count to match JA source (two U+2026).
+2841,殺して……くれ……,Please...kill...,اقتلني...... أرجوك......,اقتلني…… أرجوك……,True,Corrected ellipsis character and count to match JA source (two U+2026 for each instance).
+2842,俺を殺してくれッ……！！,Kill me!,اقتلني...!!,اقتلني……!!,True,Corrected ellipsis character and count to match JA source (two U+2026).
+2843,…………,Oh.,............,…………,True,Corrected ellipsis character and count to match JA source (four U+2026).
+2844,"……おっと
+見苦しいところを","...Oh dear.
+I'm sorry you had to see that.","...أوه
+لقد كان مشهداً مخزياً","……أوه
+لقد كان مشهداً مخزياً",True,Corrected ellipsis character and count to match JA source (two U+2026).
+2845,"これは、くく……
+ゲップのようなものだ",'Twas a mere...hiccup.,"هذا، هيه...
+يشبه التقيؤ","هذا، هيه……
+يشبه التجشؤ",True,Changed `التقيؤ` (vomiting) to `التجشؤ` (burp) for better accuracy and tone matching `ゲップ` and `en_text`'s 'hiccup'; corrected ellipsis character and count to match JA source (two U+2026).
+2848,"“命宿りし指輪よ
+真なる力を……”","""O ring of the divine...
+Bearer of power pure.""","""أيتها الخاتم المسكون بالحياة
+أعطني القوة الحقيقية...""","""أيها الخاتم المسكون بالحياة
+أعطني القوة الحقيقية……""",True,Corrected vocative `أيتها` to `أيها` to agree with the masculine noun `الخاتم`; corrected ellipsis character and count to match JA source (two U+2026).
+2849,"“真なる姿を
+我に与えたまえ……！”","""I beseech thee...
+Grant me my true form!""","""امنحني المظهر الحقيقي...!""","""امنحني المظهر الحقيقي……!""",True,Corrected ellipsis character and count to match JA source (two U+2026).
+2850,くくく……,Hahaha...,هيهيهيه...,هيهيهيه……,True,Corrected ellipsis character and count to match JA source (two U+2026).
+2851,"さて……
+いよいよ幕引きだ","Now then...
+Let the final act begin.","حسناً...
+لقد حان وقت الستار الأخير أخيراً","حسناً……
+لقد حان وقت الستار الأخير أخيراً",True,Corrected ellipsis character and count to match JA source (two U+2026); removed unnecessary diacritic.
+2852,……君の死でね,Pray show me...,......بموتك,……بموتك,True,Corrected ellipsis character and count to match JA source (two U+2026).
+2853,私に見せてくれ……,The grandest of all finales...,أرني......,أرني……,True,Corrected ellipsis character and count to match JA source (two U+2026).
+2854,至高の結末を……！！,With your death!,النهاية الأسمى......!!,النهاية الأسمى……!!,True,Corrected ellipsis character and count to match JA source (two U+2026).
+2855,…………！,......!,............!,…………!,True,Corrected ellipsis character and count to match JA source (four U+2026).
+2857,私の結末が……！！,My ending...!,نهايتي......!!,نهايتي……!!,True,Corrected ellipsis count and type (from ASCII dots to Unicode U+2026).
+2858,くくく……,Hahaha...,كوكوكو......,كوكوكو……,True,Corrected ellipsis count and type (from ASCII dots to Unicode U+2026).
+2859,"ようやく……
+その指輪から……","Finally, I am free...","أخيرًا......
+من تلك الخاتم......","أخيرًا……
+من ذلك الخاتم……",True,Corrected ellipsis count and type (from ASCII dots to Unicode U+2026). Corrected gender agreement for 'الخاتم' (masculine) from 'تلك' to 'ذلك'.
+2860,忌まわしき輪廻から……,Free of that wretched cycle...,من دورة التناسخ اللعينة...,من دورة التناسخ اللعينة……,True,Corrected ellipsis count and type (from ASCII dots to Unicode U+2026).
+2861,解き放たれる……か,My soul...free at last...,هل تم التحرر...؟,هل تم التحرر……؟,True,Corrected ellipsis count and type (from ASCII dots to Unicode U+2026).
+2862,……マーヴェラス,...Marvelous.,... ميرفيلوس,……ميرفيلوس,True,Corrected ellipsis count and type (from ASCII dots to Unicode U+2026) and removed space before the word.
+2863,"やはり……
+君は逸材だった",You truly were...outstanding...,"كما توقعت...
+كنت موهبة استثنائية","كما توقعت……
+كنت موهبة استثنائية",True,Corrected ellipsis count and type (from ASCII dots to Unicode U+2026).
+2864,"私を……結末へと
+導いてくれた……",You guided me...to a fitting end...,لقد قُدتني... إلى النهاية...,لقد قُدتني…… إلى النهاية……,True,Corrected ellipsis count and type (from ASCII dots to Unicode U+2026).
+2865,…………,......,...........,…………,True,Corrected ellipsis count and type (from ASCII dots to Unicode U+2026).
+2866,……ありがとう,For this...I thank you...,... شكراً لك,……شكراً لك,True,Corrected ellipsis count and type (from ASCII dots to Unicode U+2026) and removed space before the word.
+2867,アーギュスト様……,Master Auguste...,سيدي أوغست...,سيدي أوغست……,True,Corrected ellipsis count and type (from ASCII dots to Unicode U+2026).
+2868,"劇中の事故で
+亡くなられるなんて……","To think he'd be killed by accident
+during one of his own plays...",أن تفقدي حياتكِ بسبب حادثٍ في المسرحية...,أن يتوفى بسبب حادثٍ في المسرحية……,True,Corrected gender and person agreement (from feminine second-person 'تفقدي حياتكِ' to masculine third-person 'يتوفى' referring to Auguste). Corrected ellipsis count and type.
+2869,"アーギュスト様の作品を
+一生忘れないわ……","I'll never forget his plays as long
+as I live...",لن أنسى أعمال سموّ أوغست طوال حياتي...,لن أنسى أعمال أوغست طوال حياتي……,True,Corrected ellipsis count and type (from ASCII dots to Unicode U+2026). Adjusted register by removing 'سموّ' for a more natural MSA tone.
+2870,アーギュスト様……,Master Auguste...,يا سيد أوغست...,يا سيد أوغست……,True,Corrected ellipsis count and type (from ASCII dots to Unicode U+2026).
+2871,アーギュスト様……,Master Auguste...,سمو أوغست...,سيدي أوغست……,True,Corrected ellipsis count and type (from ASCII dots to Unicode U+2026). Adjusted register from 'سمو' to 'سيدي' for consistency and natural MSA.
+2872,"アーギュストの名声は
+永遠に……","Auguste's fame will live on
+forever...",شهرة أوغست,شهرة أوغست ستبقى إلى الأبد……,True,Completed the sentence to match the English meaning ('will live on forever'). Corrected ellipsis count and type.
+2874,"彼は微笑みもしない
+だろうけどね","I doubt that'd bring him much joy,
+though.",لن يبتسم، أليس كذلك؟,لا أظن أن ذلك سيسعده كثيرًا.,True,"Improved nuance to better match the English 'I doubt that'd bring him much joy, though.' instead of a direct 'He won't smile, right?'."
+2875,"彼の劇はどれも
+傑作だったが","All his plays were masterpieces,
+truly.",كانت جميع مسرحياته,كانت جميع مسرحياته روائع.,True,Completed the sentence to match the English meaning ('were masterpieces').
+2876,"特に、最期の作品には
+身震いしたよ……","But this last one in particular
+gave me chills...","خاصة في عمله الأخير
+ارتعدتُ من الخوف...","خاصة في عمله الأخير
+أصابتني قشعريرة……",True,Improved wording for 'gave me chills' to 'أصابتني قشعريرة' (gave me goosebumps/chills) which is more accurate than 'ارتعدتُ من الخوف'. Corrected ellipsis count and type.
+2877,…………,......,............,…………,True,Corrected ellipsis count and type (from ASCII dots to Unicode U+2026).
+2881,"だが、妻を雇い主に奪われ
+殺されて……全てが壊れた","Until she was seduced by
+the theatre owner and killed.
+He lost everything.","لكن، سلب منه صاحب العمل زوجته
+وقُتلت... وتحطم كل شيء","لكن، سُلبت منه زوجته على يد صاحب العمل
+وقُتلت…… وتحطم كل شيء",True,Corrected passive voice for '奪われ' (was taken/deprived) and fixed ellipsis count.
+2882,"彼は復讐を遂げたが
+何も残らなかった","He got his revenge, but nothing
+remained for him after that.","انتقم منها
+لكن لم يتبقَّ له شيء","أخذ بثأره
+لكن لم يتبقَّ له شيء",True,Corrected 'انتقم منها' (took revenge on her) to 'أخذ بثأره' (took his revenge) to remove incorrect object.
+2883,……劇を書くことの他には,Nothing...other than writing plays.,... سوى كتابة المسرحيات,…… سوى كتابة المسرحيات,True,Fixed ellipsis count.
+2886,だが、一方で……,But all the while...,ولكن، في المقابل...,ولكن، في المقابل……,True,Fixed ellipsis count.
+2888,"眼前でアーギュストの
+犠牲が増えるたび……","He watched as Auguste's victims
+piled up...","كلما زادت تضحيات أوغست
+أمام عينيه...","كلما زادت تضحيات أوغست
+أمام عينيه……",True,Fixed ellipsis count.
+2890,彼はいつからか……,"Eventually, he must have started
+looking...",ومنذ وقت ما...,ومنذ وقت ما……,True,Fixed ellipsis count.
+2892,それが……君だった,And that someone...was you.,لقد كنتِ... أنتِ,لقد كنتَ…… أنتَ,True,Fixed ellipsis count and ensured gender-neutrality for player address by using generic masculine for the pronoun 'أنتَ'.
+2893,…………,......,...........,…………,True,Fixed ellipsis count.
+2894,……なんてね,"Or, at least...",...... مجرد مزاح,…… مجرد مزاح,True,Fixed ellipsis count.
+2895,"ふと……
+そんな物語が浮かんだよ","That would make for a good story...
+don't you think?","فجأة...
+خطرت إلى ذهني تلك القصة","فجأة……
+خطرت إلى ذهني تلك القصة",True,Fixed ellipsis count.

@@ -1,0 +1,49 @@
+=== id 19951 ===
+JA: あなたに
+話せることはないの……
+EN: It's nothing you need to know.
+BEFORE: لا يوجد شيء
+GEMINI: ليس هناك ما
+يمكنني قوله لك...
+REASON: The original translation was too short and missed the nuance. Added a more complete phrase and preserved the line break and ellipsis count.
+
+=== id 20349 ===
+JA: しょうがないなぁ
+特別だよ？
+EN: Aw, nuts...
+Fine. But just this once!
+BEFORE: لا بأس
+GEMINI: لا مفرّ إذًا…
+لكن لمرة واحدة فقط!
+REASON: The original Arabic 'لا بأس' is too weak and misses the reluctance ('Aw, nuts...') and the 'just this once' aspect of the Japanese source. Added a more complete translation that captures both nuances and preserved the line break.
+
+=== id 20410 ===
+JA: フフフ……
+あなたも私の虜ね
+EN: Hehehe... I see you, too, have
+become my captive.
+BEFORE: هيهيهي...
+GEMINI: هيهيهي... 
+أرى أنك أصبحت أسيري أيضًا.
+REASON: The original Arabic translation was truncated, missing the second part of the dialogue. Expanded to include the full meaning and added the line break as present in the Japanese source. Used past tense 'أصبحت' for player gender neutrality.
+
+=== id 20467 ===
+JA: チェ、人間かぁ……
+EN: A human? Baah...
+BEFORE: تشي، إنسانٌ أنتَ...
+GEMINI: تشي، إنسانٌ؟…
+REASON: Corrected ellipsis count from three to two (…… → …) and rephrased for gender-neutrality when addressing the player.
+
+=== id 19635 ===
+JA: フロストランド一帯を管轄する大司教。
+約２０年前、彼は聖火の力を各地に届ける
+“式年奉火の儀式”の大役を任された。
+苦難を伴うその儀式をやりとげた彼に対する
+人々の信頼は厚い。
+EN: An archbishop with jurisdiction over the Frostlands. He was entrusted with the great responsibility to perform the Kindling ceremony in order to spread the Sacred Flame's power over twenty years ago. While the task was an arduous one, the trust the people placed in him as a result was well worth the effort.
+BEFORE: الأرشوبسيس الذي يشرف على منطقة الأراضي الجليدية بأكملها.
+GEMINI: رئيس الأساقفة الذي يشرف على إقليم الأراضي الجليدية بأكمله.
+منذ حوالي 20 عامًا، أُوكلت إليه مهمة عظيمة لأداء "طقوس إشعال الشعلة السنوية" لنشر قوة الشعلة المقدسة في كل مكان.
+على الرغم من أن هذه الطقوس كانت محفوفة بالمصاعب، إلا أن ثقة الناس به بعد إنجازها كانت عظيمة.
+REASON: The original Arabic translation was incomplete. Added the missing sentences describing the Archbishop's history and the Kindling ceremony, corrected 'الأرشوبسيس' to 'رئيس الأساقفة', and preserved line breaks.
+

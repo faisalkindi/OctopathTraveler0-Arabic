@@ -1,0 +1,78 @@
+ID=38869
+JA: アトラスダムはシアトポリスから
+西に向かえば辿り着けます
+EN:Atlasdam lies to the west of
+Theatropolis.
+BEFORE:إذا اتجهت غرباً من سياتوبوليس، ستصل إلى أطلسدام
+AFTER:بالتوجه غربًا من سياتوبوليس، يمكن الوصول إلى أطلسدام
+REASON:Rephrased for gender-neutrality when addressing the player character, using a verbal noun and passive construction to avoid a visibly gendered present/future tense verb.
+----
+ID=38873
+JA: アトラスダムに行けば
+その写本の切れ端のこともわかるはずだ
+EN:You may learn something about
+the page in Atlasdam.
+BEFORE:إذا ذهبنا إلى أطلسدام
+فمن المفترض أن نعرف شيئاً عن تلك القطعة المقطوعة من المخطوطة
+AFTER:بالذهاب إلى أطلسدام، قد يتضح شيء عن تلك القطعة من المخطوطة
+REASON:Rephrased for gender-neutrality when addressing the player character, using a verbal noun and passive construction. The original 'إذا ذهبنا' implied 'we' and 'نعرف' was plural, while the English 'You may learn' suggests addressing the singular protagonist.
+----
+ID=39967
+JA: ……だが、羊飼いにとっては
+踏み殺させるだけが正解だろうか？
+EN:But is it right of the shepherd to
+allow them to?
+BEFORE:……ولكن، بالنسبة للراعي،
+هل هو الحل الصحيح أن يجعله يسحقهم فقط؟
+AFTER:……ولكن، بالنسبة للراعي،
+هل من الصواب أن يسمح لهم بذلك فقط؟
+REASON:Corrected the phrasing from 'أن يجعله يسحقهم فقط؟' (to make him crush them) to 'أن يسمح لهم بذلك فقط؟' (to allow them to do that) to accurately reflect the causative passive '踏み殺させる' (to allow to trample to death), where the sheep are the subject of the action.
+----
+ID=411712
+JA: たった１０００リーフで
+安心と安全を買えるぜ？
+EN:Only 1,000 leaves to ensure you
+never get robbed!
+BEFORE:مقابل 1000 ورقة فقط
+يمكنك شراء الطمأنينة والأمان؟
+AFTER:مقابل 1000 ورقة فقط
+ألا يمكن شراء الطمأنينة والأمان؟
+REASON:Rephrased 'يمكنك شراء' to 'ألا يمكن شراء' using a passive construction to ensure gender-neutral player address, as present-tense verbs like 'يمكنك' visibly mark gender.
+----
+ID=411727
+JA: すまないが、今日は宿に泊まって
+明日また来てくれないか？
+EN:My apologies, but would you kindly
+return here on the morrow? There's an
+inn nearby if you need accommodations.
+BEFORE:أعتذر، ولكن هل يمكنك المبيت في النزل الليلة
+والعودة غداً مرة أخرى؟
+AFTER:أعتذر، ولكن هل يمكن المبيت في النزل الليلة
+والعودة غداً مرة أخرى؟
+REASON:Rephrased 'هل يمكنك المبيت' to 'هل يمكن المبيت' using a passive construction to ensure gender-neutral player address, as present-tense verbs like 'يمكنك' visibly mark gender.
+----
+ID=412269
+JA: これ、使いますよね？
+EN:You use this sort of thing, yes?
+BEFORE:هذا، سيُستخدم، أليس كذلك؟
+AFTER:ألا تستخدم هذا؟
+REASON:The original passive voice 'سيُستخدم' loses the direct address to the player implied by the Japanese. Changed to a direct question using the generic masculine as a fallback for the player character, as per style guide.
+----
+ID=412362
+JA: 強大な力を感じる……
+EN:You sense a tremendous power.
+BEFORE:أشعر بقوة هائلة……
+AFTER:شُعِرَ بقوة هائلة……
+REASON:Changed 'أشعر بقوة هائلة' (I feel a tremendous power) to 'شُعِرَ بقوة هائلة' (A tremendous power was felt) to reflect the player character's sensation in a gender-neutral, past-tense passive form, suitable for a system message, as per the 'You sense' in English and player-address guidelines. Added minimal diacritics for clarity.
+----
+ID=412463
+JA: 君のおかげで宝石箱が戻ってきたよ
+本当にありがとう
+EN:Thank you for returning my jewelry
+box.
+BEFORE:بفضلك، استُعيدت صندوق الجواهر
+شكراً جزيلاً لك
+AFTER:بفضلك، استُعيدَ صندوق الجواهر
+شكراً جزيلاً لك
+REASON:Corrected subject-verb agreement: 'صندوق' (box) is masculine, so the passive verb should be 'استُعيدَ' (masculine) instead of 'استُعيدت' (feminine).
+----

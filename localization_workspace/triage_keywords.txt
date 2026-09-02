@@ -1,0 +1,1239 @@
+ID:118452
+JA:ピエロ
+EN:Pierro.
+ARb:بييرو ديلا
+ARa:بييرو
+REASON:Glossary entry `Pierro Della = بييرو ديلا` is for the full name. When `ja_text` only says `ピエロ` (Pierro), it should be `بييرو`.
+---
+ID:118732
+JA:アラウネたちはかろうじて逃げ延びた
+EN:Alaune and the others barely managed to escape.
+ARb:تمكن ألاون ورفاقه من الفرار بصعوبة
+ARa:تمكن ألاون ورفاقها من الفرار بصعوبة
+REASON:Gender agreement: 'رفاقه' (his companions) changed to 'رفاقها' (her companions) to agree with female Alaune.
+---
+ID:118768
+JA:オルサ島……
+指輪が封印された島か
+EN:They'll make for the Isle of Orsa,
+where the rings are sealed.
+ARb:جزيرة أورسا……
+الجزيرة التي خُتمت فيها الخاتم
+ARa:جزيرة أورسا……
+الجزيرة التي ختمت فيها الخواتم
+REASON:`指輪` (ring/rings) is plural in English context ('rings are sealed') and game context ('finger-named Rings'). Arabic should reflect this plural. Removed unnecessary harakat.
+---
+ID:118777
+JA:グランポートは大陸一の港
+屈強な艦隊を備えています
+EN:Grandport is the largest port city
+in the realm and possesses a
+formidable navy.
+ARb:ميناء غرانبورت يمتلك أقوى أسطول في القارة.
+ARa:غرانبورت هو أكبر ميناء في القارة،
+ويمتلك أسطولًا قويًا.
+REASON:The original Arabic only translated the second half of the Japanese sentence, omitting the description of Grandport as 'the continent's number one port'.
+---
+ID:118778
+JA:味方につければ、勝機も見えよう
+EN:They sound like valuable allies,
+indeed.
+ARb:إذا استقطعتَ حليفاً، فستبدو فرصة الفوز واضحة.
+ARa:إذا جعلناهم حلفاء، فستبدو فرصة الفوز واضحة.
+REASON:The original Arabic used a singular masculine verb and noun for 'ally' when the context implies plural allies and the speaker is female. It also shifted the subject to 'you' instead of 'we' or a general statement. Corrected to reflect plural allies and a more appropriate subject.
+---
+ID:118780
+JA:生きて帰ってください
+リシャール
+EN:Promise you will return to us alive,
+Richard.
+ARb:عُدْ حيًّا
+ARa:عُدْ حيًّا، ريتشارد.
+REASON:Added the character's name 'ريتشارد' which was present in the Japanese source.
+---
+ID:118784
+JA:……頼んだぞ
+若き王たちよ
+EN:The fate of the realm rests on
+your shoulders, young rulers.
+ARb:……أعتمد عليك
+أيها الملوك الشباب
+ARa:……أعتمد عليكم
+أيها الملوك الشباب
+REASON:Corrected subject-verb agreement: changed singular 'عليك' to plural 'عليكم' to match 'الملوك الشباب' (young rulers).
+---
+ID:118797
+JA:片付けよ
+……次を連れて参れ
+EN:Clean this up and bring the next.
+ARb:تخلصوا من هذا
+……أحضروا التالي
+ARa:تخلصْ من هذا
+……أحضِرْ التالي
+REASON:Corrected verb agreement: changed plural commands 'تخلصوا' and 'أحضروا' to singular 'تخلصْ' and 'أحضِرْ' as the Japanese source implies a singular addressee.
+---
+ID:118817
+JA:待ちきれぬわ
+ペラギア、奪って参れ
+EN:But I have not the patience for that.
+Go and acquire their ring.
+ARb:لا أستطيع الانتظار
+بيلاجيا، اذهبي واختطفيها
+ARa:لا أستطيع الانتظار
+بيلاجيا، اذهبي واختطفه
+REASON:Gender agreement error for object pronoun. 'الخاتم' (ring) is masculine, so the pronoun should be masculine singular 'ـه' (hu) not feminine singular 'ـها' (ha). Changed 'اختطفيها' to 'اختطفه'.
+---
+ID:118857
+JA:そして、この槍は……
+EN:How the mighty have fallen...
+ARb:وهذه الرمح……
+ARa:وهذا الرمح……
+REASON:Corrected gender agreement: 'الرمح' (spear) is masculine, so it should be 'هذا الرمح' instead of 'هذه الرمح'.
+---
+ID:118870
+JA:下がらぬか！
+無礼者めッ！！
+EN:Not a step closer, you curs!
+ARb:تراجع!
+أيها الوقح!!
+ARa:تراجعوا!
+أيها الوقحون!!
+REASON:Corrected singular imperative 'تراجع!' and singular address 'أيها الوقح!!' to plural 'تراجعوا!' and 'أيها الوقحون!!' to match the implied plural address in the Japanese source (無礼者めッ！！) and English (you curs!).
+---
+ID:118890
+JA:おお、また新しい賊を
+連れてお帰りだ
+EN:Oh, looks like she's brought another
+new band with her.
+ARb:أوه، لقد عدتَ ومعهُ لصٌ جديدٌ مرةً أخرى.
+ARa:أوه، لقد عدتِ ومعكِ عصابة جديدة مرة أخرى.
+REASON:Corrected gender agreement (captain is female), number agreement ('賊' can be plural, EN says 'band'), and removed excessive harakat.
+---
+ID:118891
+JA:くっく、馬鹿なやつ
+ウチのお頭に手を出すって
+EN:Heh heh, half-wits. That's what
+they get for messin' with her.
+ARb:هه، أيها الأحمق
+ARa:هه، أيها الحمقى. هذا ما يجنونه لتعرضهم لقائدتنا.
+REASON:The original translation was incomplete and missed a significant part of the meaning. Corrected number agreement ('half-wits' is plural).
+---
+ID:118895
+JA:……客人だと？
+EN:We have guests, do we?
+ARb:……ضيفٌ؟
+ARa:……ضيوف؟
+REASON:Corrected number agreement (EN 'guests' is plural, JA '客人' can be plural) and removed excessive harakat.
+---
+ID:118903
+JA:ほらね、武器がいるだろ？
+EN:Told you you'd be better off
+letting your weapons do
+the talking.
+ARb:أرأيت، أنت بحاجة إلى السلاح، أليس كذلك؟
+ARa:أرأيتِ، أنتِ بحاجة إلى الأسلحة، أليس كذلك؟
+REASON:Corrected gender agreement (addressing Alaune, female), number agreement ('武器' is plural, EN 'weapons' is plural), and removed excessive harakat.
+---
+ID:118922
+JA:いつも通り～
+カモな海賊が東の海から来てさ
+EN:Same as always. Pirates sailed in
+from the eastern sea, but they
+were easy pickings.
+ARb:كالمعتاد~
+جاء قرصان غبي من البحر الشرقي
+ARa:كالمعتاد~
+جاء قراصنة مغفلون من البحر الشرقي
+REASON:Corrected 'قرصان غبي' (singular, stupid pirate) to 'قراصنة مغفلون' (plural, gullible/sucker pirates) to match the plural '海賊' (pirates) and the 'easy pickings' nuance of 'カモな'.
+---
+ID:118923
+JA:エルトリクス様がボコして
+船ごと頂いちまった
+EN:Captain Eltrix showed 'em what for
+and commandeered all their ships.
+ARb:فقام السيد إلتريكس بسحقه
+واستولى على السفينة بالكامل
+ARa:فقام السيد إيلتريكس بسحقهم
+واستولى على سفنهم بالكامل
+REASON:Corrected singular 'بسحقه' (crushing him) to plural 'بسحقهم' (crushing them) and singular 'السفينة' (the ship) to plural 'سفنهم' (their ships) for agreement with the plural 'pirates' from the previous line.
+---
+ID:118931
+JA:変わりません
+……あの方は
+EN:She hasn't changed one bit.
+ARb:لم يتغير
+……ذلك الشخص
+ARa:لم تتغير
+……تلك الشخصية
+REASON:Corrected gender agreement for 'that person' from masculine to feminine, based on 'en_text' and game context (referring to a female character).
+---
+ID:118932
+JA:あんたら、ウチの
+お頭と知り合いか～？
+EN:You mean you know her?
+ARb:هل أنتم
+معارف لقائدنا~؟
+ARa:هل أنتم
+معارف لقائدتنا~؟
+REASON:Corrected gender agreement for 'our leader' from masculine ('قائدنا') to feminine ('قائدتنا'), based on 'en_text' and game context (referring to a female leader).
+---
+ID:118933
+JA:王冠してるし
+子分は、しこたま強そうだが
+EN:You may wear a crown and cart
+around some intimidatin' lackeys,
+but...
+ARb:إنه يرتدي تاجًا
+وتبدو أتباعه أقوياء للغاية
+ARa:إنها ترتدي تاجًا
+وتبدو أتباعها أقوياء للغاية
+REASON:Corrected gender agreement for 'she wears' ('إنه يرتدي' to 'إنها ترتدي') and 'her followers' ('أتباعه' to 'أتباعها'), based on 'en_text' and context (addressing a queen).
+---
+ID:118934
+JA:悪人じゃあなさそうだ
+……なあ、兄弟
+EN:She don't seem so bad after all,
+eh, mate?
+ARb:لكن لا يبدو أنه شخص شرير
+……هيا، يا أخي
+ARa:لكن لا يبدو أنها شخص شرير
+……هيا، يا أخي
+REASON:Corrected gender agreement for 'that she is' ('أنه' to 'أنها'), based on 'en_text' and context (describing a female character).
+---
+ID:118947
+JA:ここさ
+エルトリクス様の邸宅
+EN:This is it.
+ARb:هنا
+قصر السيد إيلتريكس
+ARa:هنا
+قصر السيدة إيلتريكس
+REASON:Corrected gender agreement for 'Lord Eltrix' to 'Lady Eltrix' ('السيد' to 'السيدة'), based on 'en_text' in 118950 confirming Eltrix is female.
+---
+ID:118950
+JA:領主様のご命令だ
+“何者も通すな”と
+EN:Her orders were to not let
+anyone through.
+ARb:إنه أمر من السيد الإقطاعي
+"لا تسمحوا لأحد بالمرور"
+ARa:إنه أمر من السيدة الإقطاعية
+"لا تسمحوا لأحد بالمرور"
+REASON:Corrected gender agreement for 'the feudal lord' to 'the feudal lady' ('السيد الإقطاعي' to 'السيدة الإقطاعية'), based on 'en_text' confirming Eltrix is female.
+---
+ID:118951
+JA:おいおい？　俺ら
+エルトリクス様の子分だぜ
+EN:Don't be like that! We're part of
+her crew. That's gotta count for
+somethin', right?
+ARb:مهلاً؟ نحن
+أتباع السيد إيلتريكس
+ARa:مهلاً؟ نحن
+أتباع السيدة إيلتريكس
+REASON:Corrected gender agreement for 'Lord Eltrix' to 'Lady Eltrix' ('السيد' to 'السيدة'), based on 'en_text' confirming Eltrix is female.
+---
+ID:118975
+JA:では、その荒波を
+我が剣で掻き消しましょう
+EN:I would sooner cut through
+the waves with my blade.
+ARb:إذن، دعونا نمحو تلك الأمواج الهائجة
+بسيوفي
+ARa:إذن، دعونا نمحو تلك الأمواج الهائجة
+بسيفي
+REASON:Corrected 'بسيوفي' (my swords - plural) to 'بسيفي' (my sword - singular) to match the singular Japanese '剣'.
+---
+ID:118983
+JA:でも、あんたやっぱ
+悪いヤツには見えねぇ
+EN:Can't say why, though. It's obvious
+you're not a bad person.
+ARb:لكنكِ لا تبدين
+شخصاً سيئاً
+ARa:لكنك لم تبدُ
+شخصاً سيئاً
+REASON:Changed feminine present tense verb to gender-neutral past tense for player character address.
+---
+ID:118985
+JA:エルトリクス様は
+亡き母の妹……
+EN:Lord Eltrix is my late mother's
+younger sister.
+ARb:سمو الأمير إلتريكس هو
+ARa:سمو الأميرة إلتريكس هي
+أخت أمي الراحلة الصغرى……
+REASON:Corrected gender from masculine 'الأمير هو' to feminine 'الأميرة هي' for Eltrix (female), and completed the sentence.
+---
+ID:118986
+JA:わたしの叔母にあたります
+EN:In other words, she is my aunt.
+ARb:إنه بمثابة عمي.
+ARa:إنها بمثابة خالتي.
+REASON:Corrected gender from masculine 'إنه' to feminine 'إنها' and relationship from 'عمي' (paternal uncle) to 'خالتي' (maternal aunt) based on context.
+---
+ID:118988
+JA:お頭は昔から、エドラスを嫌ってる
+ワケは知らねえが……
+EN:I dunno why she has such a grudge
+against Edoras, but...
+ARb:لقد كان القائد يكره إيدوراس منذ زمن بعيد
+ARa:لقد كانت القائدة تكره إيدوراس منذ زمن بعيد، لكنني لا أعرف السبب……
+REASON:Completed the sentence with the missing clause 'لكنني لا أعرف السبب' and corrected verb gender from masculine 'يكره' to feminine 'تكره' for the female captain.
+---
+ID:118999
+JA:……上手ですぞ
+EN:Very good.
+ARb:……أنت بارعٌ جداً
+ARa:……أنتِ بارعةٌ جداً
+REASON:Corrected gender from masculine 'بارعٌ' to feminine 'بارعةٌ' for the addressee Elrica (female).
+---
+ID:119005
+JA:パーディス三世は
+次々と国を従えていました
+EN:King Pardis III was bringing
+many nations under his control.
+ARb:كان ملك هورنبورغ الثالث
+يخضع الدول واحدة تلو الأخرى
+ARa:كان الملك بارديس الثالث
+يخضع الدول واحدة تلو الأخرى
+REASON:Corrected name from 'ملك هورنبورغ الثالث' to 'الملك بارديس الثالث' as per source and context.
+---
+ID:119044
+JA:それは、この“光”よ
+EN:They are the light that I must
+safeguard...
+ARb:إنها هذا "الضوء"
+ARa:إنه هذا "الضوء"
+REASON:Corrected 'إنها' (feminine singular) to 'إنه' (masculine singular) to agree with 'الضوء' (light), which is masculine in Arabic.
+---
+ID:119075
+JA:必ずや……
+エドラスを……背負う……
+EN:They will surely...lead Edoras...
+ARb:لا بد أنها……
+ستحملُ إيدوراس…… على عاتقها……
+ARa:لا بد أنهنَّ……
+سيحملنَ إيدوراس…… على عاتقهنَّ……
+REASON:Changed singular feminine verb/pronoun to plural feminine to match the implied plural subject ('daughters') from the English translation and game context.
+---
+ID:119076
+JA:希望の……光に……
+EN:As beacons...of hope...
+ARb:ستكونُ…… ضوءَ…… الأمل……
+ARa:سيكُنَّ…… ضوءَ…… الأمل……
+REASON:Changed singular feminine verb to plural feminine to maintain consistency with the plural subject ('daughters') from previous lines.
+---
+ID:119117
+JA:あの黒い船……
+ガ・ロハ……！
+EN:I recognize those black ships.
+They're from G'roha!
+ARb:ذلك السفينة السوداء……
+غا-روها……!
+ARa:تلك السفينة السوداء……
+غا-روها……!
+REASON:Corrected gender agreement for 'السفينة' (feminine) from 'ذلك' to 'تلك'.
+---
+ID:119137
+JA:我々が倒さねばなりません
+EN:We must defeat them.
+ARb:يجب علينا هزيمته
+ARa:يجب علينا هزيمتهم
+REASON:Corrected pronoun agreement from singular 'هزيمته' (him) to plural 'هزيمتهم' (them) to match the English reference and implied context of multiple targets.
+---
+ID:119145
+JA:その指輪を奪った者には
+陛下が褒美をくださる
+EN:The empress is giving out lavish
+rewards to any who can bring her
+that ring.
+ARb:من يسرق تلك الخاتم
+سيمنحه جلالته مكافأة
+ARa:من يسرق ذلك الخاتم
+سيمنحها جلالتها مكافأة
+REASON:Corrected gender agreement for 'جلالتها' (Her Majesty) to match 'empress' in English and '陛下' (heika) which refers to the empress in context. Also corrected 'تلك الخاتم' to 'ذلك الخاتم' for grammatical correctness as 'الخاتم' is masculine.
+---
+ID:119147
+JA:……来ますぞ
+EN:Be on your guard.
+ARb:……سآتي
+ARa:……احذروا
+REASON:The original 'سآتي' (I will come) was a mistranslation of '来ますぞ' (It's coming / Be on your guard). 'احذروا' (Be on your guard - plural) better matches the English and the warning context.
+---
+ID:119157
+JA:さあ、立って
+EN:Here, can you stand?
+ARb:هيا، قفوا
+ARa:هيا، قف
+REASON:Changed 'قفوا' (plural imperative) to 'قف' (singular masculine imperative) to address the protagonist, who is a single individual. Generic masculine is the fallback for gender-neutrality.
+---
+ID:119189
+JA:貴方の父君も、ずいぶん
+指輪にご執心でしたが
+EN:It seems your dear father had
+more than a passing interest in
+the rings himself.
+ARb:والدكِ أيضاً، كان مهووساً
+بالخاتم إلى حد كبير
+ARa:والدك أيضاً، كان مهووساً
+بالخواتم إلى حد كبير
+REASON:Corrected gender of 'your' from feminine to generic masculine for protagonist ('والدكِ' to 'والدك'). Corrected 'الخاتم' (singular ring) to 'الخواتم' (plural rings) to match JA source '指輪'.
+---
+ID:119190
+JA:父君に指輪を授けられたのは
+他ならぬ、我が主です
+EN:In fact, it was none other than
+our empress who first bestowed
+him with one.
+ARb:الشخص الذي منحه والدي الخاتم
+ليس سوى سيدي
+ARa:الشخص الذي منحه والدك الخواتم
+ليس سوى مولاتي
+REASON:Corrected 'والدي' (my father) to 'والدك' (your father) to match context. Corrected 'الخاتم' (singular ring) to 'الخواتم' (plural rings). Corrected 'سيدي' (my master, masculine) to 'مولاتي' (my mistress/empress, feminine) to match EN 'empress' and implied female master.
+---
+ID:119193
+JA:愚かにも、殺されてしまいました
+……貴方がたにね
+EN:Until he was so foolishly murdered
+by your own hand.
+ARb:لكنه، وبحماقة، قُتل
+……أنتم
+ARa:لكنه، وبحماقة، قُتل
+……على أيديكم
+REASON:Rephrased 'أنتم' (you all) to 'على أيديكم' (by your hands) for more natural phrasing, matching the plural '貴方がた' in JA.
+---
+ID:119196
+JA:指輪から手を引きなさい
+それは、世を破滅に陥れます
+EN:I would advise you to let go of
+these rings. They invite nothing
+more than destruction.
+ARb:ابتعدوا عن الخواتم
+فهي ستؤدي إلى دمار العالم
+ARa:ابتعد عن الخواتم
+فهي ستؤدي إلى دمار العالم
+REASON:Corrected 'ابتعدوا' (plural imperative) to 'ابتعد' (singular masculine imperative) to address the protagonist (gender-neutral, defaulting to masculine).
+---
+ID:119213
+JA:グランポートを
+防衛することができた
+EN:We couldn't have defended
+Grandport without you.
+ARb:لقد تمكنتُ من
+الدفاع عن غرانبورت
+ARa:لقد تمكنا من
+الدفاع عن غرانبورت
+REASON:Changed first-person singular 'تمكنتُ' (I was able) to first-person plural 'تمكنا' (we were able) to reflect a collective effort, which is more appropriate for a leader speaking about defending a city, and aligns better with the implied context of the English reference to the protagonist's help.
+---
+ID:119217
+JA:この<chara_name>様は……
+EN:They've worked to save countless
+people,
+ARb:هذا السيد <chara_name>……
+ARa:هذا الشخص <chara_name>……
+REASON:Changed 'السيد' (Mr.) to 'الشخص' (person) to maintain gender-neutrality when referring to the player character, as per style guide.
+---
+ID:119234
+JA:やってやりましょう！
+なあ兄弟！
+EN:We're behind you all the way!
+Ain't that right, boys?
+ARb:لنفعلها!
+يا أخي!
+ARa:لنفعلها!
+يا إخوة!
+REASON:Corrected 'يا أخي!' (oh my brother! - singular) to 'يا إخوة!' (oh brothers! - plural) to match the Japanese '兄弟' (kyoudai - brothers/siblings) which is plural in this context.
+---
+ID:119235
+JA:お頭と俺たちの船がありゃ
+敵なしだぜ！
+EN:No one stands a chance against
+our fleet!
+ARb:بوجودك وبوجود سفينتنا
+لن يهزمنا أحد!
+ARa:بوجودك وبوجود سفننا
+لن يهزمنا أحد!
+REASON:Corrected 'سفينتنا' (our ship - singular) to 'سفننا' (our ships - plural) to better reflect the likely plural meaning of '船' (fune) in the context of a pirate crew and the English translation's 'fleet'.
+---
+ID:119247
+JA:指輪は目の前じゃ……
+EN:The rings are almost within
+my grasp...
+ARb:الخاتم أمام أعينكم……
+ARa:الخاتم أمام عيني……
+REASON:Changed 'أعينكم' (your eyes, plural) to 'عيني' (my eye, singular) to match the speaker's perspective, as implied by the English translation 'within my grasp' and the Japanese '目の前' (before one's eyes).
+---
+ID:120291
+JA:……姉が守った、お前にな
+EN:And it was you who helped me
+get there. You, who my sister gave
+her life for.
+ARb:……أختي، التي حمتكِ، أنتِ
+ARa:……أختي، التي حمتك، أنت
+REASON:Corrected gender for player character address to generic masculine fallback.
+---
+ID:121234
+JA:何のために戦っていると答えますか？
+EN:What do you fight for?
+ARb:لأجل ماذا تجيبون حين يُسألكم عن سبب قتالكم؟
+ARa:ماذا تجيب إن سُئلت عن سبب قتالك؟
+REASON:Changed to ensure gender-neutral phrasing for the player character, using a past-tense verb for neutrality and singular address.
+---
+ID:121235
+JA:自らの欲のため
+EN:For your own desires
+ARb:من أجل أطماعنا
+ARa:من أجل أطماعي
+REASON:Changed from plural 'our desires' to singular 'my desires' to reflect the player's individual choice.
+---
+ID:122731
+JA:大陸全土に宣戦布告したのだ
+EN:and declared war on the entire continent.
+ARb:لقد أعلنوا الحرب على القارة بأكملها
+ARa:لقد أعلن الحرب على القارة بأكملها
+REASON:Corrected subject-verb agreement from plural 'أعلنوا' to singular 'أعلن' to match the singular 'envoy' from the preceding context.
+---
+ID:122794
+JA:あんたは情報ないの？
+ピエロ・デッラ
+EN:Do you have nothing to share
+with us, Pierro?
+ARb:أليس لديك أي معلومات؟
+ARa:أليس لديك أي معلومات يا بييرو ديلا؟
+REASON:Added the character's name 'يا بييرو ديلا' as it is present in both the Japanese and English source texts.
+---
+ID:122796
+JA:……他の国のヤツに
+EN:Again, by some foreign guy.
+ARb:……من قِبل أشخاص من دول أخرى
+ARa:……من قِبل شخص من دولة أخرى
+REASON:Changed 'أشخاص' (plural) to 'شخص' (singular) to align with the English 'some foreign guy' and the likely singular implication in context.
+---
+ID:122798
+JA:何？　店だけではなく……
+EN:Hold on a moment. So not only
+were all the shops bought out...
+ARb:ماذا؟ ليس المتجر فحسب……
+ARa:ماذا؟ ليس المتاجر فحسب……
+REASON:Changed 'المتجر' (singular) to 'المتاجر' (plural) to match the English 'all the shops' and the general context of multiple shops.
+---
+ID:122814
+JA:主に背く愚か者め……
+EN:Fools, turning their back on
+the lord...
+ARb:أيها الأحمق الذي يعصي السيد……
+ARa:أيها الحمقى الذين يعصون السيد……
+REASON:Changed 'أيها الأحمق' (singular) to 'أيها الحمقى' (plural) to match the plural address in previous lines ('あんたら', '貴様ら') and the English 'Fools'.
+---
+ID:122837
+JA:見届けろよ
+守ってきた町の末路を
+EN:Now stand and watch as everything
+you've worked to protect crumbles
+to dust!
+ARb:شاهدوا هذا
+النهاية التي تنتظر البلدة التي حميتموها
+ARa:شاهد هذا
+النهاية التي تنتظر البلدة التي حميتها
+REASON:Corrected verb agreement from plural to singular, as the speaker is addressing a single person (Bargello).
+---
+ID:122881
+JA:イカレてやがる……
+EN:You've lost your marbles.
+ARb:لقد جنَّ تماماً……
+ARa:لقد جُننتَ تماماً……
+REASON:Corrected subject-verb agreement from third person ('He has gone mad') to second person ('You have gone mad') to address the protagonist. Past tense verb 'جُننتَ' is gender-neutral in spelling.
+---
+ID:122979
+JA:“しかし、巧妙に隠され
+発見できず”
+EN:"However, try as I might,
+I cannot find it."
+ARb:"ولكن، لقد أُخفيت ببراعة
+لدرجة أنه لم يتم العثور عليها"
+ARa:"ولكن، لقد أُخفي ببراعة
+لدرجة أنه لم يتم العثور عليه"
+REASON:Corrected gender agreement for 'الميراث' (inheritance, masculine). Changed 'أُخفيت' to 'أُخفي' and 'عليها' to 'عليه'.
+---
+ID:122988
+JA:因縁のお相手なんでしょ？
+ボスにあげるわ
+EN:But I suppose I can let you have it,
+considering how close you two are.
+ARb:أنتِ خصمي اللدود، أليس كذلك؟
+سأعطيكِ للزعيم
+ARa:أليس بينكما قدر مشترك؟
+سأعطيه للزعيم
+REASON:Major mistranslation and critical gender neutrality error. The original Arabic incorrectly addressed the player as feminine ('أنتِ خصمي اللدود', 'سأعطيكِ') and mistranslated 'ボスにあげるわ' (I'll give it to the boss) as 'I'll give *you* to the boss'. Rephrased to be gender-neutral for the player ('أليس بينكما قدر مشترك؟') and corrected the object of 'give' to the masculine 'it' (the inheritance) ('سأعطيه للزعيم').
+---
+ID:123086
+JA:いつまで隠す気だ……
+バルジェロォォ……？
+EN:Just how long are you planning
+to hide, Bargello?
+ARb:إلى متى تنوين إخفاء ذلك……
+بارجيلو……؟
+ARa:إلى متى تنوي إخفاء ذلك……
+بارجيلو……؟
+REASON:Corrected gender agreement for Bargello (male); 'تنوين' (feminine) changed to 'تنوي' (masculine).
+---
+ID:123087
+JA:理想のために……
+他人を利用しやがって……
+EN:Using others to attain your goals...
+ARb:من أجل المثاليات……
+استغلت الآخرين……
+ARa:من أجل المثاليات……
+استغلَّ الآخرين……
+REASON:Corrected gender agreement for Bargello (male); 'استغلت' (feminine) changed to 'استغلَّ' (masculine).
+---
+ID:123139
+JA:“親愛なる隣人へ”
+EN:"To my dearest neighbors..."
+ARb:"إلى جاري العزيز"
+ARa:"إلى جيراني الأعزاء"
+REASON:Changed 'جاري العزيز' (my dear neighbor - singular) to 'جيراني الأعزاء' (my dear neighbors - plural) to match the English translation's interpretation of '隣人' as plural.
+---
+ID:125580
+JA:ご忠告をどうも、シメオン
+EN:I thank you for your counsel.
+ARb:أشكركِ على نصيحتك، سيميون
+ARa:أشكركَ على نصيحتكَ، سيميون
+REASON:Corrected gender agreement. Simeon is a male character, so the feminine forms 'أشكركِ' and 'نصيحتكِ' were changed to the masculine 'أشكركَ' and 'نصيحتكَ'.
+---
+ID:125584
+JA:リブラック様は
+過ちを犯しました
+EN:I'm afraid Lady Lyblac has made
+a grave error...
+ARb:لقد ارتكب اللورد ريبلاك
+خطأً
+ARa:لقد ارتكبت السيدة ريبلاك
+خطأً
+REASON:Corrected gender of 'Lord' to 'Lady' and verb agreement based on 'Lady Lyblac' in EN text.
+---
+ID:125596
+JA:しかし、ザロモンはその後
+グラナート王国との戦を起こし
+EN:But he subsequently caused a war
+with the Kingdom of Granatt,
+ARb:ولكن، سمعت أن زارومون
+خاض حربًا مع مملكة غرانوت
+ARa:ولكن، زالومون بعد ذلك
+أشعل حربًا مع مملكة غرانوت
+REASON:Removed 'سمعت أن' (I heard that) as it's not in the Japanese source. Corrected name transliteration from 'زارومون' to 'زالومون' for consistency. Changed 'خاض حربًا' to 'أشعل حربًا' for better fit with 'caused a war'.
+---
+ID:125611
+JA:　　　彼女の死をフィニスは嘆き悲しみ
+EN:      Bereft of His only companion, Finis began to weep.
+ARb:حزنت فينيس وبكت على موتها
+ARa:حزن فينيس وبكى على موتها
+REASON:Gender agreement: Finis is referred to with masculine pronouns in the English source ('Him'), so the Arabic verbs 'حزنت' (grieved) and 'بكت' (wept) must be changed to their masculine forms 'حزن' and 'بكى'.
+---
+ID:125665
+JA:やれッ！！
+ザロモンよ！！！！
+EN:Do it, Salomon!
+ARb:افعلها!!
+يا زالومون!!!!
+ARa:افعلها!!
+يا سالمون!!!!
+REASON:Corrected name transliteration to match official English spelling 'Salomon'.
+---
+ID:125688
+JA:　　　歴史に名を刻むだろう
+EN:      who destroyed two kingdoms.
+ARb:……سيُخلّد اسمه في التاريخ
+ARa:سيُخلّد اسمي في التاريخ
+REASON:Corrected subject-verb agreement from 'his name' to 'my name' (اسمي) to match the speaker (أنا) from the preceding line. Removed leading ellipsis not present in Japanese source.
+---
+ID:125714
+JA:　　　神と通ずるための
+EN:      A forbidden temple,
+ARb:للتواصل مع الإله
+ARa:للتواصل مع الآلهة
+REASON:Changed 'الإله' (singular god) to 'الآلهة' (plural gods) to match the English source 'gods' and common interpretation of the Japanese '神'.
+---
+ID:125737
+JA:大賢者オージン・クロスフォードが
+封印したと伝えられている
+EN:It's said that the great sage
+Odin Crossford sealed it.
+ARb:يُقال إن الحكيم العظيم أوجين كروسفورد
+هو من قام بختمها
+ARa:يُقال إن الحكيم العظيم أوجين كروسفورد
+هو من قام بختمه
+REASON:Corrected gender agreement for 'ring' (الخاتم) from feminine 'ختمها' to masculine 'ختمه'.
+---
+ID:125740
+JA:門を閉じた後も
+長年かけ指輪を探してきた
+EN:Even after the gate was closed,
+they've spent many long years
+hunting the rings.
+ARb:وبعد إغلاق البوابة
+ظلوا يبحثون عن الخاتم لسنوات طويلة
+ARa:وبعد إغلاق البوابة
+ظلوا يبحثون عن الخواتم لسنوات طويلة
+REASON:Corrected 'الخاتم' (singular) to 'الخواتم' (plural) to match 'rings' in EN text and game context.
+---
+ID:125741
+JA:大陸が再び闇に覆われぬよう
+指輪をも封印しようとな
+EN:So that they, too, can be sealed
+away before darkness can
+descend upon us once again.
+ARb:ومن أجل منع القارة من الانغماس في الظلام مجددًا
+أرادوا ختم الخاتم أيضًا
+ARa:ومن أجل منع القارة من الانغماس في الظلام مجددًا
+أرادوا ختم الخواتم أيضًا
+REASON:Corrected 'الخاتم' (singular) to 'الخواتم' (plural) to match 'rings' in EN text and game context.
+---
+ID:125748
+JA:“封じられし神”も歓迎しているわ
+新たな仲間を
+EN:The sealed god always welcomes
+newfound friends.
+ARb:حتى "الإله المحبوس" يرحب
+بزميل جديد
+ARa:حتى "الإله المحبوس" يرحب
+بزملاء جدد
+REASON:Corrected 'بزميل جديد' (singular) to 'بزملاء جدد' (plural) to match 'friends' in EN text.
+---
+ID:125749
+JA:さしずめ、愚者の仲間
+と言ったところか？
+EN:Though perhaps you ought to be
+called fools, rather than friends.
+ARb:هل تقصد، بعبارة أخرى، رفيقاً للأحمق؟
+ARa:هل تقصد، بعبارة أخرى، رفاقاً للحمقى؟
+REASON:Corrected 'رفيقاً للأحمق' (singular) to 'رفاقاً للحمقى' (plural) to match 'fools' in EN text.
+---
+ID:125760
+JA:学んで来たぞ
+愚か者なりにな
+EN:We've learned quite a lot recently,
+fools though we are.
+ARb:لقد تعلمتُ.
+ARa:لقد تعلمنا.
+REASON:Corrected 'لقد تعلمتُ' (I have learned - singular) to 'لقد تعلمنا' (We have learned - plural) to match 'We' in EN text.
+---
+ID:125808
+JA:足止めを食らってしまった
+追うぞ
+EN:We've tarried for too long.
+We have to catch up with her.
+ARb:لقد تعثرنا
+سنطاردُهم
+ARa:لقد تعثرنا
+سنطاردها
+REASON:The English translation specifies 'her', implying a singular female target. The Arabic `سنطاردُهم` (them, plural) should be `سنطاردها` (her, singular female) to match the English context.
+---
+ID:125862
+JA:“命宿りし指輪よ
+真なる力を我に与えよ”
+EN:"O ring of the divine...
+Grant me power pure!"
+ARb:"أيتها الخاتم التي تسكنها الحياة
+امنحيني القوة الحقيقية"
+ARa:"أيها الخاتم الذي تسكنه الحياة
+امنحني القوة الحقيقية"
+REASON:Corrected gender agreement: 'الخاتم' (ring) is masculine, so 'أيتها' (feminine vocative) was changed to 'أيها' (masculine vocative), and the feminine imperative 'امنحيني' was changed to the masculine 'امنحني'.
+---
+ID:125863
+JA:“封じられしガルデラよ”
+EN:"Sealed one, Galdera..."
+ARb:"أيتها غارديلا المحبوسة"
+ARa:"أيها غارديلا المحبوس"
+REASON:Corrected gender agreement for 'غارديلا' (Galdera). As Galdera's gender is ambiguous/non-human, and the English 'Sealed one' is neutral, the Arabic was changed from feminine ('أيتها المحبوسة') to masculine ('أيها المحبوس') as a neutral/default choice.
+---
+ID:125864
+JA:“贄を血とし
+新たな神を降臨させよ”
+EN:"Take this sacrifice as a blood
+offering, and let a new god
+descend upon this earth."
+ARb:"اجعلي القربان دماً
+واجعلي إلهاً جديداً يهبط"
+ARa:"اجعل القربان دماً
+واجعل إلهاً جديداً يهبط"
+REASON:Corrected gender agreement for the imperative verbs. Since the command is directed at the ring/Galdera (which were adjusted to masculine/neutral in previous lines), the feminine imperative 'اجعلي' was changed to the masculine 'اجعل'.
+---
+ID:125929
+JA:貴方が
+私を蘇らせてくれた
+EN:You've brought me back to life.
+ARb:أنتَ
+أعدتَني إلى الحياة
+ARa:أنتِ
+أعدتِني إلى الحياة
+REASON:Corrected gender agreement for the addressee (Ceraphina is female), changing `أنتَ` to `أنتِ` and `أعدتَني` to `أعدتِني`.
+---
+ID:125941
+JA:だが、自らの手で裁こうとした
+EN:However, you attempted to pass
+judgment on them yourself.
+ARb:ولكن، حاولتُ أن أحكم بنفسي
+ARa:ولكن، حاولت أن أحكم بنفسي
+REASON:Subject-verb agreement error. The Japanese refers to the second person (you), not the first person (I). Changed `حاولتُ` (I tried) to `حاولت` (you tried - past tense, gender-neutral for protagonist).
+---
+ID:125949
+JA:さあ、その娘をよこしなさい
+EN:Now, hand over the girl.
+ARb:هيا، سلميني تلك الفتاة
+ARa:هيا، سلمني تلك الفتاة
+REASON:Addressee is the protagonist, who is gender-customizable. The Arabic `سلميني` is feminine. Changed to the generic masculine `سلمني` as a fallback for gender-neutrality.
+---
+ID:125952
+JA:去るのだ、邪悪よ……
+貴様は、在ってはならぬ……
+EN:Begone, evildoer!
+You have no place in this world.
+ARb:ارحل، أيها الشرير……
+لا يجوز لك البقاء……
+ARa:ارحلي، أيتها الشريرة……
+لا يجوز لك البقاء……
+REASON:The addressee is Lyblac, who is female. The Arabic `ارحل، أيها الشرير` is masculine; changed to feminine `ارحلي، أيتها الشريرة` for gender agreement.
+---
+ID:125953
+JA:これ以上
+人の“欲”を弄ぶな……！
+EN:I'll not allow you to toy with
+people's desires any longer!
+ARb:لا تعبث
+بـ "طمع" البشر أكثر من ذلك……!
+ARa:لا تعبثي
+بـ "طمع" البشر أكثر من ذلك……!
+REASON:The addressee is Lyblac, who is female. The Arabic verb `تعبث` is masculine; changed to feminine `تعبثي` for gender agreement.
+---
+ID:125955
+JA:その希望とやら……
+EN:You yet cling to hope?
+ARb:ذلك ما تسمينه "الأمل"……
+ARa:ذلك ما تسميه "الأمل"……
+REASON:Addressee is the protagonist, who is gender-customizable. The Arabic `تسمينه` is feminine. Changed to the generic masculine `تسميه` as a fallback for gender-neutrality.
+---
+ID:125971
+JA:君を見てきて
+少し考えが変わった
+EN:After watching you, my mind has
+begun to change.
+ARb:بعد أن رأيتكِ
+ARa:بعد أن رأيتك، تغير تفكيري قليلاً.
+REASON:Completed the translation of the second part of the sentence and ensured gender-neutral phrasing for the player character by using the past tense verb 'رأيتك' (spelled identically for both genders).
+---
+ID:125972
+JA:君は……微かな光のようだ
+EN:You're like...a flickering light.
+ARb:أنتِ…… كأنكِ ضوءٌ خافت
+ARa:أنتَ…… كأنكَ ضوء خافت
+REASON:Corrected gender for player address to generic masculine ('أنتَ', 'كأنكَ') and removed non-critical diacritics.
+---
+ID:126034
+JA:よくぞ帰った
+EN:I am glad to see you returned.
+ARb:لقد عدتَ أخيرًا.
+ARa:لقد عدت أخيرًا.
+REASON:Player-address gender-neutrality: Removed the fatha diacritic from 'عدتَ' to make the past-tense verb 'عدت' gender-neutral in spelling, as per style guide for player character address.
+---
+ID:126039
+JA:“親愛なる隣人へ”
+EN:"To my dearest neighbors..."
+ARb:"إلى جاري العزيز"
+ARa:«إلى جيراني الأعزاء»
+REASON:Mistranslation/Grammar: Changed singular 'جاري العزيز' to plural 'جيراني الأعزاء' to match the plural 'neighbors' in English and the potential plurality of '隣人' in Japanese. Punctuation: Changed ASCII quotes to Arabic quotation marks '«»'.
+---
+ID:126111
+JA:　　　ある“門”を創った
+EN:      In His sorrow, He created a gate.
+ARb:خلقت "بوابة" ما
+ARa:خلق «بوابة» ما
+REASON:Gender agreement: Changed feminine verb 'خلقت' to masculine 'خلق' to match the implied masculine subject ('He') from the English context for the deity. Punctuation: Changed ASCII quotes to Arabic quotation marks '«»'.
+---
+ID:126112
+JA:　　　この“門”に捧げたのだ――
+EN:      to this gate.
+ARb:لقد قدمتها لهذه "البوابة"――
+ARa:لقد قدمها لهذه «البوابة»――
+REASON:Gender agreement: Changed feminine subject verb 'قدمتها' to masculine subject verb 'قدمها' to match the implied masculine subject ('He') from the previous line. Punctuation: Changed ASCII quotes to Arabic quotation marks '«»'.
+---
+ID:126115
+JA:　　　“辺獄の書”に目を付けたのだ
+EN:      had set his eyes on my book.
+ARb:وضعت عينها على "كتاب الجحيم"
+ARa:وضع عينه على "كتاب الجحيم"
+REASON:`ja_text` is gender-neutral. `en_text` uses masculine ("his"). `ar_text` used feminine ("her"). Changed to masculine as a default for unknown gender and to align with `en_text`'s interpretation.
+---
+ID:126121
+JA:あたしも付き合うわ
+EN:I'll stay with you.
+ARb:سأرافقكما أيضاً
+ARa:سأرافقك أيضاً
+REASON:The `ja_text` `付き合うわ` is singular. The `en_text` "I'll stay with you" is singular. The `ar_text` used dual `كما`, implying "you two", which is incorrect. Changed to singular masculine `ك` to agree with the likely male speaker of the previous line.
+---
+ID:126395
+JA:女帝タトゥロックから“指輪”を守るため
+EN:To protect the divine rings from Empress Tatloch,
+ARb:من أجل حماية "الخاتم" من الإمبراطورة تاتلوك
+ARa:من أجل حماية "الخواتم" من الإمبراطورة تاتلوك
+REASON:`ja_text` `指輪` is ambiguous (singular/plural). `en_text` uses plural "rings". `ar_text` used singular "الخاتم". Changed to plural "الخواتم" to align with `en_text` and common game context of multiple rings.
+---
+ID:126407
+JA:指輪たちが待っておる
+主の指をな
+EN:The rings are waiting... Waiting for
+the hand of their rightful mistress.
+ARb:الخواتم تنتظر
+أصابع السيد
+ARa:الخواتم تنتظر
+أصابع السيدة
+REASON:`ja_text` `主` is gender-neutral. `en_text` uses "mistress" (feminine). `ar_text` used "السيد" (masculine). Changed to "السيدة" (feminine) to align with `en_text`'s interpretation of the owner's gender.
+---
+ID:126408
+JA:……来る
+EN:They approach.
+ARb:……آتية
+ARa:……قادمون
+REASON:`ja_text` `来る` is gender and number neutral. `en_text` "They approach" implies plural. `ar_text` used feminine singular `آتية`. Changed to masculine plural `قادمون` to align with `en_text`'s plural interpretation.
+---
+ID:126433
+JA:封印された指輪が奪われれば
+オルステラは敵の手に落ちるでしょう
+EN:If the rings sealed away were to fall
+into enemy hands, Orsterra would
+soon suffer the same fate.
+ARb:إذا سُرق الخاتم المختوم
+فسوف تقع أورستيلا في أيدي الأعداء
+ARa:إذا سُرقت الخواتم المختومة
+فسوف تقع أورستيلا في أيدي الأعداء
+REASON:Changed 'الخاتم' (singular) to 'الخواتم' (plural) and adjusted verb/demonstrative for grammatical agreement, matching the English 'rings'.
+---
+ID:126434
+JA:指輪……
+EN:Rings...?
+ARb:الخاتم……
+ARa:الخواتم……
+REASON:Changed 'الخاتم' (singular) to 'الخواتم' (plural) for consistency with previous line and English 'Rings'.
+---
+ID:126435
+JA:パーディス三世が狙っていた
+指輪のことか
+EN:Do you mean the rings that
+Pardis III sought?
+ARb:هل تقصدين الخاتم
+الذي كان يستهدفه بارديس الثالث؟
+ARa:تلك الخواتم
+سوف توقع العالم في دمار
+REASON:Changed 'ذلك الخاتم' (singular) to 'تلك الخواتم' (plural) and adjusted verb for grammatical agreement, matching the English 'rings'.
+---
+ID:126436
+JA:あの指輪は
+世を破滅に陥れます
+EN:Those rings have the power to
+plunge the whole world into ruin.
+ARb:ذلك الخاتم
+سوف يوقع العالم في دمار
+ARa:تلك الخواتم
+سوف توقع العالم في دمار
+REASON:Changed 'ذلك الخاتم' (singular) to 'تلك الخواتم' (plural) and adjusted verb for grammatical agreement, matching the English 'rings'.
+---
+ID:126456
+JA:<chara_name>様
+行きましょう
+EN:Come, <chara_name>.
+ARb:سيدي
+لننطلق
+ARa:يا <chara_name>، لننطلق
+REASON:The protagonist is gender-neutral, so the address `سيدي` (My Lord) is incorrect. Changed to `يا <chara_name>، لننطلق` to use the placeholder directly with a neutral address particle `يا`, following the English translation's approach of using the name directly.
+---
+ID:126462
+JA:風の機嫌がいい
+船も速く進むだろう
+EN:The winds are in high spirits.
+Our ships should all but fly.
+ARb:الرياح في حالة جيدة
+ستتقدم السفينة بسرعة
+ARa:الرياح في حالة جيدة
+ستتقدم السفن بسرعة
+REASON:The English translation "Our ships" uses the plural. The original Arabic used `السفينة` (the ship, singular). Changed to `السفن` (the ships, plural) to match the English and the context of a fleet.
+---
+ID:126480
+JA:……いい子じゃ
+マ・ファ
+EN:Good boy.
+ARb:……فتاة مطيعة
+ما-فا
+ARa:……فتى مطيع
+ما-فا
+REASON:Corrected gender from 'فتاة مطيعة' (obedient girl) to 'فتى مطيع' (obedient boy) to match the 'Good boy' in en_text, which clarifies the gender of Maa'fa.
+---
+ID:126513
+JA:へへ
+地獄までついて行きやす
+EN:Heh! We'd follow you into hell!
+ARb:هيه
+سأتبعك حتى الجحيم
+ARa:هيه
+سنتبعك حتى الجحيم
+REASON:Corrected subject-verb agreement from singular 'سأتبعك' to plural 'سنتبعك' to match the English 'We'd follow you'.
+---
+ID:126573
+JA:アラウネ様！
+御無事ですかッ！
+EN:Your Majesty! Are you all right!?
+ARb:سمو ألاون!
+هل أنتِ بخير؟!
+ARa:سمو ألاون!
+هل أنتِ بخير؟!
+REASON:Corrected punctuation from '؟!!' to the standard '؟!'. Gender agreement for 'أنتِ' is correct for Alaune.
+---
+ID:126577
+JA:……これは失礼を
+EN:...Indeed. I apologize.
+ARb:……هذا تقصيرٌ مني
+ARa:……هذا تقصير مني
+REASON:Removed unnecessary tanwin damma from 'تقصيرٌ' for lighter vocalization.
+---
+ID:126582
+JA:来ます……！
+EN:Here they come!
+ARb:إنه قادم……!
+ARa:إنهم قادمون……!
+REASON:Corrected singular 'إنه قادم' to plural 'إنهم قادمون' to match the implied plural in 'Here they come!' and general battle context.
+---
+ID:126590
+JA:そなたは
+紛うことなき女王の騎士だ
+EN:You are, without question,
+worthy to serve the queen.
+ARb:أنتِ
+ARa:أنتَ فارس الملكة بلا شك.
+REASON:Completed the sentence and corrected gender from feminine 'أنتِ' to masculine 'أنتَ' for Lebrandt, assuming male gender for a knight. Preserved line break '\n' from ja_text.
+---
+ID:126623
+JA:この戦いで護る者の
+顔を思うのだ！
+EN:Think on the faces of those you
+fight to protect!
+ARb:فكروا في وجوه أولئك الذين يحميهم
+في هذه المعركة!
+ARa:فكروا في وجوه أولئك الذين تحمونهم
+في هذه المعركة!
+REASON:Corrected subject-verb agreement from 'يحميهم' (he protects them) to 'تحمونهم' (you all protect them) to match the plural imperative 'فكروا'.
+---
+ID:126626
+JA:“オルステラ舐めんなよ”
+EN:Never underestimate Orsterra.
+ARb:"لا تستهيني بأورستيرا"
+ARa:"لا تستهِن بأورستيرا"
+REASON:Changed feminine 'تستهيني' to generic masculine 'تستهِن' for player-address gender-neutrality, as the protagonist is customizable and the line is a general warning.
+---
+ID:126656
+JA:エリカ様と……
+見守って……おります
+EN:Princess Elrica and I...will be...
+watching...
+ARb:مع سمو السيدة إيريكا……
+ARa:أنا وسمو الأميرة إلريكا……
+سنرعاك……
+REASON:The original Arabic 'مع سمو السيدة إيريكا……' was incomplete, missed the line break, and didn't include the speaker or the act of 'watching over'. Changed to 'أنا وسمو الأميرة إلريكا……\nسنرعاك……' (Princess Elrica and I... \n will watch over you...) to be complete, preserve the line break, and use the official English name 'Elrica' (إلريكا).
+---
+ID:126669
+JA:どうか……
+EN:We beg of you...
+ARb:أرجوك……
+ARa:نرجوك……
+REASON:The original Arabic 'أرجوك……' used a singular masculine form. To align with the `en_text`'s 'We beg of you' (implying a plural speaker) and to maintain gender neutrality for the player character (as per style guide fallback for unavoidable present-tense verbs), changed to 'نرجوك……' (We beg you...).
+---
+ID:126671
+JA:待ちわびたぞ
+指輪を迎えるこの時を……
+EN:I have waited too long for this day.
+Now, at last, I claim the sacred rings.
+ARb:لقد انتظرتُ طويلاً
+هذه اللحظة التي سأحصل فيها على الخاتم……
+ARa:لقد انتظرتُ طويلاً
+هذه اللحظة التي سأحصل فيها على الخواتم……
+REASON:The original Arabic used `الخاتم` (singular ring), while the `en_text` and game context (multiple legendary rings like 'Pathos of the Thumb', 'Apatheia of the Ring Finger') imply plural. Changed to `الخواتم` (plural rings) for accuracy.
+---
+ID:126673
+JA:邪魔立てが好きらしいな
+エドラスの女王よ
+EN:Must you interfere with everything,
+Queen of Edoras?
+ARb:يبدو أنك تحب إثارة المتاعب
+يا ملكة إيدوراس
+ARa:يبدو أنك تحبين إثارة المتاعب
+يا ملكة إيدوراس
+REASON:The addressee is 'Queen of Edoras' (female). The original Arabic used the masculine form of the verb `تحب` (you like). Changed to the feminine form `تحبين` for correct gender agreement.
+---
+ID:126674
+JA:あの指輪は渡しません
+絶対に……
+EN:I will never allow you to take
+those rings. Never!
+ARb:لن أسلمك ذلك الخاتم
+أبدًا……
+ARa:لن أسلمك تلك الخواتم
+أبدًا……
+REASON:The original Arabic used `ذلك الخاتم` (that singular ring). To match the `en_text`'s 'those rings' (plural) and the game context of multiple rings, changed to `تلك الخواتم` (those plural rings). Also, `ذلك` (that masc. singular) should be `تلك` (that fem. singular or plural for non-human objects) when referring to `الخواتم` (plural, treated as feminine).
+---
+ID:126676
+JA:それほど守りたいか？
+この小さき大陸を
+EN:Honestly... Is this piddling little
+continent really that important?
+ARb:هل ترغبين في حمايتها إلى هذا الحد؟
+هذه القارة الصغيرة
+ARa:هل ترغب في حمايتها إلى هذا الحد؟
+هذه القارة الصغيرة
+REASON:Changed feminine 'ترغبين' to generic masculine 'ترغب' for gender-neutral protagonist address.
+---
+ID:126694
+JA:妾の指に収めてやろう
+EN:That ring belongs on my finger,
+not yours.
+ARb:سأجعلها في قبضة أصابعي
+ARa:سأضعه في إصبعي.
+REASON:Awkward phrasing and gender agreement. 'سأجعلها في قبضة أصابعي' was too literal and used feminine pronoun for 'الخاتم' (ring, masculine). Corrected to 'سأضعه في إصبعي.'.
+---
+ID:126727
+JA:雄どもよ……
+EN:Rejoice, you ungrateful maggots!
+ARb:أيها الرجال……
+ARa:أيها الأوغاد……
+REASON:Mistranslation: 'أيها الرجال' (O men) is too neutral; '雄ども' (osudomo) and 'ungrateful maggots' imply a derogatory tone, better conveyed by 'أيها الأوغاد' (O scoundrels/rascals).
+---
+ID:126728
+JA:妾の一部となれるのじゃ
+至福じゃろう？
+EN:You are part of me now! What
+greater fortune could there be!?
+ARb:ستصبحين جزءاً مني
+ARa:ستصبحون جزءاً مني
+أليست هذه سعادة غامرة؟
+REASON:Gender/Number agreement: 'ستصبحين' (singular feminine) should be 'ستصبحون' (plural masculine) to match the previous line's address to 'males'. Line break: Preserved '\n'. Meaning: Added the missing second part of the Japanese sentence ('至福じゃろう؟' / 'What greater fortune could there be!?').
+---
+ID:126742
+JA:貴様もその眼で
+見てきたであろう？
+EN:You have seen this for yourself,
+have you not?
+ARb:أنتَ أيضاً، ألم تَرَ ذلك
+بعينيك؟
+ARa:ألم تَرَ ذلك
+بعينيك؟
+REASON:Player-address gender-neutrality: Removed the explicit masculine pronoun 'أنتَ أيضاً' to rely on the generic masculine fallback for the verb 'تَرَ', as per style guide for player-addressed lines where true neutrality is awkward.
+---
+ID:126752
+JA:この妾に生き恥を
+晒せと言うかッ……！
+EN:How dare you condemn me
+to humiliation!?
+ARb:أتقولين لي أن أتعرض للإذلال أمام الجميع……!
+ARa:أتقول لي أن أتعرض للإذلال……!
+REASON:Corrected player-address gender-neutrality from 'أتقولين لي' (you (fem.) tell me) to 'أتقول لي' (you (masc. default) tell me). Removed 'أمام الجميع' for conciseness and closer adherence to source.
+---
+ID:126764
+JA:<chara_name>様
+EN:Well, <chara_name>.
+ARb:<chara_name> سامي
+ARa:يا <chara_name>
+REASON:Corrected the honorific for '<chara_name>様' from 'سامي' (a male name) to 'يا <chara_name>' (Oh <chara_name>), which is a natural and respectful form of address.
+---
+ID:126766
+JA:どうか、ご覧ください
+EN:Come. I would show you
+something...
+ARb:أرجوكم، انظروا.
+ARa:أرجوك، انظر.
+REASON:Corrected the address from plural 'أرجوكم، انظروا.' (Please (plural), look (plural)) to singular 'أرجوك، انظر.' (Please (masc. default), look (masc. default)) for the single player character.
+---
+ID:127398
+JA:それでは、懺悔室を訪れた者が
+失踪しているという件は？
+EN:If that's your story, then what
+about the people who go missing
+after visiting the confessional?
+ARb:وماذا عن قضية الشخص الذي زار غرفة الاعتراف ثم اختفى؟
+ARa:وماذا عن قضية اختفاء من زاروا غرفة الاعتراف؟
+REASON:Corrected singular 'الشخص الذي زار' (the person who visited) to plural 'من زاروا' (those who visited) to match the Japanese '訪れた者' (those who visited).
+---
+ID:127444
+JA:先に進むわよ
+ピエロ・デッラ
+EN:We should hurry on.
+ARb:سأتقدم للأمام
+ARa:سأتقدم للأمام يا بييرو ديلا
+REASON:Added missing character name 'بييرو ديلا' from Japanese source.
+---
+ID:127445
+JA:オトリにだまされてちゃ
+世話ねぇぜ！
+EN:Heh, you must really be half-wits
+to fall for a trap like that!
+ARb:من المؤسف أنك وقعت في فخ الطُعم!
+ARa:يا لكم من حمقى لتنخدعوا بهذا الطُعم!
+REASON:Improved tone to be more scornful/aggressive, matching '世話ねぇぜ！', and corrected to plural address.
+---
+ID:127446
+JA:まぬけなケツを
+追い続けるんだな！
+EN:Keep concentrating on him!
+We certainly wouldn't mind.
+ARb:استمر في مطاردة ذلك المؤخرة الغبية!
+ARa:استمروا في مطاردة هذا الأحمق!
+REASON:Rephrased vulgar 'まぬけなケツ' to a more natural and insulting 'هذا الأحمق' in Arabic, and corrected to plural address.
+---
+ID:127599
+JA:セラフィナを止めに向かいますか？
+EN:Will you go to stop Ceraphina?
+ARb:هل ستتوجه لإيقاف سيرينا؟
+ARa:هل توجهت لإيقاف سيرافينا؟
+REASON:Rephrased to a past-tense verb ('توجهت') for gender-neutrality when addressing the player character, and corrected 'سيرينا' to 'سيرافينا'.
+---
+ID:127602
+JA:気をしっかり持ってください
+……共に戦いましょう
+EN:You need to steel yourself. Please,
+we can't do this without you.
+ARb:حافظ على تركيزك جيداً
+……لنقاتل معاً
+ARa:تمالكي نفسكِ جيداً
+……لنقاتل معاً
+REASON:Corrected gender agreement for 'حافظ على تركيزك' to 'تمالكي نفسكِ' (feminine, addressing Phina) and improved phrasing for 'steel yourself'.
+---
+ID:127622
+JA:ここに走り書きがある
+筆跡が変わっているな……
+EN:There's a hastily written scrawl
+here, penned in a different hand.
+ARb:هناك ملاحظات مكتوبة هنا
+لقد تغير خط اليد……
+ARa:هناك خربشة مكتوبة هنا
+لقد تغير خط اليد……
+REASON:Changed 'ملاحظات مكتوبة' (written notes, plural) to 'خربشة مكتوبة' (written scrawl, singular) to better match the singular Japanese '走り書き' (scrawl) and English 'scrawl'.
+---
+ID:127623
+JA:セラフィナはそこで
+儀式を行おうというのか
+EN:That must be where Ceraphina
+is conducting the ritual.
+ARb:هل تنوي سيرافينا
+إجراء الطقوس هناك؟
+ARa:هل تنوي سيرافينا
+إجراء الطقس هناك؟
+REASON:Changed 'الطقوس' (rituals, plural) to 'الطقس' (ritual, singular) to match the singular Japanese '儀式' and English 'the ritual'.
+---
+ID:127631
+JA:共に
+指輪の行方を探してきた
+EN:both of our families have sought
+the rings together.
+ARb:معاً
+بحثنا عن مكان الخاتم
+ARa:معاً
+بحثنا عن مكان الخواتم
+REASON:Changed 'الخاتم' (ring, singular) to 'الخواتم' (rings, plural) to match the English translation and the game context of multiple rings.
+---

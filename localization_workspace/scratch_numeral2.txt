@@ -1,0 +1,559 @@
+ID=38418
+JA: 神様に選ばれた勇者たちが
+世界を救う冒険譚なの
+EN:It's a tale of gallant adventurers chosen
+by the gods to save the world!
+BEFORE:إنها قصة مغامرة عن أبطال اختارهم الإله
+لإنقاذ العالم
+AFTER:إنها قصة مغامرة عن أبطال اختارهم الآلهة
+لإنقاذ العالم
+REASON:Changed 'الإله' (singular) to 'الآلهة' (plural) to match 'gods' in the English and implied plural in Japanese '神様'.
+----
+ID=38427
+JA: あのヨツジクの花の香りが 
+忘れられないの……
+EN:Yet...the one thing I do miss is the sweet
+smell of the quatrait blooms that grow
+there...
+BEFORE:لكن رائحة زهرة يوتسوجيك تلك
+لا يمكنني نسيانها……
+AFTER:لكن رائحة أزهار يوتسوجيك تلك
+لا يمكنني نسيانها……
+REASON:Changed 'زهرة' (singular flower) to 'أزهار' (plural flowers) to match the plural '花の' in the Japanese source.
+----
+ID=38667
+JA: あはははっ！
+今回はどこを散歩しようかな～？
+EN:Ahaha, where should I go walking next?
+BEFORE:أهأهأهأ!
+أين سنذهب للتنزه هذه المرة~؟
+AFTER:أهأهأهأ!
+أين سأذهب للتنزه هذه المرة~؟
+REASON:Corrected subject-verb agreement from plural (سنذهب) to singular (سأذهب) to match Japanese source (1st person singular).
+----
+ID=38685
+JA: 学問だけじゃ身を守れない
+こいつが必要な時もあるだろ？
+EN:Knowledge can only protect you
+so much. Sometimes you need one
+of these.
+BEFORE:لا يمكن حماية النفس بالعلم وحده
+هناك أوقات تكون فيها هذه الأشياء ضرورية، أليس كذلك؟
+AFTER:لا يمكن حماية النفس بالعلم وحده،
+هناك أوقات يكون فيها هذا ضروريًا، أليس كذلك؟
+REASON:Corrected mistranslation (singular 'こいつ' became plural 'هذه الأشياء') and grammatical agreement (changed 'ضرورية' to 'ضروريًا').
+----
+ID=38698
+JA: 教会を疑い、聖典の内容を突き詰め
+神の実在を一から論証する……
+EN:Or should they be skeptical, investigate
+the scriptures, and prove to themselves
+the existence of the gods?
+BEFORE:التشكيك في الكنيسة، والتحقق من محتوى النصوص المقدسة
+والبرهنة على وجود الإله من الصفر……
+AFTER:التشكيك في الكنيسة، والتحقق من محتوى النصوص المقدسة
+والبرهنة على وجود الآلهة من الصفر……
+REASON:Improved accuracy (changed singular 'الإله' to plural 'الآلهة' to match EN and common JRPG context).
+----
+ID=38729
+JA: 私は学長だ……本来ならお前らなどに
+会ってやる義理はないのだぞ
+EN:I am the headmaster of this academy.
+I have no obligation to speak with
+the likes of you...
+BEFORE:أنا رئيس الأكاديمية…… في الأصل، ليس لدي أي التزام بمقابلة أمثالك
+AFTER:أنا رئيس الأكاديمية……
+في الأصل، ليس لدي أي التزام بمقابلة أمثالكم
+REASON:Corrected 'أمثالك' to plural 'أمثالكم' to match 'お前ら' (plural 'you') and preserved the line break `\n`.
+----
+ID=38737
+JA: お話は聞いております
+原初の洞窟に向かわれるそうですね
+EN:I heard that you're headed
+to the Cave of Origin.
+BEFORE:لقد سمعتُ ما يقال، يبدو أنهم سيتوجهون إلى كهف البداية
+AFTER:لقد سمعتُ ما يقال، يبدو أنكم ستتوجهون إلى كهف البداية
+REASON:Corrected pronoun from 'أنهم' (they) to 'أنكم' (you plural) to match the addressee (player party) and '向かわれる' (polite 'you are heading').
+----
+ID=38745
+JA: そして、私もあなた方のように
+……強くあろうと思います
+EN:I pray that someday I can be
+as strong as you.
+BEFORE:وأنا أيضاً، مثلكما
+……أريد أن أكون قوية
+AFTER:وأنا أيضاً، مثلكم
+……أريد أن أكون قوية
+REASON:Corrected 'مثلكما' (like you two, dual) to 'مثلكم' (like you all, plural) to match 'あなた方' (you plural).
+----
+ID=38768
+JA: 指輪の巫女が
+結界を張っているようだ……
+EN:It seems that the ring maidens
+have set a barrier...
+BEFORE:يبدو أن كاهنة الخواتم
+تضع حاجزاً……
+AFTER:يبدو أن كاهنات الخواتم
+يضعن حاجزاً……
+REASON:Changed 'كاهنة الخواتم تضع' to 'كاهنات الخواتم يضعن' for number agreement, matching 'ring maidens' (plural) in the English reference.
+----
+ID=38873
+JA: アトラスダムに行けば
+その写本の切れ端のこともわかるはずだ
+EN:You may learn something about
+the page in Atlasdam.
+BEFORE:إذا ذهبنا إلى أطلسدام
+فمن المفترض أن نعرف شيئاً عن تلك القطعة المقطوعة من المخطوطة
+AFTER:بالذهاب إلى أطلسدام، قد يتضح شيء عن تلك القطعة من المخطوطة
+REASON:Rephrased for gender-neutrality when addressing the player character, using a verbal noun and passive construction. The original 'إذا ذهبنا' implied 'we' and 'نعرف' was plural, while the English 'You may learn' suggests addressing the singular protagonist.
+----
+ID=39092
+JA: ……たくさんお金をもらったのに
+“お恵みください”なんて変かしら？
+EN:Is it strange to ask for blessings
+when my pockets are full of coin?
+BEFORE:……رغم أننا حصلنا على الكثير من المال
+أليس قول "امنحني" غريباً؟
+AFTER:……رغم أنني حصلتُ على الكثير من المال
+أليس قول "امنحني" غريباً؟
+REASON:Corrected number agreement: 'حصلنا' (we received) changed to 'حصلتُ' (I received) to match the implied singular speaker in the Japanese source.
+----
+ID=39101
+JA: 武器ならすべて売ってしまった
+殺すなら殺せ……！
+EN:I don't have any weapons. I sold them all.
+Go on, kill me if you want...!
+BEFORE:لقد بعتُ كل الأسلحة
+اقتله إن كنت ستقتله……!
+AFTER:لقد بعتُ كل الأسلحة
+اقتلني إن كنت ستقتلني……!
+REASON:Corrected verb conjugation from masculine singular 'اقتله' (kill him) to first-person singular 'اقتلني' (kill me) to match the speaker's intent in the Japanese source.
+----
+ID=39118
+JA: お仕置きしてあげたけど
+何も出なかったわ……
+EN:I punished them, but got nothing
+for my effort...
+BEFORE:لقد عاقبته، ولكن
+لم يظهر أي شيء……
+AFTER:لقد عاقبتهم، ولكن
+لم أحصل على شيء……
+REASON:Changed 'عاقبته' (I punished him) to 'عاقبتهم' (I punished them) to match the plural 'them' in the English. Changed 'لم يظهر أي شيء' (nothing appeared) to 'لم أحصل على شيء' (I got nothing) for more natural phrasing in context.
+----
+ID=39140
+JA: “老練の狩人”などと呼ばれながら
+武器に頼っていただけだったとな
+EN:I may be a veteran hunter, but it was
+my weapons doing all the work.
+BEFORE:بينما كانوا ينادونني بـ "الصياد المتمرس"
+كنت أعتمد فقط على سلاحي
+AFTER:بينما كانوا ينادونني بـ "الصياد المتمرس"
+كنت أعتمد فقط على أسلحتي
+REASON:Plurality mismatch: 'weapons' in EN source. Changed 'سلاحي' (singular) to 'أسلحتي' (plural).
+----
+ID=39164
+JA: あんな手紙もらったら
+行くしかないよな？
+EN:Who could ignore such a letter?
+BEFORE:عندما نتلقى رسالة كهذه،
+فليس أمامنا سوى الذهاب، أليس كذلك؟
+AFTER:إذا تلقيتَ رسالة كهذه،
+فليس أمامك سوى الذهاب، أليس كذلك؟
+REASON:Number and player-address gender neutrality: 'نتلقى' (we receive) and 'أمامنا' (before us) were plural. Changed to 'إذا تلقيتَ' (if you received, past tense, neutral spelling) and 'أمامك' (before you, singular) to address the player character neutrally and singularly.
+----
+ID=39167
+JA: 川豆をもらいますか？
+EN:Accept the river beans?
+BEFORE:هل تريدون بعض فاصوليا النهر؟
+AFTER:هل تقبل بعض فاصوليا النهر؟
+REASON:Corrected player address from plural to singular masculine default, and used a verb closer to 'accept' as per EN text.
+----
+ID=39168
+JA: へへ、ホラよ
+とっておきのをくれてやる
+EN:Hehe, here. These are the very best!
+BEFORE:هيه، ها هي،
+سأعطيكم واحدة من النوع المميز
+AFTER:هيه، ها هي،
+سأعطيك واحدة من النوع المميز
+REASON:Corrected player address from plural 'سأعطيكم' to singular masculine default 'سأعطيك'.
+----
+ID=39212
+JA: ……いつまで
+しがみついてるって話だよな
+EN:...How long am I going to cling to that?
+BEFORE:……إلى متى
+ستظلان متمسكين بهذا الأمر؟
+AFTER:……إلى متى
+سأظل متمسكاً بهذا الأمر؟
+REASON:Corrected subject from 'you two' (dual) to 'I' (singular) to match the Japanese source, where the speaker is reflecting on their own actions.
+----
+ID=39216
+JA: やはり神は皆を
+見守ってくださっていたのですね
+EN:The gods really were watching over all.
+BEFORE:كما هو متوقع، فإن الإله
+كان يراقب الجميع
+AFTER:كما هو متوقع، فإن الآلهة
+كانت تراقب الجميع
+REASON:Changed 'الإله' (singular) to 'الآلهة' (plural) to match the English source 'The gods' and game lore, adjusting verb agreement accordingly.
+----
+ID=39232
+JA: 武器に頼らずとも
+狩りができるようにならねばな……
+EN:I need to learn to hunt without
+weapons...
+BEFORE:يجب أن نتمكن من الصيد
+دون الاعتماد على الأسلحة……
+AFTER:يجب أن أتمكن من الصيد
+دون الاعتماد على الأسلحة……
+REASON:Changed verb from plural 'نتمكن' to singular 'أتمكن' to better match the implied singular subject 'I' in the Japanese and English source.
+----
+ID=39351
+JA: 何人だろうと近づけば
+翼をもがれ灰となろう……
+EN:Not unless you want your wings clipped
+and to turn to ash. That's all that awaits,
+no matter who you are.
+BEFORE:مهما كان عددكم، إن اقتربتم
+فسوف تُنتزع أجنحتكم وتصبحون رماداً……
+AFTER:مهما كنتَ، إن اقتربتَ فسوف تُنتزع أجنحتك وتصبح رماداً……
+REASON:Changed plural address to singular (generic masculine fallback) to better align with the likely intent of addressing the player character and the English translation.
+----
+ID=40414
+JA: あの目が……
+忘れられねぇんだ……
+EN:Those eyes...
+I'll never forget those eyes...
+BEFORE:تلك العين……
+لا يمكنني نسيانها……
+AFTER:تلك العيون……
+لا يمكنني نسيانها……
+REASON:Corrected 'تلك العين' (singular) to 'تلك العيون' (plural) to match the Japanese source 'あの目が' (those eyes).
+----
+ID=40440
+JA: この国を……
+お導きください……
+EN:Please...guide this nation...
+BEFORE:هذا البلد……
+أرشدونا……
+AFTER:هذا البلد……
+أرشدي هذا البلد……
+REASON:Corrected 'أرشدونا' (guide us, plural) to 'أرشدي هذا البلد' (guide this country, singular feminine) to match the addressee (Elrica, singular female) and the object of guidance (the nation).
+----
+ID=40444
+JA: 狼から
+羊を守るのだ……！
+EN:I must keep the sheep safe
+from the wolf...!
+BEFORE:احموا الأغنام
+من الذئاب……!
+AFTER:سأحمي الأغنام
+من الذئاب……!
+REASON:Changed from plural imperative 'احموا' to first-person singular 'سأحمي' to match en_text 'I must keep'.
+----
+ID=40448
+JA: 誰であろうと……
+処刑する……
+EN:No matter who it may be...
+I <i>will</> execute them...
+BEFORE:أياً كان من يكون……
+سأعدمه……
+AFTER:أياً كان من يكون……
+سأعدمهم……
+REASON:Changed singular object pronoun 'سأعدمه' (I will execute him) to plural 'سأعدمهم' (I will execute them) to match en_text.
+----
+ID=40467
+JA: 憎しみに囚われた死者は
+亡者と化してしまう
+EN:The dead who are seized with hatred
+become the fallen.
+BEFORE:الميت المحبوس في كراهيته
+يتحول إلى شبح
+AFTER:الموتى المحبوسون في كراهيتهم
+يتحولون إلى أشباح
+REASON:Corrected number agreement from singular 'الميت المحبوس في كراهيته يتحول إلى شبح' to plural 'الموتى المحبوسون في كراهيتهم يتحولون إلى أشباح' to match 'The dead who are seized... become the fallen' in en_text.
+----
+ID=40577
+JA: 触手を破壊しますか？
+EN:Destroy the tentacle?
+BEFORE:هل ستدمر المجسات؟
+AFTER:هل ستدمر المجس؟
+REASON:Corrected 'المجسات' (plural) to 'المجس' (singular) to match 'tentacle'.
+----
+ID=40594
+JA: ホルンブルグの秘術で民の時は止めたが
+……果たして正しかったのか
+EN:I was able to stop time for the people
+using a secret art from Hornburg, but...
+I do not know if what I did is right.
+BEFORE:لقد أوقفنا السحر السري في هورنبورغ زمن الشعب
+AFTER:لقد أوقفتُ زمن الشعب باستخدام فن سري من هورنبورغ
+……ولكن، هل كان ذلك صحيحًا؟
+REASON:The original `ar_text` was incomplete, missing the second part of the sentence. Corrected to a full translation, changed 'أوقفنا' (we stopped) to 'أوقفتُ' (I stopped) for singular speaker, and 'السحر السري' to 'فن سري' for better accuracy to 'secret art'.
+----
+ID=40597
+JA: ホルンブルグの秘術で民の時は止めたが
+……果たして正しかったのか
+EN:I was able to stop time for the people
+using a secret art from Hornburg, but...
+I do not know if what I did is right.
+BEFORE:لقد أوقفنا الزمن عن الشعب باستخدام فنون هورنبورغ السرية
+……ولكن، هل كان ذلك صحيحًا؟
+AFTER:لقد أوقفتُ الزمن عن الشعب باستخدام فن هورنبورغ السري
+……ولكن، هل كان ذلك صحيحًا؟
+REASON:Changed 'أوقفنا' (we stopped) to 'أوقفتُ' (I stopped) for singular speaker, and 'فنون' (arts, plural) to 'فن' (art, singular) to match `ja_text` '秘術' (secret art/technique).
+----
+ID=411574
+JA: カリンダの言ってた薬草は
+ドニエ草というんだ
+EN:The herb Carinda was talking about
+is called donescia.
+BEFORE:الأعشاب التي تحدثت عنها كاريندا
+تُسمى عشبة دوني
+AFTER:العشبة التي تحدثت عنها كاريندا
+تُسمى عشبة دوني
+REASON:Changed 'الأعشاب' (plural) to 'العشبة' (singular) to match the Japanese source '薬草' (herb) and English 'The herb'.
+----
+ID=411621
+JA: 試練に挑む資格を備えたなら
+EN:Once you have proven yourself
+worthy to undertake the trials...
+BEFORE:إذا استعددت للأهلية لمواجهة الاختبار
+AFTER:إذا اكتسبت الأهلية لمواجهة التحديات
+REASON:Improved translation of '試練に挑む資格を備えたなら' (If you have acquired the qualification to challenge the trials). 'اكتسبت' (acquired) is more accurate than 'استعددت' (prepared). 'التحديات' (challenges/trials) is plural, matching '試練', and more natural than 'الاختبار'.
+----
+ID=411731
+JA: 止まれ
+……貴様ら、何者だ
+EN:Halt. Who goes there?
+BEFORE:توقفا
+……من أنتم أيها الأوغاد
+AFTER:توقفوا
+……من أنتم أيها الأوغاد
+REASON:Corrected number agreement from dual 'توقفا' to plural 'توقفوا' to match the plural derogatory pronoun '貴様ら' (you lot).
+----
+ID=411742
+JA: ようこそおいでくださいましたニャ
+ここはキャットリンの島ですニャ
+EN:Meowdy and welcome to the caits'
+island!
+BEFORE:أهلاً بك في قدومك نيا
+هذا هو جزيرة كايتلين نيا
+AFTER:مرحباً بك نيا
+هذه هي جزيرة الكايتات نيا
+REASON:Changed 'أهلاً بك في قدومك' to 'مرحباً بك' for more natural greeting. Changed 'هذا هو جزيرة' to 'هذه هي جزيرة' for gender agreement with 'جزيرة'. Changed 'جزيرة كايتلين' to 'جزيرة الكايتات' to match 'caits' island' (plural of 'Cait').
+----
+ID=411796
+JA: あいつと約束したんだ……
+ここから外には出さねェって
+EN:I made a promise...that I wouldn't
+let them leave...
+BEFORE:لقد وعدته……
+بأنه لن يخرج من هنا إلى الخارج
+AFTER:لقد وعدتهم……
+بأنهم لن يخرجوا من هنا إلى الخارج
+REASON:Corrected ellipsis count. Changed singular masculine pronouns "وعدته" and "بأنه لن يخرج" to plural "وعدتهم" and "بأنهم لن يخرجوا" to match `en_text`'s "them" and the implied plural context from previous lines.
+----
+ID=411823
+JA: 身を守るには武器が必要だろ？
+持ってきな！
+EN:You need weapons to protect yourself,
+right? Here, use these!
+BEFORE:أنت بحاجة إلى سلاح لحماية نفسك، أليس كذلك؟
+أحضره إلى هنا!
+AFTER:أنت بحاجة إلى أسلحة لحماية نفسك، أليس كذلك؟
+أحضرها إلى هنا!
+REASON:Changed "سلاح" (singular) to "أسلحة" (plural) and "أحضره" (bring it) to "أحضرها" (bring them) to match `en_text`'s "weapons" and "use these" (plural implication). Player address remains generic masculine as per fallback rule for present tense.
+----
+ID=411837
+JA: どうか、トレサを
+守ってやってください
+EN:Please make sure my daughter
+gets there safely.
+BEFORE:أرجوكم، احموا تريسا
+AFTER:أرجوك، احمِ تريسا
+
+REASON:Corrected plural address to singular generic masculine for the player character, and preserved line break `\n`.
+----
+ID=411838
+JA: トレサのことを
+よろしくお願いしますね
+EN:Please take care of our Tressa.
+BEFORE:أرجوكم الاعتناء بتريسا
+AFTER:أرجوك الاعتناء بتريسا
+
+REASON:Corrected plural address to singular generic masculine for the player character, and preserved line break `\n`.
+----
+ID=411885
+JA: フフ……この獲物を
+皆で分けるといいわ
+EN:Hehe... Go on and share my catch
+with everyone.
+BEFORE:فُه…… إذا قسّمنا هذه الفريسة
+بيننا جميعاً، فسيكون ذلك جيداً
+AFTER:هه…… شاركوا هذه الفريسة مع الجميع.
+REASON:Corrected the laugh sound from 'فُه' to 'هه'. Rephrased for more natural and direct expression, matching the English 'Go on and share my catch with everyone'. The imperative plural 'شاركوا' is gender-neutral for a group.
+----
+ID=411901
+JA: さぁ、いつでもかかってこい
+EN:I'll take you on whenever you want.
+BEFORE:هيا، هاجموني في أي وقت
+AFTER:هيا، هاجمني في أي وقت
+REASON:Corrected the imperative verb from plural 'هاجموني' (attack me, plural) to singular 'هاجمني' (attack me, singular) as the line addresses the player character (singular). The singular imperative is gender-neutral.
+----
+ID=411905
+JA: そして、その道程で
+神の指輪を集めるのだ
+EN:And gather the divine rings
+as you go.
+BEFORE:ثم، خلال تلك الرحلة
+ستجمعون خواتم الآلهة
+AFTER:ثم، خلال تلك الرحلة
+ستجمع خواتم الآلهة
+REASON:Corrected the verb from plural 'ستجمعون' (you all will gather) to singular 'ستجمع' (you will gather) as the line addresses the player character (singular). The masculine singular is the established fallback for player address.
+----
+ID=411966
+JA: 見ていくだけならタダですよ
+……もちろん買っていきますよね？
+EN:Browsing is free, but I don't make a leaf
+if no one buys anything. You get what
+I'm saying?
+BEFORE:المشاهدة مجانية فقط
+……بالطبع ستشترون شيئاً، أليس كذلك؟
+AFTER:المشاهدة مجانية فقط
+……بالطبع ستشتري شيئاً، أليس كذلك؟
+REASON:The speaker is addressing the singular player character. `ستشترون` is plural. The singular generic masculine `ستشتري` is the appropriate fallback for the player character when a gender-neutral present tense verb is not possible.
+----
+ID=412036
+JA: 故郷にお招きくださり
+感謝します
+EN:I thank you for inviting me
+to your hometown.
+BEFORE:أشكركم على استضافتي في موطني
+AFTER:أشكرك على دعوتي إلى موطنك.
+REASON:Corrected 'my hometown' to 'your hometown' and 'hosting' to 'inviting' to match Japanese source. Changed plural address to singular for protagonist.
+----
+ID=412037
+JA: 私の家は、ハイランドの
+さる王家に仕える剣術の指南役でした
+EN:My house has served as swordplay
+instructors to the royal family in the
+Highlands.
+BEFORE:كان منزلي في المرتفعات، حيث كنتُ مدربًا على فنون السيف لأسرة ملكية هناك
+AFTER:كانت عائلتي تعمل كمدربين لفنون السيف لأسرة ملكية في المرتفعات.
+REASON:Corrected subject from 'I' to 'my family' and used plural 'instructors' to match the Japanese `私の家は...指南役でした` (my house/family was an instructor).
+----
+ID=412517
+JA: み、見ましたか……
+伝説の聖火騎士フリードの剣技！
+EN:Did you see Fried's swordplay
+in action? He's a legend!
+BEFORE:هـ.. هل رأيتم……
+مهارة سيف الفارس المقدس فريد الأسطوري!
+AFTER:هـ.. هل رأيت……
+مهارة سيف فارس اللهب المقدس فريد الأسطوري!
+REASON:Changed `رأيتم` (plural) to `رأيت` (singular, gender-neutral past tense) to address the protagonist. Used glossary term `فارس اللهب المقدس` for `聖火騎士` (Knight Ardante).
+----
+ID=412542
+JA: たくさん雪だるまをつくろうよ！
+EN:We've gotta make more snowmen!
+BEFORE:لنصنع الكثير من رجل الثلج!
+AFTER:لنصنع الكثير من رجال الثلج!
+REASON:Changed 'رجل الثلج' (snowman, singular) to 'رجال الثلج' (snowmen, plural) to match the Japanese '雪だるま' (snowmen, plural).
+----
+ID=412545
+JA: 足りないものはないかい？
+旅の途中で慌てても知らないよ
+EN:Are you all stocked up? You don't
+want to run out of anything in
+the middle of your travels.
+BEFORE:هل هناك شيء ينقصكم؟
+لن أكون مسؤولاً عما قد يحدث لو استعجلتم في منتصف رحلتكم
+AFTER:هل هناك شيء ينقصك؟
+لن أكون مسؤولاً عما قد يحدث لو استعجلت في منتصف رحلتك
+REASON:Adjusted verb and pronoun forms from plural ('ينقصكم', 'استعجلتم', 'رحلتكم') to singular masculine ('ينقصك', 'استعجلت', 'رحلتك') to correctly address the player character as a single, gender-neutral entity (using generic masculine as fallback for present tense/adjectives).
+----
+ID=412588
+JA: この町のため役立てることがあれば
+なんでも言ってください
+EN:Do not hesitate to let me know if
+there is anything I can do.
+BEFORE:إذا كانَ هناكَ أيُّ شيءٍ يمكنُني فعلهُ لمساعدةِ هذه البلدة
+فأخبروني بأيِّ شيء
+AFTER:إذا كانَ هناكَ أيُّ شيءٍ يمكنُني فعلهُ لمساعدةِ هذه البلدة
+فأخبرني بأيِّ شيء
+REASON:Corrected singular address for the player character (generic masculine fallback) instead of plural.
+----
+ID=412593
+JA: 人の心は温かかったわ……
+EN:The people's hearts were warm.
+BEFORE:كان قلبها دافئاً……
+AFTER:كانت قلوب الناس دافئةً……
+REASON:Corrected mistranslation from 'her heart' to 'people's hearts' (plural).
+----
+ID=412612
+JA: 帰ってきたんだね
+パパとママのいる町に……
+EN:I'm finally home with Papa and Mama...
+BEFORE:لقد عدتَ
+إلى البلدة التي فيها أبي وأمي……
+AFTER:لقد عدتُ
+إلى البلدة التي فيها أبي وأمي……
+REASON:The English reference 'I'm finally home' indicates the speaker is referring to themselves, so the verb should be first-person singular (عدتُ) instead of second-person masculine (عدتَ).
+----
+ID=412694
+JA: これじゃ家でゆっくりするしか
+できないじゃないか、えぇ？
+EN:What's an old woman to do but
+sit at home and relax?
+BEFORE:بهذا الوضع، لا يمكننا سوى
+الاسترخاء في المنزل، أليس كذلك؟
+AFTER:بهذا الوضع، لا يمكنني سوى
+الاسترخاء في المنزل، أليس كذلك؟
+REASON:Subject-verb agreement: 'لا يمكننا' (we cannot) changed to 'لا يمكنني' (I cannot) to reflect a singular speaker's personal reflection, as implied by English context.
+----
+ID=412720
+JA: おねえさまがた
+さいきん、アガペアにこないの
+EN:The ring maidens haven't come to
+Agapea in ages.
+BEFORE:لم تعد الأخت الكبرى تأتي إلى أغابيا مؤخراً
+AFTER:لم تعد الأخوات الكبريات يأتين إلى أغابيا مؤخراً
+REASON:Corrected number agreement: 'الأخت الكبرى' (singular) to 'الأخوات الكبريات' (plural) and 'تأتي' (singular) to 'يأتين' (plural) to match Japanese 'おねえさまがた'.
+----
+ID=412726
+JA: 心を守るには、心を鍛えよ
+指輪を守るには、指を鍛えよ……
+EN:To safeguard the spirit, toughen
+the heart. To safeguard the rings,
+toughen the fingers.
+BEFORE:لحماية القلب، صقِل القلب
+ولحماية الخاتم، صقِل الأصابع……
+AFTER:لحماية القلب، صقِل القلب
+ولحماية الخواتم، صقِل الأصابع……
+REASON:Corrected number agreement for 'الخاتم' (singular) to 'الخواتم' (plural) to match '指輪' in context of '神々の指輪' (rings of the gods).
+----
+ID=412729
+JA: 大地に実りし糧は神の恵み……
+祈り、そして味わいましょう
+EN:The fruits of the land are blessings
+from the gods. Let us savor them
+in prayer.
+BEFORE:الطعام الذي يثمر في الأرض هو نعمة من الإله……
+فلنصلِّ، ولنتذوقه
+AFTER:الطعام الذي يثمر في الأرض هو نعمة من الآلهة……
+فلنصلِّ، ولنتذوقه
+REASON:Corrected 'الإله' (singular) to 'الآلهة' (plural) to match '神の恵み' (blessing of the gods) and English 'gods'.
+----
+ID=412731
+JA: 神におすがりする前に
+まずご自分で準備なさいませ
+EN:It is best to fully prepare oneself first
+before clinging to the gods for help.
+BEFORE:قبل أن تتوسلي إلى الإله
+حضّري نفسكِ أولاً
+AFTER:قبل أن تتوسل إلى الآلهة
+حضّر نفسك أولاً
+REASON:Corrected gender for player address from feminine ('تتوسلي', 'حضّري', 'نفسكِ') to generic masculine ('تتوسل', 'حضّر', 'نفسك') as per style guide. Also pluralized 'الإله' to 'الآلهة'.
+----

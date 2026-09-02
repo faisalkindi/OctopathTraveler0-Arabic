@@ -1,0 +1,508 @@
+﻿id,ja_text,en_text,ar_text_before,ar_text_gemini,verdict,final_ar_text,notes
+2066,"知らぬ方が幸福なことも
+世の中にはある","There are things in this world
+you're better off not knowing.",هناك أشياء في هذا العالم يكون الجهل بها هو السعادة.,"هناك أشياء في هذا العالم
+من الأفضل عدم معرفتها.",improvement,"هناك أشياء في هذا العالم
+من الأفضل عدم معرفتها.","Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Rephrased for more natural and idiomatic Arabic, and preserved the line break from the source."
+2069,……それが良い,...A wise decision.,...هذا هو الأفضل.,……هذا هو الأفضل.,improvement,……هذا هو الأفضل.,"Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Corrected ellipsis count to match Japanese source (two U+2026 characters)."
+2071,……そうか,I see...,...أرى ذلك.,……أرى ذلك.,improvement,……أرى ذلك.,"Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Corrected ellipsis count to match Japanese source (two U+2026 characters)."
+2074,……ついて来るといい,...Come with me.,...من الأفضل أن تتبعني.,……من الأفضل أن تتبعني.,improvement,……من الأفضل أن تتبعني.,"Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Corrected ellipsis count to match Japanese source (two U+2026 characters)."
+2075,…………,......,............,…………,improvement,…………,"Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Corrected ellipsis count to match Japanese source (four U+2026 characters)."
+2076,"私は……
+喜劇を書いた憶えはない",I don't recall writing a comedy.,"أنا...
+لا أذكر أنني كتبتُ مسرحيةً كوميدية.","أنا……
+لا أذكر أنني كتبتُ مسرحيةً كوميدية.",improvement,"أنا……
+لا أذكر أنني كتبتُ مسرحيةً كوميدية.","Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Corrected ellipsis count to match Japanese source (two U+2026 characters)."
+2077,"最後の演技……
+あれはなんだ？","Do you remember what you said
+in the last act?","الأداء الأخير...
+ماذا كان ذلك؟","الأداء الأخير……
+ماذا كان ذلك؟",improvement,"الأداء الأخير……
+ماذا كان ذلك؟","Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Corrected ellipsis count to match Japanese source (two U+2026 characters)."
+2078,え……？,Pardon...?,هـ...؟,هـ……؟,improvement,هـ……؟,"Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Corrected ellipsis count to match Japanese source (two U+2026 characters)."
+2079,“ああ”……だと？,"""Ah.""","""آه"".... هل قلتِ ذلك؟","""آه""…… هل قلتِ ذلك؟",improvement,"""آه""…… هل قلتِ ذلك؟","Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Corrected ellipsis count to match Japanese source (two U+2026 characters)."
+2082,"アーギュスト様……
+申し訳ございません……","Please forgive me,
+Master Auguste...","سيدي أوغست...
+أنا أعتذر بشدة...","سيدي أوغست……
+أنا أعتذر بشدة……",improvement,"سيدي أوغست……
+أنا أعتذر بشدة……","Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Corrected ellipsis count to match Japanese source (two U+2026 characters, twice)."
+2084,"いいかね？
+身を以て学ぶといい……","Do you understand?
+Here, let me show you...",أليس كذلك؟,"أفهمتِ؟
+من الأفضل أن تتعلمي ذلك بنفسكِ……",improvement,"أفهمتِ؟
+من الأفضل أن تتعلمي ذلك بنفسكِ……","Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Corrected mistranslation to capture the full meaning of the Japanese source, ensured feminine address for Francesca, and added ellipsis to match source."
+2085,かはっ……！,Gaaah...!,كـاه...!,كـاه……!,improvement,كـاه……!,"Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Corrected ellipsis count to match Japanese source (two U+2026 characters)."
+2087,"かッ……
+かはッ……！",Gck... Nngh...,آه...,"كـاه……
+كـاه……!",improvement,"كـاه……
+كـاه……!","Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Corrected mistranslation to better represent the choking sound, maintained line break, and corrected ellipsis count to match Japanese source (two U+2026 characters, twice)."
+2088,…………！,......!,............!,…………!,improvement,…………!,"Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Corrected ellipsis count to match Japanese source (four U+2026 characters)."
+2089,くくく……,Hahaha...,كوكوكو...,كوكوكو……,improvement,كوكوكو……,"Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Corrected ellipsis count to match Japanese source (two U+2026 characters)."
+2091,"できるじゃないか！
+次はそう演技したまえ！","See!? You <i>can</> do it after all!
+You only need to do the same upon
+the stage!",لقد فعلتِ ذلك بنجاح!,"أرأيتِ؟ يمكنكِ فعلها!
+في المرة القادمة، مثّلي هكذا!",improvement,"أرأيتِ؟ يمكنكِ فعلها!
+في المرة القادمة، مثّلي هكذا!","Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Corrected mistranslation to capture the full meaning of the Japanese source, ensured feminine address for Francesca, and preserved the line break."
+2092,"……おや？
+息がないな",...Hm? She's stopped breathing.,...... أوه؟,"……أوه؟
+لا تتنفس.",improvement,"……أوه؟
+لا تتنفس.","Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Corrected mistranslation to capture the full meaning of the Japanese source, preserved the line break, and corrected ellipsis count to match Japanese source (two U+2026 characters)."
+2093,"では、彼女の代役は
+よく憶えておけ","Well then, let that be a lesson
+to you, understudy.","إذن، تذكر جيداً
+من سيحل محلها","إذن، يا بديلتها،
+تذكري هذا جيداً.",improvement,"إذن، يا بديلتها،
+تذكري هذا جيداً.","Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Corrected mistranslation to better reflect the meaning of 'remember it well' (the lesson), addressed the understudy directly, and used feminine address."
+2095,アーギュスト様……,Master Auguste...,سيدي أوغست...,سيدي أوغست……,improvement,سيدي أوغست……,"Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Corrected ellipsis count and character from ASCII dots to Unicode U+2026. Japanese source has two U+2026 characters."
+2096,アーギュスト様……,Master Auguste...,سيدي أوغست...,سيدي أوغست……,improvement,سيدي أوغست……,"Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Corrected ellipsis count and character from ASCII dots to Unicode U+2026. Japanese source has two U+2026 characters."
+2097,"アーギュストは演者たちの
+……神だ","To the actors, Auguste is like
+a...god.","أوغست هو...
+إله الممثلين","أوغست هو……
+إله الممثلين",improvement,"أوغست هو……
+إله الممثلين","Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Corrected ellipsis count and character from ASCII dots to Unicode U+2026. Japanese source has two U+2026 characters."
+2101,……片づけておけ,...Clean this mess up.,......تخلص من الأمر,……تخلص من الأمر,improvement,……تخلص من الأمر,"Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Corrected ellipsis count and character from ASCII dots to Unicode U+2026. Japanese source has two U+2026 characters."
+2103,……フランセスカ,...Francesca.,......فرانشيسكا,……فرانشيسكا,improvement,……فرانشيسكا,"Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Corrected ellipsis count and character from ASCII dots to Unicode U+2026. Japanese source has two U+2026 characters."
+2105,アーギュスト様……,Master Auguste...,سيدي أوغست......,سيدي أوغست……,improvement,سيدي أوغست……,"Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Corrected ellipsis count and character from ASCII dots to Unicode U+2026. Japanese source has two U+2026 characters."
+2108,…………,......,............,…………,improvement,…………,"Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Corrected ellipsis count and character from ASCII dots to Unicode U+2026. Japanese source has four U+2026 characters."
+2111,…………,......,...........,…………,improvement,…………,"Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Corrected ellipsis count and character from ASCII dots to Unicode U+2026. Japanese source has four U+2026 characters."
+2112,きっと……,It must be...,لا بد أنه...,لا بد أنه……,improvement,لا بد أنه……,"Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Corrected ellipsis count and character from ASCII dots to Unicode U+2026. Japanese source has two U+2026 characters."
+2113,次の作品のことで……,Your next play...,بسبب العمل القادم...,بسبب العمل القادم……,improvement,بسبب العمل القادم……,"Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Corrected ellipsis count and character from ASCII dots to Unicode U+2026. Japanese source has two U+2026 characters."
+2114,黙れ……,Silence...,اصمتي...,اصمتي……,improvement,اصمتي……,"Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Corrected ellipsis count and character from ASCII dots to Unicode U+2026. Japanese source has two U+2026 characters."
+2116,"口に気をつけるのだ
+フランセスカ……","Watch your mouth, Francesca.","انتبهي لكلامكِ
+يا فرانشيسكا...","انتبهي لكلامكِ
+يا فرانشيسكا……",improvement,"انتبهي لكلامكِ
+يا فرانشيسكا……","Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Corrected ellipsis count and character from ASCII dots to Unicode U+2026. Japanese source has two U+2026 characters."
+2118,…………,......,...........,…………,improvement,…………,"Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Corrected ellipsis count and character from ASCII dots to Unicode U+2026. Japanese source has four U+2026 characters."
+2119,申し訳ございません……,Forgive me.,أعتذر بشدة...,أعتذر……,improvement,أعتذر……,"Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Ellipsis count mismatch (JP has two U+2026, AR had three ASCII dots). Removed 'بشدة' as it over-translates the simple apology."
+2120,……フン,Hmph.,... هه,……همف,improvement,……همف,"Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Ellipsis count mismatch (JP has two U+2026, AR had three ASCII dots). Changed 'هه' to 'همف' for a more accurate translation of 'Hmph'."
+2121,"アーギュスト様
+どちらへ……？","Where are you going,
+Master Auguste?",سيدي أوغست، إلى أين...؟,سيدي أوغست، إلى أين……؟,improvement,سيدي أوغست، إلى أين……؟,"Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Ellipsis count mismatch (JP has two U+2026, AR had three ASCII dots)."
+2122,"別荘へ籠る
+次回作を完成させに","I shall retire to my villa to
+complete my masterpiece.",إلى الفيلا المنعزلة، لإكمال العمل القادم.,"إلى الفيلا لأعتكف
+وأكمل عملي القادم.",improvement,"إلى الفيلا لأعتكف
+وأكمل عملي القادم.","Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Missing line break. Added 'لأعتكف' to convey the nuance of '籠る' (to seclude oneself)."
+2123,"いや、待て
+その前に……",But before that...,لا، انتظر. قبل ذلك...,"لا، انتظر.
+قبل ذلك……",improvement,"لا، انتظر.
+قبل ذلك……","Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Missing line break and ellipsis count mismatch (JP has two U+2026, AR had three ASCII dots)."
+2124,"“題材”を
+探してから行くか","I must go in search of more...
+material.","هل نذهب بعد البحث عن ""الموضوع""؟","سأذهب للبحث عن ""الموضوع""
+أولاً.",improvement,"سأذهب للبحث عن ""الموضوع""
+أولاً.","Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Missing line break. Changed the phrasing from a direct question ('هل نذهب') to a declarative statement ('سأذهب') to better reflect the speaker's intent and subject (Auguste referring to himself)."
+2125,くくく……,Hahaha...,كوكوكو...,ههه……,improvement,ههه……,"Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Ellipsis count mismatch (JP has two U+2026, AR had three ASCII dots). Changed transliteration 'كوكوكو' to 'ههه' for a more natural Arabic representation of a chuckle."
+2126,…………,......,...........,…………,improvement,…………,"Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Ellipsis count mismatch (JP has four U+2026, AR had eleven ASCII dots)."
+2128,"……二度は言わないぞ
+君は引き返すんだ","...You should turn back.
+I won't tell you again.","...... لن أكرر هذا مرتين
+عليك التراجع","…… لن أكرر هذا مرتين
+عليك التراجع",improvement,"…… لن أكرر هذا مرتين
+عليك التراجع","Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Ellipsis count mismatch (JP has two U+2026, AR had six ASCII dots)."
+2133,あなたは……？,Who are you?,أنت...؟,أنت……؟,improvement,أنت……؟,"Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Ellipsis count mismatch (JP has two U+2026, AR had three ASCII dots)."
+2135,…………,......,...........,…………,improvement,…………,"Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Ellipsis count mismatch (JP has four U+2026, AR had eleven ASCII dots)."
+2136,"アーギュスト様に会いたい
+なんて言わないわよね？","Don't tell me...
+You want to see Master Auguste?","أريد لقاء السيد أوغست
+لن تقول ذلك، أليس كذلك؟","أتريد لقاء السيد أوغست؟
+لن تقول ذلك، أليس كذلك؟",improvement,"أتريد لقاء السيد أوغست؟
+لن تقول ذلك، أليس كذلك؟","Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Rephrased the first part to be a question, aligning with the English 'Don't tell me... You want to see Master Auguste?' which implies the speaker is questioning the player's intent, rather than stating it as a fact."
+2139,"観客の心の奥……
+本能を丸裸にしてしまう","They touch something deep
+inside the audience. Lay their
+base instincts bare.","إنها تجرد قلوب الجمهور...
+من غلافها وتكشف غريزتها","إنها تجرد قلوب الجمهور……
+من غلافها وتكشف غريزتها",improvement,"إنها تجرد قلوب الجمهور……
+من غلافها وتكشف غريزتها","Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Ellipsis count mismatch (JP has two U+2026, AR had three ASCII dots)."
+2141,"ふふ……大陸中の人が
+劇場に足を運ぶわ","Heheh... It's no wonder people come
+from far and wide to his theatre.","هه... سيأتي الناس من كل أنحاء القارة
+إلى المسرح","هه…… سيأتي الناس من كل أنحاء القارة
+إلى المسرح",improvement,"هه…… سيأتي الناس من كل أنحاء القارة
+إلى المسرح","Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Ellipsis count mismatch (JP has two U+2026, AR had three ASCII dots)."
+2142,"アーギュスト様は
+大陸一の名声を得た","Master Auguste is the most famous
+person in the entire realm.","لقد نال سمو أوغست
+أشهر شهرة في القارة","لقد نال سمو أوغست
+أعظم شهرة في القارة",improvement,"لقد نال سمو أوغست
+أعظم شهرة في القارة","Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Corrected redundant phrasing 'أشهر شهرة' to 'أعظم شهرة' for better naturalness."
+2145,"まるで何かに
+憑りつかれたように……","It's almost as if he is...possessed
+by something.","وكأنه
+ممسوس بشيء ما...","وكأنه
+ممسوس بشيء ما……",improvement,"وكأنه
+ممسوس بشيء ما……","Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Ellipsis count mismatch (JP has two U+2026, AR had three ASCII dots)."
+2146,…………,......,............,…………,improvement,…………,"Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Ellipsis count mismatch (JP has four U+2026, AR had twelve ASCII dots)."
+2147,"あの方には
+近づかないことよ",You should keep your distance.,لا تقتربي من ذلك الشخص.,لا تقترب من ذلك الشخص.,improvement,لا تقترب من ذلك الشخص.,"Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Gender mismatch: changed feminine imperative 'لا تقتربي' to generic masculine 'لا تقترب' as per player-address gender-neutrality rule."
+2148,君……,You...,أنتِ...,أنت……,regression,أنتِ……,"Likely regression (addressee misidentified as the player): ja_text '君……' sits inside the same Auguste/Francesca exchange as row 2151, where Gemini itself corrects the verb to feminine because 'Auguste is addressing a female character.' There is no scene break between 2145-2154, so this '君' most likely also refers to Francesca, not the silent protagonist - the player-address gender-neutral rule does not apply here. Gemini's masculine-generic swap over-applies that rule to a canonically-gendered NPC line. Flagged with moderate rather than full confidence since full scene/speaker-ID context was not independently re-verified beyond the CSV rows provided. | Gemini reason: Gender mismatch: changed feminine pronoun 'أنتِ' to gender-neutral/generic masculine 'أنت' as per player-address gender-neutrality rule. Ellipsis count mismatch (JP has two U+2026, AR had three ASCII dots)."
+2151,何をしているんだい？,What are you doing?,ماذا تفعل؟,ماذا تفعلين؟,improvement,ماذا تفعلين؟,"Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Corrected gender agreement from masculine to feminine, as Auguste is addressing a female character."
+2153,"わ、私はアーギュスト様に
+一目お会いしたくて……","I was just hoping to meet you,
+Master Auguste...",أ-أنا أردتُ فقط أن ألقي نظرة على سيد أوغست...,أ-أنا أردتُ فقط مقابلتك، يا سيد أوغست...,regression,"أ-أنا أردتُ فقط مقابلتك،
+يا سيد أوغست……","Regression: rephrase itself is a fine improvement (matches en 'hoping to meet you'), but ja_text ends in two U+2026 characters ('……') which Gemini's version drops entirely, replacing with 3 literal ASCII dots ('...') - violates both the ellipsis-char rule and the count rule. Also silently dropped the source line break (ja_text has \n after アーギュスト様に). | Gemini reason: Rephrased for more natural and direct expression of 'hoping to meet you' instead of 'take a look at'."
+2154,ほう……それは奇遇だ,"I see...
+How very fortunate.",هه... يا لها من مصادفة,آه... يا لها من مصادفة.,regression,آه…… يا لها من مصادفة.,"Regression: register improvement 'هه'->'آه' is fine, but ja_text 'ほう……それは奇遇だ' has two U+2026 characters; Gemini's output uses 3 literal ASCII dots ('...') instead - not converted to U+2026 at all, unlike the many sibling rows in this same batch that got this right. | Gemini reason: Improved the interjection 'هه...' to 'آه...' for better register and naturalness."
+2159,"私のような者を
+お招きくださるなんて","I can scarce believe you would
+show this to someone like me.","أن تدعوني
+أنا، شخصًا مثلي",أن تدعو شخصًا مثلي... لا أصدق!,regression,"أن تدعو شخصًا مثلي
+لا أكاد أُصدق!","Regression - invented punctuation: ja_text '私のような者を\nお招きくださるなんて' contains NO ellipsis at all, yet Gemini's version adds '...' (3 literal ASCII dots, not even U+2026) with no source basis. The added exclamation 'لا أصدق!' is a fair rendering of the en_text's disbelief tone, but the invented ellipsis is not source-supported, and the source line break was also dropped. | Gemini reason: Rephrased for completeness and to convey the exclamatory tone of surprise/disbelief, which was missing in the fragmented draft."
+2163,"一目で思った
+……美しい人だと","Even at a glance, I could tell how
+beautiful you are.",شعرتُ من النظرة الأولى,"ظننتُ من النظرة الأولى……
+أنكِ امرأة جميلة.",improvement,"ظننتُ من النظرة الأولى……
+أنكِ امرأة جميلة.","Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Completed the thought 'I thought at a glance' with the content 'that you are a beautiful person', corrected ellipsis count from 3 dots to 2 U+2026 characters, and ensured feminine agreement."
+2164,"どうか、今夜だけ
+私に君をくれないか？",Would you be mine for the night?,أرجوك، هل يمكنك أن تمنحني إياك لهذه الليلة فقط؟,أرجوكِ، هل تكونين لي هذه الليلة فقط؟,improvement,أرجوكِ، هل تكونين لي هذه الليلة فقط؟,"Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Rephrased for more natural expression of 'Would you be mine for the night?', corrected gender agreement for 'أرجوكِ' and 'تكونين', and corrected ellipsis count from 3 dots to 2 U+2026 characters."
+2165,君の全てを見てみたい……,"I should like to behold you in
+all your beauty...",أودُّ أن أرى كلَّ ما فيكِ...,أودُّ أن أرى كلَّ ما فيكِ……,improvement,أودُّ أن أرى كلَّ ما فيكِ……,"Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Corrected ellipsis count from 3 dots to 2 U+2026 characters to match source."
+2166,ああ……,Yes...,آه...,آه……,improvement,آه……,"Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Corrected ellipsis count from 3 dots to 2 U+2026 characters to match source."
+2167,"アーギュスト様……
+私でよろしければ……","If you would have me,
+Master Auguste.",يا سيد أوغست...,"يا سيد أوغست……
+إذا كنتُ مناسبةً لكَ……",improvement,"يا سيد أوغست……
+إذا كنتُ مناسبةً لكَ……","Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Corrected mistranslation by adding the missing phrase 'If you would have me', ensured feminine agreement for the speaker, and corrected ellipsis count from 3 dots to 2 U+2026 characters."
+2168,おいで……,Come with me...,تعال...,تعالي……,improvement,تعالي……,"Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Corrected gender agreement from masculine 'تعال' to feminine 'تعالي', and corrected ellipsis count from 3 dots to 2 U+2026 characters."
+2171,くくく……,Hahaha...,كوكوكو...,كوكوكو……,improvement,كوكوكو……,"Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Corrected ellipsis count from 3 dots to 2 U+2026 characters to match source."
+2172,"一夜の夢……
+見た先の闇、か",A dream...descends into darkness.,"حلم ليلة واحدة...
+الظلام الذي يليه","حلم ليلة واحدة……
+الظلام الذي يليه",improvement,"حلم ليلة واحدة……
+الظلام الذي يليه","Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Corrected ellipsis count from 3 dots to 2 U+2026 characters to match source."
+2174,…………,......,...........,…………,improvement,…………,"Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Corrected ellipsis count from 11 ASCII dots to 4 U+2026 characters to match the Japanese source exactly."
+2175,"だが、まだ足りんな
+刺激が……",But I need more...,"لكن، لا يزال الأمر غير كافٍ
+التحفيز...","لكن، لا يزال الأمر غير كافٍ
+التحفيز……",improvement,"لكن، لا يزال الأمر غير كافٍ
+التحفيز……","Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Corrected ellipsis character and count from three ASCII dots to two Unicode U+2026 characters."
+2176,もっと……刺激を……,Something even more thrilling...,المزيد... من التحفيز...,المزيد…… من التحفيز……,improvement,المزيد…… من التحفيز……,"Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Corrected ellipsis character and count from three ASCII dots to two Unicode U+2026 characters in both instances."
+2177,…………,......,...........,…………,improvement,…………,"Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Corrected ellipsis character and count from eleven ASCII dots to four Unicode U+2026 characters."
+2178,"君は……
+来てしまったのか",So you came after all.,"هل...
+وصلتَ؟","هل……
+وصلتَ؟",improvement,"هل……
+وصلتَ؟","Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Corrected ellipsis character and count from three ASCII dots to two Unicode U+2026 characters."
+2179,…………,......,............,…………,improvement,…………,"Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Corrected ellipsis character and count from twelve ASCII dots to four Unicode U+2026 characters."
+2180,"ほう……
+これはこれは……","My, my...
+What a surprise.","هوه...
+يا له من أمر...","هوه……
+يا له من أمر……",improvement,"هوه……
+يا له من أمر……","Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Corrected ellipsis character and count from three ASCII dots to two Unicode U+2026 characters in both instances."
+2183,…………,......,............,…………,improvement,…………,"Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Corrected ellipsis character and count from twelve ASCII dots to four Unicode U+2026 characters."
+2184,"貴様こそ……
+何をしていたのだ？",I might ask you the same thing.,"أنت نفسك...
+ماذا كنت تفعل؟","أنت نفسك……
+ماذا كنت تفعل؟",improvement,"أنت نفسك……
+ماذا كنت تفعل؟","Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Corrected ellipsis character and count from three ASCII dots to two Unicode U+2026 characters."
+2186,"私は劇作家だからね
+……君とは違って","I am a playwright, after all...
+Unlike you.","فأنا كاتب مسرحي
+...على عكسك تماماً","فأنا كاتب مسرحي
+……على عكسك تماماً",improvement,"فأنا كاتب مسرحي
+……على عكسك تماماً","Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Corrected ellipsis character and count from three ASCII dots to two Unicode U+2026 characters."
+2187,…………,......,............,…………,improvement,…………,"Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Corrected ellipsis character and count from twelve ASCII dots to four Unicode U+2026 characters."
+2188,"では、その衣服の
+血はなんだ……？","Then why is there blood on
+your clothes?","إذن، ما هذا الدم
+على تلك الملابس...؟","إذن، ما هذا الدم
+على تلك الملابس……؟",improvement,"إذن، ما هذا الدم
+على تلك الملابس……؟","Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Corrected ellipsis character and count from three ASCII dots to two Unicode U+2026 characters."
+2189,…………,......,............,…………,improvement,…………,"Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Corrected ellipsis character and count from twelve ASCII dots to four Unicode U+2026 characters."
+2190,"やれやれ……
+目ざといヤツだ","Your eyes are as keen as ever,
+aren't they?","يا للهول...
+أنت شخص دقيق الملاحظة.","يا للهول……
+أنت شخص دقيق الملاحظة.",improvement,"يا للهول……
+أنت شخص دقيق الملاحظة.","Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Corrected ellipsis character and count from three ASCII dots to two Unicode U+2026 characters."
+2192,…………,Oh?,............,…………,improvement,…………,"Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Corrected ellipsis character and count from twelve ASCII dots to four Unicode U+2026 characters."
+2193,くくく……,Hahaha...,كوكوكو...,كوكوكو……,improvement,كوكوكو……,"Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Corrected ellipsis character and count from three ASCII dots to two Unicode U+2026 characters."
+2196,"創作の命となる
+“題材”への渇きが……","The thirst for new material to
+inspire my creations...","العطش إلى ""الموضوع"" الذي يمثل روح الإبداع...","العطش إلى ""الموضوع"" الذي يمثل روح الإبداع……",improvement,"العطش إلى ""الموضوع"" الذي يمثل روح الإبداع……","Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Corrected ellipsis character and count from three ASCII dots to two Unicode U+2026 characters."
+2200,"劇は売れず
+紙屑だけが増えたものだ","But none of them would sell.
+My only talent seemed to be
+wasting parchment...","لم تبع المسرحيات
+ولم يزد الأمر إلا على أكوام من الورق المهمل","لم تبع المسرحيات
+ولم يزد الأمر إلا ورقًا مهملًا",improvement,"لم تبع المسرحيات
+ولم يزد الأمر إلا ورقًا مهملًا","Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Rephrased for more natural and accurate expression of 'only waste paper increased', removing the awkward 'على أكوام'."
+2201,"だが、ある時……
+雇い主の妻と寝た時だ","But then...I slept with the troupe
+leader's wife.","ولكن، في وقت ما...
+عندما نمت مع زوجة صاحب العمل","ولكن، في وقت ما…
+عندما نمت مع زوجة صاحب العمل",regression,"ولكن، في وقت ما……
+عندما نمت مع زوجة صاحب العمل","Regression (ellipsis mechanics only): Gemini's own stated reason claims the fix restores JA's 2x U+2026 count, but the actual ar_text output contains only a single U+2026 glyph (half the required pacing pause). ja_text confirmed to contain two U+2026 characters here. Underlying semantic/gender/lexical change (if any) in this row is otherwise a genuine improvement. | Gemini reason: Corrected ellipsis character and count from '...' (3 ASCII dots) to '…' (1 Unicode ellipsis) repeated twice to match JA source '……'."
+2202,"不覚にも、雇い主に
+情事を目撃されてしまった","...We were careless, and he
+caught us in the act.","وبسبب غفلة مني، رآني صاحب العمل
+أنا وأنا في تلك العلاقة","وبسبب غفلة مني، رآني صاحب العمل
+في تلك العلاقة",improvement,"وبسبب غفلة مني، رآني صاحب العمل
+في تلك العلاقة","Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Removed the redundant and awkward 'أنا وأنا' for better flow and conciseness."
+2203,"彼は、我を忘れ激昂し
+ナイフを……","He fell into a rage, grabbed
+a knife...","لقد غضب بشدة ونسيني،
+وطعن...","لقد غضب بشدة وفقد صوابه،
+وأمسك سكينًا…",regression,"لقد غضب بشدة وفقد صوابه،
+وأمسك سكينًا……","Regression (ellipsis mechanics only): Gemini's own stated reason claims the fix restores JA's 2x U+2026 count, but the actual ar_text output contains only a single U+2026 glyph (half the required pacing pause). ja_text confirmed to contain two U+2026 characters here. Underlying semantic/gender/lexical change (if any) in this row is otherwise a genuine improvement. | Gemini reason: Corrected 'ونسيني' (forgot me) to 'وفقد صوابه' (lost control/became beside himself) to accurately reflect '我を忘れ'. Changed 'وطعن...' (and stabbed...) to 'وأمسك سكينًا...' (and grabbed a knife...) to match the implication in JA and EN that the knife was grabbed, not yet used. Corrected ellipsis character and count."
+2206,"そして
+最期に自らの喉を……","Then he placed the knife against
+his own throat. It was simply...","ثم في النهاية،
+طعن حنجرته...","ثم في النهاية،
+وضع السكين على حنجرته…",regression,"ثم في النهاية،
+وضع السكين على حنجرته……","Regression (ellipsis mechanics only): Gemini's own stated reason claims the fix restores JA's 2x U+2026 count, but the actual ar_text output contains only a single U+2026 glyph (half the required pacing pause). ja_text confirmed to contain two U+2026 characters here. Underlying semantic/gender/lexical change (if any) in this row is otherwise a genuine improvement. | Gemini reason: Changed 'طعن حنجرته...' (stabbed his throat...) to 'وضع السكين على حنجرته...' (placed the knife against his throat...) to better reflect the EN and the implied action in JA. Corrected ellipsis character and count."
+2208,"そのとき、全身の血が沸き
+情熱の炎が灯った！","My heart thundered in my chest!
+The fires of passion were lit!","في تلك اللحظة، غلى الدم في جسده بالكامل،
+واشتعلت نيران الشغف!","في تلك اللحظة، غلى الدم في جسدي بالكامل،
+واشتعلت نيران الشغف!",improvement,"في تلك اللحظة، غلى الدم في جسدي بالكامل،
+واشتعلت نيران الشغف!","Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Corrected the pronoun from 'جسده' (his body) to 'جسدي' (my body) as the speaker (Auguste) is referring to himself."
+2210,"……それが処女作
+“ピュリッティの妻”さ","It became my debut play...
+<i>The Chaste Wife</>.","...كانت تلك عملي الأول،
+""زوجة بورييتي"".","…كانت تلك عملي الأول،
+""الزوجة العفيفة"".",regression,"……كانت تلك عملي الأول،
+""الزوجة العفيفة"".","Regression (ellipsis mechanics only): Gemini's own stated reason claims the fix restores JA's 2x U+2026 count, but the actual ar_text output contains only a single U+2026 glyph (half the required pacing pause). ja_text confirmed to contain two U+2026 characters here. Underlying semantic/gender/lexical change (if any) in this row is otherwise a genuine improvement. | Gemini reason: Corrected ellipsis character and count. Translated the play title 'ピュリッティの妻' (Pyuritti no Tsuma) to 'الزوجة العفيفة' (The Chaste Wife) to match the English translation of the title, implying 'Pyuritti' is a play on 'Purity/Chastity' rather than a proper name."
+2213,"殺人鬼としての邪道を
+……だろう？",And that of a merciless killer.,"الطريق المنحرف كقاتل متسلسل
+... أليس كذلك؟","الطريق المنحرف كقاتل
+… أليس كذلك؟",regression,"الطريق المنحرف كقاتل
+…… أليس كذلك؟","Regression (ellipsis mechanics only): Gemini's own stated reason claims the fix restores JA's 2x U+2026 count, but the actual ar_text output contains only a single U+2026 glyph (half the required pacing pause). ja_text confirmed to contain two U+2026 characters here. Underlying semantic/gender/lexical change (if any) in this row is otherwise a genuine improvement. | Gemini reason: Removed 'متسلسل' (serial) as it is not present in the JA source '殺人鬼' (killer/murderer) or the EN 'merciless killer'. Corrected ellipsis character and count."
+2216,くくく……,Hahaha...,كوكوكو...,كوكوكو…,regression,كوكوكو……,"Regression (ellipsis mechanics only): Gemini's own stated reason claims the fix restores JA's 2x U+2026 count, but the actual ar_text output contains only a single U+2026 glyph (half the required pacing pause). ja_text confirmed to contain two U+2026 characters here. Underlying semantic/gender/lexical change (if any) in this row is otherwise a genuine improvement. | Gemini reason: Corrected ellipsis character and count."
+2218,貴様の妻だった女もな……,Just like your wife's...,حتى تلك المرأة التي كانت زوجتكِ...,حتى تلك المرأة التي كانت زوجتكَ…,regression,حتى تلك المرأة التي كانت زوجتكَ……,"Regression (ellipsis mechanics only): Gemini's own stated reason claims the fix restores JA's 2x U+2026 count, but the actual ar_text output contains only a single U+2026 glyph (half the required pacing pause). ja_text confirmed to contain two U+2026 characters here. Underlying semantic/gender/lexical change (if any) in this row is otherwise a genuine improvement. | Gemini reason: Corrected the gender of the possessive pronoun from 'زوجتكِ' (your wife - feminine) to 'زوجتكَ' (your wife - masculine) to adhere to the generic masculine fallback for the gender-neutral protagonist. Corrected ellipsis character and count."
+2219,…………,......,...........,…………,improvement,…………,"Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Corrected ellipsis character and count from '...........' (11 ASCII dots) to '…………' (4 Unicode ellipses) to match JA source '…………'."
+2223,させるかッ……！,You aren't going anywhere!,لن أسمح لك بذلك...!,لن أسمح لك بذلك…!,regression,لن أسمح لك بذلك……!,"Regression (ellipsis mechanics only): Gemini's own stated reason claims the fix restores JA's 2x U+2026 count, but the actual ar_text output contains only a single U+2026 glyph (half the required pacing pause). ja_text confirmed to contain two U+2026 characters here. Underlying semantic/gender/lexical change (if any) in this row is otherwise a genuine improvement. | Gemini reason: Corrected ellipsis character and count."
+2225,来るぞ……！,Here they come!,إنه قادم...!,إنهم قادمون…!,regression,إنهم قادمون……!,"Regression (ellipsis mechanics only): Gemini's own stated reason claims the fix restores JA's 2x U+2026 count, but the actual ar_text output contains only a single U+2026 glyph (half the required pacing pause). ja_text confirmed to contain two U+2026 characters here. Underlying semantic/gender/lexical change (if any) in this row is otherwise a genuine improvement. | Gemini reason: Changed 'إنه قادم' (He is coming) to 'إنهم قادمون' (They are coming) to match the plural implication of the English 'Here they come!'. Corrected ellipsis character and count."
+2226,…………,......,...........,…………,improvement,…………,"Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Corrected ellipsis character and count from '...........' (11 ASCII dots) to '…………' (4 Unicode ellipses) to match JA source '…………'."
+2227,"アーギュスト……
+あの悪魔め","Auguste, that bastard.","أوغست...
+ذلك الشيطان","أوغست……
+ذلك الشيطان",improvement,"أوغست……
+ذلك الشيطان","Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Corrected ellipsis count from three ASCII dots to two Unicode U+2026 characters to match JA source."
+2232,その代償に……,...But at what cost?,مقابل ذلك...,مقابل ذلك……,improvement,مقابل ذلك……,"Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Corrected ellipsis count from three ASCII dots to two Unicode U+2026 characters to match JA source."
+2239,…………,......,...........,…………,improvement,…………,"Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Corrected ellipsis count from eleven ASCII dots to four Unicode U+2026 characters to match JA source."
+2241,あの怪物が劇を書く限り……,As long as he continues writing...,طالما ذلك الوحش يكتب المسرحيات...,طالما ذلك الوحش يكتب المسرحيات……,improvement,طالما ذلك الوحش يكتب المسرحيات……,"Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Corrected ellipsis count from three ASCII dots to two Unicode U+2026 characters to match JA source."
+2243,…………,......,...........,…………,improvement,…………,"Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Corrected ellipsis count from eleven ASCII dots to four Unicode U+2026 characters to match JA source."
+2244,一刻も早く……,There's no time to waste...,في أسرع وقت ممكن...,في أسرع وقت ممكن……,improvement,في أسرع وقت ممكن……,"Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Corrected ellipsis count from three ASCII dots to two Unicode U+2026 characters to match JA source."
+2245,アーギュストを殺さねば……,We have to kill Auguste...,يجب أن أقتل أوغست...,يجب أن أقتل أوغست……,improvement,يجب أن أقتل أوغست……,"Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Corrected ellipsis count from three ASCII dots to two Unicode U+2026 characters to match JA source."
+2249,"坊ちゃん
+転んでしまいますよ？","Young master, mind you
+don't fall!","يا سيد
+سوف تسقط؟","يا صغيري،
+احذر أن تسقط!",improvement,"يا صغيري،
+احذر أن تسقط!","Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Changed 'يا سيد' to 'يا صغيري' for better tone matching '坊ちゃん'. Rephrased 'سوف تسقط؟' to 'احذر أن تسقط!' for a more natural warning instead of a question, matching the English 'mind you don't fall!'."
+2250,"……ごめんなさい
+嬉しくって","Sorry...
+I'm just so happy.","...أنا آسف
+من شدة الفرح","……أنا آسف
+من شدة الفرح",improvement,"……أنا آسف
+من شدة الفرح","Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Corrected ellipsis count from three ASCII dots to two Unicode U+2026 characters to match JA source."
+2251,"今日は、お母様が
+帰って来るって言うから",Mother is coming home today!,"لقد قيل لي إن والدتكِ
+ستعود اليوم.",أمي ستعود اليوم!,improvement,أمي ستعود اليوم!,"Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Rephrased to reflect the child's direct speech and excitement ('أمي ستعود اليوم!') instead of a reported speech ('لقد قيل لي إن والدتكِ ستعود اليوم.'), and corrected the gender of 'والدتكِ' to 'أمي' as the child is speaking about his own mother."
+2252,"お母様の言い付けは
+守っていますか？","And have you done as
+your mother asked?","هل تلتزمُ
+بوصايا والدتكِ؟","هل تلتزمُ
+بوصايا والدتكَ؟",improvement,"هل تلتزمُ
+بوصايا والدتكَ؟","Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Corrected gender from feminine 'والدتكِ' to masculine 'والدتكَ' as the addressee is '坊ちゃん' (young master)."
+2258,"坊や……
+会いたかった","Oh, my boy...
+How I've missed you.","يا بني...
+لقد اشتقتُ إليك.","يا بني……
+لقد اشتقتُ إليك.",improvement,"يا بني……
+لقد اشتقتُ إليك.","Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Corrected ellipsis count from three ASCII dots to two Unicode U+2026 characters to match JA source."
+2261,"はい、お母様に
+言われたとおりに","Yes, I did just as you asked.","نعم، لقد فعلتُ
+كما أمرتني أمي","نعم، لقد فعلتُ
+كما طلبت أمي",improvement,"نعم، لقد فعلتُ
+كما طلبت أمي","Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Changed 'أمرتني' to 'طلبت أمي' for a more natural and less formal tone, aligning with the 'warm, natural MSA' register."
+2262,"紫のオジサンが来ても
+近づいてないよ？","I stayed away from that man
+in purple.","حتى عندما جاء
+الرجل الأرجواني،
+لم أقترب منه، أليس كذلك؟","حتى عندما جاء الرجل الأرجواني،
+لم أقترب منه، أليس كذلك؟",improvement,"حتى عندما جاء الرجل الأرجواني،
+لم أقترب منه، أليس كذلك؟","Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Removed an extra line break to match the single line break in the Japanese source, as per style guide."
+2264,"ごめんね……
+寂しい思いをさせて","Forgive me for leaving you alone
+like this.","أنا آسفة...
+لأنني جعلتك تشعر بالوحدة","أنا آسفة…
+لأنني جعلتك تشعر بالوحدة",regression,"أنا آسفة……
+لأنني جعلتك تشعر بالوحدة","Regression (ellipsis mechanics only): Gemini's own stated reason claims the fix restores JA's 2x U+2026 count, but the actual ar_text output contains only a single U+2026 glyph (half the required pacing pause). ja_text confirmed to contain two U+2026 characters here. Underlying semantic/gender/lexical change (if any) in this row is otherwise a genuine improvement. | Gemini reason: Corrected ellipsis from '...' (three ASCII dots) to '……' (two Unicode U+2026 characters) to match the Japanese source count and character."
+2267,…………,......,...........,…………,improvement,…………,"Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Corrected ellipsis from '...........' (eleven ASCII dots) to '…………' (four Unicode U+2026 characters) to match the Japanese source count and character."
+2271,ガラリア……,Galilea...,غابرييلا...,غاليليا…,regression,غاليليا……,"Regression (ellipsis mechanics only): Gemini's own stated reason claims the fix restores JA's 2x U+2026 count, but the actual ar_text output contains only a single U+2026 glyph (half the required pacing pause). ja_text confirmed to contain two U+2026 characters here. Underlying semantic/gender/lexical change (if any) in this row is otherwise a genuine improvement. | Gemini reason: Corrected name transliteration from 'غابرييلا' (Gabriella) to 'غاليليا' for 'Galilea' (ガラリア) as per English reference. Also corrected ellipsis from '...' to '……'."
+2272,必ず仇を取るからね……,You <i>will</> be avenged.,سأنتقم منكِ بالتأكيد...,سأنتقم منكِ بالتأكيد…,regression,سأنتقم منكِ بالتأكيد……,"Regression (ellipsis mechanics only): Gemini's own stated reason claims the fix restores JA's 2x U+2026 count, but the actual ar_text output contains only a single U+2026 glyph (half the required pacing pause). ja_text confirmed to contain two U+2026 characters here. Underlying semantic/gender/lexical change (if any) in this row is otherwise a genuine improvement. | Gemini reason: Corrected ellipsis from '...' (three ASCII dots) to '……' (two Unicode U+2026 characters) to match the Japanese source count and character."
+2273,"覚悟しろ
+アーギュスト……","Your days are numbered, Auguste.",استعد...,"استعد…
+أوغست",regression,"استعد……
+أوغست","Regression (ellipsis mechanics only): Gemini's own stated reason claims the fix restores JA's 2x U+2026 count, but the actual ar_text output contains only a single U+2026 glyph (half the required pacing pause). ja_text confirmed to contain two U+2026 characters here. Underlying semantic/gender/lexical change (if any) in this row is otherwise a genuine improvement. | Gemini reason: Added line break '\n' to match the Japanese source. Corrected ellipsis from '...' (three ASCII dots) to '……' (two Unicode U+2026 characters) to match the Japanese source count and character."
+2274,君は……,It's you...,أنتِ...,أنتِ…,regression,أنتِ……,"Regression (ellipsis mechanics only): Gemini's own stated reason claims the fix restores JA's 2x U+2026 count, but the actual ar_text output contains only a single U+2026 glyph (half the required pacing pause). ja_text confirmed to contain two U+2026 characters here. Underlying semantic/gender/lexical change (if any) in this row is otherwise a genuine improvement. | Gemini reason: Corrected ellipsis from '...' (three ASCII dots) to '……' (two Unicode U+2026 characters) to match the Japanese source count and character."
+2275,"ここまで追ってきたと
+いうことは……",If you've followed me all this way...,بما أنكِ طاردتِني إلى هنا...,بما أنكِ طاردتِني إلى هنا…,regression,بما أنكِ طاردتِني إلى هنا……,"Regression (ellipsis mechanics only): Gemini's own stated reason claims the fix restores JA's 2x U+2026 count, but the actual ar_text output contains only a single U+2026 glyph (half the required pacing pause). ja_text confirmed to contain two U+2026 characters here. Underlying semantic/gender/lexical change (if any) in this row is otherwise a genuine improvement. | Gemini reason: Corrected ellipsis from '...' (three ASCII dots) to '……' (two Unicode U+2026 characters) to match the Japanese source count and character."
+2283,"……なぜだ？
+君も心は同じはず","Why do you hesitate?
+You should feel the same as I.","...لماذا؟
+لا بد أن قلبكِ يشعر بنفس الشيء","……لماذا؟
+لا بد أن قلبكِ يشعر بنفس الشيء",improvement,"……لماذا؟
+لا بد أن قلبكِ يشعر بنفس الشيء","Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Corrected ellipsis from '...' (three ASCII dots) to '……' (two Unicode U+2026 characters) to match the Japanese source count and character."
+2284,"君にはまだあるのだな
+……憎しみ以外の矛先が","Or has hatred not fully
+consumed you?","لا يزال لديكِ شيء
+...هدفٌ غير الكراهية","لا يزال لديكِ شيء
+……هدفٌ غير الكراهية",improvement,"لا يزال لديكِ شيء
+……هدفٌ غير الكراهية","Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Corrected ellipsis from '...' (three ASCII dots) to '……' (two Unicode U+2026 characters) to match the Japanese source count and character."
+2306,…………,Oh?,...........,…………,improvement,…………,"Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Corrected ellipsis from '...........' (eleven ASCII dots) to '…………' (four Unicode U+2026 characters) to match the Japanese source count and character."
+2308,"別荘まで追って来るなんて
+余程のファンか、それとも……","You must be quite the fans to follow
+us all the way to this villa. Unless...","أن تلاحقيني حتى الفيلا،
+إما أنكِ معجبة شديدة، أو أنكِ...","أن تلاحقونا حتى الفيلا،
+إما أنكم معجبون شديدون، أو أنكم……",improvement,"أن تلاحقونا حتى الفيلا،
+إما أنكم معجبون شديدون، أو أنكم……","Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Corrected gender/number agreement from feminine singular to plural masculine (addressing multiple people/party), fixed ellipsis count, and ensured line break is preserved."
+2309,帰ってちょうだい,You should leave.,عودي إلى منزلكِ,عودوا.,improvement,عودوا.,"Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Corrected gender/number agreement from feminine singular imperative to plural masculine imperative, matching the implied plural addressee from the previous line. Removed 'إلى منزلكِ' as 'عودوا' is sufficient for 'You should leave/go home'."
+2310,…………,......,...........,…………,improvement,…………,"Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Corrected ellipsis count from eleven ASCII dots to four Unicode U+2026 characters, matching ja_text."
+2311,"……と言って帰るなら
+わざわざ来ないわね","Though I suppose they're wasted
+words on people who have come
+this far.","...إذا قلتِ ذلكِ وعدتِ،
+فلن آتي خصيصًا.","……إذا قالوا ذلك وعادوا،
+فلن يأتوا خصيصًا.",improvement,"……إذا قالوا ذلك وعادوا،
+فلن يأتوا خصيصًا.","Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Corrected subject agreement from feminine singular to plural masculine (referring to the visitors), fixed mistranslation of 'I won't come' to 'they won't come', and corrected ellipsis count."
+2312,その通りです、マダム,"Precisely, madam.",هذا صحيح يا سيدتي،,هذا صحيح يا سيدتي،,wash,هذا صحيح يا سيدتي،,Wash: ar_text_before and ar_text are byte-identical; the stated reason (ASCII->Arabic comma) describes a change that was not actually made - both already contained the Arabic comma. No real difference.
+2314,……そう,...I see.,...هذا صحيح,……هذا صحيح,improvement,……هذا صحيح,"Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Corrected ellipsis count."
+2317,……余裕がありますな,...You don't seem surprised.,........... لديّ وقت كافٍ,……لا تبدين متفاجئة.,improvement,……لا تبدين متفاجئة.,"Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Corrected mistranslation from 'I have enough time' to 'You don't seem surprised', and fixed ellipsis count."
+2320,…………,......,.........................,…………,improvement,…………,"Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Corrected ellipsis count from twenty-five ASCII dots to four Unicode U+2026 characters, matching ja_text."
+2321,…………,......,............,…………,improvement,…………,"Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Corrected ellipsis count from twelve ASCII dots to four Unicode U+2026 characters, matching ja_text."
+2323,ええ……彼との,Yes...and <i>his</>.,نعم... معه,نعم…… معه,improvement,نعم…… معه,"Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Corrected ellipsis count."
+2325,"誰にも……
+知られたくないから","I don't want anyone to know
+about him...","لا أريد...
+أن يعرف أحدٌ بذلك","لا أريد……
+أن يعرف أحدٌ بذلك",improvement,"لا أريد……
+أن يعرف أحدٌ بذلك","Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Corrected ellipsis count."
+2327,"あの子には
+父親だとも教えていない","And the boy is lucky not to know
+who his father is.","لم أخبر ذلك الطفل
+بأنني والده","لم أخبر ذلك الطفل
+بمن هو والده.",improvement,"لم أخبر ذلك الطفل
+بمن هو والده.","Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Corrected mistranslation from 'that I am his father' to 'who his father is'."
+2329,"ミハエルは……
+私が帰ることだけが楽しみなの","My visits here are the only joys
+in Mikhail's life...","ميخائيل...
+ينتظر عودتي فقط","ميخائيل……
+ينتظر عودتي فقط",improvement,"ميخائيل……
+ينتظر عودتي فقط","Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Corrected ellipsis count."
+2330,あれは……？,What's that?,ما هذا...؟,ما هذا……؟,improvement,ما هذا……؟,"Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Corrected ellipsis count and changed ASCII question mark to Arabic question mark."
+2331,…………,......,...........,…………,improvement,…………,"Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Corrected ellipsis count from eleven ASCII dots to four Unicode U+2026 characters, matching ja_text."
+2333,"ハイランド地方の
+冷酷な王ジェンニッシュは……","Cruel King Jennish of
+the Highlands...",الملك جينيش القاسي في منطقة هايلاند...,الملك جينيش القاسي في منطقة هايلاند……,improvement,الملك جينيش القاسي في منطقة هايلاند……,"Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Corrected ellipsis count."
+2335,どのような罰を……？,What for?,أي نوع من العقاب...؟,أي نوع من العقاب……؟,improvement,أي نوع من العقاب……؟,"Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Corrected ellipsis count to match Japanese source (two U+2026 characters)."
+2336,罪人の代わりに……,In place of the criminal...,بدلاً من المجرم...,بدلاً من المجرم……,improvement,بدلاً من المجرم……,"Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Corrected ellipsis count to match Japanese source (two U+2026 characters)."
+2341,……むごいな,...That's horrible.,...هذا وحشي,……هذا وحشي,improvement,……هذا وحشي,"Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Corrected ellipsis count to match Japanese source (two U+2026 characters)."
+2343,"アーギュスト様の趣味ね
+他にも様々な拷問具が……","Collecting torture devices is
+a hobby of Auguste's.","إنها هواية أوغست الكاتب المسرحي
+هناك أدوات تعذيب أخرى...","إنها هواية أوغست الكاتب المسرحي
+هناك أدوات تعذيب أخرى……",improvement,"إنها هواية أوغست الكاتب المسرحي
+هناك أدوات تعذيب أخرى……","Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Corrected ellipsis count to match Japanese source (two U+2026 characters)."
+2344,……それ以上は聞くまい,...I've heard enough.,...لن أسمع أكثر من ذلك,……لن أسمع أكثر من ذلك,improvement,……لن أسمع أكثر من ذلك,"Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Corrected ellipsis count to match Japanese source (two U+2026 characters)."
+2346,"アーギュストが
+どんな怪物なのかを……","You know Auguste for the monster
+he truly is...",أي نوع من الوحوش هو أوغست...,أي نوع من الوحوش هو أوغست……,improvement,أي نوع من الوحوش هو أوغست……,"Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Corrected ellipsis count to match Japanese source (two U+2026 characters)."
+2347,…………,......,...........,…………,improvement,…………,"Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Corrected ellipsis count to match Japanese source (four U+2026 characters)."
+2349,"陰で何をしているかも
+知ってる……","I know very well what he does
+in the shadows...","وأعرف أيضاً
+ماذا يفعل في الخفاء...","وأعرف أيضاً
+ماذا يفعل في الخفاء……",improvement,"وأعرف أيضاً
+ماذا يفعل في الخفاء……","Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Corrected ellipsis count to match Japanese source (two U+2026 characters)."
+2350,…………,......,...........,…………,improvement,…………,"Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Corrected ellipsis count to match Japanese source (four U+2026 characters)."
+2351,"彼のすることに
+手を貸したことも……","I've even played the accomplice
+before...","حتى أنني ساعدتُه في
+ما كان يفعله...","حتى أنني ساعدتُه في
+ما كان يفعله……",improvement,"حتى أنني ساعدتُه في
+ما كان يفعله……","Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Corrected ellipsis count to match Japanese source (two U+2026 characters)."
+2352,…………,......,...........,…………,improvement,…………,"Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Corrected ellipsis count to match Japanese source (four U+2026 characters)."
+2355,…………,......,...........,…………,improvement,…………,"Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Corrected ellipsis count to match Japanese source (four U+2026 characters)."
+2358,"でも……たまに
+優しさが見える時があるの","But at times...I can sense
+a kindness in him.","ولكن... أحياناً
+أرى فيه بعض اللطف","ولكن…… أحياناً
+أرى فيه بعض اللطف",improvement,"ولكن…… أحياناً
+أرى فيه بعض اللطف","Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Corrected ellipsis count to match Japanese source (two U+2026 characters)."
+2359,"このネックレス
+……彼がくれたのよ",He...gave me this necklace.,"هذا العقد
+... لقد أعطاني إياه","هذا العقد
+…… لقد أعطاني إياه",improvement,"هذا العقد
+…… لقد أعطاني إياه","Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Corrected ellipsis count to match Japanese source (two U+2026 characters)."
+2360,"“君は、私の最高の女優だ”
+って……","He told me I was his greatest
+actress.","""أنتِ أفضل ممثلة لدي""
+هكذا قال...","""أنتِ أفضل ممثلة لدي""
+هكذا قال……",improvement,"""أنتِ أفضل ممثلة لدي""
+هكذا قال……","Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Corrected ellipsis count to match Japanese source (two U+2026 characters)."
+2361,"私は……
+どうすれば……",What...what should I do?,"أنا...
+ماذا عليّ أن أفعل...","أنا……
+ماذا عليّ أن أفعل……",improvement,"أنا……
+ماذا عليّ أن أفعل……","Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Corrected ellipsis count to match Japanese source (two U+2026 characters instead of three ASCII dots)."
+2362,…………,......,...........,…………,improvement,…………,"Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Corrected ellipsis count to match Japanese source (four U+2026 characters instead of eleven ASCII dots)."
+2364,"貴方のように、ヤツに出会い
+心酔してしまった","Like you, she met Auguste and
+devoted herself to him.","لقد التقت به مثلكِ
+وهوجمت به مشاعرها","لقد التقت به مثلكِ
+وافتتنت به",improvement,"لقد التقت به مثلكِ
+وافتتنت به","Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Corrected mistranslation of '心酔してしまった' (became infatuated/devoted) from 'وهوجمت به مشاعرها' (her feelings were attacked) to 'وافتتنت به'."
+2365,"そして、彼の言うまま
+何の疑問もなく……","She obeyed his every command
+without hesitation...","ثم، كما أمرها
+دون أي شك...","ثم، كما أمرها
+دون أي شك……",improvement,"ثم، كما أمرها
+دون أي شك……","Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Corrected ellipsis count to match Japanese source (two U+2026 characters instead of three ASCII dots)."
+2366,……自ら命を絶った,...Even taking her own life.,... أنهت حياتها بنفسها,……أنهت حياتها بنفسها,improvement,……أنهت حياتها بنفسها,"Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Corrected ellipsis count to match Japanese source (two U+2026 characters instead of three ASCII dots)."
+2367,…………,......,............,…………,improvement,…………,"Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Corrected ellipsis count to match Japanese source (four U+2026 characters instead of twelve ASCII dots)."
+2368,"名声とは、人の心を縛る
+魔術のようなものか……","His fame enchants people like
+some wicked spell...",هل الشهرة شيء يشبه السحر الذي يقيد قلوب البشر...,هل الشهرة شيء يشبه السحر الذي يقيد قلوب البشر……,improvement,هل الشهرة شيء يشبه السحر الذي يقيد قلوب البشر……,"Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Corrected ellipsis count to match Japanese source (two U+2026 characters instead of three ASCII dots)."
+2370,"気を確かに持て
+あの悪魔を断ち切るんだ","You must come to your senses
+and break free of this demon.",كن يقظاً,"استعيدي وعيكِ
+وتخلصي من ذلك الشيطان",improvement,"استعيدي وعيكِ
+وتخلصي من ذلك الشيطان","Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Corrected mistranslation and gender agreement. 'كن يقظاً' (be alert, masculine) was incomplete and incorrect for Francesca (female). Rephrased to 'استعيدي وعيكِ وتخلصي من ذلك الشيطان' (regain your senses and break free of that demon), ensuring female address and capturing the full meaning."
+2371,"まだ貴方は、引き返せる
+幸せな暮らしに","You can still turn back and live
+a happy life...",لا يزال بإمكانك العودة إلى حياة السعادة.,لا يزال بإمكانكِ العودة إلى حياة السعادة.,improvement,لا يزال بإمكانكِ العودة إلى حياة السعادة.,"Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Added kasra to 'بإمكانكِ' for explicit gender agreement with Francesca (female), improving clarity."
+2372,あの子と……,With your son.,ذلك الطفل و...,مع ابنكِ……,improvement,مع ابنكِ……,"Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Corrected incomplete translation 'ذلك الطفل و...' to 'مع ابنكِ' (with your son), reflecting the English context and ensuring female address. Also corrected ellipsis count to match Japanese source (two U+2026 characters instead of three ASCII dots)."
+2373,…………,......,............,…………,improvement,…………,"Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Corrected ellipsis count to match Japanese source (four U+2026 characters instead of twelve ASCII dots)."
+2374,"貴方たちのこと
+アーギュスト様には言わない",I won't tell Auguste I saw you.,عنكم,لن أخبر السيد أوغست عنكما.,improvement,لن أخبر السيد أوغست عنكما.,"Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Corrected incomplete translation 'عنكم' to a full sentence 'لن أخبر السيد أوغست عنكما' (I won't tell Master Auguste about you two), using the dual form 'عنكما' for precision (referring to the speaker and Francesca)."
+2375,門には……鍵をかけるわ,I'm going to lock the door.,سأضع... قفلاً على الباب,سأقفل الباب……,improvement,سأقفل الباب……,"Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Rephrased 'سأضع... قفلاً على الباب' to 'سأقفل الباب' (I will lock the door) for more natural phrasing. Also corrected ellipsis count to match Japanese source (two U+2026 characters instead of three ASCII dots)."
+2376,"だから……お願い
+大人しく帰って……",So please...just leave.,"لذا... أرجوك
+عد إلى المنزل بهدوء...","لذا…… أرجوك
+عد إلى المنزل بهدوء……",improvement,"لذا…… أرجوك
+عد إلى المنزل بهدوء……","Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Corrected ellipsis counts to match Japanese source (two U+2026 characters instead of three ASCII dots) in both instances."
+2378,…………,......,...........,…………,improvement,…………,"Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Corrected ellipsis count to match Japanese source (four U+2026 characters instead of eleven ASCII dots)."
+2386,"……失礼します
+アーギュスト様","Pardon me, Master Auguste.","...معذرة
+سيد أوغست","……معذرة
+سيد أوغست",improvement,"……معذرة
+سيد أوغست","Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Corrected ellipsis count to match Japanese source (two U+2026 characters instead of three ASCII dots)."
+2388,"いま
+劇の中盤なのだが……",I'm halfway through my play...,"نحن الآن
+في منتصف المسرحية...","نحن الآن
+في منتصف المسرحية……",improvement,"نحن الآن
+في منتصف المسرحية……","Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Corrected ellipsis count to match Japanese source (two U+2026 characters instead of three ASCII dots)."
+2389,"良い展開がイマイチ
+浮かばなくてね……","But I just can't think of a fitting
+turning point...",التطورات لا تزال تفتقر إلى الإثارة المطلوبة...,التطورات لا تزال تفتقر إلى الإثارة المطلوبة……,improvement,التطورات لا تزال تفتقر إلى الإثارة المطلوبة……,"Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Corrected ellipsis count to match Japanese source (two U+2026 characters instead of three ASCII dots)."
+2390,少しお休みになられては？,Perhaps you should rest?,ألا تفضلين أخذ قسط من الراحة؟,ألا تفضل أخذ قسط من الراحة؟,improvement,ألا تفضل أخذ قسط من الراحة؟,"Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Corrected gender agreement. Speaker (Francesca, female) is addressing Auguste (male), so 'تفضلين' (feminine) was changed to 'تفضل' (masculine)."
+2391,休息より刺激が欲しい……,"I require thrills, not rest...",أريد التحفيز أكثر من الراحة...,أريد التحفيز أكثر من الراحة……,improvement,أريد التحفيز أكثر من الراحة……,"Verified: change is a genuine improvement (mechanical ellipsis/punctuation fix, gender/number agreement correction, or mistranslation fix) consistent with ja_text. Gemini reason: Corrected ellipsis count to match Japanese source (two U+2026 characters instead of three ASCII dots)."

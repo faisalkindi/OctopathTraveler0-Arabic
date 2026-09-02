@@ -1,0 +1,497 @@
+﻿table,id,voice_id,ja_text,en_text
+GameTextUI,7,,所持数,Held
+GameTextUI,27814,,速度,Speed
+GameTextUI,62335,,大出血,Hemorrhage
+GameTextUI,62450,,属攻ダウン,Elem. Atk. Down
+GameTextUI,62515,,本威力ダウン,Tome Pot. Down
+GameTextUI,62624,,関係性の改善,Restore Reputation
+GameTextUI,63920,,"{0}との親交が深まり
+{1}の{2}で
+新たなパーティチャットが発生しました","Your bond with {0} has grown.
+A new party chat has been created in
+{1}'s {2}."
+GameTextUI,65905,,セントヘイロー,Divine Aura
+GameTextUI,90355,,ヘルプを閉じる,Close
+GameTextUI,90639,,サポートアビリティの極意化,Support Skill Mastery
+GameTextUI,90987,,外す,Remove
+GameTextUI,91450,,関係性の改善,Restore Reputation
+GameTextUI,91654,,長い,Very Long
+GameTextUI,91790,,全体の音量を変更できます。,Adjust the master volume.
+GameTextUI,91928,,前のタブ,Previous Tab
+GameTextUI,94200,,"このキャラクターを
+パーティーから外すことはできません","This character cannot be removed
+from the party."
+GameTextUI,94607,,"セーブ画面を閉じてタイトルへ戻ります
+よろしいですか？","Exit the save screen and
+return to the title screen?"
+GameTextUI,95074,,屋外,Outside
+GameTextUI,95135,,"パーティー編成を完了して進みます
+よろしいですか？",Finish party edit and proceed?
+GameTextUI,95448,,飼料の購入,Purchase Fodder
+GameTextUI,95512,,拡大,Zoom In
+GameTextUI,95572,,この人物を招くには以下のアイテムが必要です,The following items are needed to impress them.
+GameTextUI,95627,,ミニマップは<icon_area_map>ボタンで全体表示が可能です,Press <icon_area_map> to display the entire map.
+GameTextUI,95679,,物防,Phys. Def.
+GameTextUI,95731,,"撤去したものは素材なしで再設置できます。
+どんどん作って町を豊かにしていきましょう！","Structures that are removed can be placed again without the use of materials.
+Build a thriving town to enrich the lives of the residents!"
+GameTextUI,95783,,タウンビルドのショートカット機能追加,Town Building Shortcut
+GameTextUI,95835,,どこでもトラベル,Fast Travel
+GameTextUI,95887,,町の人を「支援者」にすれば、バトルで力を貸してくれます！,"Enlist the town's residents as helpers, and they will assist you in battle!"
+GameTextUI,95942,,チュートリアル：セルクについて,Xerc
+GameTextUI,95994,,エルトリクスは前衛能力の高い特殊ジョブ「領主」です,"Eltrix—the Captain, indomitable force on the front lines."
+GameTextUI,96046,,一番槍,Spearhead
+GameTextUI,96098,,脳天撃,Brain Bash
+GameTextUI,96150,,"サポートアビリティを習得すると
+戦闘開始時に敵の弱点を1つ開示！","Learns support skill that shows an enemy weak point
+before battle!"
+GameTextUI,96202,,敵全体に剣で攻撃,Unleash a sword attack on all foes.
+GameTextUI,96256,,ルドについて,Ludo
+GameTextUI,96308,,ボスバトル1,Decisive Battle I
+GameTextUI,96360,,バトル0-2,Battle 0-2
+GameTextUI,96439,,物攻がアップする,Raises Phys. Atk.
+GameTextUI,96491,,与える火属性ダメージが増加する,Increase fire damage dealt.
+GameTextUI,96593,,会心がアップする,Raises Crit.
+GameTextUI,96665,,特典を受け取る,Collect Bonus
+GameTextUI,96718,,最強の一撃,Hard Hitter
+GameTextUI,96771,,"タウンビルドから
+住民を屋外へ配置できるように",Post residents outside through the town building menu.
+GameTextUI,96824,,PRESS ANY BUTTON,PRESS ANY BUTTON
+GameTextUI,96876,,最後の蘇生,Last Man Standing
+GameTextUI,96934,,ブーストMAX！,Max Boost
+GameTextUI,96986,,拠点となる酒場,The Tavern and Hub
+GameTextUI,97038,,全ての伝説の秘宝を納品した。,Obtain all legendary treasures.
+GameTextUI,97146,,ターン終了時にHP10%/SP５%を回復,Restore 10% HP/5% SP at the end of turn
+GameTextUI,97198,,トラベラーE,Traveler E
+GameTextItem,40003,,アーギュストの手記,Auguste's Journal
+GameTextItem,66888,,猫目石,Cat's Eye
+GameTextItem,67248,,持たざる者オスカが所持していた指輪,The ring that belonged to Oskha the Have-Not.
+GameTextItem,70182,,ロンドの情報,Rondo's Information
+GameTextItem,80011,,聖獣の石像から入手した証,Evidence obtained from the sacred beast statue.
+GameTextItem,100046,,テーブル,Table
+GameTextItem,100149,,水色の花,Blue Flowers
+GameTextItem,102000,,ただの槍,Makeshift Spear
+GameTextItem,103038,,希望の短剣,Dagger of Hope
+GameTextItem,105034,,守護者の弓,Guardian's Bow
+GameTextItem,107030,,リンバスファン,Limbus Fan
+GameTextItem,110026,,禁断の盾,Forbidden Shield
+GameTextItem,120192,,"青りんごが盛られた籠。
+甘酸っぱいのが特徴",A basket filled with tangy green apples.
+GameTextItem,120295,,"銀色に輝く餌入れ。
+設置中、牧場の収穫物の
+生産速度が上がる
+※同種の装飾品との効果は重複しない","A silver food trough. Increases harvest speed on the ranch.
+*Effects from decorations of the same type do not stack."
+GameTextItem,130167,,石材,Stone
+GameTextItem,130286,,属防増強のナッツ（大）,Resistant Nut (M)
+GameTextItem,140071,,「最大SP」の能力値を特大増加する,Massively increases max. SP.
+GameTextItem,150057,,チャンピオンベルト,Champion's Belt
+GameTextItem,161002,,"フロストランド様式の施設が
+建てられるようになる",Plans for a Frostlands-style building.
+GameTextItem,173005,,エンバー茸,Embershroom
+GameTextItem,175107,,真空斬りの極意,Vacuum Slice Mastery
+GameTextItem,190008,,立派な花瓶セットの設計図,Luxurious Vase Designs
+GameTextItem,300136,,煽動の極意,Goad Mastery
+GameTextItem,300225,,継続回復魔法の極意,Ethereal Healing Mastery
+GameTextItem,300409,,"商人から輝石のペンダントを購入した
+貴族ベンノの情報","Information about Master Benno, the man who purchased the augite pendate from a merchant."
+GameTextItem,300496,,獣の大爪の極意,Savage Claw Mastery
+GameTextItem,300584,,回復魔法の極意,Heal Wounds Mastery
+GameTextItem,300671,,反撃の狼煙の極意,Foresight Mastery
+GameTextItem,300760,,いきなり必殺チャージの極意,Ultimate Charge Mastery
+GameTextItem,300991,,"<Param_State>
+装備効果：毎ターン自身の最大SPの
+３％分のSPを失う","<Param_State>
+Equip effect: Lose SP equal to 3% of own max SP every turn."
+GameTextItem,301318,,"<Param_State>
+装備効果：毎ターンSP４回復","<Param_State>
+Equip effect: Restore 4 SP every turn."
+GameTextItem,301410,,"消費SP：50
+<item_skill_explanation>","SP Cost: 50
+<item_skill_explanation>"
+GameTextItem,301497,,<item_skill_explanation>,<item_skill_explanation>
+GameTextItem,301599,,"消費SP：36
+<item_skill_explanation>","SP Cost: 36
+<item_skill_explanation>"
+GameTextItem,301684,,"消費SP：26
+<item_skill_explanation>","SP Cost: 26
+<item_skill_explanation>"
+GameTextItem,301772,,"消費SP：0
+<item_skill_explanation>","SP Cost: 0
+<item_skill_explanation>"
+GameTextItem,301858,,<item_skill_explanation>,<item_skill_explanation>
+GameTextItem,301948,,狩人ザンターが愛用していた弓,The hunter Z'aanta's favorite bow.
+GameTextItem,302034,,辺獄戦闘曲の楽譜,Hell Battle Music Score
+GameTextItem,302122,,"辺獄・エドラス城内のウルリカの墓に
+そっと置かれていたハンカチ",The handkerchief left on Ulrica's grave in Hell's Edoras Castle.
+GameTextSkill,39290,,たたかう,Attack
+GameTextSkill,57957,,氷柱,Icicle
+GameTextSkill,58094,,たたかう,Attack
+GameTextSkill,58353,,たきつける,Light My Fire
+GameTextSkill,58511,,<skl_user_name>は部下の後ろに身を潜めた！,<skl_user_name> hides behind his lackeys!
+GameTextSkill,58693,,指輪の力が解き放たれた！,The power of the ring has been unleashed!
+GameTextSkill,59075,,パワープレス,Powerful Slam
+GameTextSkill,59850,,ポイズンスラッシュ,Poison Slash
+GameTextSkill,60635,,<skl_user_name>はパーディス三世を庇った！,<skl_user_name> protects King Pardis III!
+GameTextSkill,91755,,包丁投げまくり,Kitchen Nightmare
+GameTextSkill,92678,,砲撃指示,Issue Artillery Strike
+GameTextSkill,93502,,海月剣,Jellyfish Sting
+GameTextSkill,94134,,精神薙ぎ,Spirit Reaper
+GameTextSkill,94409,,亡者の槍,Spear of the Dead
+GameTextSkill,95073,,黒呪・心に巣くう闇,Cursed Darkness of the Heart
+GameTextSkill,95894,,母なる神の裁き,Orsa's Judgment
+GameTextSkill,96239,,雷撃麻痺魔法,Bolt Shock
+GameTextSkill,152219,,斧振り回し,Spinning Axe
+GameTextSkill,152351,,たたかうでHP回復,Invigorating Attack
+GameTextSkill,152488,,"敵単体の弱点を<skl_avail_value>つ発見し
+所持品を表示する",Discover <skl_avail_value> weak point(s) of a foe and reveal possessions.
+GameTextSkill,152626,,碩学王アレファンの連環,Alephan's Wisdom
+GameTextSkill,152778,,猫大魔法アルテニャ,Ulti-meow
+GameTextSkill,152948,,ディフェンスダウン,Lower Defenses
+GameTextSkill,153133,,"味方前衛もしくは後衛全体に
+属防アップの効果を<skl_turn_count>付与する",Raise Elem. Def. of the entire front row or entire back row for <skl_turn_count> turn(s).
+GameTextSkill,153375,,"敵単体に本でダメージを与える
+後衛から出てきて攻撃すると
+自身のSPを回復する",Deal tome damage to a foe. Restore own SP if attacking from the back row.
+GameTextSkill,153652,,火の精霊石,Fire Soulstone
+GameTextSkill,153822,,状態異常延長,Prolonged Ailment
+GameTextSkill,153984,,"装備者が物理攻撃で弱点を突いたとき
+必殺ゲージが少し増加する",Slightly fill the equipped character's ultimate technique gauge when exploiting a foe's weak point with physical attacks.
+GameTextSkill,154123,,"味方単体に次に受けるダメージの
+<skl_boostcol>50</skl_boostcol>％分を軽減する効果を付与する","Grant a shield to an ally, reducing damage taken from the next hit by <skl_boostcol>50</skl_boostcol>%."
+GameTextSkill,154290,,"料理効果を15ターン付与
+・最大HP/最大SP＋10%
+・物防＋５％","Grants the following effects for 15 turns:
+- Max. HP/Max. SP +10%
+- Phys. Def. +5%"
+GameTextSkill,154424,,「物防」の能力値が大増加する,Greatly increases Phys. Def.
+GameTextSkill,154662,,<skl_user_name>は大きく口を開けた！,<skl_user_name> unhinges its jaws!
+GameTextSkill,155112,,滾る血潮＋,Overwhelming Zeal+
+GameTextSkill,155473,,威力アップ,Increase potency.
+GameTextSkill,155605,,氷の精霊石,Ice Soulstone
+GameTextSkill,155735,,ダークバッシュ,Dark Slam
+GameTextSkill,155866,,敵単体に杖でダメージを与える,Deal staff damage to a foe.
+GameTextSkill,155996,,"敵単体に斧でダメージを与え、
+毒の効果を確率で２ターン付与する","Deal axe damage to a foe, and gain a chance to inflict poison for 2 turn(s)."
+GameTextSkill,156127,,ふぅん！ふぅん！ふぅん！,Mm! Mmh! Mmmh!
+GameTextSkill,156258,,交易の希少なアイテム入荷率を少し上げる,Slightly raise chance of stocking rare trade items.
+GameTextQuest,10105,,追跡するクエストを変更しますか？,Track this quest?
+GameTextQuest,10102025,,雪の町エンバーグロウに行く,Go to Emberglow in the Frostlands.
+GameTextQuest,10202045,,事件をヴェルノートに報告する,Report the incident to Velnorte.
+GameTextQuest,10302075,,ミハエルの声がした場所に行く,Follow Mikhail's voice.
+GameTextQuest,10402045,,パーディス三世の元に向かう,Meet with King Pardis III.
+GameTextQuest,10407025,,リーヴェン城に行く,Go to Castle Riven.
+GameTextQuest,10501085,,レオパルディを捜す,Search for Leopaldi.
+GameTextQuest,10701035,,食堂に向かう,Head to the dining hall.
+GameTextQuest,211904027,,イヴリたちに話しかける,Speak with Ivri and the others.
+GameTextQuest,213004072,,原初の洞窟に向かう,Head to the Cave of Origin.
+GameTextQuest,215504029,,全てを授けし者,Bestower of All
+GameTextQuest,218704075,,辺獄のエドラス城を進む,Proceed through Castle Edoras in Hell.
+GameTextQuest,219104059,,手がかりを探す,Search for clues.
+GameTextQuest,219104388,,ウィッシュベールへ向かう,Head to Wishvale.
+GameTextQuest,219104475,,"雪深きエンバーグロウにて、病にあえぐ少年がいた。
+君は、彼を救おうとする薬師の女性に出会う――","A young boy has fallen ill in the snowy town of Emberglow. There, <chara_name> meets an apothecary who is prepared to do everything in her power to see that he is cured."
+GameTextQuest,219104564,,サンシェイドで腕利きの商人を捜す,Search for skilled merchants in Sunshade.
+GameTextQuest,219104617,,巨腐蟻を討伐する,Defeat the colossal blightant.
+GameTextQuest,219104671,,シェパードロック山道で剛剣の騎士を捜す,Find the Unbending Blade in the pass.
+GameTextQuest,219104725,,サイラスと話す,Speak to Cyrus.
+GameTextQuest,219104785,,最高の助手,An Assistant Like No Other
+GameTextQuest,219104854,,マフィアの子,A Father's Love
+GameTextQuest,919104549,,アーフェンと話す,Speak to Alfyn.
+GameTextQuest,919104628,,ドニエスクに向かう,Head to Donescu.
+GameTextQuest,919104688,,リラとジャスパーを“招く”,Invite Lila and Jasper.
+GameTextQuest,919104747,,"ついに神秘の塔が立つ島を見つけた。
+この中にはいったい何があるのだろうか――",The inscrutable tower has finally been discovered. What mysteries lie within?
+GameTextQuest,919104786,,"全部で１０枚の闘技場メダルを集めている男がいる。
+最も貴重な最後の１枚を持っているのは……？","A man is eager to collect all ten arena medals awarded only to the greatest of gladiators. Who possesses the final, precious medal of his collection?"
+GameTextQuest,919104853,,バルジェロに話しかける,Speak to Bargello.
+GameTextQuest,919104879,,ウィッシュベールでスティアに話しかける,Speak to Stia in Wishvale.
+GameTextQuest,919104924,,エドラス城前でクラウザーと話す,Speak with Krauser in front of Castle Edoras.
+GameTextQuest,919104984,,シェパードロックに向かう,Head to Shepherds Rock.
+GameTextNPC,272,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",……よう、<chara_name>,"Hey, <chara_name>."
+GameTextNPC,36034,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",さあ、アラウネ様がお待ちです,"Come, Lady Alaune awaits."
+GameTextNPC,36385,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]","自分は女王陛下に忠誠を誓い
+この国を守るものであります！","I have vowed allegiance to the queen
+and am sworn to defend this kingdom
+with my life!"
+GameTextNPC,36901,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",何かご用かしら？,"Do you need something,
+by any chance?"
+GameTextNPC,37624,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]","俺、もうファミリーを
+抜けようかなぁ……",Maybe it's time I leave the family...
+GameTextNPC,38202,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]","フィナさんが、子供たちの
+心を癒やしてくれました",Phina healed their spirits.
+GameTextNPC,38676,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",ここは王立学院だよ,This is the Royal Academy.
+GameTextNPC,39197,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]","共に守り抜いてゆこう
+オルステラの未来を","So let us work together to safeguard
+Orsterra for all the days to come."
+GameTextNPC,40040,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",クラグスピアにようこそ……,Welcome to Cragspear...
+GameTextNPC,41502,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]","アラウネ様は
+お部屋にてお待ちです","Queen Alaune is waiting for you
+in her room."
+GameTextNPC,411730,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]","そろそろ私も旅に出て
+見聞を広めたいと思っているんだ","I would like to embark on a journey
+to broaden my horizons."
+GameTextNPC,412101,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]","あなたはこの町の皆さんと
+家族のようなものなんですね","The people of this town are
+like your family, yes?"
+GameTextNPC,412498,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]","<chara_name>さんには
+礼を言っても言い切れないよ","I can't thank you enough,
+<chara_name>."
+GameTextNPC,412762,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]","弓が飾られている
+台座には鍵穴があるようだ","There is a keyhole on the dais on
+which the bow is displayed."
+GameTextNPC,413017,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]","マーゴおばあちゃんの畑は
+ぼくがちゃんと世話するんだ",(Unlocalized)
+GameTextNPC,413320,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]","若者たちがこの町を
+復興する原動力になっているのだな","The young are the ones bringing
+this town back to life."
+GameTextNPC,413616,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]","マフィアってのは
+しがらみの世界だった","Syndicates are all about connections
+and obligations."
+GameTextNPC,413856,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]","どこへでも胸を張って
+紹介できそうな者たちだ","I'd vouch for any one of them in
+a heartbeat."
+GameTextNPC,414098,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]","僕に牛がいるように
+君には旅がある","You love to travel just as much as
+I love my cows."
+GameTextNPC,414346,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]","草はあるけど
+心が満たされない……","The grass fills my stomach, but
+not the void in my heart..."
+GameTextCharacter,900,,<chara_name>,<chara_name>
+GameTextCharacter,28966,,“フランソワ”,"""Françoise"""
+GameTextCharacter,116300,,バーンズ隊長,Captain Barnes
+GameTextCharacter,116367,,教皇,Pontiff
+GameTextCharacter,116508,,ベネディクト公,Duke Benedict
+GameTextCharacter,117802,,“ファラメ”,"""Pharamea"""
+GameTextCharacter,118126,,大富豪ワーズワス,Wordsworth the Wealthy
+GameTextCharacter,118192,,武具屋見習い,Smithy Apprentice
+GameTextCharacter,118241,,腕のいい料理人,Capable Culinarian
+GameTextCharacter,118291,,年取ったラクダ,Elderly Camel
+GameTextMap,3101,,フロストランド地方,Frostlands Region
+GameTextMap,3238,,北シェパードロック山道,North Shepherds Rock Pass
+GameTextMap,3282,,大劇場 -稽古場-,Amphitheatre: Rehearsal Room
+GameTextMap,6421,,死の谷,Valley of Death
+GameTextMap,10005,,ヴィクターホロウ森道,Victors Hollow Trail
+GameTextMap,16035,,グランポート -露店街-,Grandport Markets
+GameTextMap,16087,,グランポート -領主邸前-,Grandport: Estate Entrance
+GameTextMap,16179,,辺獄・クラグスピア -貧民街-,Hell: Cragspear - Slums
+GameTextMap,16255,,辺獄・ホルンブルグ山道,Hell: Hornburg Pass
+GameTextMap,90011,,ウィッシュベール森道,Wishvale Trail
+GameTextVillage,13,,草むら,Grass
+GameTextVillage,5001,,ガラクタを撤去して平地を作ろう,Remove the rubble and clear the land.
+GameTextVillage,11103,,薪棚,Firewood Rack
+GameTextVillage,12061,,グランポート海軍旗,Grandport Naval Flag
+GameTextVillage,12204,,花の鉢,Flower Pot
+GameTextVillage,21028,,"ウィッシュベール唯一の商店。
+交易品の売買もできる",Wishvale's one and only shop. A place where one can buy and sell various goods.
+GameTextVillage,22044,,"食料を入れるバスケット。
+寂しそうに口を開けている",An empty basket for food.
+GameTextVillage,22107,,"びっしりと茂っている草。
+下手に突っ込むと足を取られる",A dense clump of shrubs. Nearly impossible to walk through.
+GameTextVillage,22414,,"レンガ造りの枠に植えられた花。
+町のアクセント",A planter made of brick. A great way to decorate the town.
+GameTextVillage,901100,,青のオクトリン像,Blue Octopuff Statue
+GameTextEvent,1,109592,"大富豪ヘルミニアって
+何者なんだ？","Have you heard the rumors
+about Lady Herminia?"
+GameTextEvent,2,109593,"金のためなら
+赤子も喜んで殺すらしい","They say she'd happily slaughter
+her own child for coin!"
+GameTextEvent,3,109594,森の部族を滅ぼしたとも聞く,"I heard she's the one who killed
+off the last of the forest people!"
+GameTextEvent,4,109595,"……恐ろしい
+まさに“強欲の魔女”か","Horrifying... A witch who knows
+nothing but her own desires."
+GameTextEvent,5,109596,"見ろよ
+贅沢って物の全てがここにある","And whatever she desires...
+she gets."
+GameTextEvent,12,109597,"ヘルミニア様
+宴の準備が整いました","Lady Herminia. The preparations
+for the ball are complete."
+GameTextEvent,13,109598,……結構ですわ,...Very well.
+GameTextEvent,14,109603,来たな……,...You came. Good.
+GameTextEvent,15,109604,"今日俺たちの運命が変わる
+……変えてみせる","Today our luck changes.
+I'll see to that."
+GameTextEvent,16,109605,"問題はどうやって入るかだ
+だろ？",How do you plan to pull this off?
+GameTextEvent,17,109606,"俺らみたいなチンピラは
+門前払いだぜ","We'll never even make it through
+the front gate!"
+GameTextEvent,18,109607,…………,......
+GameTextEvent,19,109622,お花はいかがですか？,Would you like a flower?
+GameTextEvent,20,109625,…………,......
+GameTextEvent,21,109626,いくらだ？,How much?
+GameTextEvent,22,109627,１００００リーフになります,"10,000 leaves, sir."
+GameTextEvent,23,109628,"ずいぶんお高い
+花らしい",Pretty steep for a single flower.
+GameTextEvent,24,109629,……“粉”だな,"...It's the powder, isn't it?"
+GameTextEvent,25,109630,…………,Um...
+GameTextEvent,26,109631,誰に頼まれて売っている？,Who put you up to this?
+GameTextEvent,27,109632,それは……,I...I can't...
+GameTextEvent,28,109633,"そいつに関わると身を滅ぼすぞ
+止めておけ","Nothing good will come of this.
+Get out while you still can."
+GameTextEvent,29,109634,"だけど……
+これを売らないと……","But they said that if I don't
+sell this..."
+GameTextEvent,30,109635,弟たちが……,My brothers... They'll...
+GameTextEvent,31,109636,おい！,Hey!
+GameTextEvent,32,109637,"貴様ら……
+商売の邪魔をする気か？","What do you think you're doing,
+meddling in our business!?"
+GameTextEvent,33,109638,"みすぼらしい……
+“客”ではないな","Those shabby clothes make
+it clear you're no customers."
+GameTextEvent,34,109639,"見かけで
+判断しないほうがいい","You'd be wise not to judge
+a book by its cover."
+GameTextEvent,35,109640,……いいや、するね,"...And you'd be wise to
+keep your mouth shut."
+GameTextEvent,36,109641,"やれやれだ……
+結局こうなるもんな",How did I know this was coming?
+GameTextEvent,37,109642,"へへ、せっかくだ
+楽しンじゃおうぜ","Heh! At least we get to have
+some fun."
+GameTextEvent,38,109643,……クールだ,...It's go time.
+GameTextEvent,39,109644,…………,......
+GameTextEvent,40,109645,"”粉”を買わずに済んだんだ
+ケンカだけでも買っていくかい？","Instead of a flower, looks like
+we've picked ourselves a fight."
+GameTextEvent,41,109646,"へえ……ケンカもできねぇのに
+仲間になりたいって？","Hah! Don't tell me you were
+trying to join us when you can't
+even hold your own in a fight!"
+GameTextEvent,42,109647,"お前にあだ名つけてやるよ
+そうだな……","You know what they call people
+like you?"
+GameTextEvent,43,109648,”ぼっちのチキン”だ,"Chicken, that's what!"
+GameTextEvent,44,109649,あんたの腕、見せてもらうぜ,Let's see what you can do.
+GameTextEvent,45,109650,……来るぞ,...Here they come!
+GameTextEvent,46,109651,"ひいぃ……
+おい、退くぞ！","No-good scoundrels!
+You'll pay for this!"
+GameTextEvent,47,109652,…………,......
+GameTextEvent,48,109653,"あんな子供にまで
+“粉”を売らせるのか","Using children to peddle their
+poison, are they now?"
+GameTextEvent,49,109654,……ジョークきついぜ,...Makes me sick.
+GameTextEvent,50,109655,"あの成金野郎……
+俺たちも見下しやがって","Those greedy bastards!
+Always looking down on us!"
+GameTextEvent,51,109656,"クソは考えることも
+クソだぜ！","I should have stuck my dagger
+in their smug faces!"
+GameTextEvent,52,109657,まあ落ち着け、ピエロ,"Settle down, Pierro. Look at this."
+GameTextEvent,53,109658,"あッ！
+それってもしや……",Wait a minute... Is that—!?
+GameTextEvent,54,109659,"クソでも
+いいモノ持ってんのな","Even smug bastards are
+good for something."
+GameTextEvent,55,109660,"招待状だ
+さっき頂いといた","I just happened to find this
+in one of their pockets."
+GameTextEvent,56,109661,"ビンゴ！
+これでパーティに行けるぜ",An invitation to the ball!
+GameTextEvent,57,109662,クソが集まるパーティにな,A ball for fat cats with fat purses...
+GameTextEvent,58,109663,クールだ,...It's go time.
+GameTextEvent,60,109664,……助かったぜ,"You really helped us out
+back there."
+GameTextEvent,61,109665,"俺たちは
+このヴァローレで生まれ育った","We were born and raised in
+this town,"
+GameTextEvent,62,109666,"昔はマシな町だったが
+いまは見ての通りだ",and we've watched it go to shit.
+GameTextEvent,63,109667,"俺たちはデカくなって
+この町を取り戻す","...But no more watching.
+We're going to take it back."
+GameTextEvent,64,109668,"あんたは強い……
+それに、何か事情があるんだろう","You can fight, and you seem like
+you have your own business with
+the Witch."
+GameTextEvent,65,109673,"改めて聞く
+俺たちの仲間になるか？","Do you still want to join
+our cause?"
+GameTextEvent,66,109674,"へえ……
+びびってンのか？","C'mon!
+What are you, scared?"
+GameTextEvent,67,109675,"お前にあだ名つけてやるよ
+“むっつりチキン”だ","Don't be a chicken!
+I promise we're not so bad!"
+GameTextEvent,68,109676,"……もう一度聞こう
+俺たちの仲間になるか？","...Think carefully, friend.
+A chance like this doesn't
+come along every day."
+GameTextEvent,70,109677,"やったぜ！
+歓迎するぜ、新入り！","All right!
+A new addition to our ranks!"
+GameTextEvent,71,109678,"悪かったな
+まあ、パスタでも食いに行くか？","Sorry for doubting you. I'd be
+happy to treat you to some pasta,
+if you want."
+GameTextEvent,72,109679,……クールだ,...It's go time.
+GameTextEvent,73,109680,"バルジェロファミリーへ
+ようこそ、<chara_name>","Welcome to the family,
+<chara_name>."
+GameTextEvent,74,109681,"招待状も手に入れた
+騒ぎになる前に行くぞ","Anyhow, we got what we came for.
+Let's leave before we make a scene."
+GameTextEvent,76,109683,"……おい
+何か忘れてないか？","Hey, aren't you forgetting something?"
+GameTextEvent,77,109684,"へへ……
+いっちょやるか",Hah! Might as well!
+GameTextEvent,78,109685,“カッティーナ”,For the family!
+GameTextEvent,79,109686,来たか、<chara_name>,...You came. Good.
+GameTextEvent,80,109687,"すげえな……こんな豪邸
+想像もしたことねえぜ",Look at the size of this place!
+GameTextEvent,81,109688,"大富豪ヘルミニアは
+マフィアの女から成り上がった","They say Lady Herminia started
+out as a small-time criminal."
+GameTextEvent,82,109689,ある“粉”を支配、独占してな,"Then she took control of the
+powder operation..."
+GameTextEvent,83,109690,"その富は、大陸全体を動かす
+とまで言われる","Rumors say she's so rich she
+could buy the whole continent..."
+GameTextEvent,84,109691,やれやれ……“粉御殿”か,"A palace built on powder, eh?"
+GameTextEvent,85,109692,"ちっちっち……
+自慢の身体でも稼いだのさ","Not just that. Word has it she'll even
+sell her body...for the right price."
+GameTextEvent,86,109693,"ヘルミニアは絶世の美女で
+神父も発情した犬になるって","They say she's so gorgeous that even
+clergymen are reduced to dogs in heat."
+GameTextEvent,87,109694,"きっと、大陸の金持ち全員を
+相手にしたンだよ","...And that she's slept with the
+wealthiest men in the realm."
+GameTextEvent,88,109695,"待てよ、ピエロ・デッラ
+つまりヘルミニアは娼婦か？","Wait a minute, Pierro. You're
+saying Lady Herminia's a harlot?"
+GameTextEvent,89,109696,"何千人くわえ込めば
+この御殿が建つんだ？　ああ？","I've never met a harlot who lives
+in a mansion like this."
+GameTextEvent,90,109697,"娼婦だって相手を選べば
+大富豪になれるのさ","Heh. Even prostitution can pay
+if you choose your clients right."
+GameTextEvent,91,109698,そいつはクールだ,...It's go time.
+GameTextEvent,92,109699,"……その口
+しばらく閉じておけよ","All right. Enough yapping from
+you lot."
+GameTextEvent,93,109700,"パーティには、裏社会の
+権力者がごまんと来てる","Now listen. Some of the fattest
+cats from the underworld will be
+at this banquet."
+GameTextEvent,94,109701,"俺たちの後ろ盾になり得る
+……な","...Some of whom might be able
+to help us get what we want."
+GameTextEvent,95,109702,"利用できるものは
+利用していく……だろ？","Use who we can use, right?"
+GameTextEvent,96,109703,"ここで俺たちは
+名を上げるんだ","We're going to make a name
+for ourselves here tonight."
+GameTextEvent,97,109704,"分かってるって
+ボス","You got it, Boss."
+GameTextEvent,98,109705,さあ、行くぞ,Now let's go.
+GameTextEvent,99,109706,"うほッ！？
+盛り上がってんなぁ","Looks like this party's already in
+full swing!"
+GameTextEvent,100,109707,俺、パーティって大好き！,"All right!
+Time to have some fun!"

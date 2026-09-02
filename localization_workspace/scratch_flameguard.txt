@@ -1,0 +1,55 @@
+========== 7184
+JA: 'なりません、守指長殿'
+BEFORE: 'لا يمكن ذلك، يا سيادة قائد الحرس'
+AR: 'أعدك ألا أكون عبئاً،\nيا سيادة حارس الخاتم.'
+REASON: "Mistranslation/nuance: 'لا يمكن ذلك' (That cannot be) did not convey the promise. Changed to 'أعدك ألا أكون عبئاً' (I promise not to be a burden). Glossary compliance: 'قائد الحرس' was changed to 'حارس الخاتم' to match the established translation for 'Flameguard'."
+========== 7225
+JA: 'おお……お待ちしていました\n聖火守指長殿'
+BEFORE: 'أوه…… كنت في انتظارك\nأيها المسؤول عن حماية الشعلة المقدسة'
+AR: 'أوه…… كنا في انتظارك\nأيها القائد'
+REASON: "Changed 'كنت' (I was) to 'كنا' (We were) to match the English 'we've been awaiting you'. Also, replaced the overly literal and lengthy 'أيها المسؤول عن حماية الشعلة المقدسة' with the more concise and consistent 'أيها القائد' for 'Flameguard', aligning with its usage in line 7219."
+========== 7250
+JA: '有難うございます\n聖火守指長殿'
+BEFORE: 'شكراً لك'
+AR: 'شكراً لك يا سيد حارس الشعلة المقدسة'
+REASON: "Added the address 'يا سيد حارس الشعلة المقدسة' which was present in the Japanese source '聖火守指長殿'."
+========== 7257
+JA: '守指長殿\n先ほどのタルセット司教が……'
+BEFORE: 'يا صاحب السمو\nالأسقف تالست الذي كان هنا قبل قليل……'
+AR: 'يا سيد حارس الشعلة المقدسة\nالأسقف تارسيت الذي كان هنا قبل قليل……'
+REASON: "Corrected the address 'يا صاحب السمو' to 'يا سيد حارس الشعلة المقدسة' for '守指長殿' (Flameguard Commander) to match register. Corrected 'تالست' to 'تارسيت' per English transliteration."
+========== 7265
+JA: 'はい、守指長殿'
+BEFORE: 'نعم، يا سيادة قائد الحرس'
+AR: 'نعم، يا سيد حارس الشعلة المقدسة'
+REASON: "Corrected the address 'يا سيادة قائد الحرس' to 'يا سيد حارس الشعلة المقدسة' for '守指長殿' (Flameguard Commander) to match register and consistency."
+========== 7310
+JA: '守指長殿\n今夜はシチューだそうです'
+BEFORE: 'أيها القائد\nيقولون إن العشاء الليلة هو حساء اللحم'
+AR: 'أيها القائد\nيقولون إن العشاء الليلة هو حساء'
+REASON: "Removed the specific 'اللحم' (meat) as it is not present in the Japanese source 'シチュー' (stew)."
+========== 7315
+JA: '守指長殿はなぜ\n指輪を守られるお仕事に？'
+BEFORE: 'لماذا يتولى القائد\nمهمة حماية الخاتم؟'
+AR: 'لماذا يتولى القائد\nمهمة حماية الخواتم؟'
+REASON: "Changed 'الخاتم' (singular) to 'الخواتم' (plural) to match the Japanese source '指輪' (rings)."
+========== 7390
+JA: '聖火守指長殿……'
+BEFORE: 'يا صاحب إصبع حارس النار المقدسة……'
+AR: 'يا حارس اللهب المقدس……'
+REASON: "Mistranslation of the title 'Flameguard'. Changed to the official localized term."
+========== 7507
+JA: '守指長殿……？'
+BEFORE: 'أيها القائد……؟'
+AR: 'أيها حارس اللهب……؟'
+REASON: "Used the specific title 'حارس اللهب' (Flameguard) instead of the generic 'القائد' (Commander) for '守指長殿'."
+========== 7605
+JA: '私は、聖火守指長サザントス\n教皇の遣いだ'
+BEFORE: 'أنا، سارِجُ الحارس المقدس سازانتوس\nمبعوث البابا'
+AR: 'أنا، سازانتوس حارس الشعلة المقدسة\nمبعوث البابا'
+REASON: "Glossary compliance and natural phrasing: 'سارِجُ الحارس المقدس' was rephrased to 'حارس الشعلة المقدسة' to better reflect 'Flameguard' as a job title."
+========== 7606
+JA: 'せっ、せせせせ……\n聖火守指長……！？'
+BEFORE: 'سـ، سـ، سـ، سـ……\nسارِجُ الحارس المقدس……؟!'
+AR: 'سـ، سـ، سـ، سـ……\nحارس الشعلة المقدسة……؟!'
+REASON: "Consistency: The title 'سارِجُ الحارس المقدس' was updated to 'حارس الشعلة المقدسة' to match the correction in the previous line."

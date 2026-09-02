@@ -1,0 +1,5 @@
+'何かお聞きになりたいの？'
+"Is there something you'd like\nto know?"
+'هل هناك شيء تودون سؤالي عنه؟'
+'هل هناك شيء تودون\nسؤالي عنه؟'
+Added a line break to match the source Japanese and English for pacing.

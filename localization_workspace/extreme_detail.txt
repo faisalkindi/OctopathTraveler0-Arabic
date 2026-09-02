@@ -1,0 +1,144 @@
+=== id 17839 ===
+JA: 熱心に祈りを捧げている信徒。
+年若くして度重なる不幸に見舞われてきたが、
+己の信仰不足が原因と考え、
+エルフリックに一心に救いを求めている。
+ひたむきな彼女に対する大司教の評価も高いが、
+彼女自身は驕ることなく、今日もまた祈っている。
+EN: A true believer who prays with all her heart to Aelfric for salvation. The victim of countless misfortunes, she concluded a lack of faith was the root cause of her suffering, and so strives to ever greater heights of devotion. The bishop often praises her zeal, but she refuses to let it go to her head.
+BEFORE: مؤمنة تقدم الصلوات بتفانٍ.
+GEMINI: مؤمنة تقدم الصلوات بحماس.
+على الرغم من أنها تعرضت لسوء حظ متكرر في سن مبكرة،
+إلا أنها اعتقدت أن السبب هو نقص إيمانها،
+ولذلك تطلب الخلاص من إلفريك بكل إخلاص.
+تقييم رئيس الأساقفة لها عالٍ بسبب تفانيها،
+لكنها لا تتفاخر بذلك، وتواصل الصلاة اليوم أيضًا.
+REASON: The original Arabic was a severe truncation, missing most of the character's backstory and details.
+
+=== id 17873 ===
+JA: 幾多の戦場を駆ける傭兵。
+休日に大聖堂を訪れ、
+死した仲間のために祈りを捧げている。
+戦場では、仲間の死にも表情を崩さないその姿から
+仲間からは「紅の戦乙女」と謳われ、
+敵からは「鮮血の死神」と恐れられている。
+EN: A veteran of countless battles, this fearless warrior visits the cathedral on quiet days to pray for the souls of departed comrades. Her exploits have earned her the title "the Red Valkyrie" from allies and "the Bloody Goddess of Death" from foes. Many think her heartless, for she never bats an eyelash when a friend falls to the blade.
+BEFORE: مرتزقة تجوب ساحات معارك عديدة.
+GEMINI: المرتزقة التي تجوب ساحات معارك لا حصر لها. تزور الكاتدرائية في أيام العطل لتقدم الصلوات لرفاقها الذين سقطوا. في ساحة المعركة، وبسبب مظهرها الذي لا يتغير حتى عند موت رفاقها، يطلق عليها حلفاؤها لقب "فالكيري القرمزية"، ويخشاها الأعداء بلقب "حاصدة الدماء".
+REASON: Severe mistranslation/truncation: The original Arabic only translated the first part of the first sentence. Re-translated the full Japanese text, including nicknames.
+
+=== id 17924 ===
+JA: 宗教学を研究する女性学者。
+なぜエルフリックがこの地に聖火をもたらしたのか、
+資料をひとつずつ紐解き丹念に調査を重ねている。
+しかし、調べども調べども理由はわからない。
+調査に熱中するあまり、今ではほとんど
+丸一日中、大聖堂の中にいる。
+EN: A scholar of the faith, she is currently researching why it is that Aelfric brought the Sacred Flame here of all places. Day after day, she dusts off ancient tomes and unrolls brittle scrolls in her search for answers. To her dismay, she has not yet found one. Still, the journey is as joyous as the destination, and she continues her work with a smile on her face.
+BEFORE: عالمة تدرس علم الأديان.
+GEMINI: عالمة تدرس علم الأديان.
+تبحث بدقة، وتفكك الوثائق واحدة تلو الأخرى، عن سبب جلب إلفريك للشعلة المقدسة إلى هذه الأرض.
+لكن مهما بحثت، لا تعرف السبب.
+وبسبب انغماسها في البحث، تقضي الآن معظم اليوم داخل الكاتدرائية.
+REASON: Significant portion of the description was missing; completed the translation.
+
+=== id 18638 ===
+JA: 落ち着き払った様子の兵士の男性。
+学者の父を持ち、幼い頃から勉学に励んできたが、
+アルティニア王国のためにと入隊を志願した。
+今でも日々の読書は欠かさず、兵隊仲間を出し抜いて
+いきなり仕官などもありえる？とほくそ笑んでいる。
+EN: A calm and collected soldier who inherited his love of learning from his scholar father. He later decided to enlist in the army to protect the Kingdom of Altinia, but he continues his studies to this day, believing that his wit may one day earn him a place in government.
+BEFORE: رجل جندي يبدو هادئًا للغاية.
+GEMINI: رجل جندي يبدو هادئًا للغاية. ورث حب العلم عن والده العالم، وقد اجتهد في دراسته منذ طفولته، لكنه تطوع للانضمام إلى الجيش من أجل مملكة ألتينيا. حتى الآن، لا يفوته قراءة يومية، وهو يبتسم بخبث متسائلاً: "هل يمكن أن أصبح ضابطًا فجأة، متفوقًا على زملائي الجنود؟"
+REASON: Incomplete translation of the Japanese source. Translated the full description.
+
+=== id 19359 ===
+JA: ウィッシュベールの助祭。
+自分の犯した罪を深く悔いて、
+復興した町のため毎日忙しく働いている。
+フレイムグレースにいた時に身も心も温めてくれた
+ソーセージポトフの味が忘れられない。
+EN: A deacon who serves Wishvale's church. She deeply regrets the mistakes she made in the past and is doing everything she can to help restore the town. She still fondly remembers the sausage stew she had in Flamesgrace and the way it warmed both her heart and body.
+BEFORE: مساعد كاهن في ويشفيل.
+GEMINI: مساعد كاهن في ويشفيل. تندم بشدة على الأخطاء التي ارتكبتها في الماضي، وتعمل بجد كل يوم من أجل إعادة بناء البلدة. لا تزال تتذكر بوضوح طعم حساء النقانق الذي تناولته في فليمزغريس، وكيف دفّأ جسدها وروحها.
+REASON: Missing significant portions of the character description from the Japanese source; transliterated 'Flamesgrace'.
+
+=== id 19370 ===
+JA: 精霊石について研究している学者。
+アトラスダムでは変人で有名。
+最近手に入れた巨大精霊石を研究するために
+有能な助手アトッサが資金を集めている。
+最近は光属性に興味を持ち、特大の精霊石を探している。
+EN: A scholar who researches soulstones and is regarded as an eccentric by the people of Atlasdam. He recently got his hands on a gargantuan soulstone, and his talented assistant, Athessa, is attempting to gather funds so that he can study it. He has since developed a particular interest in the element of light and is looking for a particularly large soulstone of that type.
+BEFORE: عالم يبحث في أحجار الأرواح.
+GEMINI: عالم يبحث في أحجار الأرواح، ويُعرف بأنه غريب الأطوار بين سكان أطلسدام. حصل مؤخرًا على حجر روح عملاق، وتجمع مساعدته الموهوبة أثيسا الأموال لتمكينه من دراسته. وقد أبدى مؤخرًا اهتمامًا خاصًا بعنصر الضوء، ويبحث عن حجر روح كبير جدًا من هذا النوع.
+REASON: Missing significant portions of the character description from the Japanese source; transliterated 'Atlasdam' and 'Athessa'.
+
+=== id 19400 ===
+JA: 独特な感性を持つ旅の踊子。
+<chara_name>をパートナーにした舞台が評判になり、
+“爽唱の歌姫”と呼ばれるようになった。
+目に入ったものを即興で歌にする。
+実はラム肉のワイン煮込みなどのがっつりした料理が好み。
+EN: A traveling dancer who has unique artistic tastes. After the performance she put on with <chara_name> turned out to be a resounding success, she began to be called the Songbird of Succor. She likes to spontaneously compose songs about anything and everything she encounters. Surprisingly enough, she tends to go for more hearty cuisine like lamb bourguignon.
+BEFORE: راقصة رحالة ذات حس فريد.
+GEMINI: راقصة رحالة ذات حس فني فريد.
+بعد أن لاقى العرض الذي قدمته مع <chara_name> نجاحًا باهرًا، أصبحت تُعرف بـ "أميرة الغناء العذب".
+تحب أن تؤلف الأغاني ارتجالًا عن كل ما تراه.
+في الواقع، تفضل الأطباق الدسمة مثل يخنة لحم الضأن بالخمر.
+REASON: Major omission in original translation; full description added. Changed 'حس فريد' to 'حس فني فريد' for better precision. 'Songbird of Succor' translated as 'أميرة الغناء العذب'.
+
+=== id 19500 ===
+JA: エドラス王国の女王。
+第一王女だった姉エリカの遺志を継ぎ、
+父パーディス三世を討って即位した。
+慈悲深い女王として国民に慕われている。
+公務の合間に焼菓子と紅茶で一息入れるのが楽しみ。
+EN: The queen of Edoras. In accordance with the dying wish of her elder sister, Elrica, she slew her father, King Pardis III, and ascended the throne. Her people adore her for her bounteous mercy and kindness. She likes to enjoy a spot of tea and baked desserts in between her royal duties.
+BEFORE: ملكة مملكة إيدوراس.
+GEMINI: ملكة مملكة إيدوراس.
+ورثت وصية أختها الكبرى الأميرة إيريكا، وقتلت والدها الملك بارديس الثالث، واعتلت العرش.
+يحبها شعبها كملكة رحيمة.
+تستمتع بالاستراحة مع المعجنات والشاي بين واجباتها الملكية.
+REASON: Incomplete translation; added missing sentences from the character description. Transliterated 'Elrica' and 'Pardis III'.
+
+=== id 19510 ===
+JA: リーヴェン王国の王。
+王子だったころ、城を出て放浪していた。
+そのとき見聞きし、感じたことは
+王として国を治めるのに役立っている。
+リバーランドの代表的な作物である川豆を
+とても大切に思っている。
+EN: The king of Riven. When he was a prince, he would often leave the castle and wander the land. The things he experienced on those adventures have served him well now that he is king. River beans hold a special place in his heart, being a renowned crop of the Riverlands.
+BEFORE: ملك مملكة ليفين.
+GEMINI: ملك مملكة ليفين.
+عندما كان أميرًا، غادر القلعة وتجول في الأرجاء.
+ما رآه وسمعه وشعر به حينها يساعده في حكم البلاد كملك.
+يقدر كثيرًا فاصوليا النهر، وهي محصول مميز في أراضي الأنهار.
+REASON: Incomplete translation; added missing sentences from the character description. Transliterated 'Riven' and translated 'Riverlands'.
+
+=== id 20389 ===
+JA: モゥ……
+こんなはずじゃなかったのに……
+EN: Moo... It wasn't supposed to be
+like this.
+BEFORE: مووو……
+GEMINI: مووو……
+لم يكن من المفترض أن يحدث هذا……
+REASON: Missing the second part of the sentence and missing line break. Corrected ellipsis count to two U+2026 characters for both instances.
+
+=== id 20597 ===
+JA: 精霊石について研究している学者。
+アトラスダムでは変人で有名。
+精霊石研究のために人生の全てを捧げている。
+助手アトッサは数少ない理解者で、
+生活能力に乏しい彼を全面的に支援してくれる。
+EN: A scholar who has devoted his entire life to researching soulstones and is regarded as an eccentric by the people of Atlasdam. His assistant, Athessa, is one of the few people in the world who truly understands him, and she does everything she can to attend to his everyday needs.
+BEFORE: عالم يدرس أحجار الأرواح.
+GEMINI: عالم يدرس أحجار الأرواح.
+مشهور بكونه غريب الأطوار في أطلسدام.
+لقد كرس حياته كلها لأبحاث أحجار الأرواح.
+مساعدته أثيسا هي واحدة من القلائل الذين يفهمونه حقًا، وهي تدعمه بالكامل نظرًا لضعف قدرته على إدارة شؤون حياته.
+REASON: Incomplete translation; preserved line breaks.
+

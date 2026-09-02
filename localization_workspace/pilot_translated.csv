@@ -1,0 +1,582 @@
+table,id,ja_text,en_text,ar_text
+GameTextUI,7,所持数,Held,الكمية
+GameTextUI,27814,速度,Speed,السرعة
+GameTextUI,62335,大出血,Hemorrhage,نزيف حاد
+GameTextUI,62450,属攻ダウン,Elem. Atk. Down,خفض الهجوم العنصري
+GameTextUI,62515,本威力ダウン,Tome Pot. Down,خفض قوة الكتاب
+GameTextUI,62624,関係性の改善,Restore Reputation,استعادة السمعة
+GameTextUI,63920,"{0}との親交が深まり
+{1}の{2}で
+新たなパーティチャットが発生しました","Your bond with {0} has grown.
+A new party chat has been created in
+{1}'s {2}.","تعمّقت صداقتك مع {0}.
+ظهرت محادثة جماعية جديدة في
+{2} الخاصة بـ{1}."
+GameTextUI,65905,セントヘイロー,Divine Aura,هالة مقدسة
+GameTextUI,90355,ヘルプを閉じる,Close,إغلاق
+GameTextUI,90639,サポートアビリティの極意化,Support Skill Mastery,إتقان المهارة المساندة
+GameTextUI,90987,外す,Remove,إزالة
+GameTextUI,91450,関係性の改善,Restore Reputation,استعادة السمعة
+GameTextUI,91654,長い,Very Long,طويل جدًا
+GameTextUI,91790,全体の音量を変更できます。,Adjust the master volume.,يمكنك ضبط مستوى الصوت العام.
+GameTextUI,91928,前のタブ,Previous Tab,التبويب السابق
+GameTextUI,94200,"このキャラクターを
+パーティーから外すことはできません","This character cannot be removed
+from the party.","لا يمكن إزالة هذه الشخصية
+من الفريق."
+GameTextUI,94607,"セーブ画面を閉じてタイトルへ戻ります
+よろしいですか？","Exit the save screen and
+return to the title screen?","هل تريد الخروج من شاشة الحفظ
+والعودة إلى الشاشة الرئيسية؟"
+GameTextUI,95074,屋外,Outside,في الخارج
+GameTextUI,95135,"パーティー編成を完了して進みます
+よろしいですか？",Finish party edit and proceed?,هل تريد إنهاء تعديل الفريق والمتابعة؟
+GameTextUI,95448,飼料の購入,Purchase Fodder,شراء العلف
+GameTextUI,95512,拡大,Zoom In,تكبير
+GameTextUI,95572,この人物を招くには以下のアイテムが必要です,The following items are needed to impress them.,تحتاج إلى العناصر التالية لإقناع هذا الشخص بالانضمام.
+GameTextUI,95627,ミニマップは<icon_area_map>ボタンで全体表示が可能です,Press <icon_area_map> to display the entire map.,اضغط <icon_area_map> لعرض الخريطة كاملة.
+GameTextUI,95679,物防,Phys. Def.,دفاع مادي
+GameTextUI,95731,"撤去したものは素材なしで再設置できます。
+どんどん作って町を豊かにしていきましょう！","Structures that are removed can be placed again without the use of materials.
+Build a thriving town to enrich the lives of the residents!","يمكن إعادة وضع المنشآت التي أُزيلت دون الحاجة لموارد إضافية.
+ابنِ بلدة مزدهرة تُثري حياة سكانها!"
+GameTextUI,95783,タウンビルドのショートカット機能追加,Town Building Shortcut,اختصار بناء البلدة
+GameTextUI,95835,どこでもトラベル,Fast Travel,السفر السريع
+GameTextUI,95887,町の人を「支援者」にすれば、バトルで力を貸してくれます！,"Enlist the town's residents as helpers, and they will assist you in battle!",جنّد سكان البلدة كمساعدين، وسيدعمونك في المعارك!
+GameTextUI,95942,チュートリアル：セルクについて,Xerc,سيرك
+GameTextUI,95994,エルトリクスは前衛能力の高い特殊ジョブ「領主」です,"Eltrix—the Captain, indomitable force on the front lines.",إلتريكس - القائد، قوة لا تُقهر في الصفوف الأمامية.
+GameTextUI,96046,一番槍,Spearhead,الرمح الرائد
+GameTextUI,96098,脳天撃,Brain Bash,ضربة الجمجمة
+GameTextUI,96150,"サポートアビリティを習得すると
+戦闘開始時に敵の弱点を1つ開示！","Learns support skill that shows an enemy weak point
+before battle!","تتعلم مهارة مساندة تكشف نقطة ضعف العدو
+قبل بدء المعركة!"
+GameTextUI,96202,敵全体に剣で攻撃,Unleash a sword attack on all foes.,إطلاق هجوم بالسيف على جميع الأعداء.
+GameTextUI,96256,ルドについて,Ludo,لودو
+GameTextUI,96308,ボスバトル1,Decisive Battle I,المعركة الحاسمة الأولى
+GameTextUI,96360,バトル0-2,Battle 0-2,المعركة 0-2
+GameTextUI,96439,物攻がアップする,Raises Phys. Atk.,يرفع الهجوم المادي
+GameTextUI,96491,与える火属性ダメージが増加する,Increase fire damage dealt.,يزيد الضرر الناري الذي تُلحقه.
+GameTextUI,96593,会心がアップする,Raises Crit.,يرفع نسبة الضربة الحرجة
+GameTextUI,96665,特典を受け取る,Collect Bonus,استلام المكافأة
+GameTextUI,96718,最強の一撃,Hard Hitter,الضربة القوية
+GameTextUI,96771,"タウンビルドから
+住民を屋外へ配置できるように",Post residents outside through the town building menu.,أخرِج السكان إلى الخارج عبر قائمة بناء البلدة.
+GameTextUI,96824,PRESS ANY BUTTON,PRESS ANY BUTTON,اضغط أي زر
+GameTextUI,96876,最後の蘇生,Last Man Standing,آخر الصامدين
+GameTextUI,96934,ブーストMAX！,Max Boost,أقصى تعزيز!
+GameTextUI,96986,拠点となる酒場,The Tavern and Hub,الحانة، مركز الانطلاق
+GameTextUI,97038,全ての伝説の秘宝を納品した。,Obtain all legendary treasures.,احصل على جميع الكنوز الأسطورية.
+GameTextUI,97146,ターン終了時にHP10%/SP５%を回復,Restore 10% HP/5% SP at the end of turn,استعادة 10% من الصحة و5% من نقاط المهارة في نهاية الدور
+GameTextUI,97198,トラベラーE,Traveler E,المسافر E
+GameTextItem,40003,アーギュストの手記,Auguste's Journal,مذكرات أوغست
+GameTextItem,66888,猫目石,Cat's Eye,حجر عين القط
+GameTextItem,67248,持たざる者オスカが所持していた指輪,The ring that belonged to Oskha the Have-Not.,الخاتم الذي كان يملكه أوسكا، المعدم.
+GameTextItem,70182,ロンドの情報,Rondo's Information,معلومات روندو
+GameTextItem,80011,聖獣の石像から入手した証,Evidence obtained from the sacred beast statue.,دليل تم الحصول عليه من تمثال الوحش المقدس.
+GameTextItem,100046,テーブル,Table,طاولة
+GameTextItem,100149,水色の花,Blue Flowers,زهور زرقاء
+GameTextItem,102000,ただの槍,Makeshift Spear,رمح مرتجل
+GameTextItem,103038,希望の短剣,Dagger of Hope,خنجر الأمل
+GameTextItem,105034,守護者の弓,Guardian's Bow,قوس الحارس
+GameTextItem,107030,リンバスファン,Limbus Fan,مروحة ليمبوس
+GameTextItem,110026,禁断の盾,Forbidden Shield,الدرع المحرّم
+GameTextItem,120192,"青りんごが盛られた籠。
+甘酸っぱいのが特徴",A basket filled with tangy green apples.,سلة مليئة بتفاح أخضر حامض المذاق.
+GameTextItem,120295,"銀色に輝く餌入れ。
+設置中、牧場の収穫物の
+生産速度が上がる
+※同種の装飾品との効果は重複しない","A silver food trough. Increases harvest speed on the ranch.
+*Effects from decorations of the same type do not stack.","معلف فضي اللون. يزيد من سرعة الحصاد في المزرعة.
+*لا تتراكم تأثيرات الزخارف من النوع نفسه."
+GameTextItem,130167,石材,Stone,حجر
+GameTextItem,130286,属防増強のナッツ（大）,Resistant Nut (M),جوزة تعزيز المقاومة (م)
+GameTextItem,140071,「最大SP」の能力値を特大増加する,Massively increases max. SP.,يزيد بشكل هائل من الحد الأقصى لنقاط المهارة.
+GameTextItem,150057,チャンピオンベルト,Champion's Belt,حزام البطل
+GameTextItem,161002,"フロストランド様式の施設が
+建てられるようになる",Plans for a Frostlands-style building.,مخططات لمبنى بطراز الأراضي الجليدية.
+GameTextItem,173005,エンバー茸,Embershroom,فطر الجمر
+GameTextItem,175107,真空斬りの極意,Vacuum Slice Mastery,إتقان شق الفراغ
+GameTextItem,190008,立派な花瓶セットの設計図,Luxurious Vase Designs,تصاميم مزهريات فاخرة
+GameTextItem,300136,煽動の極意,Goad Mastery,إتقان التحريض
+GameTextItem,300225,継続回復魔法の極意,Ethereal Healing Mastery,إتقان الشفاء الأثيري
+GameTextItem,300409,"商人から輝石のペンダントを購入した
+貴族ベンノの情報","Information about Master Benno, the man who purchased the augite pendate from a merchant.",معلومات عن السيد بينو، الرجل الذي اشترى قلادة حجر الأوجيت من أحد التجار.
+GameTextItem,300496,獣の大爪の極意,Savage Claw Mastery,إتقان المخلب الوحشي
+GameTextItem,300584,回復魔法の極意,Heal Wounds Mastery,إتقان شفاء الجراح
+GameTextItem,300671,反撃の狼煙の極意,Foresight Mastery,إتقان البصيرة
+GameTextItem,300760,いきなり必殺チャージの極意,Ultimate Charge Mastery,إتقان شحن الضربة القاضية
+GameTextItem,300991,"<Param_State>
+装備効果：毎ターン自身の最大SPの
+３％分のSPを失う","<Param_State>
+Equip effect: Lose SP equal to 3% of own max SP every turn.","<Param_State>
+تأثير التجهيز: تفقد نقاط مهارة تعادل 3% من حدك الأقصى في كل دور."
+GameTextItem,301318,"<Param_State>
+装備効果：毎ターンSP４回復","<Param_State>
+Equip effect: Restore 4 SP every turn.","<Param_State>
+تأثير التجهيز: استعادة 4 نقاط مهارة في كل دور."
+GameTextItem,301410,"消費SP：50
+<item_skill_explanation>","SP Cost: 50
+<item_skill_explanation>","تكلفة نقاط المهارة: 50
+<item_skill_explanation>"
+GameTextItem,301497,<item_skill_explanation>,<item_skill_explanation>,<item_skill_explanation>
+GameTextItem,301599,"消費SP：36
+<item_skill_explanation>","SP Cost: 36
+<item_skill_explanation>","تكلفة نقاط المهارة: 36
+<item_skill_explanation>"
+GameTextItem,301684,"消費SP：26
+<item_skill_explanation>","SP Cost: 26
+<item_skill_explanation>","تكلفة نقاط المهارة: 26
+<item_skill_explanation>"
+GameTextItem,301772,"消費SP：0
+<item_skill_explanation>","SP Cost: 0
+<item_skill_explanation>","تكلفة نقاط المهارة: 0
+<item_skill_explanation>"
+GameTextItem,301858,<item_skill_explanation>,<item_skill_explanation>,<item_skill_explanation>
+GameTextItem,301948,狩人ザンターが愛用していた弓,The hunter Z'aanta's favorite bow.,القوس المفضل لدى الصياد زانتا.
+GameTextItem,302034,辺獄戦闘曲の楽譜,Hell Battle Music Score,نوتة معركة الجحيم
+GameTextItem,302122,"辺獄・エドラス城内のウルリカの墓に
+そっと置かれていたハンカチ",The handkerchief left on Ulrica's grave in Hell's Edoras Castle.,المنديل الذي تُرك على قبر أولريكا في قلعة إيدوراس بالجحيم.
+GameTextSkill,39290,たたかう,Attack,هجوم
+GameTextSkill,57957,氷柱,Icicle,رمح الجليد
+GameTextSkill,58094,たたかう,Attack,هجوم
+GameTextSkill,58353,たきつける,Light My Fire,إشعال الفتيل
+GameTextSkill,58511,<skl_user_name>は部下の後ろに身を潜めた！,<skl_user_name> hides behind his lackeys!,<skl_user_name> يختبئ خلف أتباعه!
+GameTextSkill,58693,指輪の力が解き放たれた！,The power of the ring has been unleashed!,أُطلقت قوة الخاتم!
+GameTextSkill,59075,パワープレス,Powerful Slam,الصدمة القوية
+GameTextSkill,59850,ポイズンスラッシュ,Poison Slash,الشق السام
+GameTextSkill,60635,<skl_user_name>はパーディス三世を庇った！,<skl_user_name> protects King Pardis III!,<skl_user_name> يحمي الملك بارديس الثالث!
+GameTextSkill,91755,包丁投げまくり,Kitchen Nightmare,كابوس المطبخ
+GameTextSkill,92678,砲撃指示,Issue Artillery Strike,إصدار أمر بالقصف المدفعي
+GameTextSkill,93502,海月剣,Jellyfish Sting,لسعة قنديل البحر
+GameTextSkill,94134,精神薙ぎ,Spirit Reaper,حاصد الأرواح
+GameTextSkill,94409,亡者の槍,Spear of the Dead,رمح الموتى
+GameTextSkill,95073,黒呪・心に巣くう闇,Cursed Darkness of the Heart,لعنة الظلام الكامن في القلب
+GameTextSkill,95894,母なる神の裁き,Orsa's Judgment,حكم أورسا
+GameTextSkill,96239,雷撃麻痺魔法,Bolt Shock,صعقة البرق
+GameTextSkill,152219,斧振り回し,Spinning Axe,الفأس الدوّار
+GameTextSkill,152351,たたかうでHP回復,Invigorating Attack,الهجوم المُنعش
+GameTextSkill,152488,"敵単体の弱点を<skl_avail_value>つ発見し
+所持品を表示する",Discover <skl_avail_value> weak point(s) of a foe and reveal possessions.,اكتشف <skl_avail_value> من نقاط ضعف العدو واكشف عن ممتلكاته.
+GameTextSkill,152626,碩学王アレファンの連環,Alephan's Wisdom,حكمة أليفان
+GameTextSkill,152778,猫大魔法アルテニャ,Ulti-meow,المواء الأسمى
+GameTextSkill,152948,ディフェンスダウン,Lower Defenses,خفض الدفاع
+GameTextSkill,153133,"味方前衛もしくは後衛全体に
+属防アップの効果を<skl_turn_count>付与する",Raise Elem. Def. of the entire front row or entire back row for <skl_turn_count> turn(s).,ارفع الدفاع العنصري لكامل الصف الأمامي أو الخلفي لمدة <skl_turn_count> من الأدوار.
+GameTextSkill,153375,"敵単体に本でダメージを与える
+後衛から出てきて攻撃すると
+自身のSPを回復する",Deal tome damage to a foe. Restore own SP if attacking from the back row.,ألحق ضررًا سحريًا بالكتاب بعدو واحد. استعد نقاط مهارتك إذا هاجمت من الصف الخلفي.
+GameTextSkill,153652,火の精霊石,Fire Soulstone,حجر روح النار
+GameTextSkill,153822,状態異常延長,Prolonged Ailment,إطالة أمد الحالة السلبية
+GameTextSkill,153984,"装備者が物理攻撃で弱点を突いたとき
+必殺ゲージが少し増加する",Slightly fill the equipped character's ultimate technique gauge when exploiting a foe's weak point with physical attacks.,املأ مقياس التقنية القصوى للشخصية المجهّزة قليلًا عند استغلال نقطة ضعف العدو بهجمات مادية.
+GameTextSkill,154123,"味方単体に次に受けるダメージの
+<skl_boostcol>50</skl_boostcol>％分を軽減する効果を付与する","Grant a shield to an ally, reducing damage taken from the next hit by <skl_boostcol>50</skl_boostcol>%.",امنح حليفًا درعًا يقلل الضرر الذي يتلقاه من الضربة التالية بنسبة <skl_boostcol>50</skl_boostcol>%.
+GameTextSkill,154290,"料理効果を15ターン付与
+・最大HP/最大SP＋10%
+・物防＋５％","Grants the following effects for 15 turns:
+- Max. HP/Max. SP +10%
+- Phys. Def. +5%","يمنح التأثيرات التالية لمدة 15 دورًا:
+- الحد الأقصى للصحة/نقاط المهارة +10%
+- الدفاع المادي +5%"
+GameTextSkill,154424,「物防」の能力値が大増加する,Greatly increases Phys. Def.,يزيد الدفاع المادي بشكل كبير.
+GameTextSkill,154662,<skl_user_name>は大きく口を開けた！,<skl_user_name> unhinges its jaws!,<skl_user_name> يفتح فكّيه على اتساعهما!
+GameTextSkill,155112,滾る血潮＋,Overwhelming Zeal+,الحماس الطاغي+
+GameTextSkill,155473,威力アップ,Increase potency.,زيادة القوة.
+GameTextSkill,155605,氷の精霊石,Ice Soulstone,حجر روح الجليد
+GameTextSkill,155735,ダークバッシュ,Dark Slam,الصدمة المظلمة
+GameTextSkill,155866,敵単体に杖でダメージを与える,Deal staff damage to a foe.,ألحق ضررًا بالعصا بعدو واحد.
+GameTextSkill,155996,"敵単体に斧でダメージを与え、
+毒の効果を確率で２ターン付与する","Deal axe damage to a foe, and gain a chance to inflict poison for 2 turn(s).",ألحق ضررًا بالفأس بعدو واحد، مع فرصة لتسميمه لمدة دورين.
+GameTextSkill,156127,ふぅん！ふぅん！ふぅん！,Mm! Mmh! Mmmh!,هم! هممم! هممم!
+GameTextSkill,156258,交易の希少なアイテム入荷率を少し上げる,Slightly raise chance of stocking rare trade items.,ارفع قليلاً من فرصة توفر السلع التجارية النادرة.
+GameTextQuest,10105,追跡するクエストを変更しますか？,Track this quest?,هل تريد تتبع هذه المهمة؟
+GameTextQuest,10102025,雪の町エンバーグロウに行く,Go to Emberglow in the Frostlands.,اذهب إلى إمبرغلو في الأراضي الجليدية.
+GameTextQuest,10202045,事件をヴェルノートに報告する,Report the incident to Velnorte.,أبلغ فيلنورت بالحادثة.
+GameTextQuest,10302075,ミハエルの声がした場所に行く,Follow Mikhail's voice.,اتبع صوت ميخائيل.
+GameTextQuest,10402045,パーディス三世の元に向かう,Meet with King Pardis III.,قابل الملك بارديس الثالث.
+GameTextQuest,10407025,リーヴェン城に行く,Go to Castle Riven.,اذهب إلى قلعة ريفن.
+GameTextQuest,10501085,レオパルディを捜す,Search for Leopaldi.,ابحث عن ليوباردي.
+GameTextQuest,10701035,食堂に向かう,Head to the dining hall.,توجّه إلى قاعة الطعام.
+GameTextQuest,211904027,イヴリたちに話しかける,Speak with Ivri and the others.,تحدّث مع إيفري والآخرين.
+GameTextQuest,213004072,原初の洞窟に向かう,Head to the Cave of Origin.,توجّه إلى كهف الأصل.
+GameTextQuest,215504029,全てを授けし者,Bestower of All,واهب كل شيء
+GameTextQuest,218704075,辺獄のエドラス城を進む,Proceed through Castle Edoras in Hell.,تقدّم عبر قلعة إيدوراس في الجحيم.
+GameTextQuest,219104059,手がかりを探す,Search for clues.,ابحث عن الأدلة.
+GameTextQuest,219104388,ウィッシュベールへ向かう,Head to Wishvale.,توجّه إلى ويشفيل.
+GameTextQuest,219104475,"雪深きエンバーグロウにて、病にあえぐ少年がいた。
+君は、彼を救おうとする薬師の女性に出会う――","A young boy has fallen ill in the snowy town of Emberglow. There, <chara_name> meets an apothecary who is prepared to do everything in her power to see that he is cured.",مرض صبيّ صغير في بلدة إمبرغلو المكسوة بالثلوج. هناك، يلتقي <chara_name> بطبيبة أعشاب مستعدة لبذل كل ما بوسعها لشفائه.
+GameTextQuest,219104564,サンシェイドで腕利きの商人を捜す,Search for skilled merchants in Sunshade.,ابحث عن تجار مهرة في سانشيد.
+GameTextQuest,219104617,巨腐蟻を討伐する,Defeat the colossal blightant.,اهزم نملة الآفة الضخمة.
+GameTextQuest,219104671,シェパードロック山道で剛剣の騎士を捜す,Find the Unbending Blade in the pass.,ابحث عن "النصل الذي لا يلين" في الممر.
+GameTextQuest,219104725,サイラスと話す,Speak to Cyrus.,تحدّث مع سايروس.
+GameTextQuest,219104785,最高の助手,An Assistant Like No Other,مساعد لا مثيل له
+GameTextQuest,219104854,マフィアの子,A Father's Love,حب الأب
+GameTextQuest,919104549,アーフェンと話す,Speak to Alfyn.,تحدّث مع ألفين.
+GameTextQuest,919104628,ドニエスクに向かう,Head to Donescu.,توجّه إلى دونيسك.
+GameTextQuest,919104688,リラとジャスパーを“招く”,Invite Lila and Jasper.,استضف ليلى وجاسبر.
+GameTextQuest,919104747,"ついに神秘の塔が立つ島を見つけた。
+この中にはいったい何があるのだろうか――",The inscrutable tower has finally been discovered. What mysteries lie within?,اكتُشف أخيرًا البرج الغامض. تُرى أي أسرار تكمن بداخله؟
+GameTextQuest,919104786,"全部で１０枚の闘技場メダルを集めている男がいる。
+最も貴重な最後の１枚を持っているのは……？","A man is eager to collect all ten arena medals awarded only to the greatest of gladiators. Who possesses the final, precious medal of his collection?",يتحرّق رجل شوقًا لجمع الميداليات العشر التي لا تُمنح إلا لأعظم المصارعين. فمن يا تُرى يملك الميدالية الأخيرة والأثمن في مجموعته؟
+GameTextQuest,919104853,バルジェロに話しかける,Speak to Bargello.,تحدّث مع بارجيلو.
+GameTextQuest,919104879,ウィッシュベールでスティアに話しかける,Speak to Stia in Wishvale.,تحدّث مع ستيا في ويشفيل.
+GameTextQuest,919104924,エドラス城前でクラウザーと話す,Speak with Krauser in front of Castle Edoras.,تحدّث مع كراوزر أمام قلعة إيدوراس.
+GameTextQuest,919104984,シェパードロックに向かう,Head to Shepherds Rock.,توجّه إلى شيبردز روك.
+GameTextNPC,272,……よう、<chara_name>,"Hey, <chara_name>.",...أهلًا يا <chara_name>.
+GameTextNPC,36034,さあ、アラウネ様がお待ちです,"Come, Lady Alaune awaits.",تعال، السيدة ألاون بانتظارك.
+GameTextNPC,36385,"自分は女王陛下に忠誠を誓い
+この国を守るものであります！","I have vowed allegiance to the queen
+and am sworn to defend this kingdom
+with my life!","أقسمتُ الولاء للملكة
+وتعهدت بالدفاع عن هذه المملكة
+بحياتي!"
+GameTextNPC,36901,何かご用かしら？,"Do you need something,
+by any chance?","هل تحتاج شيئًا،
+بالمناسبة؟"
+GameTextNPC,37624,"俺、もうファミリーを
+抜けようかなぁ……",Maybe it's time I leave the family...,ربما حان وقت تركي للعائلة...
+GameTextNPC,38202,"フィナさんが、子供たちの
+心を癒やしてくれました",Phina healed their spirits.,شفت فينا قلوب الأطفال.
+GameTextNPC,38676,ここは王立学院だよ,This is the Royal Academy.,هذه هي الأكاديمية الملكية.
+GameTextNPC,39197,"共に守り抜いてゆこう
+オルステラの未来を","So let us work together to safeguard
+Orsterra for all the days to come.","فلنعمل معًا لحماية
+أورستيرا في كل الأيام القادمة."
+GameTextNPC,40040,クラグスピアにようこそ……,Welcome to Cragspear...,مرحبًا بك في كراغسبير...
+GameTextNPC,41502,"アラウネ様は
+お部屋にてお待ちです","Queen Alaune is waiting for you
+in her room.","الملكة ألاون بانتظارك
+في غرفتها."
+GameTextNPC,411730,"そろそろ私も旅に出て
+見聞を広めたいと思っているんだ","I would like to embark on a journey
+to broaden my horizons.","أرغب في الانطلاق في رحلة
+لتوسيع آفاقي."
+GameTextNPC,412101,"あなたはこの町の皆さんと
+家族のようなものなんですね","The people of this town are
+like your family, yes?","أهل هذه البلدة
+كأنهم عائلتك، أليس كذلك؟"
+GameTextNPC,412498,"<chara_name>さんには
+礼を言っても言い切れないよ","I can't thank you enough,
+<chara_name>.","لا أجد الكلمات لأشكرك بها،
+يا <chara_name>."
+GameTextNPC,412762,"弓が飾られている
+台座には鍵穴があるようだ","There is a keyhole on the dais on
+which the bow is displayed.","توجد فتحة مفتاح في القاعدة
+التي يُعرض عليها القوس."
+GameTextNPC,413017,"マーゴおばあちゃんの畑は
+ぼくがちゃんと世話するんだ",(Unlocalized),(Unlocalized)
+GameTextNPC,413320,"若者たちがこの町を
+復興する原動力になっているのだな","The young are the ones bringing
+this town back to life.","الشباب هم من يعيدون
+الحياة إلى هذه البلدة."
+GameTextNPC,413616,"マフィアってのは
+しがらみの世界だった","Syndicates are all about connections
+and obligations.","عالم العصابات كله معارف
+والتزامات."
+GameTextNPC,413856,"どこへでも胸を張って
+紹介できそうな者たちだ","I'd vouch for any one of them in
+a heartbeat.","سأضمن أيًّا منهم
+دون تردد."
+GameTextNPC,414098,"僕に牛がいるように
+君には旅がある","You love to travel just as much as
+I love my cows.","أنت تحب السفر بقدر
+ما أحب أبقاري."
+GameTextNPC,414346,"草はあるけど
+心が満たされない……","The grass fills my stomach, but
+not the void in my heart...","يملأ العشب معدتي، لكنه
+لا يملأ الفراغ في قلبي..."
+GameTextCharacter,900,<chara_name>,<chara_name>,<chara_name>
+GameTextCharacter,28966,“フランソワ”,"""Françoise""","""فرانسواز"""
+GameTextCharacter,116300,バーンズ隊長,Captain Barnes,النقيب بارنز
+GameTextCharacter,116367,教皇,Pontiff,الحبر الأعظم
+GameTextCharacter,116508,ベネディクト公,Duke Benedict,الدوق بنديكت
+GameTextCharacter,117802,“ファラメ”,"""Pharamea""","""فارميا"""
+GameTextCharacter,118126,大富豪ワーズワス,Wordsworth the Wealthy,وردزورث الثري
+GameTextCharacter,118192,武具屋見習い,Smithy Apprentice,متدرب الحداد
+GameTextCharacter,118241,腕のいい料理人,Capable Culinarian,طاهٍ ماهر
+GameTextCharacter,118291,年取ったラクダ,Elderly Camel,جمل عجوز
+GameTextMap,3101,フロストランド地方,Frostlands Region,إقليم الأراضي الجليدية
+GameTextMap,3238,北シェパードロック山道,North Shepherds Rock Pass,ممر شيبردز روك الشمالي
+GameTextMap,3282,大劇場 -稽古場-,Amphitheatre: Rehearsal Room,المسرح الكبير: غرفة التدريب
+GameTextMap,6421,死の谷,Valley of Death,وادي الموت
+GameTextMap,10005,ヴィクターホロウ森道,Victors Hollow Trail,ممر فيكتورز هولو
+GameTextMap,16035,グランポート -露店街-,Grandport Markets,غراندبورت: الأسواق
+GameTextMap,16087,グランポート -領主邸前-,Grandport: Estate Entrance,غراندبورت: مدخل القصر
+GameTextMap,16179,辺獄・クラグスピア -貧民街-,Hell: Cragspear - Slums,الجحيم: كراغسبير - الأحياء الفقيرة
+GameTextMap,16255,辺獄・ホルンブルグ山道,Hell: Hornburg Pass,الجحيم: ممر هورنبورغ
+GameTextMap,90011,ウィッシュベール森道,Wishvale Trail,ممر ويشفيل
+GameTextVillage,13,草むら,Grass,عشب
+GameTextVillage,5001,ガラクタを撤去して平地を作ろう,Remove the rubble and clear the land.,أزل الأنقاض وأخلِ الأرض.
+GameTextVillage,11103,薪棚,Firewood Rack,رف الحطب
+GameTextVillage,12061,グランポート海軍旗,Grandport Naval Flag,راية غراندبورت البحرية
+GameTextVillage,12204,花の鉢,Flower Pot,إناء الزهور
+GameTextVillage,21028,"ウィッシュベール唯一の商店。
+交易品の売買もできる","Wishvale's one and only shop. A place where one can buy and sell various goods.",متجر ويشفيل الوحيد. مكان يمكن فيه بيع وشراء شتّى أنواع السلع.
+GameTextVillage,22044,"食料を入れるバスケット。
+寂しそうに口を開けている",An empty basket for food.,سلة فارغة للطعام.
+GameTextVillage,22107,"びっしりと茂っている草。
+下手に突っ込むと足を取られる",A dense clump of shrubs. Nearly impossible to walk through.,كتلة كثيفة من الشجيرات. يكاد يكون المرور خلالها مستحيلًا.
+GameTextVillage,22414,"レンガ造りの枠に植えられた花。
+町のアクセント",A planter made of brick. A great way to decorate the town.,حوض مزروعات من الطوب. وسيلة رائعة لتزيين البلدة.
+GameTextVillage,901100,青のオクトリン像,Blue Octopuff Statue,تمثال أوكتوبَف الأزرق
+GameTextEvent,1,"大富豪ヘルミニアって
+何者なんだ？","Have you heard the rumors
+about Lady Herminia?","هل سمعتَ الإشاعات
+عن السيدة هيرمينيا؟"
+GameTextEvent,2,"金のためなら
+赤子も喜んで殺すらしい","They say she'd happily slaughter
+her own child for coin!","يقولون إنها تذبح طفلها
+بكل سرور مقابل المال!"
+GameTextEvent,3,森の部族を滅ぼしたとも聞く,"I heard she's the one who killed
+off the last of the forest people!","سمعتُ أنها من أبادت
+آخر أهالي الغابة!"
+GameTextEvent,4,"……恐ろしい
+まさに“強欲の魔女”か","Horrifying... A witch who knows
+nothing but her own desires.","أمر مرعب... ساحرة لا تعرف
+سوى رغباتها الخاصة."
+GameTextEvent,5,"見ろよ
+贅沢って物の全てがここにある","And whatever she desires...
+she gets.","وكل ما تشتهيه...
+تحصل عليه."
+GameTextEvent,12,"ヘルミニア様
+宴の準備が整いました","Lady Herminia. The preparations
+for the ball are complete.","سيدتي هيرمينيا، تجهيزات
+الحفل باتت كاملة."
+GameTextEvent,13,……結構ですわ,...Very well.,...حسنًا إذًا.
+GameTextEvent,14,来たな……,...You came. Good.,...أتيتَ. حسنًا.
+GameTextEvent,15,"今日俺たちの運命が変わる
+……変えてみせる","Today our luck changes.
+I'll see to that.","اليوم يتغيّر حظّنا.
+سأتكفّل بذلك."
+GameTextEvent,16,"問題はどうやって入るかだ
+だろ？",How do you plan to pull this off?,كيف تخطط لتنفيذ هذا؟
+GameTextEvent,17,"俺らみたいなチンピラは
+門前払いだぜ","We'll never even make it through
+the front gate!","لن نستطيع حتى المرور
+من البوابة الأمامية!"
+GameTextEvent,18,…………,......,......
+GameTextEvent,19,お花はいかがですか？,Would you like a flower?,أتريد زهرة؟
+GameTextEvent,20,…………,......,......
+GameTextEvent,21,いくらだ？,How much?,بكم؟
+GameTextEvent,22,１００００リーフになります,"10,000 leaves, sir.",عشرة آلاف ورقة يا سيدي.
+GameTextEvent,23,"ずいぶんお高い
+花らしい",Pretty steep for a single flower.,هذا سعر باهظ لزهرة واحدة.
+GameTextEvent,24,……“粉”だな,"...It's the powder, isn't it?",...إنه المسحوق، أليس كذلك؟
+GameTextEvent,25,…………,Um...,أممم...
+GameTextEvent,26,誰に頼まれて売っている？,Who put you up to this?,من الذي دفعك للقيام بهذا؟
+GameTextEvent,27,それは……,I...I can't...,أنا... لا أستطيع...
+GameTextEvent,28,"そいつに関わると身を滅ぼすぞ
+止めておけ","Nothing good will come of this.
+Get out while you still can.","لن يأتي من هذا خير.
+اهرب بينما تستطيع."
+GameTextEvent,29,"だけど……
+これを売らないと……","But they said that if I don't
+sell this...","لكنهم قالوا إنني إن لم
+أبِع هذا..."
+GameTextEvent,30,弟たちが……,My brothers... They'll...,إخوتي... سوف...
+GameTextEvent,31,おい！,Hey!,يا!
+GameTextEvent,32,"貴様ら……
+商売の邪魔をする気か？","What do you think you're doing,
+meddling in our business!?","ما الذي تحسب نفسك فاعلًا،
+تتدخّل في شؤوننا!؟"
+GameTextEvent,33,"みすぼらしい……
+“客”ではないな","Those shabby clothes make
+it clear you're no customers.","ثيابكم الرثّة تكشف
+بوضوح أنكم لستم زبائن."
+GameTextEvent,34,"見かけで
+判断しないほうがいい","You'd be wise not to judge
+a book by its cover.","من الحكمة ألا تحكم
+على الكتاب من غلافه."
+GameTextEvent,35,……いいや、するね,"...And you'd be wise to
+keep your mouth shut.","...ومن الحكمة أن
+تُبقي فمك مغلقًا."
+GameTextEvent,36,"やれやれだ……
+結局こうなるもんな",How did I know this was coming?,كيف عرفتُ أن هذا آتٍ؟
+GameTextEvent,37,"へへ、せっかくだ
+楽しンじゃおうぜ","Heh! At least we get to have
+some fun.","هه! على الأقل سنحظى
+ببعض المتعة."
+GameTextEvent,38,……クールだ,...It's go time.,...حان وقت العمل.
+GameTextEvent,39,…………,......,......
+GameTextEvent,40,"”粉”を買わずに済んだんだ
+ケンカだけでも買っていくかい？","Instead of a flower, looks like
+we've picked ourselves a fight.","يبدو أننا اخترنا شجارًا
+بدلًا من زهرة."
+GameTextEvent,41,"へえ……ケンカもできねぇのに
+仲間になりたいって？","Hah! Don't tell me you were
+trying to join us when you can't
+even hold your own in a fight!","ها! لا تخبرني أنك كنت
+تحاول الانضمام إلينا وأنت لا
+تستطيع حتى الصمود في عراك!"
+GameTextEvent,42,"お前にあだ名つけてやるよ
+そうだな……","You know what they call people
+like you?","أتعرف بماذا يُلقَّب
+أمثالك؟"
+GameTextEvent,43,”ぼっちのチキン”だ,"Chicken, that's what!","بالجبان، هذا ما يُلقَّبون به!"
+GameTextEvent,44,あんたの腕、見せてもらうぜ,Let's see what you can do.,لنرَ ما يمكنك فعله.
+GameTextEvent,45,……来るぞ,...Here they come!,...ها هم قادمون!
+GameTextEvent,46,"ひいぃ……
+おい、退くぞ！","No-good scoundrels!
+You'll pay for this!","أوغاد عديمو الفائدة!
+ستدفعون ثمن هذا!"
+GameTextEvent,47,…………,......,......
+GameTextEvent,48,"あんな子供にまで
+“粉”を売らせるのか","Using children to peddle their
+poison, are they now?","يستخدمون الأطفال لترويج
+سمّهم إذًا؟"
+GameTextEvent,49,……ジョークきついぜ,...Makes me sick.,...هذا يثير اشمئزازي.
+GameTextEvent,50,"あの成金野郎……
+俺たちも見下しやがって","Those greedy bastards!
+Always looking down on us!","أولئك الأوغاد الطماعون!
+دائمًا ما يحتقروننا!"
+GameTextEvent,51,"クソは考えることも
+クソだぜ！","I should have stuck my dagger
+in their smug faces!","كان عليّ أن أغرز خنجري
+في وجوههم المتعجرفة!"
+GameTextEvent,52,まあ落ち着け、ピエロ,"Settle down, Pierro. Look at this.",اهدأ يا بييرو. انظر إلى هذا.
+GameTextEvent,53,"あッ！
+それってもしや……",Wait a minute... Is that—!?,مهلًا لحظة... أهذا—!؟
+GameTextEvent,54,"クソでも
+いいモノ持ってんのな","Even smug bastards are
+good for something.","حتى الأوغاد المتعجرفون
+مفيدون في شيء ما."
+GameTextEvent,55,"招待状だ
+さっき頂いといた","I just happened to find this
+in one of their pockets.","صادف أنني وجدتُ هذا
+في أحد جيوبهم."
+GameTextEvent,56,"ビンゴ！
+これでパーティに行けるぜ",An invitation to the ball!,دعوة إلى الحفل!
+GameTextEvent,57,クソが集まるパーティにな,A ball for fat cats with fat purses...,حفل للأثرياء أصحاب الجيوب المنتفخة...
+GameTextEvent,58,クールだ,...It's go time.,...حان وقت العمل.
+GameTextEvent,60,……助かったぜ,"You really helped us out
+back there.","لقد ساعدتنا حقًّا
+هناك."
+GameTextEvent,61,"俺たちは
+このヴァローレで生まれ育った","We were born and raised in
+this town,","وُلدنا وترعرعنا في
+هذه البلدة،"
+GameTextEvent,62,"昔はマシな町だったが
+いまは見ての通りだ",and we've watched it go to shit.,وشاهدناها تنهار.
+GameTextEvent,63,"俺たちはデカくなって
+この町を取り戻す","...But no more watching.
+We're going to take it back.","...لكن كفى مشاهدة.
+سنستعيدها."
+GameTextEvent,64,"あんたは強い……
+それに、何か事情があるんだろう","You can fight, and you seem like
+you have your own business with
+the Witch.","بإمكانك القتال، ويبدو أن
+لديك حسابك الخاص مع
+الساحرة."
+GameTextEvent,65,"改めて聞く
+俺たちの仲間になるか？","Do you still want to join
+our cause?","أما زلتَ تريد الانضمام
+إلى قضيتنا؟"
+GameTextEvent,66,"へえ……
+びびってンのか？","C'mon!
+What are you, scared?","هيا!
+ما بك، أخائف أنت؟"
+GameTextEvent,67,"お前にあだ名つけてやるよ
+“むっつりチキン”だ","Don't be a chicken!
+I promise we're not so bad!","لا تكن جبانًا!
+أعدك أننا لسنا بهذا السوء!"
+GameTextEvent,68,"……もう一度聞こう
+俺たちの仲間になるか？","...Think carefully, friend.
+A chance like this doesn't
+come along every day.","...فكّر مليًّا يا صديقي.
+فرصة كهذه لا
+تأتي كل يوم."
+GameTextEvent,70,"やったぜ！
+歓迎するぜ、新入り！","All right!
+A new addition to our ranks!","حسنًا!
+إضافة جديدة إلى صفوفنا!"
+GameTextEvent,71,"悪かったな
+まあ、パスタでも食いに行くか？","Sorry for doubting you. I'd be
+happy to treat you to some pasta,
+if you want.","آسف على شكّي بك. سيسرّني
+أن أدعوك لتناول بعض المعكرونة،
+إن أردت."
+GameTextEvent,72,……クールだ,...It's go time.,...حان وقت العمل.
+GameTextEvent,73,"バルジェロファミリーへ
+ようこそ、<chara_name>","Welcome to the family,
+<chara_name>.","أهلًا بك في العائلة،
+يا <chara_name>."
+GameTextEvent,74,"招待状も手に入れた
+騒ぎになる前に行くぞ","Anyhow, we got what we came for.
+Let's leave before we make a scene.","على أي حال، حصلنا على ما أتينا لأجله.
+لنرحل قبل أن نثير ضجة."
+GameTextEvent,76,"……おい
+何か忘れてないか？","Hey, aren't you forgetting something?",أنسيتَ شيئًا؟
+GameTextEvent,77,"へへ……
+いっちょやるか",Hah! Might as well!,ها! لم لا!
+GameTextEvent,78,“カッティーナ”,For the family!,من أجل العائلة!
+GameTextEvent,79,来たか、<chara_name>,...You came. Good.,...أتيتَ. حسنًا.
+GameTextEvent,80,"すげえな……こんな豪邸
+想像もしたことねえぜ",Look at the size of this place!,انظر إلى حجم هذا المكان!
+GameTextEvent,81,"大富豪ヘルミニアは
+マフィアの女から成り上がった","They say Lady Herminia started
+out as a small-time criminal.","يُقال إن السيدة هيرمينيا بدأت
+كمجرمة تافهة الشأن."
+GameTextEvent,82,ある“粉”を支配、独占してな,"Then she took control of the
+powder operation...","ثم سيطرت على
+تجارة المسحوق..."
+GameTextEvent,83,"その富は、大陸全体を動かす
+とまで言われる","Rumors say she's so rich she
+could buy the whole continent...","تقول الإشاعات إنها غنية لدرجة
+تستطيع بها شراء القارة بأكملها..."
+GameTextEvent,84,やれやれ……“粉御殿”か,"A palace built on powder, eh?","قصر بُني على المسحوق، أليس كذلك؟"
+GameTextEvent,85,"ちっちっち……
+自慢の身体でも稼いだのさ","Not just that. Word has it she'll even
+sell her body...for the right price.","ليس هذا فحسب. يُقال إنها تبيع
+جسدها أيضًا... مقابل السعر المناسب."
+GameTextEvent,86,"ヘルミニアは絶世の美女で
+神父も発情した犬になるって","They say she's so gorgeous that even
+clergymen are reduced to dogs in heat.","يقولون إنها بارعة الجمال لدرجة أن
+رجال الدين أنفسهم يتحوّلون إلى كلاب مسعورة."
+GameTextEvent,87,"きっと、大陸の金持ち全員を
+相手にしたンだよ","...And that she's slept with the
+wealthiest men in the realm.","...وإنها ضاجعت
+أثرى رجال المملكة."
+GameTextEvent,88,"待てよ、ピエロ・デッラ
+つまりヘルミニアは娼婦か？","Wait a minute, Pierro. You're
+saying Lady Herminia's a harlot?","مهلًا لحظة يا بييرو. أتقول
+إن السيدة هيرمينيا عاهرة؟"
+GameTextEvent,89,"何千人くわえ込めば
+この御殿が建つんだ？　ああ？","I've never met a harlot who lives
+in a mansion like this.","لم ألتقِ قط بعاهرة تعيش
+في قصر كهذا."
+GameTextEvent,90,"娼婦だって相手を選べば
+大富豪になれるのさ","Heh. Even prostitution can pay
+if you choose your clients right.","هه. حتى الدعارة قد تُجزي
+إن أحسنتِ اختيار زبائنك."
+GameTextEvent,91,そいつはクールだ,...It's go time.,...حان وقت العمل.
+GameTextEvent,92,"……その口
+しばらく閉じておけよ","All right. Enough yapping from
+you lot.","حسنًا. كفى ثرثرة
+منكم."
+GameTextEvent,93,"パーティには、裏社会の
+権力者がごまんと来てる","Now listen. Some of the fattest
+cats from the underworld will be
+at this banquet.","أصغوا الآن. سيحضر هذا
+المأدبة بعض أثرى
+رجال العالم السفلي."
+GameTextEvent,94,"俺たちの後ろ盾になり得る
+……な","...Some of whom might be able
+to help us get what we want.","...بعضهم قد يكون قادرًا
+على مساعدتنا في نيل مُرادنا."
+GameTextEvent,95,"利用できるものは
+利用していく……だろ？","Use who we can use, right?",نستغل من يمكننا استغلاله، صحيح؟
+GameTextEvent,96,"ここで俺たちは
+名を上げるんだ","We're going to make a name
+for ourselves here tonight.","سنصنع لأنفسنا اسمًا
+هذه الليلة."
+GameTextEvent,97,"分かってるって
+ボス","You got it, Boss.",فهمتُ يا زعيم.
+GameTextEvent,98,さあ、行くぞ,Now let's go.,والآن، لنذهب.
+GameTextEvent,99,"うほッ！？
+盛り上がってんなぁ","Looks like this party's already in
+full swing!","يبدو أن هذا الحفل بلغ
+ذروته بالفعل!"
+GameTextEvent,100,俺、パーティって大好き！,"All right!
+Time to have some fun!","حسنًا!
+حان وقت المرح!"

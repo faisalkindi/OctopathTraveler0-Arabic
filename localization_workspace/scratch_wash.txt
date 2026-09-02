@@ -1,0 +1,88 @@
+========== 3969
+BEFORE: 'لماذا\nتتجهين نحو\n"المحادثة السرية"؟'
+AR: 'لماذا\nتتجهين نحو\n«المحادثة السرية»؟'
+REASON: 'Replaced ASCII quotation marks with correct Arabic quotation marks.'
+========== 3971
+BEFORE: 'لقد…… عرفتُ\nالهدف الحقيقي من\n"المحادثة السرية"'
+AR: 'لقد…… عرفتُ\nالهدف الحقيقي من\n«المحادثة السرية»'
+REASON: 'Replaced ASCII quotation marks with correct Arabic quotation marks.'
+========== 3979
+BEFORE: 'من أنت؟\nولماذا تتوجه إلى "المحادثة السرية"؟'
+AR: 'من أنت؟\nولماذا تتوجه إلى «المحادثة السرية»؟'
+REASON: 'Replaced ASCII quotation marks with correct Arabic quotation marks.'
+========== 4263
+BEFORE: 'رغم ضآلة جهدي، سأشاركُ'
+AR: 'رغم ضآلة جهدي، سأشارك'
+REASON: "Removed unnecessary damma from 'سأشاركُ' to adhere to light harakat policy."
+========== 4266
+BEFORE: 'هذا ممتنٌ للغاية……'
+AR: 'أنا ممتن للغاية……'
+REASON: "Rephrased 'هذا ممتنٌ للغاية' to 'أنا ممتن للغاية' for better grammatical flow and removed unnecessary tanween from 'ممتن'."
+========== 4269
+BEFORE: 'هذا…… وضعٌ لا مفر منه.'
+AR: 'هذا…… وضع لا مفر منه.'
+REASON: "Removed unnecessary tanween from 'وضعٌ' to adhere to light harakat policy."
+========== 4300
+BEFORE: 'أ…… أوه……\nليأتِ أحدٌ بالطعام……'
+AR: 'أ…… أوه……\nليأتِ أحد بالطعام……'
+REASON: "Removed unnecessary tanween from 'أحدٌ' to adhere to light harakat policy."
+========== 4964
+BEFORE: '"الحقيقة تكمن في الأمام"\nوهكذا……'
+AR: '"الحقيقة تكمن في الأمام"\n……'
+REASON: "The Japanese 'と……' indicates the end of a quote. 'وهكذا……' is a bit clunky; a simple ellipsis is more natural."
+========== 5022
+BEFORE: 'شارل……؟!'
+AR: 'شارل……؟!'
+REASON: 'Removed extraneous double quote at the end of the line.'
+========== 5084
+BEFORE: '"أنا آسف……"'
+AR: '«أنا آسف……»'
+REASON: 'Style guide: changed ASCII quotes to Arabic dialogue quotes «».'
+========== 5383
+BEFORE: 'أنا……\nالملكُ…… المطلقُ……'
+AR: 'أنا……\nالملك…… المطلق……'
+REASON: 'Removed unnecessary diacritics to align with the light harakat policy.'
+========== 5395
+BEFORE: '"أقدمُ…… روحي……"'
+AR: '"أقدم…… روحي……"'
+REASON: 'Removed unnecessary diacritic to align with the light harakat policy.'
+========== 5396
+BEFORE: '"امنحني…… القوةَ الحقيقيةَ……!"'
+AR: '"امنحني…… القوة الحقيقية……!"'
+REASON: 'Removed unnecessary diacritics to align with the light harakat policy.'
+========== 5402
+BEFORE: 'الملكُ الوحيدُ والمطلقُ\nالذي يحكمُ أورستيرا……'
+AR: 'الملك الوحيد والمطلق\nالذي يحكم أورستيرا……'
+REASON: 'Removed unnecessary diacritics to align with the light harakat policy.'
+========== 5403
+BEFORE: 'كلُّ شيءٍ في هذا العالمِ……\nهو ملكي……!!"'
+AR: 'كل شيء في هذا العالم……\nهو ملكي……!!'
+REASON: 'Removed unnecessary diacritics and an extraneous closing quotation mark.'
+========== 7438
+BEFORE: 'من هو "إلهك"؟\nلماذا أنت……'
+AR: 'من هو «إلهك»؟\nلماذا أنت……'
+REASON: 'Changed ASCII quotes `"` to Arabic quotes `«»` as per style guide.'
+========== 7459
+BEFORE: '"أبي"……'
+AR: '«أبي»……'
+REASON: 'Changed ASCII quotes `"` to Arabic quotes `«»` as per style guide.'
+========== 7568
+BEFORE: 'لقد وجدتها أخيرًا\n"ليلة المحرمات"'
+AR: 'لقد وجدتها أخيرًا\n«ليلة المحرمات»'
+REASON: 'Changed ASCII double quotes to Arabic double angle quotes «…» per style guide.'
+========== 7573
+BEFORE: 'تفضل\nهذه هي "ليلة المحرمات"'
+AR: 'تفضل\nهذه هي «ليلة المحرمات»'
+REASON: 'Changed ASCII double quotes to Arabic double angle quotes «…» per style guide.'
+========== 7575
+BEFORE: '"ليلة المحرمات"'
+AR: '«ليلة المحرمات»'
+REASON: 'Changed ASCII double quotes to Arabic double angle quotes «…» per style guide.'
+========== 7588
+BEFORE: 'أول كتاب قرأته هو'
+AR: 'أول كتاب قرأته هو\n«سيرة القديس أوديبس»……'
+REASON: 'Completed the sentence with the book title, added Arabic double angle quotes «…», and preserved the ellipsis count from the Japanese source.'
+========== 7717
+BEFORE: 'وسُمي ذلك اللهب لاحقًا بـ "اللهب المقدس"'
+AR: 'وسُمّي ذلك اللهب لاحقًا بـ "اللهب المقدس"'
+REASON: 'Added shadda to `سُمّي` for correct gemination.'

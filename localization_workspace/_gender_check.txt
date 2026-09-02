@@ -1,0 +1,432 @@
+=== id 11696 ===
+JA: そんなに食べたいの？
+いいわよ、どうぞ
+BEFORE: هل ترغبين في أكلها إلى هذه الدرجة؟
+GEMINI: هل ترغب في أكلها إلى هذه الدرجة؟
+تفضّل.
+REASON: The original Arabic was incomplete, missing the second part of the sentence. Also, the verb was gendered female, but the protagonist is gender-neutral, so it was changed to generic masculine.
+
+=== id 11697 ===
+JA: うふふ、あのね……
+BEFORE: أوفوفو، اسمعي……
+GEMINI: أوفوفو، حسنًا……
+REASON: Changed the gendered command 'اسمعي' to a gender-neutral 'حسنًا' to address the protagonist, and to better reflect the meaning of 'あのね'.
+
+=== id 11995 ===
+JA: あなたも甘え上手ニャ～
+BEFORE: أنت أيضاً بارع في التودد نيا~
+GEMINI: أنت أيضاً توددت ببراعة نيا~
+REASON: Rephrased the present-tense verb to a past-tense form ('توددت') to ensure gender-neutrality when addressing the player character, as per style guide.
+
+=== id 12003 ===
+JA: お前にはやれんなァ
+BEFORE: أنت لا تستطيع فعل ذلك
+GEMINI: ليس بمقدورك فعل ذلك
+REASON: Corrected the phrasing to 'ليس بمقدورك فعل ذلك' for better gender-neutrality when addressing the player, and to more accurately reflect the nuance of 'you can't do it' rather than 'you are not worthy'.
+
+=== id 12006 ===
+JA: ひょっひょっひょ……
+知りたいか？
+BEFORE: هيو هيو هيو……
+GEMINI: هيو هيو هيو……
+هل لديك فضول؟
+REASON: The original Arabic translation was incomplete, missing the question 'Curious, are you?'. Added the question and rephrased it to 'هل لديك فضول؟' for gender-neutrality when addressing the player.
+
+=== id 12016 ===
+JA: 癒やしが必要ですか？
+BEFORE: هل تحتاج إلى شفاء؟
+GEMINI: هل أنت بحاجة إلى شفاء؟
+REASON: Rephrased the present-tense verb to a more gender-neutral construction ('هل أنت بحاجة') when addressing the player character, as per style guide.
+
+=== id 12066 ===
+JA: ぁんだい！？
+なんか用かいィ？
+BEFORE: أهلاً بكِ!
+GEMINI: ماذا؟
+هل من أمر؟
+REASON: Mistranslation, gender assumption, and tone mismatch. Rephrased for neutrality and directness.
+
+=== id 12072 ===
+JA: あんたの情報は入手済みだ！
+BEFORE: لقد حصلتُ على معلوماتكِ بالفعل!
+GEMINI: لقد حصلتُ على معلوماتك بالفعل!
+REASON: Player-address gender-neutrality: changed from feminine 'معلوماتكِ' to generic masculine 'معلوماتك'.
+
+=== id 12090 ===
+JA: おしゃれな小物を細やかに仕上げる腕利きの金細工師。
+普段の装いも洒脱で爽やかな麗人であり
+サバサバとした振る舞いも評判の的。
+同業者からのやっかみも多いらしいが、
+サバサバと受け流して我が道を行っている。
+BEFORE: صائغ ذهب ماهر ينهي القطع الصغيرة الأنيقة بدقة.
+GEMINI: صائغة ذهب ماهرة تنهي القطع الصغيرة الأنيقة بدقة.
+ملابسها المعتادة أنيقة ومنعشة، وهي امرأة جميلة.
+كما أن سلوكها الصريح والمباشر يحظى بتقدير كبير.
+على الرغم من أن الكثير من زملائها يشعرون بالغيرة منها،
+إلا أنها تتجاهل ذلك وتواصل طريقها.
+REASON: Incomplete translation and gender agreement; translated the full text and ensured feminine agreement for the goldsmith.
+
+=== id 12096 ===
+JA: お！
+もっと聞きたい！？
+BEFORE: أوه!
+GEMINI: أوه!
+هل تريد سماع المزيد؟
+REASON: Incomplete translation and player-address gender-neutrality; completed the sentence and used generic masculine for the player.
+
+=== id 12110 ===
+JA: 英雄ベオウルフの伝説に登場する数々の戦争を紐解き
+戦術、戦略の両面から分析、理論化を試みる軍学者。
+勝つために必要なのは、最適な軍略の構造化であり
+英雄は必要ないのだ。
+将軍たちはそれがわかっていない、と語るが
+自分が戦場に出たことはない。
+BEFORE: عالم عسكري يحلل ويحاول تنظير العديد من الحروب
+GEMINI: عالمة عسكرية تحلل وتحاول تنظير العديد من الحروب التي تظهر في أساطير البطل بيوولف، من الجانبين التكتيكي والاستراتيجي.
+ما هو ضروري للفوز هو هيكلة الاستراتيجية العسكرية المثلى، والأبطال ليسوا ضروريين.
+تقول إن الجنرالات لا يفهمون ذلك،
+لكنها لم تخض معركة بنفسها قط.
+REASON: Incomplete translation and gender agreement; translated the full text and ensured feminine agreement for the scholar.
+
+=== id 12114 ===
+JA: 私の軍略
+味わってみる？
+BEFORE: استراتيجيتي العسكرية
+GEMINI: استراتيجيتي العسكرية،
+هل ترغب في تجربتها؟
+REASON: Incomplete translation and mistranslation of nuance; completed the sentence to reflect an offer/challenge, and maintained player-address gender-neutrality.
+
+=== id 12116 ===
+JA: これが欲しいってわけね
+BEFORE: تقصد أنك تريد هذا
+GEMINI: هذا ما تريده، أليس كذلك؟
+REASON: Player-address gender-neutrality; rephrased for better flow while using generic masculine default for the player.
+
+=== id 12118 ===
+JA: 渡すわけないじゃない
+BEFORE: لا يمكنني إعطاؤه لك
+GEMINI: لن أعطيك إياه!
+REASON: Register/tone mismatch; rephrased to convey a stronger refusal, matching the Japanese tone. Player-address gender-neutrality maintained with generic masculine.
+
+=== id 12123 ===
+JA: あなたに
+理解できるでしょうか？
+BEFORE: هل ستكون
+GEMINI: هل يمكنك
+فهم نظريتي؟
+REASON: The original Arabic translation was incomplete. The sentence has been completed using a gender-neutral phrasing for the player character, and line breaks preserved.
+
+=== id 12126 ===
+JA: どうぞお持ちください
+BEFORE: تفضل بحملها
+GEMINI: تفضل بها
+REASON: The original Arabic 'تفضل بحملها' was too literal and gendered. Changed to 'تفضل بها' as a more natural and generically polite offering, using 'تفضل' as the generic masculine fallback for the player character.
+
+=== id 12133 ===
+JA: これはやらないよ
+BEFORE: لن أفعل هذا
+GEMINI: لا يمكنك الحصول عليه.
+REASON: The original Arabic 'لن أفعل هذا' was a slight mistranslation for 'You can't have it' (referring to an item). Changed to a more accurate and gender-neutral phrasing for the player character.
+
+=== id 12135 ===
+JA: こんなものが
+役に立つのかい？
+BEFORE: هل سيُفيد شيء كهذا؟
+GEMINI: هل سيُفيدك
+شيء كهذا؟
+REASON: The original Arabic was missing the implied 'to you'. Added the gender-neutral suffix 'ـك' to make it 'Will something like this benefit you?', preserving line breaks.
+
+=== id 12143 ===
+JA: あなたにはこの価値が
+わからないのか！？
+BEFORE: ألا تدرك قيمة هذا؟!
+GEMINI: ألم تدرك
+قيمة هذا؟!
+REASON: Changed the present tense 'تدرك' to the past tense 'تدرك' (which is spelled identically for both genders) to ensure gender-neutrality for the player character, as per style guide, preserving line breaks.
+
+=== id 12155 ===
+JA: 役立ててくれたまえ
+BEFORE: ساعدني في هذا.
+GEMINI: آمل أن يكون ذا فائدة لك.
+REASON: The original Arabic 'ساعدني في هذا.' was a mistranslation. Changed to accurately reflect 'I hope it will be of use to you', using gender-neutral 'لك'.
+
+=== id 12165 ===
+JA: ほら、これを分けてやろう
+BEFORE: ها، سأعطيكِ جزءاً من هذا
+GEMINI: ها، سأشاركك هذا.
+REASON: Changed to a gender-neutral phrasing for the player character and used 'أشاركك' to better reflect 'happy to share' from EN.
+
+=== id 12186 ===
+JA: あの子のこと
+話させて……
+BEFORE: دعيني
+GEMINI: عن كلبي
+دعني أتحدث……
+REASON: Original was a severe truncation and used feminine imperative; re-translated to capture full meaning, used gender-neutral 'دعني', and preserved line break and ellipsis count.
+
+=== id 12674 ===
+JA: 悪いけど、忙しいの
+BEFORE: آسف، لكنني مشغولة
+GEMINI: آسف، لكنني مشغول
+REASON: Gender agreement: Speaker gender is not specified. Changed 'مشغولة' (feminine) to 'مشغول' (masculine) as the default for an unspecified speaker.
+
+=== id 12694 ===
+JA: ……焦ってはいかんぞ
+BEFORE: ……لا يجب أن نستعجل
+GEMINI: ……لا يجب أن تستعجل
+REASON: Subject agreement/player-address: 'لا يجب أن نستعجل' (We must not rush) changes the subject from 'you' to 'we'. Changed to 'لا يجب أن تستعجل' (You must not rush) to address the player (using generic masculine as fallback for gender-neutrality).
+
+=== id 12704 ===
+JA: しつこいヤツだ
+……オイ、丁重にお見送りしろ！
+BEFORE: إنه شخص عنيد
+GEMINI: يا لك من عنيد!
+……هيّا، تخلّص منهم!
+REASON: Incomplete translation; the original Arabic was missing the second part of the dialogue. Corrected ellipsis count and rephrased for gender-neutrality for player address.
+
+=== id 12717 ===
+JA: 何か用か？
+BEFORE: هل تريد شيئاً؟
+GEMINI: هل من حاجة؟
+REASON: Rephrased for gender-neutrality as the line is addressed to the player character.
+
+=== id 12725 ===
+JA: ちぇ、強くなりやがって……
+ほらこれ、持ってけよ
+BEFORE: تباً، لقد أصبح قوياً...
+GEMINI: تباً، لقد أصبحت قوياً……
+هاك هذا، خذه.
+REASON: Corrected subject-verb agreement (from third-person to second-person for player address), completed the translation, and corrected ellipsis count. Used gender-neutral past tense for player address.
+
+=== id 12726 ===
+JA: 何か話かい？
+BEFORE: هل هناك ما تريد قوله؟
+GEMINI: هل من حديث؟
+REASON: Rephrased for gender-neutrality as the line is addressed to the player character.
+
+=== id 12736 ===
+JA: 君ならいいか
+はい、どうぞ
+BEFORE: أنت ستكون جيدًا
+GEMINI: لك أنت؟ حسنًا.
+تفضل.
+REASON: Mistranslation and incompleteness. The original Arabic 'أنت ستكون جيدًا' was inaccurate. Rephrased for gender-neutrality and added the missing second part.
+
+=== id 12737 ===
+JA: 何か話があるのかい？
+BEFORE: هل هناك ما تريد قوله؟
+GEMINI: هل من حديث؟
+REASON: Rephrased for gender-neutrality as the line is addressed to the player character.
+
+=== id 13024 ===
+JA: 人はよく見たほうがいいよ
+とくにこの町ではね
+BEFORE: يجب أن تنظر إلى الناس جيداً،
+GEMINI: يجب أن يراقب المرء الناس جيداً،
+خاصة في هذه المدينة.
+REASON: Corrected for completeness (missing second part of sentence) and improved gender-neutrality by using 'المرء' (one/a person) instead of a masculine-default verb addressing 'you'. Also used 'يراقب' (observe) for better fit with 'keep eyes open'.
+
+=== id 13025 ===
+JA: 人はよく見たほうがいいよ
+とくにこの町ではね
+BEFORE: يجب أن تنظر إلى الناس جيداً،
+GEMINI: يجب أن يراقب المرء الناس جيداً،
+خاصة في هذه المدينة.
+REASON: Corrected for completeness (missing second part of sentence) and improved gender-neutrality by using 'المرء' (one/a person) instead of a masculine-default verb addressing 'you'. Also used 'يراقب' (observe) for better fit with 'keep eyes open'.
+
+=== id 13093 ===
+JA: おいおい、そんな交渉術じゃ
+ドンの元では働けないぜ？
+BEFORE: مهلاً، بهذه المهارات في التفاوض
+GEMINI: مهلاً، بهذه المهارات في التفاوض
+لن تتمكن من العمل لدى اللورد تافياني!
+REASON: Corrected for completeness (missing the consequence 'you can't work for Taviani'). Ensured glossary compliance for 'اللورد تافياني' and used 'لن تتمكن' for better gender-neutrality when addressing the player.
+
+=== id 13284 ===
+JA: “欲しがりチキン”だな！
+BEFORE: "دجاجة طماعة" إنه كذلك!
+GEMINI: أنتَ "دجاج طماع"!
+REASON: Mistranslation of the subject and gender; changed 'دجاجة طماعة' (female greedy chicken) to 'دجاج طماع' (masculine greedy chicken) and 'إنه كذلك' (it is so) to 'أنتَ' (you are) to correctly address the player.
+
+=== id 13332 ===
+JA: あなたも楽しみたいの？
+BEFORE: هل تريد الاستمتاع أيضاً؟
+GEMINI: هل لديك رغبة في الاستمتاع أيضاً؟
+REASON: Addressed player-character gender-neutrality. The original 'هل تريد' used a masculine present-tense verb. Rephrased to use a verbal noun ('رغبة') to achieve neutrality as per style guide.
+
+=== id 13335 ===
+JA: 持っていってちょうだい
+あたしの代わりにね
+BEFORE: خذيها معكِ
+GEMINI: خذها عني،
+بدلاً مني.
+REASON: Addressed player-character gender-neutrality and preserved line break. The original 'خذيها معكِ' used a feminine imperative. Rephrased to use the generic masculine imperative 'خذها' (take it, masculine 'you') and preserved the line break.
+
+=== id 13573 ===
+JA: な、なかなか筋がいい
+持っていけ
+BEFORE: بـ، بنيتها جيدة نوعاً ما
+GEMINI: بـ، موهبتك جيدة نوعاً ما
+خذ ما تشاء.
+REASON: Mistranslation of '筋' (suji) as 'بنية' (build) and incorrect gender ('بنيتها' instead of 'بنيتك'). Corrected to 'موهبتك' (your talent) and preserved the line break, adding the missing second part of the line.
+
+=== id 13589 ===
+JA: わ、わたしで大丈夫でしょうか……
+BEFORE: هـ، هل سأكون كافية……
+GEMINI: هـ، هل سأكون كافيًا……
+REASON: Corrected gender agreement for the speaker's self-reference from feminine 'كافية' to masculine 'كافيًا', as the generic NPC 'Priest' is assumed male in the absence of specific gender information.
+
+=== id 13705 ===
+JA: 交渉が下手だね、君は
+BEFORE: أنت سيئ في التفاوض
+GEMINI: مهاراتك في التفاوض تحتاج إلى تحسين.
+REASON: Improved player-address gender-neutrality.
+
+=== id 13706 ===
+JA: 僕に相談かい？
+BEFORE: هل تطلب مشورتي؟
+GEMINI: هل هناك أمر تود مناقشته معي؟
+REASON: Improved player-address gender-neutrality and aligns better with EN text.
+
+=== id 14371 ===
+JA: よろしくね
+BEFORE: سررت بلقائك
+GEMINI: حسنًا
+REASON: Replaced 'سررت بلقائك' with a more general and neutral 'حسنًا' to better fit the versatile meaning of 'よろしくね' in various contexts, aligning with the brief English 'Sure'.
+
+=== id 14451 ===
+JA: わしに挑むか
+では、楽しませてもらうかの！
+BEFORE: هل ستتحداني؟
+GEMINI: هل هذا تحدٍ لي؟
+إذن، سأستمتع!
+REASON: The original translation was an omission, only translating the first part. Provided a full translation, preserved the line break, and rephrased 'هل ستتحداني؟' (masculine) to 'هل هذا تحدٍ لي؟' (gender-neutral) to address the player.
+
+=== id 14519 ===
+JA: 私の弓に震えなさい
+BEFORE: ارتجفي أمام قوسي
+GEMINI: سوف تتعلم خشية قوسي.
+REASON: Player-address gender-neutrality issue (original was feminine imperative). Rephrased to match `en_text`'s nuance and be gender-neutral (generic masculine for the verb).
+
+=== id 14521 ===
+JA: もう少し腕を上げなさい
+BEFORE: ارفعي ذراعكِ قليلاً
+GEMINI: واصل تدريبك.
+REASON: Mistranslation (missed idiomatic meaning of 'improve skill/training'), player-address gender-neutrality issue (original was feminine imperative).
+
+=== id 14522 ===
+JA: 何か困ってるの？
+BEFORE: هل تواجهين مشكلة ما؟
+GEMINI: هل تواجه مشكلة ما؟
+REASON: Player-address gender-neutrality issue (original was feminine present tense verb). Changed to generic masculine as a fallback.
+
+=== id 14525 ===
+JA: そんなに欲しいの？
+仕方ないわねぇ
+BEFORE: هل تريدينها إلى هذه الدرجة؟
+GEMINI: هل تريدها إلى هذه الدرجة؟
+حسنًا، خذها إذن.
+REASON: Mistranslation (missing second part of the sentence), player-address gender-neutrality issue (original was feminine present tense verb), `\n` not preserved.
+
+=== id 14528 ===
+JA: お断りするわ
+困ってそうには見えないもの
+BEFORE: أرفض ذلك
+GEMINI: أرفض ذلك.
+فأنت لا تبدو بحاجة إلى المساعدة.
+REASON: Mistranslation (missing second part of the sentence), player-address gender-neutrality issue (original implied feminine, changed to generic masculine), `\n` not preserved.
+
+=== id 14555 ===
+JA: これを必要としてる方は
+他にもいるのです
+BEFORE: هناك أشخاص آخرون
+GEMINI: هناك أشخاص آخرون قد يحتاجون هذا أكثر منك.
+REASON: Mistranslation (missing part of the sentence and nuance), `\n` not preserved (rephrasing made it a single line). Player-address gender-neutrality (used generic masculine for 'you').
+
+=== id 14556 ===
+JA: お話があるのですか？
+BEFORE: هل لديكِ ما تقولينه؟
+GEMINI: هل لديك ما تود الحديث عنه؟
+REASON: Player-address gender-neutrality issue (original was feminine present tense verb and pronoun). Changed to generic masculine as a fallback, and closer to `en_text`'s nuance.
+
+=== id 14561 ===
+JA: あなたの町ですか……
+わかりました、参りましょう
+BEFORE: هل هي في بلدتكِ……
+GEMINI: بلدتك…؟
+فهمت، سأنضم إليك في بلدتك.
+REASON: Mistranslation (missing second part of the sentence, incorrect gender for 'your town'), player-address gender-neutrality issue (original was feminine), `\n` not preserved.
+
+=== id 14724 ===
+JA: 甘く見られたもんだねぇ
+BEFORE: لقد استهانوا بي
+GEMINI: لقد استخففت بي
+REASON: The original `ar_text` translates 'They underestimated me,' losing the direct address implied by `en_text`. The corrected version 'لقد استخففت بي' (without diacritics) is gender-neutral for the second person in past tense, aligning with the style guide for addressing the player, and accurately reflects 'You underestimated me.'
+
+=== id 14725 ===
+JA: 甘く見られたもんだねぇ
+BEFORE: لقد استهانوا بي
+GEMINI: لقد استخففت بي
+REASON: The original `ar_text` translates 'They underestimated me,' losing the direct address implied by `en_text`. The corrected version 'لقد استخففت بي' (without diacritics) is gender-neutral for the second person in past tense, aligning with the style guide for addressing the player, and accurately reflects 'You underestimated me.'
+
+=== id 14809 ===
+JA: カエルよりも
+弱いようですね
+BEFORE: يبدو أنه أضعف
+GEMINI: تبدو أضعف
+من الضفادع.
+REASON: Incorrect subject ('أنه' instead of 'you') and missing 'than a frog'. Corrected to address the player (gender-neutral fallback 'تبدو') and include the comparison. Preserved line break.
+
+=== id 14848 ===
+JA: あなたにあげるわ
+BEFORE: سأعطيكِ إياه
+GEMINI: سأعطيكَ إياه
+REASON: Addressee is the player character; changed to generic masculine 'كَ' for gender neutrality as per style guide.
+
+=== id 14855 ===
+JA: 明るい劇を観たい老人
+BEFORE: عجوز تريد مشاهد مسرحية مبهجة
+GEMINI: عجوز يريد مشاهدة مسرحية مبهجة
+REASON: Gender agreement error; 'عجوز' (old man) requires masculine verb 'يريد' instead of feminine 'تريد'. Also changed 'مشاهد' to 'مشاهدة'.
+
+=== id 15084 ===
+JA: 私のことなんて知らないくせに……
+BEFORE: رغم أنكِ لا تعرفين عني شيئاً……
+GEMINI: رغم أنك لا تعرف عني شيئاً
+……
+REASON: Corrected gendered address ('أنتِ'/'تعرفين') to gender-neutral (generic masculine fallback 'أنتَ'/'تعرف') for the player character, and preserved the line break.
+
+=== id 15086 ===
+JA: 取っておいて……サイン入りよ！
+BEFORE: احتفظي بها…… إنها موقعة!
+GEMINI: احتفظ بها…… إنها موقعة!
+REASON: Corrected gendered imperative ('احتفظي') to gender-neutral (generic masculine fallback 'احتفظ') for the player character.
+
+=== id 15088 ===
+JA: あなたの町でなら
+主役になれるかしら……？
+BEFORE: في بلدتكِ،
+GEMINI: في بلدتك،
+هل يمكنني أن أكون البطلة الرئيسية……؟
+REASON: Translated the missing part of the sentence, corrected gendered address ('بلدتكِ') to gender-neutral (generic masculine fallback 'بلدتك') for the player character, preserved the line break, and added ellipses.
+
+=== id 15100 ===
+JA: 私に新しい知識をくれるか？
+BEFORE: هل ستمنحينني معرفةً جديدةً؟
+GEMINI: هل ستمنحني معرفةً جديدةً؟
+REASON: Gender agreement error. The addressee is the player (gender-neutral), so the masculine default form 'ستمنحني' should be used instead of the feminine 'ستمنحينني'.
+
+=== id 15103 ===
+JA: これに興味を持つとは
+さすがだな
+BEFORE: اهتمامكِ بهذا
+GEMINI: اهتمامك بهذا،
+هذا متوقع منك.
+REASON: Mistranslation (incomplete meaning) and gender agreement error. The original Arabic was too short and missed the 'as expected of you' part. The addressee is the player (gender-neutral), so the masculine default 'اهتمامك' and 'منك' should be used instead of feminine 'اهتمامكِ'. Also, added the line break as per `ja_text`.
+
+=== id 15119 ===
+JA: 劇に出させてくれるんですか！？
+BEFORE: هل ستسمحين لي بالتمثيل في المسرحية؟!
+GEMINI: هل ستسمح لي بالتمثيل في المسرحية؟!
+REASON: Gender agreement error. The addressee is the player (gender-neutral), so the masculine default form 'ستسمح لي' should be used instead of the feminine 'ستسمحين لي'.
+

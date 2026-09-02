@@ -1,0 +1,1113 @@
+==================== 413702
+JA: いかがです？
+私と一緒に神器を探す旅をしませんか？
+EN: What say you? Will you join
+my quest for sacred treasures?
+BEFORE: ما رأيك؟
+هل ترغب في الانضمام إليّ في رحلة البحث عن الآلهة الثمانية؟
+GEMINI: ما رأيك في الانضمام إليّ في رحلة البحث عن الكنوز المقدسة الثمانية؟
+REASON: Corrected mistranslation of `神器` to 'sacred treasures'. Rephrased to 'ما رأيك في الانضمام' to achieve gender neutrality for the player character.
+==================== 413704
+JA: もし気が変わったら言ってください
+私はいつでも歓迎します
+EN: Well, should your feelings change,
+you will always be a welcome
+companion.
+BEFORE: أخبرني إذا غيرت رأيك
+سأرحب بك في أي وقت
+GEMINI: إذا غيرت رأيك، فأنا أرحب بك في أي وقت.
+REASON: Rephrased the first clause to remove the masculine imperative `أخبرني` and achieve gender neutrality for the player character, while maintaining natural MSA.
+==================== 413716
+JA: <chara_name>は
+おしろをまもる“きし”ね
+EN: <chara_name>, you're the knight
+who's gonna protect it.
+BEFORE: <chara_name> هي
+"فارس" يحمي القلعة
+GEMINI: <chara_name>، أنتَ "فارس" يحمي القلعة.
+REASON: Corrected gender agreement for the player character (using generic masculine as fallback for direct address with present tense) and ensured direct address as per English.
+==================== 413728
+JA: 町の人が困ってると
+すぐ駆けつけてくれたよね
+EN: Whenever people needed help,
+he'd rush right over...
+BEFORE: لقد هرعتَ للمساعدة فور علمكِ بأن أهل البلدة في ضيق.
+GEMINI: لقد هرعَ للمساعدة فور علمه بأن أهل البلدة في ضيق.
+REASON: Subject-verb/gender agreement: The original Arabic used second-person masculine and feminine forms ('هرعتَ' and 'علمكِ') when the subject is Phenn (third-person masculine). Corrected to 'هرعَ' and 'علمه'.
+==================== 413748
+JA: なんでここに来た？
+EN: What brings you here?
+BEFORE: لماذا أتيتم إلى هنا؟
+GEMINI: لماذا أتيت إلى هنا؟
+REASON: Corrected to singular, gender-neutral past tense for player character address, matching implied singular 'you' in English.
+==================== 413767
+JA: あんた、知り合いかい？
+それなら止めてやったほうが良い
+EN: Is he a friend of yours? Then you'd
+best stop him before it's too late.
+BEFORE: هل أنتِ تعرفينه؟
+إذا كان الأمر كذلك، فمن الأفضل إيقافها
+GEMINI: هل تعرفه؟
+إذا كان الأمر كذلك، فمن الأفضل إيقافه
+REASON: Corrected player-address to generic masculine for neutrality and corrected gender of Phenn from feminine to masculine.
+==================== 413808
+JA: そんなフェンさんのことが
+大好きでした
+EN: That's what I loved about you.
+BEFORE: لقد أحببنا
+السيد فين الذي كان على هذه الحال
+GEMINI: لقد أحببتُ السيد فين كثيرًا.
+REASON: Changed subject from plural 'we' to singular 'I' (أحببتُ) to match implied speaker (likely the protagonist or a single companion) and ensure gender-neutrality for the protagonist. Removed clunky phrasing.
+==================== 413853
+JA: 俺の傷が癒えるまで
+ローラナは看病してくれた
+EN: Laurana looked after me until my wounds healed.
+BEFORE: حتى يلتئم جرحي
+اعتنت لورانا عليّ
+GEMINI: حتى تلتئم جروحي
+اعتنت بي لورانا
+REASON: Corrected singular 'جرحي' to plural 'جروحي' to match `ja_text` and `en_text`. Changed 'يلتئم' to 'تلتئم' for feminine plural agreement. Changed 'عليّ' to 'بي' for more natural phrasing.
+==================== 413871
+JA: 前はたくさんお喋りしてくれる
+明るい子だったのに
+EN: He used to be such a cheerful
+and talkative kid, too...
+BEFORE: لقد كانت طفلة مبتهجة تتحدث كثيراً في السابق
+GEMINI: لقد كان طفلاً مبتهجاً يتحدث كثيراً في السابق
+REASON: Corrected gender from feminine to masculine to match the character Basil (implied male in context and `en_text`).
+==================== 413893
+JA: マーゴさんの同郷の方ですか！
+EN: Ah, so you're from the same town
+as Margot!
+BEFORE: هل هي من نفس موطن السيدة مارغو!
+GEMINI: هل أنتم من نفس موطن السيدة مارغو؟!
+REASON: Corrected subject-verb agreement. The Japanese `の方ですか` addresses 'you' (plural/neutral), not 'she'. Changed `هل هي` to `هل أنتم`.
+==================== 413921
+JA: マーゴさんたちの畑
+もう一度作り直しませんか？
+EN: Won't you regrow your garden,
+Margot?
+BEFORE: حقل السيدة مارغو
+ألا يمكننا إعادة بنائه مرة أخرى؟
+GEMINI: حقل السيدة مارغو
+ألا يمكنكِ إعادة بنائه مرة أخرى؟
+REASON: Corrected subject-verb agreement: 'ألا يمكننا' (can't we) changed to 'ألا يمكنكِ' (can't you, feminine singular) to address Margot directly, matching English.
+==================== 413969
+JA: ぼくの名前……
+思い出してくれたんだね
+EN: Granny...
+You remembered my name?
+BEFORE: اسمي……
+GEMINI: اسمي……
+تذكرتِه، أليس كذلك؟
+REASON: Omission: '思い出してくれたんだね' (you remembered it) was missing. Added line break and used feminine form for Granny.
+==================== 414028
+JA: ウィッシュベールに
+来てくれるってのか？
+EN: So if we do that, you'll come
+to Wishvale?
+BEFORE: هل ستأتي إلى ويشفيل؟
+GEMINI: هل ستأتي
+إلى ويشفيل؟
+REASON: Added line break as per `en_text`'s interpretation for natural flow, maintaining the gender-neutral fallback for player address.
+==================== 414033
+JA: あいつの言うことを聞くか
+お前が決めてくれ
+EN: It's up to you whether or not
+we do what he asks.
+BEFORE: هل ستستمع لما يقوله؟
+GEMINI: سواء استمعنا لما يقوله أم لا،
+القرار لك.
+REASON: Corrected mistranslation to capture 'you decide' part, added line break, and ensured gender-neutral phrasing for player address.
+==================== 414079
+JA: へえ……
+あんたも確かな“眼”を持ってんな
+EN: Well, well.
+Seems you've got quite the eye.
+BEFORE: هه……
+أنتِ أيضاً تملكين "عيناً" ثاقبة
+GEMINI: هه……
+أنت أيضاً تملك "عيناً" ثاقبة
+REASON: Changed 'أنتِ' to 'أنت' and 'تملكين' to 'تملك' for gender-neutrality when addressing the player character.
+==================== 414084
+JA: すげえ……
+やっぱ見る目あるんだな
+EN: Well, consider me impressed.
+You have quite a keen eye after all.
+BEFORE: مذهل……
+يبدو أن لديكِ نظرة ثاقبة حقاً
+GEMINI: مذهل……
+يبدو أن لديك نظرة ثاقبة حقاً
+REASON: Changed 'لديكِ' to 'لديك' for gender-neutrality when addressing the player character.
+==================== 414099
+JA: 意外ですわね……
+“神の指輪”がこんな近くにあるなんて
+EN: Well, I certainly wasn't expecting
+the divine ring to be <i>this</> close.
+BEFORE: هذا مفاجئ……
+أن تكون "خاتم الإله" في مكان قريب كهذا.
+GEMINI: هذا مفاجئ……
+أن يكون "خاتم الإله" في مكان قريب كهذا.
+REASON: Changed 'تكون' to 'يكون' for correct subject-verb agreement with the masculine noun 'خاتم'.
+==================== 414102
+JA: 貴方も、わたくしも
+欲した物を手に入れたのです
+EN: Both you and I got what we wanted.
+BEFORE: أنتِ وأنا
+حصلنا على ما أردناه
+GEMINI: أنت وأنا
+حصلنا على ما أردناه
+REASON: Changed 'أنتِ' to 'أنت' for gender-neutrality when addressing the player character.
+==================== 414131
+JA: 戻ってきてるな
+……あの頃の活気が
+EN: This town is finally returning
+to the place it used to be.
+BEFORE: لقد عادوا
+……حيوية تلك الأيام
+GEMINI: لقد عادت حيوية تلك الأيام……
+REASON: Corrected subject-verb agreement: 'حيوية' (vitality) is feminine, so the verb should be 'عادت' (returned, feminine) instead of 'عادوا' (they returned, masculine plural). Also, the ellipsis was misplaced.
+==================== 414143
+JA: 清掃とお昼食の支度……
+孤児院での祈祷も終わりました
+EN: I've finished cleaning, preparing
+lunch, and saying grace at the
+orphanage.
+BEFORE: التنظيف وتجهيز الغداء……
+وأيضاً انتهى الصلاة في دار الأيتام
+GEMINI: التنظيف وتجهيز الغداء……
+وأيضاً انتهت الصلاة في دار الأيتام
+REASON: Corrected subject-verb agreement: 'الصلاة' (prayer) is feminine, so the verb should be 'انتهت' (finished, feminine) instead of 'انتهى' (finished, masculine).
+==================== 414145
+JA: 感謝しているのは私の方よ
+オフィーリア
+EN: It is I who should be thankful,
+Ophilia.
+BEFORE: أنا من يجب أن يشكر
+أوفيليا
+GEMINI: أنا من يجب أن أشكر أوفيليا
+REASON: Corrected verb conjugation: The speaker is 'أنا' (I), so the verb should be in the first person 'أشكر' (I thank) instead of the third person masculine 'يشكر' (he thanks).
+==================== 414153
+JA: 聖火の教えの通りに生きれば
+罪は贖われると思う……？
+EN: Do you think living according to
+the teachings is enough to absolve
+someone of their sins?
+BEFORE: إذا عشنا وفقًا لتعاليم الشعلة المقدسة
+هل تعتقدين أن الخطايا ستُغفر……؟
+GEMINI: إذا عشنا وفقًا لتعاليم الشعلة المقدسة
+هل ترى أن الخطايا ستُغفر…؟
+REASON: Changed 'تعتقدين' (feminine) to 'ترى' (generic masculine fallback) for potential protagonist address, and corrected ellipsis count from two to one to match JA source.
+==================== 414178
+JA: その方々はあなたを
+必要としているようです
+EN: It sounds like they really need you.
+BEFORE: يبدو أن أولئك الأشخاص
+بحاجة إليكِ
+GEMINI: يبدو أن أولئك الأشخاص
+بحاجة إليك
+REASON: The addressee is the player character (gender-neutral). Changed feminine 'إليكِ' to generic masculine 'إليك' as per style guide's fallback for player address.
+==================== 414196
+JA: もうすぐ日が暮れる
+今日はここまでにしましょ
+EN: The sun will be setting soon,
+so why don't we call it a day?
+BEFORE: سيتغرب الشمس قريباً
+لنكتفِ بهذا القدر اليوم
+GEMINI: ستغرب الشمس قريباً
+لنكتفِ بهذا القدر اليوم
+REASON: Corrected verb conjugation for 'الشمس' (feminine) from 'سيتغرب' to 'ستغرب'.
+==================== 414198
+JA: ローラナさん
+そろそろ休みませんか？
+EN: Hey, Laurana. Why don't you
+head back and get some rest?
+BEFORE: آنسة لورانا
+ألا نأخذ استراحة الآن؟
+GEMINI: آنسة لورانا
+ألا تستريحين الآن؟
+REASON: Corrected mistranslation from 'Shall we not take a break?' to 'Why don't you (feminine) rest now?' to match the Japanese source and English reference, and ensure gender agreement for Laurana.
+==================== 414239
+JA: “神の指輪はこの地にないか”と
+EN: She asked if there was a divine ring in this land.
+BEFORE: وسأل: "ألا يوجد خاتم الإله في هذه الأرض؟"
+GEMINI: وسألت: "ألا يوجد خاتم الإله في هذه الأرض؟"
+REASON: Changed the verb `سأل` (he asked) to `سألت` (she asked) to match the gender implied by the English `She asked` for Herminia's subordinate.
+==================== 414240
+JA: 聖職者である私ならば
+EN: She said that a cleric like myself
+BEFORE: وقال إنه بما أنني كاهنة
+GEMINI: وقالت إنه بما أنني كاهنة
+REASON: Changed the verb `قال` (he said) to `قالت` (she said) to match the gender implied by the English `She said` for Herminia's subordinate.
+==================== 414243
+JA: 大金を提示しました
+EN: a large sum of leaves in return.
+BEFORE: عرض مبلغاً كبيراً من المال
+GEMINI: عرضت مبلغاً كبيراً من الأوراق.
+REASON: Changed the verb `عرض` (he offered) to `عرضت` (she offered) to match the implied female gender of the subordinate. Also, used the glossary term `أوراق` for 'leaves (currency)' as specified in the English text.
+==================== 414259
+JA: ごめんなさい
+EN: I'm so sorry.
+BEFORE: أنا آسفة
+GEMINI: أنا آسف
+REASON: Changed to generic masculine 'آسف' for player-character's internal monologue, per gender-neutrality rule for protagonist.
+==================== 414260
+JA: ごめんなさい
+EN: I'm so sorry.
+BEFORE: أنا آسفة
+GEMINI: أنا آسف
+REASON: Changed to generic masculine 'آسف' for player-character's internal monologue, per gender-neutrality rule for protagonist.
+==================== 414261
+JA: ごめんなさい
+EN: I'm so sorry.
+BEFORE: أنا آسفة
+GEMINI: أنا آسف
+REASON: Changed to generic masculine 'آسف' for player-character's internal monologue, per gender-neutrality rule for protagonist.
+==================== 414278
+JA: ごめんなさい……
+ウィッシュベール
+EN: Wishvale...
+I am so sorry...
+BEFORE: أنا آسفة……
+ويشفيل
+GEMINI: أنا آسف……
+ويشفيل
+REASON: Changed to generic masculine 'آسف' for player-character's internal monologue, per gender-neutrality rule for protagonist.
+==================== 414303
+JA: 怪我はないか！？
+EN: Are you all right?
+BEFORE: هل أصابتكِ أيُّ جروحٍ؟!
+GEMINI: هل أصابتكَ أي جروح؟!
+REASON: Corrected gender agreement from feminine 'أصابتكِ' to masculine 'أصابتكَ' as the addressee (Mamot) is male. Removed unnecessary diacritics from 'جروحٍ'.
+==================== 414326
+JA: 青燃石ならば
+“聖火神の祠”のあたりにあるはずだ……
+EN: You should be able to find azure
+flamestones in the Flamebearer's
+Shrine.
+BEFORE: إذا كانت حجر النيران الزرقاء
+فمن المفترض أن تكون بالقرب من "ضريح إلفريك"……
+GEMINI: إذا كان حجر النيران الزرقاء
+فمن المفترض أن يكون بالقرب من "ضريح إلفريك"……
+REASON: Corrected subject-verb agreement. 'حجر' (stone) is masculine, so the verb 'كان' (was) and 'يكون' (to be) must be masculine. Changed 'كانت' to 'كان' and 'تكون' to 'يكون'.
+==================== 414330
+JA: 危険を覚悟してローラナを追いますか？
+EN: Brave the danger for Laurana?
+BEFORE: هل ستطارد لورانا مع الاستعداد للمخاطر؟
+GEMINI: هل ستطارد لورانا مع استعدادك للمخاطر؟
+REASON: Improved phrasing for 'مع الاستعداد للمخاطر' to 'مع استعدادك للمخاطر' for better flow and gender-neutrality (verbal noun 'استعدادك').
+==================== 414343
+JA: ったく、なんで俺たちを
+頼ってくれねえんだよ……
+EN: *sigh* Why wouldn't she just
+ask us for help?
+BEFORE: تباً، لماذا لا يعتمدون علينا……
+GEMINI: تباً، لماذا لا تعتمد علينا……
+REASON: Corrected subject-verb agreement from plural masculine 'يعتمدون' to singular feminine 'تعتمد' to match Laurana (female singular).
+==================== 414365
+JA: お前が罪を犯したなら
+私は神官としてお前を罰する
+EN: ...even if you don't know what they are,
+it is my job as a cleric to punish you
+for it.
+BEFORE: إذا ارتكبتَ خطيئةً
+سأعاقبكَ بصفتي كاهنةً
+GEMINI: إذا ارتكبتِ خطيئةً
+سأعاقبكِ بصفتي كاهنةً
+REASON: Corrected gender agreement for the addressee (Laurana, female): changed 'ارتكبتَ' to 'ارتكبتِ' and 'سأعاقبكَ' to 'سأعاقبكِ'.
+==================== 414369
+JA: わたしも、おばあさまみたいな
+しんかんにならなくちゃ……
+EN: I wish I could be more like you.
+BEFORE: يجب أن أصبحَ أيضاً
+شخصاً مخلصاً مثلَكِ، يا جدتي……
+GEMINI: يجب أن أصبحَ أيضاً
+كاهنةً مثلَكِ، يا جدتي……
+REASON: Corrected mistranslation: 'しんかん' (shinkan) means 'cleric', not 'شخصاً مخلصاً' (a loyal person). Changed to 'كاهنةً' (feminine cleric) to match the speaker's aspiration to be like her grandmother.
+==================== 414370
+JA: なに……いつでも神官らしく
+いられるわけじゃない
+EN: You know...I can't act like a cleric
+all the time.
+BEFORE: ما هذا…… ليس من السهلِ دائماً
+أن تظلَ كاهناً في كلِّ وقتٍ
+GEMINI: ما هذا…… ليس من السهلِ دائماً
+أن تظلي كاهنةً في كلِّ وقتٍ
+REASON: Corrected gender agreement for the speaker (Grandma, female): changed 'أن تظلَ كاهناً' to 'أن تظلي كاهنةً'.
+==================== 414386
+JA: 少しはあたしたちを
+頼ってください、ローラナさん！
+EN: Please, Laurana. Let us help you!
+BEFORE: اطلبوا منا المساعدة ولو قليلاً، يا آنسة لورانا!
+GEMINI: اطلبي منا المساعدة ولو قليلاً، يا لورانا!
+REASON: Changed plural imperative `اطلبوا` to singular feminine `اطلبي` to correctly address Laurana. Removed `يا آنسة` for a more natural, less formal tone.
+==================== 414394
+JA: バカ野郎……
+無茶しやがって……
+EN: Hey, that's enough!
+You can barely stand...
+BEFORE: أيها الأحمق……
+لقد قمتِ بعمل متهور……
+GEMINI: أيتها الحمقاء……
+لقد قمتِ بعمل متهور……
+REASON: Changed masculine address `أيها الأحمق` to feminine `أيتها الحمقاء` to match the feminine verb `قمتِ` in the second part of the line, as the speaker is addressing Laurana (female).
+==================== 414482
+JA: ありがとう、<chara_name>
+EN: Thank you, <chara_name>.
+BEFORE: شكراً لكِ، <chara_name>
+GEMINI: شكراً لك، <chara_name>
+REASON: The addressee is the player character, who is gender-customizable. Changed the feminine 'لكِ' to the generic masculine 'لك' for gender neutrality, as per style guide.
+==================== 414488
+JA: うわっ！？
+EN: Agh!
+BEFORE: واو؟!
+GEMINI: آه!
+REASON: `واو؟!` is too informal and adds a question mark not present in the source. `آه!` is a better, more neutral exclamation of surprise/shock.
+==================== 414490
+JA: ローラナさん……
+こんな中をひとりで……
+EN: And Laurana is out there
+all alone...
+BEFORE: سيدة لورانا……
+في وسط هذا المكان بمفردك……
+GEMINI: سيدة لورانا……
+في وسط هذا المكان بمفردها……
+REASON: The speaker is observing Laurana, not addressing her directly. The `en_text` confirms this. The Arabic should use the third-person feminine pronoun `ها` (her) instead of the second-person feminine `كِ` (you).
+==================== 414498
+JA: 行かないで……
+EN: Don't go!
+BEFORE: لا تذهب……
+GEMINI: لا تذهبي……
+REASON: The speaker is a child addressing 'Mama' (female). The verb should be in the feminine second-person form `تذهبي` instead of the masculine `تذهب`.
+==================== 414512
+JA: 長年、空位だったのに
+こんな青二才が就任ときた
+EN: The position sat vacant for years,
+only to suddenly be filled by a
+novice like you.
+BEFORE: لقد ظل المنصب شاغرًا لسنوات، وفجأة تولى هذا الصبي الصغير المسؤولية.
+GEMINI: لقد ظل المنصب شاغرًا لسنوات، وفجأة توليتَه أنت، غِرٌّ مثلك.
+REASON: Rephrased for direct address and gender neutrality for the protagonist (past tense verb), and used 'غِرّ' (novice/greenhorn) instead of 'صبي صغير' (small boy) for better nuance and to match 'novice' in EN.
+==================== 414518
+JA: どうした？
+何も言い返してこねえのか
+EN: What's the matter? You don't
+have anything to say to that?
+BEFORE: ما الأمر؟
+ألن ترد على أي شيء؟
+GEMINI: ما الأمر؟
+ألم ترد على أي شيء؟
+REASON: Changed present tense verb 'ترد' to past tense 'ألم ترد' to ensure gender neutrality when addressing the protagonist, per style guide.
+==================== 414550
+JA: だが、その指は無垢なまま
+EN: And yet your finger remains
+unadorned.
+BEFORE: لكن، تلك الأصابع بقيت بريئة
+GEMINI: لكن، ذلك الإصبع بقي بريئًا.
+REASON: Corrected number and gender agreement for 'finger' and its adjective from plural feminine ('تلك الأصابع بقيت بريئة') to singular masculine ('ذلك الإصبع بقي بريئًا') to match the Japanese 'その指' (that finger).
+==================== 414620
+JA: ……その身に受けるがいい
+EN: Come, and let it taste your flesh.
+BEFORE: ……لتتقبلها في جسدكِ
+GEMINI: ……لتتقبلها في جسدك
+REASON: Changed 'جسدكِ' (feminine) to 'جسدك' (gender-neutral/generic masculine) to match the gender-neutral Japanese source and avoid an unconfirmed gender assumption for the addressee.
+==================== 414658
+JA: では、水鏡に指輪をかざすが良い
+EN: Then hold the ring over the reflecting pool.
+BEFORE: إذن، من الأفضل أن ترفع الخاتم أمام مرآة الماء
+GEMINI: إذن، من الأفضل رفع الخاتم أمام مرآة الماء
+REASON: Rephrased for player-address gender neutrality using a verbal noun.
+==================== 414663
+JA: 己の心と向き合うがよい
+EN: and face your innermost thoughts.
+BEFORE: من الأفضل أن تواجه قلبك
+GEMINI: من الأفضل مواجهة قلبك
+REASON: Rephrased for player-address gender neutrality using a verbal noun.
+==================== 414666
+JA: そんな世界を
+取り戻したいというのか？
+EN: Is that really the world I want?
+BEFORE: هل ترغب في استعادة عالم كهذا؟
+GEMINI: هل لديك رغبة في
+استعادة عالم كهذا؟
+REASON: Rephrased for player-address gender neutrality and preserved line break.
+==================== 414684
+JA: 聖火の加護があらんことを……
+EN: May the Sacred Flame ever shine its warmth upon you.
+BEFORE: فليكنت بركة النار المقدسة معكم……
+GEMINI: فلتكن بركة النار المقدسة معك……
+REASON: Corrected 'فليكنت' to 'فلتكن' for feminine grammatical agreement with 'بركة'. Changed 'معكم' (plural) to 'معك' (singular) as the speaker is addressing the protagonist.
+==================== 414704
+JA: だけど、言うことは皆同じ
+高額な薬が必要になると……
+EN: And they said the same thing—
+that an expensive medicine
+was the only cure.
+BEFORE: ولكن، كان الجميع يقولون الشيء نفسه
+أنه سيحتاج إلى دواء باهظ الثمن……
+GEMINI: ولكن، كان الجميع يقولون الشيء نفسه
+أنها ستحتاج إلى دواء باهظ الثمن……
+REASON: Changed 'سيحتاج' (he will need) to 'ستحتاج' (she will need) to correctly refer to the grandmother (feminine) as the one needing the medicine, aligning with the context and avoiding an unspecified masculine subject.
+==================== 414729
+JA: きっと、あなたの想いは
+受け継がれるさ
+EN: I'm sure you'll see it done.
+BEFORE: بالتأكيد، ستُورث
+مشاعركِ
+GEMINI: بالتأكيد، ستُورث
+مشاعركَ
+REASON: Corrected player-address gender to neutral (generic masculine fallback) by changing `مشاعركِ` (feminine) to `مشاعركَ`.
+==================== 414733
+JA: そなたがいれば
+ウィッシュベールの未来は明るいな
+EN: Wishvale will certainly have a
+bright future with you in charge.
+BEFORE: بوجودِك
+مستقبلُ ويشفيل مشرقٌ
+GEMINI: بوجودكَ
+مستقبل ويشفيل مشرق
+REASON: Corrected player-address gender to neutral (generic masculine fallback) by changing `بوجودِكِ` (feminine) to `بوجودكَ`. Removed excessive harakat.
+==================== 414734
+JA: 困ったことがあれば
+この緋翼も駆けつけよう
+EN: If you ever find yourself in need,
+do not hesitate to call on the
+Scarlet Wings.
+BEFORE: إذا واجهتَ أيَّ مشكلةٍ
+فإنَّ هذا الجناحِ القرمزيَّ سيأتي للمساعدة
+GEMINI: إذا واجهت أي مشكلة
+فإن هذا الجناح القرمزي سيأتي للمساعدة
+REASON: Corrected player-address gender to neutral by removing the fatha from `واجهتَ` (past-tense 2nd-person verb). Removed excessive harakat.
+==================== 414742
+JA: あら
+いらしてくださったのね
+EN: Oh good, you came.
+BEFORE: أوه
+لقد جئتَ للزيارةِ إذن
+GEMINI: أوه
+لقد جئت للزيارة إذن
+REASON: Corrected player-address gender to neutral by removing the fatha from `جئتَ` (past-tense 2nd-person verb). Removed excessive harakat.
+==================== 414754
+JA: あんたの手作りの舞台に
+娘が吸い込まれちまったんだ
+EN: ...she was downright enamored
+with that homemade stage of
+yours.
+BEFORE: انجذبت ابنتي إلى مسرحك الذي صنعته بيدك
+GEMINI: انجذبت ابنتي إلى مسرحك الذي صنعت بيدك
+REASON: Corrected player-address gender to neutral by removing the fatha from `صنعته` (past-tense 2nd-person verb).
+==================== 414764
+JA: すべてあなたたち親子が
+手がけたのだろう？
+EN: And it's all your handiwork, right?
+Father and daughter together?
+BEFORE: هل قمتما أنت وابنكِ بكل هذا؟
+GEMINI: هل قمتما بهذا كله،
+أنتما الأب وابنته؟
+REASON: Corrected gender of 'son' to 'daughter' based on context, removed redundant pronoun, and preserved line break.
+==================== 414805
+JA: マフレズやレブラントも
+お会いしたいでしょう
+EN: Yes, I'm sure Mahrez and Lebrandt
+would love to see you.
+BEFORE: من المؤكد أن مافليز وليبرانت
+يرغبان في لقائكِ أيضًا
+GEMINI: من المؤكد أن ماحرز وليبراندت
+يرغبان في لقائك أيضًا
+REASON: Corrected transliteration of names (Mahrez, Lebrandt) and ensured gender-neutral address for the player character by removing the feminine marker from `لقائكِ`.
+==================== 414810
+JA: ……ソニア、きたぜ
+EN: Sonia, they're here.
+BEFORE: ……سونيا، لقد وصلتِ
+GEMINI: ……سونيا، لقد وصلوا
+REASON: Corrected verb to plural masculine (`وصلوا`) to match the `en_text` "they're here" and the implied arrival of a group, rather than singular feminine (`وصلتِ`).
+==================== 414811
+JA: あなたは……
+EN: Oh!
+BEFORE: أنتِ……
+GEMINI: أنتَ……
+REASON: Ensured gender-neutral address for the player character by using generic masculine `أنتَ` instead of feminine `أنتِ`.
+==================== 414813
+JA: あなたの旅の話を
+たくさん聞きたいわ
+EN: I want to hear all about your travels.
+BEFORE: أريد سماع الكثير
+عن رحلتكِ
+GEMINI: أريد سماع الكثير
+عن رحلتك
+REASON: Ensured gender-neutral address for the player character by using generic masculine `رحلتك` instead of feminine `رحلتكِ`.
+==================== 414886
+JA: ……けて……ママ……
+EN: Help... Mama...
+BEFORE: ……انظري…… أمي……
+GEMINI: ……ساعديني…… أمي……
+REASON: Corrected mistranslation of `けて` (from `助けて` - help) from `انظري` (look) to `ساعديني` (help me, feminine imperative).
+==================== 414887
+JA: 見てごらんなさい
+サザントス
+EN: Look, Sazantos...
+BEFORE: انظري يا سازانتوس
+GEMINI: انظر يا سازانتوس
+REASON: Sazantos is a male character; changed the feminine imperative `انظري` to masculine `انظر`.
+==================== 414888
+JA: 新しい家族よ……
+EN: Your new family...
+BEFORE: هذه عائلتكِ الجديدة……
+GEMINI: هذه عائلتكَ الجديدة……
+REASON: Sazantos is a male character; changed the feminine possessive `كِ` to masculine `كَ`.
+==================== 414890
+JA: あら、お客さん？
+EN: Oh, hello there.
+BEFORE: أوه، هل أنتَ ضيف؟
+GEMINI: أوه، هل من ضيف؟
+REASON: Addressee is the player character; rephrased `هل أنتَ ضيف؟` (masculine) to the gender-neutral `هل من ضيف؟`.
+==================== 414899
+JA: 優しいのね、サザントス
+EN: That's wonderful, Sazantos.
+BEFORE: أنتِ لطيفة، يا سازانتوس
+GEMINI: أنتَ لطيف، يا سازانتوس
+REASON: Sazantos is a male character; changed the feminine `أنتِ لطيفة` to masculine `أنتَ لطيف`.
+==================== 414902
+JA: ごめんなさいね
+お構いもできなくて
+EN: I'm sorry we don't have much
+to offer.
+BEFORE: أنا آسف
+لعدم قدرتي على تقديم الضيافة
+GEMINI: أنا آسفة
+لعدم قدرتي على تقديم الضيافة
+REASON: Speaker is female; changed the masculine adjective `آسف` to feminine `آسفة`.
+==================== 414903
+JA: でも、よかったら
+ゆっくりしていってね
+EN: But you may stay with us
+if you like.
+BEFORE: ولكن، إذا أردت
+فابقَ هنا لبعض الوقت
+GEMINI: ولكن، إذا أردت
+فيمكنك البقاء هنا لبعض الوقت
+REASON: Addressee is the player character; rephrased the masculine imperative `فابقَ` to the gender-neutral `فيمكنك البقاء`.
+==================== 414905
+JA: 望むものは、みんな
+ここにあるのに……
+EN: Everything you could possibly want
+is right here.
+BEFORE: كل ما تتمناه
+موجود هنا……
+GEMINI: كل ما تمنيته
+موجود هنا……
+REASON: Addressee is the player character; changed the masculine present tense `تتمناه` to the gender-neutral past tense `تمنيته`.
+==================== 414908
+JA: ……わかった
+どうしても行くんだね
+EN: Okay... If you really wanna go,
+I won't stop you.
+BEFORE: ……فهمت
+أنت مصمم على الذهاب مهما حدث
+GEMINI: ……فهمت
+يبدو أنك مصمم على الذهاب مهما حدث
+REASON: Addressee is the player character; rephrased `أنت مصمم` (masculine) to the gender-neutral `يبدو أنك مصمم`.
+==================== 414957
+JA: あなたには
+思うままに、生きてほしかった
+EN: I wanted you to live as you desired.
+BEFORE: كنتُ أريدُ لكَ
+أن تعيشَ كما تشاء
+GEMINI: كنتُ أريدُ لكَ
+أن تعيشَ كما شئتَ
+REASON: To leverage the gender-neutral spelling of past-tense 2nd-person verbs ('شئتَ') for the player character, as per style guide, instead of the visibly masculine present-tense 'تشاء'.
+==================== 414960
+JA: 聖火の力を使い
+あなたを逃したの
+EN: I used the power of the Sacred
+Flame and let you escape.
+BEFORE: استخدمتُ قوةَ النارِ المقدسةِ
+وسمحتُ لكَ بالهروب
+GEMINI: استخدمت قوة النار المقدسة
+وسمحت بهروبك
+REASON: Removed unnecessary harakat. Rephrased 'سمحتُ لكَ بالهروب' to 'سمحت بهروبك' for gender-neutral player address, as 'لكَ' is explicitly masculine.
+==================== 414961
+JA: あなたは、自らを選び
+長い旅に出た
+EN: You chose your own path and
+set out on a long journey.
+BEFORE: لقد اخترتَ بنفسكَ
+وخرجتَ في رحلةٍ طويلة
+GEMINI: لقد اخترت بنفسك
+وخرجت في رحلة طويلة
+REASON: Removed unnecessary harakat. Corrected player address to gender-neutral by removing fatha from past-tense verbs 'اخترتَ' and 'خرجتَ'.
+==================== 414969
+JA: あなたを迎えに来たのよ
+EN: I came to get you.
+BEFORE: لقد جئتُ لأجلكِ
+GEMINI: لقد جئتُ لأجلكَ
+REASON: Corrected gender of pronoun from feminine 'لأجلكِ' to masculine 'لأجلكَ' to address Sazantos. Removed unnecessary harakat.
+==================== 414970
+JA: こんなに冷えて……
+寒かったでしょう？
+EN: It's so very cold out here,
+isn't it?
+BEFORE: الجو باردٌ هكذا……
+لقد شعرتِ بالبرد، أليس كذلك؟
+GEMINI: الجو بارد هكذا……
+لقد شعرتَ بالبرد، أليس كذلك؟
+REASON: Corrected gender of verb from feminine 'شعرتِ' to masculine 'شعرتَ' to address Sazantos. Removed unnecessary harakat.
+==================== 415009
+JA: ねえ、<chara_name>
+君に手紙が届いたの
+EN: By the way, a letter came for you.
+BEFORE: مهلًا، <chara_name>
+وصلتك رسالة
+GEMINI: مهلًا، <chara_name>
+وصلت رسالة لك
+REASON: Rephrased for gender neutrality for the player character, using a construction that avoids a gendered pronoun suffix.
+==================== 415017
+JA: ご無沙汰だったわね
+あなたも女王様のお祝い？
+EN: It's been a while. Are you here
+to congratulate the queen, too?
+BEFORE: لقد مر وقت طويل
+هل أنت هنا أيضاً من أجل احتفال الملكة؟
+GEMINI: لقد مر وقت طويل
+هل حضرت أيضاً من أجل احتفال الملكة؟
+REASON: Changed present-tense 'أنت هنا' to past-tense 'حضرت' to achieve gender neutrality for the player character, as past-tense 2nd-person verbs are spelled identically for both genders.
+==================== 415031
+JA: おお、なんと……
+EN: Now there's a face I haven't
+seen in a while.
+BEFORE: أوه، يا لَلْهول……
+GEMINI: أوه، يا للعجب……
+REASON: Changed 'يا لَلْهول' (Oh, how dreadful/terrifying) to 'يا للعجب' (Oh, how wondrous/amazing) for a more neutral and appropriate expression of surprise/wonder, aligning better with the general tone and the Japanese 'なんと'.
+==================== 415043
+JA: な？
+天使だろ、もう……
+EN: Isn't he just a little angel?
+BEFORE: أليس كذلك؟
+إنها ملاك، حقاً……
+GEMINI: أليس كذلك؟
+إنه ملاك، حقاً……
+REASON: Corrected gender from feminine 'إنها ملاك' to masculine 'إنه ملاك' for the child, based on context (later named Elman).
+==================== 415068
+JA: 真なる指輪の力を望むなら
+EN: Then return here again
+BEFORE: إذا كنتَ ترغبُ في قوة الخاتم الحقيقي
+GEMINI: إذا رغبت في قوة الخاتم الحقيقي
+REASON: Rephrased 'إذا كنتَ ترغبُ' to 'إذا رغبت' to achieve gender-neutrality for the player character, as past-tense 2nd-person verbs without short vowels are spelled identically for both genders. Removed unnecessary harakat.
+==================== 415085
+JA: その青き心を以てすれば
+EN: I can think of only one
+BEFORE: بقلبكِ الزرقاء هذا
+GEMINI: بقلبك الأزرق هذا
+REASON: Corrected gender agreement for player address. 'بقلبكِ الزرقاء هذا' used feminine address ('قلبكِ') and feminine adjective ('الزرقاء'), which is forbidden for the gender-customizable protagonist. Changed to generic masculine 'بقلبك الأزرق هذا'.
+==================== 415153
+JA: タトゥロック様は
+変わらんな
+EN: Empress Tatloch hasn't changed
+one bit.
+BEFORE: لا يتغير السيد تاتلوك أبداً
+GEMINI: لا تتغير الإمبراطورة تاتلوك أبداً
+REASON: Corrected 'السيد تاتلوك' to 'الإمبراطورة تاتلوك' and verb 'لا يتغير' to feminine 'لا تتغير' to reflect Tatloch's female gender and title as Empress.
+==================== 415154
+JA: だが、前よりも
+どこか優しい気がする
+EN: No, but there's a softness
+to her now.
+BEFORE: لكن، أشعر بأنه أكثر لطفاً من ذي قبل
+GEMINI: لكن، أشعر بأنها أكثر لطفاً من ذي قبل
+REASON: Corrected masculine pronoun 'بأنه' to feminine 'بأنها' to agree with Tatloch's gender.
+==================== 415155
+JA: そういえば
+雄を食わなくなったな……
+EN: Come to think of it, she has
+stopped preying on men.
+BEFORE: بالمناسبة، لم يعد يلتهم اللحوم……
+GEMINI: بالمناسبة، لم تعد تلتهم الرجال……
+REASON: Corrected mistranslation of '雄' (males/men) from 'اللحوم' (meat) to 'الرجال' (men), and changed masculine verb 'يلتهم' to feminine 'تلتهم' for Tatloch.
+==================== 415199
+JA: ……やっぱり、行くんだね
+EN: So you're leaving after all.
+BEFORE: ……بالفعل، ستذهب
+GEMINI: ……بالفعل، لقد ذهبت.
+REASON: Changed the present tense 'ستذهب' (masculine) to the past tense 'لقد ذهبت' to ensure gender-neutrality when addressing the player character, as per the style guide's specific rule for this game.
+==================== 415202
+JA: 今まで……ありがとう
+EN: Thanks...for everything.
+BEFORE: شكراً لك…… على كل شيء حتى الآن
+GEMINI: شكراً…… على كل شيء حتى الآن
+REASON: Improved gender neutrality for the protagonist by removing the explicit 'لك'.
+==================== 415278
+JA: あんがとねぇ
+知らねえ人にこんなによくしてもらって……
+EN: Thank you! You've been pretty
+generous, for a stranger...
+BEFORE: شكراً لكِ
+أن يحصل شخص لا يعرفه على كل هذا اللطف……
+GEMINI: شكراً لك
+أن أحصل على كل هذا اللطف من غريب……
+REASON: Corrected 'شكراً لكِ' to 'شكراً لك' to use the generic masculine form when addressing the gender-neutral protagonist. Rephrased 'أن يحصل شخص لا يعرفه على كل هذا اللطف' to 'أن أحصل على كل هذا اللطف من غريب' for more natural phrasing and to reflect the speaker's perspective of receiving kindness from a stranger.
+==================== 415299
+JA: 燈火の儀に備えて休んでいて
+私が代わりに行くから
+EN: I'll go find the stone instead.
+You should rest before the
+festival begins.
+BEFORE: ارتاحي استعداداً لطقوس الضوء
+سأذهب أنا بدلاً منكِ
+GEMINI: لتسترح استعداداً لطقوس الضوء
+سأذهب أنا بدلاً عنك
+REASON: Rephrased to use gender-neutral phrasing ('لتسترح' and 'عنك') as the addressee is the player character, per style guide.
+==================== 415300
+JA: “青燃石”を採りに向かいますか？
+EN: Volunteer?
+BEFORE: هل نذهب لجمع "حجر الاحتراق الأزرق"؟
+GEMINI: هل تذهب لجمع "حجر الاحتراق الأزرق"؟
+REASON: Changed 'هل نذهب' (we) to 'هل تذهب' (you, generic masculine) to correctly address the player character, per style guide.
+==================== 415312
+JA: <chara_name>だから
+教えたんだけどな……
+EN: And here I thought you would
+understand, <chara_name>...
+BEFORE: لقد أخبرتكِ لأنكِ <chara_name>……
+GEMINI: لقد أخبرتك لأنك <chara_name>
+……
+REASON: Changed feminine 'أخبرتكِ لأنكِ' to gender-neutral 'أخبرتك لأنك' for player character. Added missing line break '\n' after '<chara_name>'.
+==================== 415315
+JA: そっか……ごめん
+君はもう、自警団だもんね
+EN: Oh, right...
+You're part of the watch now.
+BEFORE: أرى ذلك…… أنا آسفة
+أنتِ الآن من فيلق اليقظة
+GEMINI: أرى ذلك…… أنا آسفة
+أنتَ الآن من فيلق اليقظة
+REASON: Changed feminine 'أنتِ' to generic masculine 'أنتَ' as fallback for player character gender neutrality.
+==================== 415351
+JA: 頼りがいがあるところも
+おっちょこちょいなところも……ね
+EN: So I'm familiar with both how
+reliable and...unreliable he can be.
+BEFORE: حتى في كونكِ موثوقاً به،
+وفي كونكِ أخرقاً في بعض الأحيان…… نعم
+GEMINI: حتى في كونه موثوقاً به،
+وفي كونه أخرقاً في بعض الأحيان…… نعم
+REASON: Corrected gender agreement from 'كونكِ' (your being, female) to 'كونه' (his being, male) as the speaker (Stia, female) is referring to Lutus (male).
+==================== 415383
+JA: 深き森続くウッドランド地方を目指し
+“富”の物語を始めます。
+よろしいですか？
+
+※他の物語を進めることもできます
+※自らの影響力を“富”とし、“富”の影響力が上昇します
+EN: You are about to commence
+the Tale of Wealth from the Woodlands.
+Proceed?
+
+*You may still play the other tales later.
+*Sets your influence to Wealth, and raises Wealth influence.
+BEFORE: توجه نحو منطقة وودلاند حيث تمتد الغابات العميقة
+لتبدأ قصة "الثراء".
+هل أنت موافق؟
+※ يمكن أيضاً المضي قدماً في قصص أخرى
+※ سيتم اعتبار تأثيرك الخاص "ثراءً"، وسيرتفع تأثير "الثراء"
+GEMINI: أنت على وشك التوجه نحو منطقة وودلاند حيث تمتد الغابات العميقة
+لتبدأ قصة "الثراء".
+هل أنت موافق؟
+※ يمكن أيضاً المضي قدماً في قصص أخرى
+※ سيتم اعتبار تأثيرك الخاص "ثراءً"، وسيرتفع تأثير "الثراء"
+REASON: The original 'توجه' is a masculine imperative, which violates the gender-neutrality rule for player address. Rephrased to 'أنت على وشك التوجه' (You are about to head) using the gender-neutral 'أنت' and a verbal noun 'التوجه', aligning with the English reference 'You are about to commence' and the style guide's preference for gender-neutral phrasing for the player character.
+==================== 415388
+JA: 傷つけ支配することもできる
+EN: blade may be used to wound the innocent...
+BEFORE: إيذاء والسيطرة على من لا يرضخ له
+GEMINI: فيمكن إيذاؤهم والسيطرة عليهم.
+REASON: Corrected to complete the sentence started in 415387, ensuring grammatical agreement and neutrality for the implied subject (those who do not comply).
+==================== 415399
+JA: 雪降り積もるフロストランド地方を目指し
+“権力”の物語を始めます。
+よろしいですか？
+
+※他の物語を進めることもできます
+※自らの影響力を“権力”とし、“権力”の影響力が上昇します
+EN: You are about to commence
+the Tale of Power from the Frostlands.
+Proceed?
+
+*You may still play the other tales later.
+*Sets your influence to Power, and raises Power influence.
+BEFORE: سنسلك نحو إقليم الأراضي الجليدية حيث يتراكم الثلج
+لنبدأ قصة "السلطة".
+هل أنت موافق؟
+※ يمكن أيضاً المضي قدماً في قصص أخرى
+※ ستصبح "السلطة" هي تأثيرك الخاص، وسيرتفع تأثير "السلطة"
+GEMINI: سنسلك نحو إقليم الأراضي الجليدية حيث يتراكم الثلج
+لنبدأ قصة "السلطة".
+هل هذا مقبول؟
+※ يمكن أيضاً المضي قدماً في قصص أخرى
+※ ستصبح "السلطة" هي تأثيرك الخاص، وسيرتفع تأثير "السلطة"
+REASON: Changed to a gender-neutral phrasing (`هل هذا مقبول؟`) to address the player character, as per the style guide's requirement for the silent, customizable protagonist.
+==================== 415414
+JA: 豊かな平原広がるフラットランド地方を目指し
+“名声”の物語を始めます。
+よろしいですか？
+
+※他の物語を進めることもできます
+※自らの影響力を“名声”とし、“名声”の影響力が上昇します
+EN: You are about to commence
+the Tale of Fame from the Flatlands.
+Proceed?
+
+*You may still play the other tales later.
+*Sets your influence to Fame, and raises Fame influence.
+BEFORE: ستبدأ قصة "الشهرة"
+بينما تتوجه نحو منطقة فلاتلاند حيث تمتد السهول الغنية.
+هل أنت موافق؟
+※ يمكن أيضاً المضي قدماً في قصص أخرى
+※ ستصبح "الشهرة" هي تأثيرك الخاص، وسيرتفع تأثير "الشهرة"
+GEMINI: ستبدأ قصة "الشهرة"
+بينما تتوجه نحو منطقة فلاتلاند حيث تمتد السهول الغنية.
+هل هذا مقبول؟
+※ يمكن أيضاً المضي قدماً في قصص أخرى
+※ ستصبح "الشهرة" هي تأثيرك الخاص، وسيرتفع تأثير "الشهرة"
+REASON: Changed to a gender-neutral phrasing (`هل هذا مقبول؟`) to address the player character, as per the style guide's requirement for the silent, customizable protagonist.
+==================== 415463
+JA: 困っている人のために全力を尽くす
+あなたの姿、感動しました！
+EN: Seeing you do everything in your
+power to help those in need has
+been truly inspiring!
+BEFORE: بذل كل الجهد من أجل الأشخاص الذين يعانون
+GEMINI: بذل كل الجهد من أجل الأشخاص الذين يعانون
+لقد ألهمني ما رأيته منك!
+REASON: Completed the missing translation and used gender-neutral phrasing for player address.
+==================== 415467
+JA: ……あんた
+一人でも挑もうって腹づもりだな
+EN: You're really thinkin' of takin' her
+on alone, huh?
+BEFORE: ……أنت
+GEMINI: ……أنت
+تنوي مواجهتها وحدك، أليس كذلك؟
+REASON: Completed the missing translation, using generic masculine as fallback for player address.
+==================== 415481
+JA: よほど父親と
+同じ末路をたどりたいらしい
+EN: So you wish to follow your father
+to an early grave, do you?
+BEFORE: يبدو أنه يرغب بشدة
+في اتباع نفس مصير والده
+GEMINI: يبدو أنك رغبت بشدة
+في اتباع نفس مصير والدك
+REASON: Player-address gender-neutrality: changed present tense masculine 'أنه يرغب' to past tense gender-neutral 'أنك رغبت' for the protagonist. Also adjusted 'والده' to 'والدك'.
+==================== 415493
+JA: ああ……そうだ
+このために生かしておいたのだ
+EN: Yes... That is the very reason
+I left you alive.
+BEFORE: آه…… نعم
+لقد أبقيتُ على حياته من أجل هذا
+GEMINI: آه…… نعم
+لقد أبقيتُ على حياتك من أجل هذا
+REASON: Mistranslation of object and player-address gender-neutrality: changed 'حياته' (his life) to 'حياتك' (your life) to correctly address the protagonist.
+==================== 415507
+JA: ずっと、心強かった
+……ありがとう
+EN: You've given me so much
+strength. Thank you.
+BEFORE: لقد كنتِ مصدر قوة لي طوال الوقت
+GEMINI: لقد منحتني الكثير من القوة طوال الوقت
+……شكراً لك.
+REASON: Missing line break, ellipsis, and the 'Thank you' part. Rephrased to avoid explicit feminine gender for an addressee whose gender is not specified in the source.
+==================== 415528
+JA: そなたは……
+EN: But you...
+BEFORE: أنتِ……
+GEMINI: أنتَ……
+REASON: Player-address gender-neutrality: changed feminine أنتِ to generic masculine أنتَ as per style guide.
+==================== 415529
+JA: そなたといると
+なぜか……心が安らぐ
+EN: For some reason, when I'm with
+you, my heart feels at peace.
+BEFORE: عندما أكون معكِ
+لسببٍ ما…… أشعر بالسكينة في قلبي
+GEMINI: عندما أكون معكَ
+لسببٍ ما…… أشعر بالسكينة في قلبي
+REASON: Player-address gender-neutrality: changed feminine معكِ to generic masculine معكَ as per style guide.
+==================== 415555
+JA: お前が望むものは“名声”
+……でいいのか？
+EN: Is fame truly what you seek?
+BEFORE: هل ما تريده هو "الشهرة"
+……أليس كذلك؟
+GEMINI: هل ما أردته هو "الشهرة"
+……أليس كذلك؟
+REASON: Rephrased to past tense (`أردته`) for gender-neutral player address, as preferred by style guide.
+==================== 415556
+JA: 雪降り積もるフロストランド地方から
+新たな“名声”の物語を始めます。
+よろしいですか？
+
+※他の物語を進めることもできます
+EN: You are about to commence the new
+Tale of Fame from the Frostlands.
+Proceed?
+
+*You may still play the other tales.
+BEFORE: من إقليم الأراضي الجليدية حيث يتراكم الثلج
+سنبدأ قصة "شهرة" جديدة.
+هل أنت مستعد؟
+※ يمكن أيضًا التقدم في قصص أخرى
+GEMINI: من إقليم الأراضي الجليدية حيث يتراكم الثلج
+سنبدأ قصة "شهرة" جديدة.
+هل استعددت؟
+※ يمكن أيضًا التقدم في قصص أخرى
+REASON: Rephrased to past tense (`استعددت`) for gender-neutral player address, as preferred by style guide.
+==================== 415557
+JA: 望むままに進むがいい
+EN: Now journey forth and fulfill your boundless desire.
+BEFORE: تقدم كما تشاء
+GEMINI: تقدم كما أردت
+REASON: Rephrased to past tense (`أردت`) for gender-neutral player address, as preferred by style guide.
+==================== 415561
+JA: <chara_name>
+俺たちは同じだ
+EN: <chara_name>...
+We are alike.
+BEFORE: <chara_name>
+نحن متشابهان
+GEMINI: <chara_name>
+نحن نتشابه
+REASON: Changed to a gender-neutral verb (`نتشابه`) for the player character speaker, instead of a masculine dual adjective.
+==================== 415566
+JA: なんと……すでに船をお持ちでしたか
+さすがは<chara_name>様
+EN: You already own a vessel? I should
+have expected as much from you,
+<chara_name>.
+BEFORE: يا للهول…… لقد كنت تمتلك سفينة بالفعل
+كما هو متوقع من سمو <chara_name>
+GEMINI: يا للهول…… لقد امتلكت سفينة بالفعل
+كما هو متوقع من سمو <chara_name>
+REASON: Rephrased to past tense (`امتلكت`) for gender-neutral player address, as preferred by style guide.
+==================== 415569
+JA: 港町のリプルタイドに
+行ってみてはどうですかな？
+EN: I suggest we try going to Rippletide
+first. There is a port there.
+BEFORE: ما رأيكم في الذهاب إلى
+بلدة الميناء ريبلتايد؟
+GEMINI: ماذا عن الذهاب إلى
+بلدة الميناء ريبلتايد؟
+REASON: Rephrased for gender-neutral player address, as preferred by style guide, and to avoid plural address for a single player.
+==================== 415571
+JA: アラウネ、下がってな
+EN: Get back, Alaune.
+BEFORE: ألاون، تراجع
+GEMINI: ألاون، تراجعي
+REASON: Corrected verb gender to feminine for Alaune.
+==================== 415577
+JA: ミザさんの行方ですか？
+EN: You're looking for Miza?
+BEFORE: هل تقصد مكان تواجد السيدة ميزا؟
+GEMINI: هل قصدت مكان تواجد السيدة ميزا؟
+REASON: Rephrased to past tense (`قصدت`) for gender-neutral player address, as preferred by style guide.
+==================== 415578
+JA: 実は、村人の失踪を調べたら
+懺悔をしていたことが分かってね
+EN: As it happens, the confessional
+often came up in my investigations
+into the disappearances.
+BEFORE: في الحقيقة، عندما بحثت في اختفاء القرويين
+تبين أنها كانت تعترف بخطاياه
+GEMINI: في الحقيقة، عندما بحثت في اختفاء القرويين
+تبين أنهم كانوا يعترفون بخطاياهم
+REASON: Corrected subject-verb agreement and pronoun gender/number from singular feminine to plural masculine (generic for villagers).
+==================== 415646
+JA: 俺は、あんたのお守りを頼まれた
+EN: It's my job to keep you in check.
+BEFORE: لقد طُلِب مني أن أحميكم
+GEMINI: لقد طُلِب مني أن أحميكِ
+REASON: Corrected gender and number agreement from plural masculine 'أحميكم' to singular feminine 'أحميكِ' to address Lady Herminia.
+==================== 415647
+JA: ここであんたの好きにさせたら
+顔が潰れちまう
+EN: I'd lose face if I let you do
+as you pleased.
+BEFORE: إذا تركتكم تفعلون ما يحلو لكم هنا
+فسوف يتدمر وجهي
+GEMINI: إذا تركتكِ تفعلين ما يحلو لكِ هنا
+فسوف يتدمر وجهي
+REASON: Corrected gender and number agreement from plural masculine 'تركتكم' and 'لكم' to singular feminine 'تركتكِ' and 'لكِ' to address Lady Herminia.
+==================== 415649
+JA: だが、あんたに危害を加える
+わけにもいかない
+EN: That said, I can't harm you either.
+BEFORE: ولكن، لا يمكنني إلحاق الأذى بكم
+GEMINI: ولكن، لا يمكنني إلحاق الأذى بكِ
+REASON: Corrected gender and number agreement from plural masculine 'بكم' to singular feminine 'بكِ' to address Lady Herminia.
+==================== 415743
+JA: 今一度、己を見つめ直すが良い
+EN: Now is the time for you to reassess yourself.
+BEFORE: من الأفضل أن تعيد النظر في نفسك مرة أخرى.
+GEMINI: من الأفضل إعادة النظر في نفسك مرة أخرى.
+REASON: Rephrased for gender-neutrality when addressing the player, using a verbal noun.
+==================== 415769
+JA: お前が、新たな同志として現れた！
+なんたる僥倖！
+EN: Until I met you, my new comrade!
+Talk about good fortune!
+BEFORE: لقد ظهرتَ كرفيق جديد!
+GEMINI: لقد ظهرت كرفيق جديد! يا له من حظ عظيم!
+REASON: Removed explicit fatha from 'ظهرتَ' to ensure gender-neutrality for player address; added missing 'What good fortune!' part.
+==================== 415787
+JA: そんな……ウィッシュベールが……？
+君のお母さんも……？
+EN: I can't believe it... So Wishvale—
+and your dear mother, they're...
+BEFORE: هذا لا يعقل…… ويشفيل……؟
+والدتكِ أيضًا……؟
+GEMINI: هذا لا يعقل…… ويشفيل……؟
+والدتك أيضًا……؟
+REASON: Corrected 'والدتكِ' (feminine) to 'والدتك' (gender-neutral) for player address.
+==================== 415790
+JA: 君のお母さんには
+大変お世話になりました
+EN: Your mother was a kind soul,
+to whom I owe a great deal.
+BEFORE: لقد قدمت لي
+والدتكِ الكثير من المساعدة
+GEMINI: لقد قدمت لي
+والدتك الكثير من المساعدة
+REASON: Corrected 'والدتكِ' to 'والدتك' for gender-neutrality when addressing the player character.
+==================== 415792
+JA: 少し……思い出話を聞いてくれますか？
+EN: Would you mind if I shared my story?
+BEFORE: هل يمكنكِ إخباري ببعض…… ذكريات الماضي؟
+GEMINI: هل تستمع إلى بعض…… ذكريات الماضي؟
+REASON: Corrected mistranslation from 'Can you tell me' to 'Would you listen' to match Japanese source. Also ensured gender-neutral phrasing for player address.
+==================== 415800
+JA: 君のお母さんは私の母の遠縁で……
+弔問に来てくれたのですが……
+EN: Your mother was a distant relative
+of mine, and so she came to offer
+condolences.
+BEFORE: والدتكِ هي قريبة بعيدة لوالدتي……
+GEMINI: والدتك هي قريبة بعيدة لوالدتي…… وجاءت لتقديم العزاء……
+REASON: Corrected 'والدتكِ' to 'والدتك' for gender-neutrality. Added missing part of the sentence 'and came to offer condolences'. Corrected ellipsis count.
+==================== 415820
+JA: 私を仲間に入れてもらえませんか？
+EN: Might I persuade you to let me
+join you?
+BEFORE: ألا يمكنك إلحاقي بك كرفيق؟
+GEMINI: هل لي أن أنضم إليك كرفيق؟
+REASON: Rephrased for better gender-neutrality when addressing the player character, as per style guide.
+==================== 415836
+JA: まあいい
+先に大競売場に行っている
+EN: Never mind.
+We should head to the bazaar.
+BEFORE: حسناً لا بأس
+اذهب إلى سوق المزاد الكبير أولاً
+GEMINI: حسناً لا بأس
+اذهبي إلى سوق المزاد الكبير أولاً
+REASON: Corrected verb 'اذهب' (masculine imperative) to 'اذهبي' (feminine imperative) for gender agreement with the assistant Athessa.

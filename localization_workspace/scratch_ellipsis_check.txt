@@ -1,0 +1,78 @@
+==================== 3728
+JA: '先代が……いや\n兄王子さえ生きていれば……'
+EN: 'If his parents... No. If only his\nelder brother were still alive...'
+BEFORE: 'لو كان الأمير الأكبر…… لا، لو كان الأمير الأكبر لا يزال على قيد الحياة……'
+AR: 'لو كان أسلافه... لا، لو كان الأمير الأكبر لا يزال على قيد الحياة……'
+REASON: "Corrected mistranslation: The original Arabic missed '先代が……' (If his predecessors/parents...) and only translated the second part. Added 'لو كان أسلافه...' to cover the missing part."
+==================== 3788
+JA: 'あ、ありがとうございます\n剣士様……'
+EN: 'Thank you, noble warrior...'
+BEFORE: 'شـ، شكراً لك\nأيها السيف'
+AR: 'شـ، شكراً لك\nأيها السَّياف'
+REASON: "Corrected mistranslation of '剣士様' (swordsman) from 'أيها السيف' (O Sword) to 'أيها السَّياف' (O Swordsman)."
+==================== 4176
+JA: 'そこまでにしてもらおうか\n……アルティニアを愚弄するのは'
+EN: "That's enough. You will dishonor\nmy land no longer."
+BEFORE: 'كفى إلى هذا الحد\n……إن السخرية من ألتينيا'
+AR: 'كفى إلى هذا الحد.\nلن تسيء إلى ألتينيا بعد الآن.'
+REASON: "Rephrased 'إن السخرية من ألتينيا' to 'لن تسيء إلى ألتينيا بعد الآن' to better convey the meaning of 'You will dishonor my land no longer' and complete the thought."
+==================== 4459
+JA: 'それを貴様は……おめおめと\n逃げ帰ってきたのか？'
+EN: 'And now I find you running away,\ntail between your legs?'
+BEFORE: 'فهل عدتَ أنت…… بسلام\nوهربت؟'
+AR: 'فهل عدتَ هارباً بخزيٍ؟'
+REASON: "Mistranslation. `بسلام` ('safely') does not convey the 'shamelessly' or 'tail between your legs' meaning of `おめおめと`. Changed to `هارباً بخزيٍ` ('fleeing in shame') for better accuracy and conciseness. Removed redundant `أنت`."
+==================== 4564
+JA: '陛下こそが……\nオルステラの……最後の……'
+EN: "You are Orsterra's...last hope..."
+BEFORE: 'أنت يا صاحب الجلالة……\nآخر…… في أورستيلا……'
+AR: 'أنت يا صاحب الجلالة……\nآخر أمل لأورستيلا……'
+REASON: "The original 'آخر…… في أورستيلا……' (last... in Orsterra...) was grammatically awkward and incomplete. Rephrased to 'آخر أمل لأورستيلا……' (Orsterra's last hope...) to match the English reference and improve natural flow while retaining the ellipsis."
+==================== 4932
+JA: 'まさか\nアラウネ様が姉君に代わり……'
+EN: "To think that Princess Alaune\nwould pick up her sister's torch..."
+BEFORE: 'مستحيل\nأن تكون الأميرة ألاون قد أخذت……\nبدلاً من الأخ الأكبر……'
+AR: 'مستحيل\nأن تكون الأميرة ألاون قد أخذت……\nبدلاً من أختها الكبرى……'
+REASON: "Corrected 'الأخ الأكبر' (elder brother) to 'أختها الكبرى' (elder sister) based on '姉君'."
+==================== 5095
+JA: 'ば……かな……'
+EN: 'This...this cannot...be...'
+BEFORE: 'ربما……'
+AR: 'مستحيل……'
+REASON: "Changed 'ربما……' (perhaps) to 'مستحيل……' (impossible) to correctly convey the shock and disbelief of the Japanese 'ば……かな……' (bakana), which means 'impossible/absurd'."
+==================== 7020
+JA: 'なん……と……'
+EN: 'My word...'
+BEFORE: 'ما…… هو……'
+AR: 'يا إلهي……'
+REASON: "Rephrased 'ما…… هو……' to 'يا إلهي……' to better convey the exclamation of surprise/shock, matching the English 'My word...'."
+==================== 7174
+JA: 'あ……\nあなたはまさか……'
+EN: 'Oh! Could you be...?'
+BEFORE: 'آه……\nأنت لست...'
+AR: 'آه…\nأأنتَ يا تُرى…؟'
+REASON: "Mistranslation: 'أنت لست...' (You are not...) was incorrect. Changed to 'أأنتَ يا تُرى…؟' (Could it be you...?) to match the recognition implied by the Japanese. Used generic masculine as a fallback for the player character, and corrected ellipsis count."
+==================== 7176
+JA: '大陸の支配者たちを退け\n指輪を封印したあの……！'
+EN: "You're the one who defeated\nthe masters of the continent\nand sealed the rings!"
+BEFORE: 'الذي أبعد حكام القارة\nوختم الخاتم……!'
+AR: 'الذي أبعد حكام القارة\nوختم الخواتم…!'
+REASON: "Number agreement: 'الخاتم' (singular ring) was incorrect; changed to 'الخواتم' (plural rings) to match the English and game context."
+==================== 7208
+JA: '司教は教会におります\nよければ、ご一緒に……'
+EN: "He's in the church.\nI could lead you there, if—"
+BEFORE: 'الأسقف في الكنيسة\nإذا أردت، يمكنك المجيء معنا……'
+AR: 'الأسقف في الكنيسة\nإذا أردت، فالمجيء معنا متاح…'
+REASON: "Gender-neutrality for player: 'يمكنك المجيء' (you can come, masc. singular) was gendered. Changed to 'فالمجيء معنا متاح' (coming with us is available) to maintain gender neutrality for the protagonist."
+==================== 7248
+JA: '死傷者が増え……\nもう……限界でございます……'
+EN: 'Casualties only increase,\nand I fear I am at my limit.'
+BEFORE: 'عدد القتلى والجرحى في ازدياد……'
+AR: 'عدد القتلى والجرحى في ازدياد……\nلقد بلغتُ حدي……'
+REASON: "Missing the second part of the Japanese sentence 'もう……限界でございます……' and the corresponding ellipsis count."
+==================== 7449
+JA: 'おお……神よ……\nお赦しくださったのですね……'
+EN: 'O god, you have been merciful.'
+BEFORE: 'يا إلهي……'
+AR: 'يا إلهي……\nأو قد رحمتَني……'
+REASON: "Added missing translation for 'you have been merciful', corrected ellipsis count, and preserved line break."

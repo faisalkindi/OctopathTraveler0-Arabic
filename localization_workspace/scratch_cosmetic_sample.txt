@@ -1,0 +1,190 @@
+========== 3371
+JA: '……ふふ、そうね\n信じていたわ'
+BEFORE: '……فف، صحيح\nلقد آمنتُ بذلك'
+AR: '……فف، صحيح\nلقد آمنتُ بك'
+REASON: "Clarified the object of belief from 'that' (بذلك) to 'you' (بك) to better match the English cross-reference 'I never doubted you' and the context."
+========== 3597
+JA: 'そなたは我が国の誇る\n獅子だ'
+BEFORE: 'أنت أسدُ بلادي الفخور'
+AR: 'أنت الأسد الذي تفخر به بلادنا'
+REASON: "Rephrased for clearer meaning and better alignment with the Japanese '我が国の誇る獅子' (the lion our country is proud of), avoiding ambiguity of 'الفخور' modifying 'بلادي'."
+========== 3723
+JA: 'おやおや……\nこれは人聞きが悪い'
+BEFORE: 'أوه……\nهذا كلام سيء'
+AR: 'أوه……\nهذا سوء سمعة'
+REASON: "Improved translation of '人聞きが悪い' from 'كلام سيء' (bad talk) to 'سوء سمعة' (scandal/bad reputation) to better match the nuance of 'scandalous accusation' in EN and JA."
+========== 3774
+JA: 'さもなきゃ……\n首だけ置いて見てくか？'
+BEFORE: 'وإلا……\nهل أترك رأسك فقط وأمضي؟'
+AR: 'وإلا……\nهل تفضل أن تفقد رأسك؟'
+REASON: "Improved phrasing of the threat from 'هل أترك رأسك فقط وأمضي؟' (shall I leave your head and go?) to 'هل تفضل أن تفقد رأسك؟' (would you prefer to lose your head?) to match the idiomatic English translation and natural Arabic."
+========== 3900
+JA: 'おいおい……せっかく\nこの堅物もやる気になったのに'
+BEFORE: 'مهلاً…… لقد تحمس هذا الرجل الجاد أخيراً.'
+AR: 'مهلاً…… لقد تحمس هذا الرجل الجاد أخيراً، فماذا تنتظر؟'
+REASON: "The original Arabic `مهلاً…… لقد تحمس هذا الرجل الجاد أخيراً.` lost the implied rhetorical question/contrast present in the Japanese `せっかくこの堅物もやる気になったのに` and English `C'mon, even this stubborn swordsman is on board!`. Added `فماذا تنتظر؟` to convey this nuance."
+========== 3971
+JA: '私は……“密談”の\n真意を知ってしまった'
+BEFORE: 'لقد…… عرفتُ\nالهدف الحقيقي من\n"المحادثة السرية"'
+AR: 'لقد…… عرفتُ\nالهدف الحقيقي من\n«المحادثة السرية»'
+REASON: 'Replaced ASCII quotation marks with correct Arabic quotation marks.'
+========== 4048
+JA: '目を離した隙に……\n何をしてらっしゃるか'
+BEFORE: 'في اللحظة التي غبت فيها عن نظري……\nماذا تفعل؟'
+AR: 'ما إن غفلت عنك……\nماذا تفعل؟'
+REASON: "Register: Improved naturalness of the phrase 'في اللحظة التي غبت فيها عن نظري' to 'ما إن غفلت عنك'."
+========== 4106
+JA: 'よかろう\nそなたらを信じよう'
+BEFORE: 'حسناً، سأثق بكم.'
+AR: 'حسناً،\nسأثق بكم.'
+REASON: 'Preserved line break from JA source.'
+========== 4158
+JA: 'ほう……\nでは、何を話しに来た？'
+BEFORE: 'هه……\nإذن، ما الذي جئت لتقوله؟'
+AR: 'آه……\nإذن، ما الذي أتى بك؟'
+REASON: "Changed interjection 'هه' to 'آه' for better nuance of 'ほう'. Rephrased 'ما الذي جئت لتقوله؟' to 'ما الذي أتى بك؟' for more natural phrasing."
+========== 4203
+JA: 'さあ、急ぐのだ'
+BEFORE: 'هيا، أسرع'
+AR: 'هيا، أسرعوا'
+REASON: "Changed singular imperative 'أسرع' to plural 'أسرعوا' as the king is addressing multiple people."
+========== 4239
+JA: '余が狙っていたのは\nその首ぞ'
+BEFORE: 'ما كنتُ أستهدفه\nهو تلك الرأس'
+AR: 'ما كنتُ أستهدفه\nهو أنت بالذات'
+REASON: "Rephrased 'هو تلك الرأس' to 'هو أنت بالذات' for more natural dialogue and to better reflect the English 'My true aim was always you', which implies the person, not literally their head."
+========== 4269
+JA: 'これは……背水の陣'
+BEFORE: 'هذا…… وضعٌ لا مفر منه.'
+AR: 'هذا…… وضع لا مفر منه.'
+REASON: "Removed unnecessary tanween from 'وضعٌ' to adhere to light harakat policy."
+========== 4398
+JA: '焦るな！\u3000引きつけよ！'
+BEFORE: 'لا ترتبكوا! اسحبواهم!'
+AR: 'لا تتعجلوا! استدرجوهم!'
+REASON: "Improved translation for 'Don't be hasty!' and 'Draw them in!' to be more natural and accurate in a military context."
+========== 4548
+JA: 'おおおおおおっ！！'
+BEFORE: 'أوه أوه أوه أوه!!'
+AR: 'آآآآآه!!'
+REASON: "Improved onomatopoeia for 'おおおおおおおっ！！'. 'آآآآآه!!' is a more natural sustained cry than 'أوه أوه أوه أوه!!'."
+========== 4676
+JA: '父の非が認められなければ\n逆らった姉は処刑されることに'
+BEFORE: 'إذا لم يتم الاعتراف بخطأ والدي\nفإن أختي التي عارضته ستُعدم'
+AR: 'إذا لم يتم الاعتراف بذنبه والدي\nفإن أختي التي عارضته ستُعدم'
+REASON: "Changed 'خطأ' (mistake) to 'ذنبه' (his guilt/crime) to better reflect the gravity implied by 'found guilty for his crimes' in the English reference and the Japanese context."
+========== 4732
+JA: 'パーディス王が無罪となれば\nその命も無いでしょう'
+BEFORE: 'إذا ثبتت براءة الملك بارديس\nفإن حياتها ستكون في خطر'
+AR: 'إذا ثبتت براءة الملك بارديس\nفإنها ستفقد حياتها'
+REASON: "Translated 'その命も無いでしょう' (her life will be no more) more directly as 'فإنها ستفقد حياتها' (she will lose her life) instead of 'ستكون في خطر' (will be in danger), to better reflect the grittier tone."
+========== 4818
+JA: '来たか……“選ばれし者”'
+BEFORE: 'هل أتيت…… "المختار"'
+AR: 'ها قد أتيت…… "المختار"'
+REASON: "Changed 'هل أتيت' (Did you come?) to 'ها قد أتيت' (So you have come) for a more observational and declarative tone, matching '来たか'."
+========== 4940
+JA: 'そして、多くの者が\n陛下に平伏す様も'
+BEFORE: 'وكذلك، رأيتُ الكثيرين\nوهُم يخرون سُجداً أمام'
+AR: 'وكذلك، رأيتُ الكثيرين\nوهُم يخرون سُجداً أمام جلالتكم'
+REASON: "Completed the sentence by adding 'جلالتكم' (Your Majesty) to 'أمام'."
+========== 5084
+JA: '“すまない……”'
+BEFORE: '"أنا آسف……"'
+AR: '«أنا آسف……»'
+REASON: 'Style guide: changed ASCII quotes to Arabic dialogue quotes «».'
+========== 5127
+JA: '俺が導いてみる\n親父に代わってな'
+BEFORE: 'سأفعل ذلك بدلاً من والدي'
+AR: 'سأقودها بدلاً من والدي'
+REASON: "More accurately reflects 'lead' from ja_text and en_text."
+========== 5209
+JA: 'アルティニア王国兵と'
+BEFORE: 'جنود مملكة ألتينيا و...'
+AR: 'جنود مملكة ألتينيا و'
+REASON: 'Removed extraneous ellipsis.'
+========== 5235
+JA: '武器を取った、エドラスの民'
+BEFORE: 'الذين حملوا السلاح، يا شعب إيدوراس'
+AR: 'يا شعب إيدوراس، الذين حملوا الأسلحة'
+REASON: "The original Arabic 'الذين حملوا السلاح' used a singular 'السلاح' (the weapon) while the English 'taking up arms' and context imply plural. Changed to 'الأسلحة' (the weapons). Rephrased for better flow in Arabic: 'يا شعب إيدوراس، الذين حملوا الأسلحة' (Oh people of Edoras, who carried the weapons)."
+========== 5315
+JA: 'なんと……'
+BEFORE: 'يا للهول……'
+AR: 'ما هذا……؟'
+REASON: "Replaced 'يا للهول' (Oh, horror!) with 'ما هذا؟' (What's this?) to better match the 'en_text' and a more neutral expression of surprise."
+========== 5385
+JA: '“真なる姿を\n我に与えたまえ……！”'
+BEFORE: '"امنحني الهيئةَ الحقيقية……!"'
+AR: '"امنحني\nالهيئة الحقيقية……!"'
+REASON: 'Rephrased to preserve the line break as per source and removed unnecessary diacritics.'
+========== 6009
+JA: '民の安寧であった'
+BEFORE: 'كانت طمأنينة الشعب'
+AR: 'كانت غايتها طمأنينة الشعب'
+REASON: "Rephrased for more natural flow and to better convey the implied purpose, matching the 'was' from Japanese and 'to bring peace' from English."
+========== 7032
+JA: '論外だ、ロンドよ'
+BEFORE: 'هذا غير مقبول، يا روندو'
+AR: 'هذا أمر لا يُعقل، يا روندو'
+REASON: "Improved nuance; 'لا يُعقل' (unreasonable/illogical) better reflects the dismissive and 'use your head' tone of '論外だ' than 'غير مقبول' (unacceptable)."
+========== 7100
+JA: '邪悪が何者なのか……'
+BEFORE: 'من هو الشر……'
+AR: 'من هو الشرير……؟'
+REASON: "Changed 'الشر' (abstract evil) to 'الشرير' (the evil one/villain) for better naturalness in context, and added the question mark."
+========== 7183
+JA: '足枷になるようなら\n即刻帰らせるぞ'
+BEFORE: 'إذا كانت ستكون قيداً على قدميك\nفسأسمح لك بالعودة فوراً'
+AR: 'إذا كنتَ ستكون عائقاً\nفسأعيدك فوراً.'
+REASON: "Register/nuance: 'قيداً على قدميك' (shackle on your feet) was too literal; changed to 'عائقاً' (an impediment). 'فسأسمح لك بالعودة' (I will allow you to return) was too soft; changed to 'فسأعيدك فوراً' (I will send you back immediately) to match the stern tone."
+========== 7238
+JA: '多くの町人が\n凶人となって発見されています'
+BEFORE: 'تم العثور على العديد من سكان البلدة\nبعد أن تحولوا إلى قتلة وحشيين'
+AR: 'تم العثور على العديد من سكان البلدة\nبعد أن تحولوا إلى وحوش'
+REASON: "Changed 'قتلة وحشيين' (savage killers) to 'وحوش' (monsters) to better reflect the 'monstrous state' implied by '凶人' (kyoujin - fiend/monstrous person) and the English translation."
+========== 7279
+JA: 'リンユウ、ミザ\nお帰りなさい'
+BEFORE: 'رينيو، ميزا\nأهلاً بعودتك'
+AR: 'رينيو، ميزا\nأهلاً بعودتكما'
+REASON: "Changed 'أهلاً بعودتك' (singular) to 'أهلاً بعودتكما' (dual) to correctly address two people (Rinyuu and Miza)."
+========== 7310
+JA: '守指長殿\n今夜はシチューだそうです'
+BEFORE: 'أيها القائد\nيقولون إن العشاء الليلة هو حساء اللحم'
+AR: 'أيها القائد\nيقولون إن العشاء الليلة هو حساء'
+REASON: "Removed the specific 'اللحم' (meat) as it is not present in the Japanese source 'シチュー' (stew)."
+========== 7321
+JA: 'この町の悪も、どうか……'
+BEFORE: 'أشرار هذه البلدة، أرجوك……'
+AR: 'أرجوك أن تطهر هذه البلدة من شرورها أيضًا……'
+REASON: "Improved naturalness and clarity of the request; 'أشرار هذه البلدة، أرجوك' was grammatically acceptable but less fluid than explicitly stating the action requested."
+========== 7438
+JA: '貴様の“神”とは何者だ？\n貴様はなぜ……'
+BEFORE: 'من هو "إلهك"؟\nلماذا أنت……'
+AR: 'من هو «إلهك»؟\nلماذا أنت……'
+REASON: 'Changed ASCII quotes `"` to Arabic quotes `«»` as per style guide.'
+========== 7538
+JA: '忌まわしき聖火を覆う\n我が闇のな……'
+BEFORE: 'غطي الشعلة المقدسة اللعينة\nفي ظلامي……'
+AR: 'في ظلامي الذي يخمد الشعلة المقدسة اللعينة……'
+REASON: "The original Arabic used an imperative verb 'غطي' (cover!), which changes the meaning from a descriptive statement to a command. Rephrased to 'في ظلامي الذي يخمد' (in my darkness that snuffs out) to match the Japanese and English intent of the darkness being the agent."
+========== 7575
+JA: '“禁忌の夜”'
+BEFORE: '"ليلة المحرمات"'
+AR: '«ليلة المحرمات»'
+REASON: 'Changed ASCII double quotes to Arabic double angle quotes «…» per style guide.'
+========== 7617
+JA: 'よ、よくご存じで'
+BEFORE: 'أ..أنت تعلم بذلك؟'
+AR: 'أ... أجل، أعلم ذلك.'
+REASON: "Rephrased from a question 'أ..أنت تعلم بذلك؟' to a statement 'أ... أجل، أعلم ذلك.' to match the Japanese source's nuance and the English 'Indeed I do.'."
+========== 7646
+JA: '失礼ですが\nメアリー王女では？'
+BEFORE: 'معذرة\nأليست هذه الأميرة ماري؟'
+AR: 'معذرة\nهل أنتِ الأميرة ماري؟'
+REASON: "Changed 'أليست هذه' (isn't this) to 'هل أنتِ' (are you, feminine) to correctly address Princess Mary directly."
+========== 7736
+JA: '見ているがいい……'
+BEFORE: 'شاهدوا جيداً……'
+AR: 'شاهد جيداً……'
+REASON: "Changed verb to singular masculine (شاهد) to agree with the implied singular male addressee (Flameguard), matching the English 'Just you wait and see...'."

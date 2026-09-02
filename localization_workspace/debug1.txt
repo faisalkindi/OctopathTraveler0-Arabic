@@ -1,0 +1,7 @@
+'剣闘士を称える一対の銅像の右。\n闘志が湧いてくる気がする'
+
+'يمين تمثالين من النحاس يمجّدان المصارعين.'
+
+'التمثال الأيمن من زوج من التماثيل البرونزية التي تمجد المصارعين. أشعر وكأن روح القتال تتوقد في داخلي.'
+
+"One of a pair of statues honoring gladiators. Simply looking at it kindles one's fighting spirit."

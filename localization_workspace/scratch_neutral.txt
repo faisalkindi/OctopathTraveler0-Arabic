@@ -1,0 +1,280 @@
+========== 3356
+JA: 'アラウネ様から聞いたぞ\n盗賊を倒し、花を届けてくれたと'
+BEFORE: 'سمعتُ من السيدة ألاون\nأنك هزمتَ اللصوص وأوصلتَ الزهور'
+AR: 'سمعتُ من السيدة ألاون\nعن هزيمتك للصوص وإيصالك للزهور'
+REASON: "Rephrased to use gender-neutral verbal nouns ('هزيمتك', 'إيصالك') instead of gendered past-tense verbs ('هزمتَ', 'أوصلتَ') when addressing the player character."
+========== 3358
+JA: '君は\n陛下に謁見したいらしいな'
+BEFORE: 'يبدو أنك\nترغب في مقابلة جلالته'
+AR: 'يبدو أنك\nلديك رغبة في مقابلة جلالته'
+REASON: "Rephrased to use a gender-neutral noun phrase ('لديك رغبة') instead of a gendered present-tense verb ('ترغب') when addressing the player character."
+========== 3360
+JA: 'しばらく戦は続く\n考えておいてくれたまえ'
+BEFORE: 'ستستمر الحرب لفترة من الوقت\nفكر في الأمر'
+AR: 'ستستمر الحرب لفترة من الوقت\nيمكنك التفكير في الأمر'
+REASON: "Rephrased to use a gender-neutral construction ('يمكنك التفكير') instead of a gendered imperative verb ('فكر') when addressing the player character, and to better match the English tone."
+========== 3642
+JA: '出来損ないと\n陰で罵られてきました'
+BEFORE: 'لقد تعرضتُ للسب\nخلف الكواليس كفاشلة'
+AR: 'لقد تعرضتُ للسب\nخلف الكواليس كفاشل'
+REASON: "Corrected gender agreement for the predicate adjective 'كفاشلة' (as a failure, feminine) to 'كفاشل' (masculine) to match the male speaker (Osasuna)."
+========== 3911
+JA: 'へへ、そう言うなよ\n“密談”があるんだろ？'
+BEFORE: 'هيه، لا تقل ذلك\nأليس هناك "حديث سري"؟'
+AR: 'هيه، لا تقولي ذلك\nأليس هناك "حديث سري"؟'
+REASON: 'Gender agreement: speaker Charles addresses El (female), so imperative verb should be feminine singular `لا تقولي` instead of masculine `لا تقل`.'
+========== 3919
+JA: '言ったろ、ただの旅人さ'
+BEFORE: 'أخبرتك، مجرد مسافر'
+AR: 'أخبرتكِ، مجرد مسافر'
+REASON: 'Gender agreement: speaker Charles addresses El (female), so the verb should be feminine singular `أخبرتكِ` instead of masculine `أخبرتك`.'
+========== 3987
+JA: '共に行動しようと思うが……\nよいか？'
+BEFORE: 'أعتزم أن نتحرك معاً……\nهل أنت موافق؟'
+AR: 'أعتزم أن نتحرك معاً……\nهل وافقت؟'
+REASON: "Changed 'هل أنت موافق؟' (gendered masculine) to 'هل وافقت؟' (past tense, gender-neutral for the player character) as per style guide."
+========== 3992
+JA: '準備はいいか？\n目指すは砂漠の町サンシェイドだ'
+BEFORE: 'هل أنت مستعد؟\nهدفنا هو مدينة شادشايد الصحراوية'
+AR: 'هل استعددت؟\nهدفنا هو مدينة صن شيد الصحراوية'
+REASON: "Changed 'هل أنت مستعد؟' (gendered masculine) to 'هل استعددت؟' (past tense, gender-neutral for the player character) as per style guide. Corrected transliteration of 'Sunshade' from 'شادشايد' to 'صنشيد'."
+========== 4039
+JA: 'ややっ？\nなんとお美しい方……'
+BEFORE: 'أوه؟\nيا لها من سيدة جميلة……'
+AR: 'أوه؟\nما أجملك……'
+REASON: "Player-address gender-neutrality: The addressee is the player character. Changed gendered 'سيدة جميلة' to gender-neutral 'ما أجملك'."
+========== 4040
+JA: 'すまないが、一杯\n恵んでいただけぬか'
+BEFORE: 'معذرة، هل يمكنكِ\nأن تمنحيني كأساً؟'
+AR: 'معذرة، هل يمكنك\nأن تمنحني كأسًا من الماء؟'
+REASON: "Player-address gender-neutrality: The addressee is the player character. Changed feminine 'يمكنكِ' and 'تمنحيني' to generic masculine 'يمكنك' and 'تمنحني'. Specified 'من الماء' for clarity."
+========== 4043
+JA: 'ありがとう'
+BEFORE: 'شكراً لكِ.'
+AR: 'شكرًا لك.'
+REASON: "Player-address gender-neutrality: The addressee is the player character. Changed feminine 'لكِ' to generic masculine 'لك'."
+========== 4045
+JA: 'そなたの心は\n湧き出でる泉のように麗しい'
+BEFORE: 'قلبكِ\nجميل كينبوعٍ منبعٍ'
+AR: 'قلبك\nجميل كينبوع متدفق'
+REASON: "Player-address gender-neutrality: The addressee is the player character. Changed feminine 'قلبكِ' to generic masculine 'قلبك'. Improved 'ينبوع منبع' to 'ينبوع متدفق' for naturalness."
+========== 4054
+JA: 'あら？\nふふ、綺麗なお顔……'
+BEFORE: 'أوه؟\nهيه، وجهكِ جميل……'
+AR: 'أوه؟\nهيه، وجهك جميل……'
+REASON: 'Addressed player character with feminine pronoun/adjective; changed to masculine default for gender neutrality.'
+========== 4055
+JA: 'ね、酒場に寄ってかない？\nあたし、踊ってるの'
+BEFORE: 'هيه، ألا تودين المرور بالخمارة؟\nأنا أرقص هناك'
+AR: 'هيه، ألا تود المرور بالخمارة؟\nأنا أرقص هناك'
+REASON: 'Addressed player character with feminine verb; changed to masculine default for gender neutrality.'
+========== 4058
+JA: 'おいおい！\nあんたは聖者グラキアか？'
+BEFORE: 'مهلاً مهلاً!\nهل أنتِ القديسة غراكيا؟'
+AR: 'مهلاً مهلاً!\nهل أنت القديس غراكيا؟'
+REASON: "Addressed player character with feminine pronoun/title; changed to masculine default for gender neutrality, and 'القديس' for the gender-neutral '聖者'."
+========== 4159
+JA: '我がエドラス王国へ下りなさい'
+BEFORE: 'انزلي إلى مملكة إيدوراس الخاصة بنا'
+AR: 'انزل إلى مملكة إيدوراس.'
+REASON: "Corrected gender of imperative verb from feminine 'انزلي' to masculine 'انزل' as the addressee (Solon) is male. Removed redundant 'الخاصة بنا'."
+========== 4308
+JA: 'マフレズ様と共に\n国を導いてほしかった……'
+BEFORE: 'أردناكم أن تقودوا البلاد\nمع الجنرال مافريز……'
+AR: 'أردناك أن تقود البلاد\nمع اللورد مافريز……'
+REASON: "Changed 'الجنرال مافريز' to 'اللورد مافريز' for better honorific matching '様'. Changed 'أردناكم' (plural) to 'أردناك' (singular, gender-neutral) to address the protagonist."
+========== 4450
+JA: '君には、これまで何度も\n助けてもらったな'
+BEFORE: 'لقد تلقيتُ المساعدة\nمنكِ مرات عديدة حتى الآن'
+AR: 'لقد ساعدتني مرات عديدة حتى الآن'
+REASON: 'Changed to gender-neutral phrasing for the player character (protagonist) by using a past-tense verb that is identical for both genders.'
+========== 4451
+JA: '言えるうちに……\n礼を言っておきたい'
+BEFORE: 'بينما لا يزال بإمكاني القول……\nأود أن أشكركِ'
+AR: 'بينما لا يزال بإمكاني القول……\nأود أن أشكرك'
+REASON: 'Changed to generic masculine for the player character (protagonist) as a fallback for present-tense address.'
+========== 4452
+JA: 'ずっと、心強かった\n……ありがとう'
+BEFORE: 'لقد كنتَ مصدر قوة لي طوال الوقت\n……شكرًا لك'
+AR: 'لقد كنت مصدر قوة لي طوال الوقت\n……شكرًا لك'
+REASON: 'Removed explicit masculine diacritic from `كنت` for gender-neutrality when addressing the protagonist. Used generic masculine `لك` as fallback.'
+========== 4464
+JA: 'ゴンザレスを退け\n死の谷を越えたか……'
+BEFORE: 'أبعدوا غونزاليس\nهل عبر وادي الموت……'
+AR: 'أبعدت غونزاليس وعبرت وادي الموت……'
+REASON: 'Mistranslation of person and number. Changed from plural/3rd person to gender-neutral 2nd person singular (addressing the protagonist) and corrected the verb forms.'
+========== 4594
+JA: '頼んだぞ、<chara_name>殿\nそなただけが頼りだ'
+BEFORE: 'أعتمد عليك، يا سيد <chara_name>\nأنت وحدك من يمكنني الاعتماد عليه'
+AR: 'أعتمد عليك، <chara_name>\nفكل اعتمادي عليك.'
+REASON: "Addressed player character with gender-neutral phrasing; removed gendered honorific 'يا سيد' and rephrased the second sentence to avoid explicit masculine 'أنتَ'."
+========== 4618
+JA: 'わたしに何も言わず\n独りで抱え込んで……'
+BEFORE: 'دون أن تقولي لي شيئاً\nتحملت الأمر وحدك……'
+AR: 'دون أن تقولي لي شيئاً\nتحملتِ الأمر وحدكِ……'
+REASON: "Corrected gender agreement for the female addressee (Alaune) from masculine 'تحملت' and 'وحدك' to feminine 'تحملتِ' and 'وحدكِ'."
+========== 4635
+JA: '<chara_name>様\n捜しておりました'
+BEFORE: 'سمو <chara_name>\nكنت أبحث عنك'
+AR: 'يا <chara_name>\nكنت أبحث عنك'
+REASON: "Removed the specific honorific 'سمو' (Your Highness) as the player character's rank is customizable/unknown. Used 'يا <chara_name>' for a more general, respectful address. 'كنت أبحث عنك' uses generic masculine as an acceptable fallback for player address."
+========== 4636
+JA: 'お会いするのは二度目ですね'
+BEFORE: 'هذه هي المرة الثانية التي ألتقي بك فيها'
+AR: 'هذه هي المرة الثانية التي نلتقي فيها'
+REASON: "Rephrased to use gender-neutral plural 'نلتقي' (we meet) instead of gendered singular 'ألتقي بك' (I meet you [masc.]) when addressing the player character."
+========== 4638
+JA: '姉の旅を助けていただき\n感謝しています'
+BEFORE: 'أشكرك\nعلى مساعدتكِ في رحلة أختي'
+AR: 'أشكر مساعدتك\nفي رحلة أختي'
+REASON: 'Rephrased to use a verbal noun (مساعدتك) for gender-neutral address to the player character, as per style guide.'
+========== 4667
+JA: '国内で反逆罪に\n問われているようです'
+BEFORE: 'ويُحاكم حالياً\nبتهمة الخيانة العظمى داخل البلاد'
+AR: 'وتُحاكم حالياً\nبتهمة الخيانة العظمى داخل البلاد'
+REASON: 'Corrected verb gender agreement from masculine (يُحاكم) to feminine (تُحاكم) to match the subject, Princess Elrica.'
+========== 4673
+JA: '事の危険さを分からぬ\n君ではあるまい'
+BEFORE: 'لا بد أنك لا تدرك خطورة الأمر\nأليس كذلك؟'
+AR: 'لا بد أنك تدركين خطورة الأمر'
+REASON: "Corrected meaning from 'You must not realize' to 'You must realize' to match the Japanese rhetorical question. Also corrected verb gender agreement from masculine (تدرك) to feminine (تدركين) for Alaune, and removed the extra 'أليس كذلك؟'."
+========== 4695
+JA: 'あなた、いつの間に\nそんなに逞しくなったの？'
+BEFORE: 'متى أصبحتَ بهذه القوة؟'
+AR: 'متى أصبحتِ بهذه القوة؟'
+REASON: "Corrected the gender of the verb 'أصبحتَ' (you [masc.] became) to 'أصبحتِ' (you [fem.] became) as the addressee, Alaune, is female."
+========== 4808
+JA: 'おや、アラウネ様\nどうされたので？'
+BEFORE: 'أوه، يا سيد ألاون\nماذا حدث؟'
+AR: 'أوه، يا سمو الأميرة ألاون\nماذا حدث؟'
+REASON: "Corrected gender agreement for 'Alaune' from masculine 'سيد' to feminine 'سمو الأميرة' as per context and glossary."
+========== 4865
+JA: 'アラウネ様、これを'
+BEFORE: 'سمو ألاون، خذ هذا'
+AR: 'سمو ألاون، خذي هذا'
+REASON: "Corrected gender agreement for 'خذ' (take) to feminine 'خذي' as the addressee, Alaune, is female."
+========== 4898
+JA: '来ていただけましたか\n<chara_name>様'
+BEFORE: 'هل حضرتَ\nيا سيد <chara_name>'
+AR: 'هل حضرت\nيا <chara_name>'
+REASON: "Addressed the player character. Changed 'حضرتَ' (explicitly masculine with fatha) to 'حضرت' (gender-neutral spelling for past-tense 2nd-person verb) and 'يا سيد <chara_name>' to 'يا <chara_name>' to maintain gender-neutrality as per style guide for player character address."
+========== 5079
+JA: 'その綺麗な首が飛び\n姉君に会うのも……ですか？'
+BEFORE: 'هل ستلتقي بأخيك الأكبر\nبينما يطير ذلك العنق الجميل……؟'
+AR: 'هل ستلتقين بأختكِ الكبرى\nبينما يطير ذلك العنق الجميل……؟'
+REASON: "Mistranslation: 'أخيك الأكبر' (your elder brother) was incorrect, changed to 'أختكِ الكبرى' (your elder sister). Also, corrected verb gender agreement for female addressee: 'ستلتقي' (masc.) to 'ستلتقين' (fem.)."
+========== 5128
+JA: 'じゃあ……\n死ぬなよ、王女様'
+BEFORE: 'إذاً……\nلا تمت، يا سمو الأميرة'
+AR: 'إذاً……\nلا تموتي، يا سمو الأميرة'
+REASON: 'Corrected verb gender for female addressee (Alaune).'
+========== 5212
+JA: 'ソロン王の暗殺を企てるも失敗し'
+BEFORE: 'فشلت في محاولة اغتيال الملك سولون و……'
+AR: 'فشل في محاولة اغتيال الملك سولون و'
+REASON: "Fixed gender agreement (Pardis III is masculine, not feminine 'فشلت'). Removed extraneous ellipsis."
+========== 5263
+JA: '戦場で貴方様を見たなら\n殺せと'
+BEFORE: 'إذا رأيتَ سموَّك في ساحة المعركة'
+AR: 'إذا رأيتُ سموَّكِ في ساحة المعركة، فالأمر هو أن أقتلكِ.'
+REASON: "The original Arabic was an incomplete sentence and had incorrect subject/gender agreement. Completed the sentence by adding 'فالأمر هو أن أقتلكِ' (the order is to kill you). Corrected the verb from 'رأيتَ' (you saw/see, masc.) to 'رأيتُ' (I saw/see) to match the speaker (Krauser). Corrected the addressee's gender from 'سموَّك' (Your Highness, masc.) to 'سموَّكِ' (Your Highness, fem.) and the verb 'أقتلك' to 'أقتلكِ' to match Alaune's gender."
+========== 5267
+JA: '私は陛下に忠誠を誓い\nこの槍を捧げた'
+BEFORE: 'لقد أقسمتُ بالولاء لجلالة الملك\nوقدمتُ هذه الرمح'
+AR: 'لقد أقسمتُ بالولاء لجلالة الملك\nوقدمتُ هذا الرمح'
+REASON: "Corrected gender agreement for 'الرمح' (spear), which is masculine. Changed 'هذه الرمح' (feminine demonstrative) to 'هذا الرمح' (masculine demonstrative)."
+========== 5315
+JA: 'なんと……'
+BEFORE: 'يا للهول……'
+AR: 'ما هذا……؟'
+REASON: "Replaced 'يا للهول' (Oh, horror!) with 'ما هذا؟' (What's this?) to better match the 'en_text' and a more neutral expression of surprise."
+========== 5384
+JA: '“命宿りし指輪よ\n真なる力を……”'
+BEFORE: '"أيتها الخاتمُ المسكونُ بالحياة\nأعطني القوةَ الحقيقية……"'
+AR: '"أيها الخاتم المسكون بالحياة\nأعطني القوة الحقيقية……"'
+REASON: "Corrected gender agreement for 'أيها' (ring is masculine) and removed unnecessary diacritics."
+========== 5449
+JA: 'ああ、君か'
+BEFORE: 'آه، أنتِ'
+AR: 'آه، أنتَ'
+REASON: "Changed feminine 'أنتِ' to generic masculine 'أنتَ' for player-character gender neutrality, as per style guide."
+========== 7034
+JA: '我が炎が泣いているぞ'
+BEFORE: 'ناري يبكي'
+AR: 'ناري تبكي'
+REASON: "Subject-verb gender agreement; 'نار' (fire/flame) is feminine in Arabic, so the verb should be 'تبكي' (she cries) instead of 'يبكي' (he cries)."
+========== 7064
+JA: '“青き炎は\n我が魂、我が守り人なり”'
+BEFORE: '"اللهب الأزرق\nهو روحي، وحاميتي"'
+AR: '"اللهب الأزرق\nهو روحي، وحاميّ"'
+REASON: "Gender agreement: '守り人' (guardian) is gender-neutral in Japanese. 'Flame' (لهب) is masculine in Arabic, so the guardian should be referred to with a masculine form 'حاميّ' (my guardian) instead of 'حاميتي' (my female guardian)."
+========== 7174
+JA: 'あ……\nあなたはまさか……'
+BEFORE: 'آه……\nأنت لست...'
+AR: 'آه…\nأأنتَ يا تُرى…؟'
+REASON: "Mistranslation: 'أنت لست...' (You are not...) was incorrect. Changed to 'أأنتَ يا تُرى…؟' (Could it be you...?) to match the recognition implied by the Japanese. Used generic masculine as a fallback for the player character, and corrected ellipsis count."
+========== 7177
+JA: 'いかにも\nこの調査に同行願っている'
+BEFORE: 'تماماً\nلقد طلبت منك مرافقتي في هذا التحقيق'
+AR: 'تماماً.\nوقد طلبتُ مرافقتهم في هذا التحقيق.'
+REASON: "Gender-neutrality for player: 'لقد طلبت منك مرافقتي' (I asked you, masc. singular) was gendered and implied the speaker was asking the protagonist. Changed to 'وقد طلبتُ مرافقتهم' (I have requested their accompaniment) to be gender-neutral for the protagonist and better reflect the Japanese nuance of a pre-arranged accompaniment."
+========== 7178
+JA: '……何をニヤけている'
+BEFORE: '……لماذا تبتسم هكذا'
+AR: '……لماذا تبتسم بعبث؟'
+REASON: "Register/nuance: 'لماذا تبتسم هكذا' (Why are you smiling like that) was too neutral. Changed to 'لماذا تبتسم بعبث؟' (Why are you grinning frivolously?) to better capture the disapproving tone of 'grinning like a fool'."
+========== 7208
+JA: '司教は教会におります\nよければ、ご一緒に……'
+BEFORE: 'الأسقف في الكنيسة\nإذا أردت، يمكنك المجيء معنا……'
+AR: 'الأسقف في الكنيسة\nإذا أردت، فالمجيء معنا متاح…'
+REASON: "Gender-neutrality for player: 'يمكنك المجيء' (you can come, masc. singular) was gendered. Changed to 'فالمجيء معنا متاح' (coming with us is available) to maintain gender neutrality for the protagonist."
+========== 7332
+JA: 'それを守るために\n神に祈りを捧げてきました'
+BEFORE: 'ومن أجل حمايته\nقدمتُ الصلوات إلى الإله'
+AR: 'ومن أجل حمايتها\nقدمتُ الصلوات إلى الإله'
+REASON: "Corrected gender agreement for 'protection' from masculine 'حمايته' to feminine 'حمايتها' to refer to the daughter (Miza)."
+========== 7378
+JA: '“選ばれし者”よ\n首謀者を追い詰めるぞ'
+BEFORE: 'أيتها "المختارة"\nسوف نحاصر العقل المدبر'
+AR: 'أيها "المختار"\nسوف نحاصر العقل المدبر'
+REASON: 'Changed \'أيتها "المختارة"\' (feminine) to \'أيها "المختار"\' (generic masculine) to adhere to the player-address gender-neutrality rule for the silent protagonist.'
+========== 7400
+JA: 'リンユウ……\n知られてしまったね'
+BEFORE: 'رينيو……\nلقد كُشف الأمر'
+AR: 'رينيو……\nلقد عرفتِ الأمر الآن'
+REASON: "The original Arabic 'لقد كُشف الأمر' (the matter was revealed) was passive. Changed to 'لقد عرفتِ الأمر الآن' (you (fem.) know the matter now) to reflect that Rinyuu (a female character) has found out, matching the Japanese and English meaning and ensuring gender agreement."
+========== 7408
+JA: '君は大切なミザの友人だ\n始末したくはなかった'
+BEFORE: 'أنت صديق عزيز لميزا\nلم أكن أرغب في إنهاء الأمر بهذه الطريقة'
+AR: 'أنتِ صديقة عزيزة لميزا\nلم أكن أرغب في إنهاء الأمر بهذه الطريقة'
+REASON: "Corrected gender agreement for Rinyuu (female character). 'أنت صديق عزيز' (masc.) changed to 'أنتِ صديقة عزيزة' (fem.)."
+========== 7450
+JA: 'ミザ……\n生きていてくれたのか……'
+BEFORE: 'ميزا……'
+AR: 'ميزا……\nأنتَ على قيد الحياة……!'
+REASON: "Added missing translation for 'You're alive!', corrected ellipsis count, and preserved line break. Used generic masculine for 'أنتَ' as a fallback."
+========== 7488
+JA: 'お前は、他人より\n険しい道を歩くことになる'
+BEFORE: 'أنت ستسلك طريقاً\nأصعب من طريق الآخرين'
+AR: 'سيكون عليك سلك طريقٍ\nأصعب من طريق الآخرين'
+REASON: "Rephrased to use gender-neutral phrasing for the player character, as per style guide. Changed 'أنت ستسلك' (masculine) to 'سيكون عليك سلك' (gender-neutral verbal noun construction)."
+========== 7513
+JA: '“娘”を餌にし\n飼い馴らしていたのだ'
+BEFORE: 'لقد استخدم "الابنة" كطُعم\nولطوّعها'
+AR: 'لقد استخدم "الابنة" كطُعم\nوسيطر عليه'
+REASON: 'Mistranslation of the object and gender of the verb; the daughter was used as bait to control the father, not tamed herself.'
+========== 7586
+JA: '聖者グラキアの教えを'
+BEFORE: 'تعاليم القديسة غراكيا'
+AR: 'تعاليم القديس غراكيا'
+REASON: "Changed 'القديسة' (feminine) to 'القديس' (masculine) for gender consistency of Saint Graecia."
+========== 7799
+JA: '何の為に……\n戦っているのですか？'
+BEFORE: 'لأجل ماذا……\nتقاتل؟'
+AR: 'لأجل ماذا……\nما غاية قتالك؟'
+REASON: "Rephrased 'تقاتل؟' (you fight, masculine present) to 'ما غاية قتالك؟' (what is the purpose of your fighting?) to achieve gender-neutrality when addressing the player character, using a verbal noun."
+========== 7808
+JA: '突然、目の前で\n青い炎が燃え上がり'
+BEFORE: 'فجأة، أمام عيني\nاشتعلت لهب أزرق'
+AR: 'فجأة، أمام عيني\nاشتعل لهب أزرق'
+REASON: "Corrected verb gender agreement for 'لهب' (masculine), changed 'اشتعلت' to 'اشتعل'."

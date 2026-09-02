@@ -1,0 +1,150 @@
+ID=38684
+JA:旅の方、うちの学長に
+何かご用ですか？
+EN:Do you have business with
+the headmaster?
+BEFORE:أيها المسافر، هل لديك
+أي غرض لدى رئيسنا الأكاديمي؟
+AFTER:أيها المسافر، هل لك غرضٌ لدى عميدنا؟
+REASON:Improved player-address gender neutrality (changed 'لديك' to 'لك') and register/naturalness (changed 'رئيسنا الأكاديمي' to 'عميدنا').
+----
+ID=39198
+JA:フィニスに指輪を
+渡しますか？
+EN:Give Finis the ring?
+BEFORE:هل سأقوم بـ
+تسليم الخاتم إلى فينيس؟
+AFTER:هل تسلم الخاتم إلى فينيس؟
+REASON:Corrected subject from 'I' to 'you' (player) to match Japanese source and maintain player-address gender-neutrality (generic masculine fallback for present tense).
+----
+ID=40039
+JA:……この世界の
+武具が欲しいのか？
+EN:...Do you want weapons of this realm?
+BEFORE:……هل تريد
+أسلحة هذا العالم؟
+AFTER:……هل هناك رغبة في أسلحة هذا العالم؟
+REASON:Rephrased 'هل تريد أسلحة هذا العالم؟' to 'هل هناك رغبة في أسلحة هذا العالم؟' for gender-neutral player address, avoiding the masculine present-tense verb 'تريد'.
+----
+ID=411507
+JA:研究体から血液を……
+不純物を取り除いて……
+EN:I must draw blood from the subjects...
+And eliminate the impurities...
+BEFORE:من عينة البحث، الدم……
+أزل الشوائب……
+AFTER:أستخلص الدم من عينة البحث…… وأزيل الشوائب……
+REASON:Rephrased for better flow and to reflect the speaker's action (active voice) as implied by the English translation and Japanese fragments.
+----
+ID=411680
+JA:君のお母さんには
+大変お世話になりました
+EN:Your mother was a kind soul,
+to whom I owe a great deal.
+BEFORE:لقد قدمت والدتكِ
+رعاية كبيرة لي
+AFTER:لقد حظيت بالكثير من العون من والدتك
+REASON:Better captures the nuance of `お世話になりました` (receiving help/being indebted) and ensures gender-neutrality for the player character by using an undiacritized `ك` for 'your'.
+----
+ID=411733
+JA:招待状の断片が
+全然揃ってない匂いがする……ニャ
+EN:You don't have nearly enough pieces
+of the invitation.
+BEFORE:أشتم رائحة
+عدم اكتمال قطع بطاقة الاستضافة تماماً……نيا
+AFTER:أشعر بأن قطع الدعوة ليست مكتملة بعد……نيا
+REASON:Rephrased 'أشتم رائحة عدم اكتمال قطع بطاقة الاستضافة تماماً' to 'أشعر بأن قطع الدعوة ليست مكتملة بعد' for naturalness and better flow, and changed 'بطاقة الاستضافة' to 'الدعوة'.
+----
+ID=411885
+JA:フフ……この獲物を
+皆で分けるといいわ
+EN:Hehe... Go on and share my catch
+with everyone.
+BEFORE:فُه…… إذا قسّمنا هذه الفريسة
+بيننا جميعاً، فسيكون ذلك جيداً
+AFTER:هه…… شاركوا هذه الفريسة مع الجميع.
+REASON:Corrected the laugh sound from 'فُه' to 'هه'. Rephrased for more natural and direct expression, matching the English 'Go on and share my catch with everyone'. The imperative plural 'شاركوا' is gender-neutral for a group.
+----
+ID=412115
+JA:川豆っていうのは
+リバーランドの川の中に根を張るんだ
+EN:As you might've guessed,
+river beans are rooted in the
+river back where I come from.
+BEFORE:كوادو تعني
+تجذير الجذور في أنهار ريفرلاند
+AFTER:حبوب النهر هذه تتجذر في أنهار ريفرلاند.
+REASON:Corrected mistranslation of `川豆っていうのは` and redundant `تجذير الجذور`. Used "حبوب النهر" consistently.
+----
+ID=412219
+JA:なかなか良さそうな
+土地じゃない
+EN:This place has some great soil.
+BEFORE:هذه الأرض لا تبدو
+جيدة بما يكفي
+AFTER:تبدو هذه الأرض جيدة جدًا.
+REASON:The original Arabic 'هذه الأرض لا تبدو جيدة بما يكفي' (This land doesn't look good enough) was the opposite meaning of the Japanese 'なかなか良さそうな土地じゃない' (Isn't this quite good land?). Changed to reflect the positive rhetorical question.
+----
+ID=412239
+JA:伝手があったから
+仕入れておいたわよ
+EN:I used my connections to get
+you some good metal.
+BEFORE:لقد حصلتُ على وسيلةٍ للتواصل،
+لذا قمتُ بشراء هذه الأغراض.
+AFTER:بفضل علاقاتي، تمكنتُ من توفير بعض المعادن الجيدة لك.
+REASON:Rephrased for more natural expression of 'connections' and specified 'metal' as per EN context, which is implied by 'procured goods'.
+----
+ID=412303
+JA:……この町のために
+また働くとするか
+EN:I guess I can get to work to help
+this town.
+BEFORE:……هل سنعمل من أجل هذه البلدة
+مرة أخرى؟
+AFTER:……سأعمل مجددًا من أجل هذه البلدة
+REASON:`また働くとするか` implies a personal decision or resolve ('I guess I'll work again'), not a question ('Shall we work...?'). Corrected to a statement of intent.
+----
+ID=412501
+JA:あの二人も
+幸せに暮らしていればなによりだ
+EN:I'm glad those two are happy
+more than anything.
+BEFORE:وأولئك الاثنان أيضًا
+من الأفضل أن يعيشا في سعادة
+AFTER:ويسعدني أكثر من أي شيء أن يعيشا بسعادة
+REASON:Rephrased `من الأفضل أن يعيشا في سعادة` to `ويسعدني أكثر من أي شيء أن يعيشا بسعادة` to better convey the speaker's sentiment of being glad (`なによりだ`).
+----
+ID=412502
+JA:この場をお借りして
+パーティを開かせていただきましたわ
+EN:I've rented this venue so that I could
+hold a banquet here.
+BEFORE:أسمحوا لي باستضافة
+حفلة في هذا المكان
+AFTER:لقد استعرتُ هذا المكان لأقيم فيه حفلة
+REASON:Rephrased `أسمحوا لي باستضافة حفلة في هذا المكان` to `لقد استعرتُ هذا المكان لأقيم فيه حفلة` to accurately reflect the Japanese `この場をお借りしてパーティを開かせていただきましたわ` (I used this place to host a party) and the polite feminine tone.
+----
+ID=412652
+JA:タイタス様にヘルミニアさん……
+多くの方が研究を支えてくださってます
+EN:Many are graciously supporting
+my research, including Lord Tytos
+and Lady Herminia.
+BEFORE:السيدة هيرمينيا، من أجل السيد تايتوس……
+الكثيرون يدعمون الأبحاث
+AFTER:الكثيرون يدعمون أبحاثي، منهم السيد تايتوس والسيدة هيرمينيا……
+REASON:The original Arabic 'السيدة هيرمينيا، من أجل السيد تايتوس' (Lady Herminia, for Lord Tytos) was a mistranslation. Rephrased to 'الكثيرون يدعمون أبحاثي، منهم السيد تايتوس والسيدة هيرمينيا' (Many are supporting my research, including Lord Tytos and Lady Herminia) to correctly reflect that Tytos and Herminia are among those supporting the research, as per the Japanese source and English reference.
+----
+ID=412665
+JA:知ってるか？　ヴァローレの酒は
+ワインだけじゃなくブランデーもいいんだぜ
+EN:Did you know? Valore doesn't just
+have good wine, but good brandy,
+too.
+BEFORE:هل تعلم؟ نبيذ فالور
+ليس فقط نبيذاً، بل البراندي فيه جيد أيضاً
+AFTER:هل تعلم؟ في فالور، ليس النبيذ فقط هو الجيد، بل البراندي أيضاً.
+REASON:Corrected awkward and redundant phrasing 'نبيذ فالور ليس فقط نبيذاً' to a more natural and accurate sentence.
+----

@@ -1,0 +1,1100 @@
+ID=38289
+JA: えぇ、なんだってぇ？
+俺が酔っ払ってるだとぉ？　……ヒック！
+EN:Wha's that? Ye think I'm drunk, d'ya?
+*hiccup*
+BEFORE:هاه، ماذا قلت؟
+AFTER:هاه، ماذا قلت؟ هل تظن أنني مخمور؟…… *شهقة*
+REASON:Added missing dialogue '俺が酔っ払ってるだとぉ？' (You think I'm drunk?) and the hiccup sound effect 'ヒック！'.
+----
+ID=38340
+JA: なあ、あんたも一緒に砂金掘らねえか？
+こういうのも、意外と悪くねえぞ
+EN:You interested in mining for gold dust?
+It's not bad, I tell ya!
+BEFORE:هوي، ألا تريد الانضمام إلينا في التنقيب عن غبار الذهب؟
+AFTER:هوي، ألا تريد الانضمام إلينا في التنقيب عن غبار الذهب؟
+إنه ليس سيئًا على الإطلاق!
+REASON:Added the missing second sentence from the Japanese and English source text.
+----
+ID=38691
+JA: この地区にはアトラスダムの誇る
+図書館と王立学院があります
+EN:In this district, you'll find the Royal
+Academy and Royal Library, the pride
+and joy of Atlasdam.
+BEFORE:يوجد في هذه المنطقة مكتبة أكاديمية أطلسدام
+والأكاديمية الملكية
+AFTER:يوجد في هذه المنطقة المكتبة الملكية
+والأكاديمية الملكية، فخر أطلسدام.
+REASON:Corrected mistranslation (clarified 'المكتبة الملكية' and added 'فخر أطلسدام' for '誇る').
+----
+ID=38697
+JA: 他者の言葉を鵜呑みにすることが
+果たして正しい信仰の在り方だろうか？
+EN:Should the faithful readily accept
+the church's words without question?
+BEFORE:هل يُعد تصديق كلمات الآخرين دون تفكير
+طريقة صحيحة للإيمان؟
+AFTER:هل يُعدّ تصديق كلمات الآخرين دون تفكير
+طريقة صحيحة للإيمان؟
+REASON:Added shadda for gemination on 'يُعدّ'.
+----
+ID=39059
+JA: 親切な人たちがうちのガラクタを
+買っていってくれたのよ！
+EN:Some kind soul came and bought
+all the odds and ends in my home!
+BEFORE:لقد اشترى أشخاص طيبون خردتنا!
+AFTER:لقد اشترى أشخاص طيبون خردتنا
+!
+REASON:Added line break (`\n`) to match the exact placement in the Japanese source text, as per layout instructions. The exclamation mark is placed on the new line as it appears after the line break in the source.
+----
+ID=39111
+JA: どうなってやがる……
+EN:What're we gonna do...?
+BEFORE:ما الذي حدث……
+AFTER:ما الذي يجري بحق الجحيم……؟
+REASON:Adjusted the phrasing from 'ما الذي حدث' (what happened) to 'ما الذي يجري بحق الجحيم' (what the hell is going on) to better capture the exasperated and 'grittier' tone of the Japanese 'どうなってやがる' and the game's established register. Added a question mark for clarity.
+----
+ID=39151
+JA: ぐずぐずするな
+行くぞ……弔い合戦にな
+EN:Come. The time for vengeance
+is upon us.
+BEFORE:لا تتردد
+AFTER:لا تتردد.
+لنذهب…… حان وقت الانتقام.
+REASON:Significant omission: The second part of the JA text '行くぞ……弔い合戦にな' was missing. Added 'لنذهب…… حان وقت الانتقام.' to reflect 'Come. The time for vengeance is upon us.' and preserved ellipsis count.
+----
+ID=39155
+JA: よう、相棒
+あんたも手紙をもらったのか？
+EN:Hey, friend. You got a letter too?
+BEFORE:أهلاً، يا شريكي
+AFTER:أهلاً، يا شريكي.
+هل تلقيتَ رسالةً أنتَ أيضاً؟
+REASON:Significant omission: The second part of the JA text 'あんたも手紙をもらったのか？' was missing. Added 'هل تلقيتَ رسالةً أنتَ أيضاً؟' and ensured player-address neutrality (past tense verb).
+----
+ID=39158
+JA: まったくいい迷惑だ
+……あんたもだろ？
+EN:What a hassle. Don't you think?
+BEFORE:هذا مزعج للغاية
+AFTER:هذا مزعج للغاية.
+……ألا تعتقد ذلك أنتَ أيضاً؟
+REASON:Significant omission: The second part of the JA text '……あんたもだろ？' was missing. Added '……ألا تعتقد ذلك أنتَ أيضاً؟' and preserved ellipsis count.
+----
+ID=39159
+JA: <chara_name>様
+いらしたのですね
+EN:Ah, <chara_name>.
+So you have come, too.
+BEFORE:<chara_name>
+AFTER:<chara_name>.
+لقد أتيتَ أنتَ أيضاً.
+REASON:Significant omission: The second part of the JA text 'いらしたのですね' was missing. Added 'لقد أتيتَ أنتَ أيضاً.' and ensured player-address neutrality (past tense verb).
+----
+ID=39160
+JA: 手紙を読んだとき
+不思議な気持ちになりました
+EN:When I read the letter, I was overcome
+with a strange feeling.
+BEFORE:عندما قرأتُ الرسالة
+AFTER:عندما قرأتُ الرسالة،
+انتابني شعورٌ غريب.
+REASON:Significant omission: The second part of the JA text '不思議な気持ちになりました' was missing. Added 'انتابني شعورٌ غريب.'.
+----
+ID=39548
+JA: 女帝に命を捧げると誓い
+ここまで来たが……
+EN:I vowed to protect the Empress with
+my life, but...
+BEFORE:لقد أقسمتُ على تقديم حياتي للإمبراطورة
+وصلتُ إلى هنا……
+AFTER:لقد أقسمتُ على تقديم حياتي للإمبراطورة
+وصلتُ إلى هنا، لكن……
+REASON:Added 'لكن' to convey the 'but' nuance from the Japanese 'が'.
+----
+ID=39569
+JA: じゃあ、頭のてっぺんまで
+駆け上るニャ！
+EN:Mrrr... Fine! I'll just race to the top
+of your head!
+BEFORE:إذن، سأركض حتى قمة الرأس!
+AFTER:إذن، سأركض حتى قمة رأسك!
+REASON:Added 'رأسك' (your head) to match the implied meaning in English and Japanese.
+----
+ID=39710
+JA: ボスもこの町も救われたわ
+……あなたのおかげよ
+EN:The boss and this town were
+both saved thanks to you.
+BEFORE:لقد تم إنقاذ الزعيم وهذه المدينة أيضًا
+AFTER:لقد تم إنقاذ الزعيم وهذه المدينة أيضًا
+……بفضلك
+REASON:Added the missing phrase '……بفضلك' (thanks to you) to complete the translation of '……あなたのおかげよ'.
+----
+ID=39715
+JA: ここから先、物語が大きく動くため
+移動やフィールドコマンドが一部制限されます
+
+このまま進みますか？
+EN:Your journey is approaching a turning point.
+As such, certain movements and Path Actions will be unavailable.
+
+Proceed anyway?
+BEFORE:نظرًا لأن القصة ستتغير بشكل كبير من هنا فصاعدًا، سيتم تقييد بعض التحركات وأوامر الحقل.
+AFTER:نظرًا لأن القصة ستتغير بشكل كبير من هنا فصاعدًا، سيتم تقييد بعض التحركات وأوامر الحقل.
+
+هل تود المضي قدمًا؟
+REASON:Added the missing question 'Proceed anyway?' and preserved line breaks.
+----
+ID=39720
+JA: “選ばれし者”よ
+準備はよろしいですか？
+EN:Are you ready, Chosen One?
+BEFORE:"أيها المختار"
+AFTER:أيها المختار، هل استعددت؟
+REASON:Added the missing question 'Are you ready?' and rephrased to past tense 'استعددت' for gender-neutrality when addressing the player.
+----
+ID=39816
+JA: 正直ヒマで仕方ねぇ……
+なぁ、腕試しにイッパツどうだ？
+EN:Frankly, I'm bored as heck.
+What say we spar to pass the time?
+BEFORE:بصراحة، أنا أشعر بالملل الشديد……
+AFTER:بصراحة، أنا أشعر بالملل الشديد……
+ما رأيك في مبارزة لاختبار مهاراتنا؟
+REASON:Added the missing question 'What say we spar to pass the time?' and preserved line break.
+----
+ID=39818
+JA: 仕事が終わったら一杯やろうぜ
+旅の話を聞かせてくれよ！
+EN:Let's grab a drink when I'm done here.
+I wanna know what you've been up to!
+BEFORE:لنحتسِ شيئًا بعد انتهاء العمل
+AFTER:لنحتسِ شيئًا بعد انتهاء العمل
+وأخبرني عن رحلتك!
+REASON:Added the missing line 'I wanna know what you've been up to!' and preserved line break.
+----
+ID=40343
+JA: あなたも、飲むといいわ……
+ヴァローレのワイン……
+EN:You should drink it, too...
+Yes, Valorean wine...
+BEFORE:يمكنكِ أنتِ أيضاً الشرب……
+AFTER:يمكنك أنت أيضاً الشرب……
+نبيذ فالوريه……
+REASON:Addressee is the protagonist; changed feminine 'يمكنكِ أنتِ' to generic masculine 'يمكنك أنت'. Added missing translation for the second line 'Valore's wine' and preserved line break and ellipsis count.
+----
+ID=40344
+JA: おいしいわよ
+……痺れるほどね
+EN:Why, it's so delicious...
+you'll be transported.
+BEFORE:إنها لذيذة
+AFTER:إنها لذيذة
+……لدرجة أنها ستصيبك بالخدر.
+REASON:Added missing translation for the second line 'to the point of numbness/tingling' and preserved line break and ellipsis count.
+----
+ID=40349
+JA: た、助けてくれ……！
+頼む……！
+EN:H-help me! Please...!
+BEFORE:أ.. ساعدني……!
+AFTER:أ.. ساعدني……!
+أرجوك……!
+REASON:Added missing translation for the second line 'Please!' and preserved line break and ellipsis count.
+----
+ID=40350
+JA: 金以外なら何でもやる……
+だから……頼む……！
+EN:I'll give you anything but money...
+Please...I'm begging you...!
+BEFORE:سأفعل أي شيء سوى المال……
+AFTER:سأفعل أي شيء سوى المال……
+لذا…… أرجوك……!
+REASON:Added missing translation for the second line 'So... please...!' and preserved line break and ellipsis count.
+----
+ID=40352
+JA: 大金に囲まれて……
+安らかに暮らしたい……
+EN:I wish only to live in peace...
+surrounded by my riches...
+BEFORE:محاطاً بالثروة الكبيرة……
+AFTER:محاطاً بالثروة الكبيرة……
+وأرغب في العيش بسلام……
+REASON:Added missing translation for the second line 'I want to live peacefully' and preserved line break and ellipsis count.
+----
+ID=40354
+JA: 心がまるで
+羽みたいに軽い……
+EN:My mind is as light as a feather...
+BEFORE:قلبي خفيفٌ تماماً
+AFTER:قلبي خفيفٌ
+كأنه ريشة……
+REASON:Added missing 'like a feather' part, removed 'تماماً' (completely) which was not in the source, and preserved line break and ellipsis count.
+----
+ID=40592
+JA: 真鍮の鍵で 
+扉を開けますか？
+EN:Use the brass key to open the door?
+BEFORE:هل ستفتح الباب بالمفتاح النحاسي؟
+AFTER:فتح الباب
+بالمفتاح النحاسي؟
+REASON:Rephrased for gender-neutrality (using a verbal noun 'فتح') and added a line break to match `ja_text` structure for a UI prompt.
+----
+ID=40595
+JA: ……若き聖火騎士よ、“選ばれし者”よ
+試練を乗り越えるがよい
+EN:Young Knight Ardante, Chosen One...
+You must overcome the trial ahead.
+BEFORE:……أيها فارس اللهب المقدس الشاب، يا "المختار"
+AFTER:……أيها فارس اللهب المقدس الشاب، يا "المختار"
+يجب أن تتجاوز المحنة القادمة.
+REASON:The original `ar_text` was incomplete, missing the second part of the sentence. Provided a full translation and added a line break to match `ja_text` and `en_text`.
+----
+ID=41676
+JA: 会ってやってくれ 
+姪と……その子供に
+EN:Hurry and see them—my niece
+and her child.
+BEFORE:قابل ابنة أخي…… وطفلها
+AFTER:قابل ابنة أخي
+…… وطفلها
+REASON:Added line break to match JA source pacing.
+----
+ID=41677
+JA: あの人を救うことは
+できませんでしたが……
+EN:I couldn't save him, but...
+BEFORE:لم أستطع إنقاذ ذلك الشخص……
+AFTER:لم أستطع إنقاذ ذلك الشخص
+……
+REASON:Added line break to match JA source pacing.
+----
+ID=411318
+JA: お父さんは“真面目に仕事しろ”
+って言うだろうけど……
+EN:I know your father expects you to
+take this job seriously, but...
+BEFORE:قد يقول والدك "اعمل بجدية"……
+AFTER:قد يقول والدك "اعمل بجدية"
+……
+REASON:Added line break to match JA source pacing.
+----
+ID=411494
+JA: あんたも“魔女”に
+歯向かおうってクチかい？
+EN:You plannin' on goin' up against
+the witch, too?
+BEFORE:هل تنوي الوقوف في وجه "الساحرة"؟
+AFTER:هل تنوي أنت أيضاً
+الوقوف في وجه "الساحرة"؟
+REASON:Added 'أنت أيضاً' to reflect 'あんたも' (you too) and preserved the line break as per JA source.
+----
+ID=411561
+JA: 少し休みますか？
+
+ＨＰ・ＳＰが全回復します。
+EN:Do you want to rest?
+
+HP and SP will be fully restored.
+BEFORE:هل ترغب في أخذ قسط من الراحة؟
+ستسترد نقاط الصحة ونقاط المهارة بالكامل.
+AFTER:هل ترغب في أخذ قسط من الراحة؟
+
+ستسترد نقاط الصحة ونقاط المهارة بالكامل.
+REASON:Added missing double line break '\n' to match source and English text formatting.
+----
+ID=411631
+JA: 守灰文書　序文
+
+
+“祈るだけでは民は救われない”
+
+初代教皇オディプスは
+聖火は、人の手によって
+生み出そうと考えた
+
+その考えは
+教会で代々受け継がれてきた
+
+聖火の才なき者に聖火を与える実験が
+秘密裏に試されてきた
+我々、“枢機卿団”の手によって――
+
+ソンゾーンの死後
+炎を継ぐ者は現れず
+聖火守指長が途絶えた
+
+教会の権威を守るためには
+なんとしても
+青き炎を復活させねばならない
+EN:The Defenders of Ash - Preface
+
+"Prayer alone will not save the people."
+
+The first pontiff, Odypus, wanted to create a Sacred Flame born of human hands. That desire was passed down in the church for generations.
+
+We, the cardinals, carried out an experiment in secret to see what would happen if those without the Flame's gift were given the Sacred Flame.
+
+After Sonzon's passing, there were none who could inherit the Flame, and so the Flameguard came to an end.
+
+We must find a way to revive the Sacred Blue Flame if we are to uphold the authority of the church.
+BEFORE:وثيقة حماية الرماد، المقدمة
+"الصلاة وحدها لن تنقذ الشعب"
+اعتقد البابا الأول أوديبس
+أن الشعلة المقدسة يجب أن تُخلق
+بأيدي البشر
+هذه الفكرة
+توارثتها الكنيسة جيلاً بعد جيل
+أُجريت تجارب سرية
+على منح الشعلة المقدسة لمن لا يملكون الموهبة
+بأيدينا نحن، "فيلق الكرادلة" ――
+بعد وفاة سونزون
+لم يظهر من يرث اللهب
+وانقطع تسلسل قادة حماية الشعلة المقدسة
+من أجل حماية سلطة الكنيسة
+يجب بأي ثمن
+إعادة إحياء اللهب الأزرق
+AFTER:وثيقة حماية الرماد، المقدمة
+
+
+"الصلاة وحدها لن تنقذ الشعب"
+اعتقد البابا الأول أوديبس
+أن الشعلة المقدسة يجب أن تُخلق
+بأيدي البشر
+هذه الفكرة
+توارثتها الكنيسة جيلاً بعد جيل
+أُجريت تجارب سرية
+على منح الشعلة المقدسة لمن لا يملكون الموهبة
+بأيدينا نحن، "فيلق الكرادلة" ――
+بعد وفاة سونزون
+لم يظهر من يرث اللهب
+وانقطع تسلسل قادة حماية الشعلة المقدسة
+من أجل حماية سلطة الكنيسة
+يجب بأي ثمن
+إعادة إحياء اللهب الأزرق
+REASON:Corrected newline count after title to match JA source (added two '\n').
+----
+ID=411658
+JA: <chara_name>の持つ指輪が
+場所を指し示すだろう
+EN:The ring shall show you the way.
+BEFORE:الخاتم الذي يملكه <chara_name>
+AFTER:الخاتم الذي يملكه <chara_name>
+سيشير إلى المكان.
+REASON:Incomplete translation: The second clause 'will show the way' was missing. Added the missing clause.
+----
+ID=411670
+JA: やっぱり……静かだね
+ウィッシュベール
+EN:Wishvale really is quiet...
+BEFORE:لا يزال الأمر…… هادئاً، أليس كذلك؟
+AFTER:لا يزال الأمر…… هادئاً، أليس كذلك يا ويشفيل؟
+REASON:Missing proper noun: 'ويشفيل' (Wishvale) was omitted from the translation. Added it at the end of the sentence.
+----
+ID=411740
+JA: 賢者様がお待ちですニャ
+EN:The Great Sage awaits!
+BEFORE:الحكيم في انتظارك نيا
+AFTER:الحكيم العظيم في انتظارك نيا
+REASON:Added 'العظيم' to 'الحكيم' to better reflect the '様' honorific in '賢者様'.
+----
+ID=411741
+JA: ぜひとも賢者様にお会いくださいニャ！
+EN:Now go on!
+BEFORE:أرجوك، التقي بالحكيم نيا!
+AFTER:أرجوك، التقي بالحكيم العظيم نيا!
+REASON:Added 'العظيم' to 'الحكيم' to better reflect the '様' honorific in '賢者様'.
+----
+ID=411769
+JA: 十二天の書　１巻　アレファンの章
+
+
+太初、オルステラに住まうものたちは
+思考するということを知らなかった。
+
+そこで、碩学王アレファンは
+“知識”の概念を生み出した。
+
+これにより、人々は己の経験を
+後世に伝えられるようになった。
+EN:The Twelve Heavenly Scriptures: Book 1 - Alephan
+
+In the beginning, the people of Orsterra did not know what it meant to think.
+
+And so Alephan the Scholarking created the notion of "knowledge."
+
+Thus, the people were able to pass on their experiences to future generations.
+BEFORE:كتاب الأبراج الاثني عشر، المجلد 1، فصل أليفان
+في البدء، لم يكن سكان أورستيلا
+يعرفون معنى التفكير.
+لذا، قام الملك الحكيم أليفان
+بابتكار مفهوم "المعرفة".
+بفضل ذلك، أصبح بإمكان الناس
+نقل خبراتهم إلى الأجيال القادمة.
+AFTER:كتاب الأبراج الاثني عشر، المجلد 1، فصل أليفان
+
+في البدء، لم يكن سكان أورستيلا
+يعرفون معنى التفكير.
+
+لذا، قام الملك الحكيم أليفان
+بابتكار مفهوم "المعرفة".
+
+بفضل ذلك، أصبح بإمكان الناس
+نقل خبراتهم إلى الأجيال القادمة.
+REASON:Added missing line breaks to match source paragraph structure.
+----
+ID=411770
+JA: 十二天の書　２巻　ドライサングの章
+
+
+人々は碩学王アレファンから知識を授かったが、
+その使い方がわからなかった。
+
+そこで、魔大公ドライサングは
+知識をどう用いればいいか人々に教えた。
+
+ドライサングはそれを“叡智”と名づけた。
+EN:The Twelve Heavenly Scriptures: Book 2 - Dreisang
+
+Though the people learned of knowledge from Alephan, they did not know how to use it.
+
+And so Dreisang the Archmagus showed them the way.
+
+This he dubbed "wisdom."
+BEFORE:كتاب الأبراج الاثني عشر، المجلد 2، فصل درايسانغ
+تلقى الناس المعرفة من الملك الحكيم أليفان،
+لكنهم لم يعرفوا كيفية استخدامها.
+لذا، قام الدوق السحري درايسانغ
+بتعليم الناس كيفية استخدام المعرفة.
+أطلق درايسانغ على ذلك اسم "الحكمة".
+AFTER:كتاب الأبراج الاثني عشر، المجلد 2، فصل درايسانغ
+
+تلقى الناس المعرفة من الملك الحكيم أليفان،
+لكنهم لم يعرفوا كيفية استخدامها.
+
+لذا، قام الدوق السحري درايسانغ
+بتعليم الناس كيفية استخدام المعرفة.
+
+أطلق درايسانغ على ذلك اسم "الحكمة".
+REASON:Added missing line breaks to match source paragraph structure.
+----
+ID=411771
+JA: 十二天の書　３巻　ドーターの章
+
+
+人々は定命の存在であったため、
+魔物によって次々と命を奪われた。
+
+それを憐れんだ霊薬公ドーターは
+人間の持つ叡智を利用し、
+人々に“癒やし”をもたらした。
+EN:The Twelve Heavenly Scriptures: Book 3 - Dohter
+
+The mortal beings of Orsterra lost their lives to fiends one after the next.
+
+And so Dohter the Charitable, with her merciful heart, leveraged the wisdom the people held to bring them "healing."
+BEFORE:كتاب الأبراج الاثني عشر، المجلد 3، فصل دوتر
+بما أن الناس كانوا كائنات فانية،
+فقد سُلبت أرواحهم واحداً تلو الآخر على يد الوحوش.
+فأخذ دوق الأدوية، دوتر، الذي أشفق عليهم،
+باستخدام الحكمة التي يمتلكها البشر،
+بإحضار "الشفاء" للناس.
+AFTER:كتاب الأبراج الاثني عشر، المجلد 3، فصل دوتر
+
+بما أن الناس كانوا كائنات فانية،
+فقد سُلبت أرواحهم واحداً تلو الآخر على يد الوحوش.
+
+فأخذ دوق الأدوية، دوتر، الذي أشفق عليهم،
+باستخدام الحكمة التي يمتلكها البشر،
+بإحضار "الشفاء" للناس.
+REASON:Added missing line breaks to match source paragraph structure.
+----
+ID=411772
+JA: 十二天の書　４巻　ドレファンドの章
+
+
+癒やしの技を授かったことで、
+人間の数が多くなり、食糧が足りなくなった。
+
+そこで狩王女ドレファンドは
+人々に狩猟を始めとした“技術”を授けた。
+
+人々は魔物を狩り、十分な糧を得られるようになった。
+EN:The Twelve Heavenly Scriptures: Book 4 - Draefendi
+
+With the power of healing, the people grew in number, and food became scarce.
+
+And so Draefendi the Huntress bestowed them with skills such as the hunt.
+
+Thus, the people were able to ensnare prey and stave off hunger.
+BEFORE:كتاب الأبراج الاثني عشر، المجلد 4، فصل دريفاند
+بفضل تلقيهم فن الشفاء،
+زاد عدد البشر، ولم تعد الأغذية كافية.
+لذا، منحت أميرة الصيد دريفاند
+الناس "التقنية" التي بدأت بالصيد.
+أصبح بإمكان الناس صيد الوحوش،
+وحصلوا على كفاف كافٍ من الطعام.
+AFTER:كتاب الأبراج الاثني عشر، المجلد 4، فصل دريفاند
+
+بفضل تلقيهم فن الشفاء،
+زاد عدد البشر، ولم تعد الأغذية كافية.
+
+لذا، منحت أميرة الصيد دريفاند
+الناس "التقنية" التي بدأت بالصيد.
+
+أصبح بإمكان الناس صيد الوحوش،
+وحصلوا على كفاف كافٍ من الطعام.
+REASON:Added missing line breaks to match source paragraph structure.
+----
+ID=411773
+JA: 十二天の書　５巻　ウィンヒルドの章
+
+
+人々は、魔物に対し用いていた狩りの技が
+他者に対して行使できることに気づいた。
+
+豪武匠ウィンヒルドは間違いが起きないように、
+身を守るための“力”――８種の神器を人々に授けた。
+
+後にそれらの神器はとある島に封印されることとなる。
+EN:The Twelve Heavenly Scriptures: Book 5 - Winnehild
+
+People realized that the hunting skills they used against monsters could be used against their fellow man.
+
+And so Winnehild the Warbringer, hoping to prevent tragedy, bestowed them with the "strength" to defend themselves in the form of eight sacred treasures.
+
+These treasures were later sealed upon a certain isle.
+BEFORE:كتاب الأبراج الاثني عشر، المجلد 5، فصل وينهيرد
+أدرك الناس أن مهارات الصيد التي كانوا يستخدمونها ضد الوحوش
+يمكن ممارستها ضد الآخرين.
+ولكي يضمن هاومو شو وينهيرد عدم وقوع أخطاء،
+منح الناس "القوة" لحماية أنفسهم ―― وهي الآلهة الثمانية المقدسة.
+لاحقًا، تم ختم تلك الآلهة المقدسة في جزيرة ما.
+AFTER:كتاب الأبراج الاثني عشر، المجلد 5، فصل وينهيرد
+
+أدرك الناس أن مهارات الصيد التي كانوا يستخدمونها ضد الوحوش
+يمكن ممارستها ضد الآخرين.
+
+ولكي يضمن سيد الفنون القتالية وينهيرد عدم وقوع أخطاء،
+منح الناس "القوة" لحماية أنفسهم ―― وهي الكنوز الثمانية المقدسة.
+
+لاحقًا، تم ختم تلك الكنوز المقدسة في جزيرة ما.
+REASON:Corrected translation of '豪武匠' from transliteration 'هاومو شو' to 'سيد الفنون القتالية'. Corrected 'الآلهة الثمانية المقدسة' (sacred gods) to 'الكنوز الثمانية المقدسة' (sacred treasures) for '神器'. Added missing line breaks.
+----
+ID=411774
+JA: 十二天の書　６巻　ブランドの章
+
+
+力を得た人々は当初、互いの力を恐れ、争わずにいた。
+
+しかし、より大きな力を手に入れた者の心に欲が生まれ、
+弱者を支配するようになった。
+
+正義の心を持つ雷剣将ブランドは、弱者に“守護”を与え、
+強者から身を守ることを教えた。
+EN:The Twelve Heavenly Scriptures: Book 6 - Brand
+
+At first, the people feared each other's strength and did not act.
+
+But those who gained greater power craved more and began to dominate the weak.
+
+And so Brand the Thunderblade, righteous of heart, granted the weak "protection" to safeguard themselves from their oppressors.
+BEFORE:كتاب الأبراج الاثني عشر، المجلد 6، فصل براند
+في البداية، خشي الناس الذين حصلوا على القوة من قوى بعضهم البعض، فامتنعوا عن الصراع.
+ولكن، ولدت الرغبة في قلوب أولئك الذين حصلوا على قوة أكبر،
+وبدأوا في السيطرة على الضعفاء.
+منح براند، جنرال سيف الرعد الذي يملك قلبًا عادلاً، "الحماية" للضعفاء،
+وعلمهم كيف يحمون أنفسهم من الأقوياء.
+AFTER:كتاب الأبراج الاثني عشر، المجلد 6، فصل براند
+
+في البداية، خشي الناس الذين حصلوا على القوة من قوى بعضهم البعض، فامتنعوا عن الصراع.
+
+ولكن، ولدت الرغبة في قلوب أولئك الذين حصلوا على قوة أكبر،
+وبدأوا في السيطرة على الضعفاء.
+
+منح براند، جنرال سيف الرعد الذي يملك قلبًا عادلاً، "الحماية" للضعفاء،
+وعلمهم كيف يحمون أنفسهم من الأقوياء.
+REASON:Added missing line breaks to match source paragraph structure.
+----
+ID=411775
+JA: 十二天の書　７巻　シルティージの章
+
+
+弱者が守護を得ても、強者たちは
+他者を征服しようと力を振るい続けた。
+
+人々の悪しき心に惹かれ、世界に闇が生じてしまう。
+
+それを嘆いた舞踏姫シルティージは、
+“舞”を以て欲望を世界の果てへと誘うことで、
+一時的だが、闇を退けることに成功した。
+EN:The Twelve Heavenly Scriptures: Book 7 - Sealticge
+
+Though the weak had protection, the strong continued to subjugate others.
+
+Lured in by the evil in people's hearts, darkness was born.
+
+And so Sealticge, Lady of Grace, used "dance" to lure greed to the ends of the earth. Thus, the world was temporarily spared from darkness.
+BEFORE:كتاب الأبراج الاثني عشر، المجلد 7، فصل سيلتيجي
+حتى مع حصول الضعفاء على الحماية، استمر الأقوياء
+في استخدام قوتهم لمحاولة غزو الآخرين.
+وبسبب انجذاب قلوب الناس إلى الشر، بدأ الظلام يتسلل إلى العالم.
+وبسبب حزنها على ذلك، نجحت أميرة الرقص سيلتيجي،
+عبر "الرقص"، في إبعاد الظلام لفترة وجيزة
+عن طريق إغواء الرغبات إلى نهاية العالم.
+AFTER:كتاب الأبراج الاثني عشر، المجلد 7، فصل سيلتيجي
+
+حتى مع حصول الضعفاء على الحماية، استمر الأقوياء
+في استخدام قوتهم لمحاولة غزو الآخرين.
+
+وبسبب انجذاب قلوب الناس إلى الشر، بدأ الظلام يتسلل إلى العالم.
+
+وبسبب حزنها على ذلك، نجحت أميرة الرقص سيلتيجي،
+عبر "الرقص"، في إبعاد الظلام لفترة وجيزة
+عن طريق إغواء الرغبات إلى نهاية العالم.
+REASON:Added missing line breaks to match source paragraph structure.
+----
+ID=411776
+JA: 十二天の書　８巻　ステオーラの章
+
+
+闇に怯える人々は、
+己の未来を知りたいと考えるようになった。
+
+星占師ステオーラは占いにより、
+人々に“運命”を知る技術を教えた。
+EN:The Twelve Heavenly Scriptures: Book 8 - Steorra
+
+Those who cowered in fear of the darkness began wondering what their future would hold.
+
+And so Steorra the Starseer showed them how to learn of their "fate."
+BEFORE:كتاب الأبراج الاثني عشر، المجلد 8، فصل ستيورا
+بدأ الناس الذين يرتعدون من الظلام
+يفكرون في رغبتهم لمعرفة مستقبلهم.
+عبر التنجيم، علمت منجمة ستيورا
+الناس تقنية معرفة "القدر".
+AFTER:كتاب الأبراج الاثني عشر، المجلد 8، فصل ستيورا
+
+بدأ الناس الذين يرتعدون من الظلام
+يفكرون في رغبتهم لمعرفة مستقبلهم.
+
+عبر التنجيم، علمت منجمة ستيورا
+الناس تقنية معرفة "القدر".
+REASON:Added missing line breaks to match source paragraph structure.
+----
+ID=411777
+JA: 十二天の書　９巻　バロガーの章
+
+
+運命を知った人々は、希望と絶望を覚える者に分かれた。
+
+絶望を抱いた者を憐れんだ魔剣士バロガーは、
+運命に抗うための“武器”を授けた。
+
+これにより人々は己の運命を変えることに成功した。
+かの聖剣フィステラルダも、バロガーのもたらした武器と言われる。
+EN:The Twelve Heavenly Scriptures: Book 9 - Balogar
+
+After learning of their fate, some knew hope, and others despair.
+
+And so Balogar the Runeblade gave those who despaired "weapons" to carve their own path forward.
+
+Thus, people changed their destiny. The sacred sword Fisteralda is said to be one of the weapons bestowed by Balogar.
+BEFORE:كتاب الأبراج الاثني عشر، المجلد 9، فصل باروغر
+انقسم الناس الذين عرفوا القدر إلى من يشعرون بالأمل ومن يشعرون باليأس.
+منح باروغر، سياف السيف الشيطاني الذي أشفق على من يحملون اليأس،
+"سلاحًا" لمقاومة القدر.
+بفضل هذا، نجح الناس في تغيير قدرهم.
+ويقال إن السيف المقدس فيستيرالدا هو أيضًا سلاح قدمه باروغر.
+AFTER:كتاب الأبراج الاثني عشر، المجلد 9، فصل باروغر
+
+انقسم الناس الذين عرفوا القدر إلى من يشعرون بالأمل ومن يشعرون باليأس.
+
+منح باروغر، سياف السحر الذي أشفق على من يحملون اليأس،
+"سلاحًا" لمقاومة القدر.
+
+بفضل هذا، نجح الناس في تغيير قدرهم.
+ويقال إن السيف المقدس فيستيرالدا هو أيضًا سلاح قدمه باروغر.
+REASON:Improved translation of '魔剣士' from 'سياف السيف الشيطاني' to 'سياف السحر'. Added missing line breaks.
+----
+ID=411778
+JA: 十二天の書　１０巻　エベルの章
+
+
+皆が知らぬ間に、一度退けた闇が再び世界に戻り、
+人々の心を蝕み始めていた。
+
+人々は運命に抗うためではなく、私欲のために
+他者を武器で傷つけるようになった。
+
+盗公子エベルは悪しき者から武器を“盗む”ことで、
+世界の均衡を保とうとした。
+EN:The Twelve Heavenly Scriptures: Book 10 - Aeber
+
+Unbeknownst to the people, the darkness crept back into the world and began eating away at their hearts.
+
+They began wielding their weapons not to change their fate, but to harm others for their own gain.
+
+And so Aeber, Prince of Thieves, "stole" weapons from the evildoers in an effort to maintain balance in the world.
+BEFORE:كتاب الأبراج الاثني عشر، المجلد 10، فصل إيبر
+دون أن يدرك الجميع، عاد الظلام الذي تم إبعاده مرة واحدة إلى العالم،
+وبدأ في تآكل قلوب الناس.
+بدأ الناس في إيذاء الآخرين بالأسلحة ليس لمقاومة القدر، بل من أجل الأطماع الشخصية.
+حاول الأمير اللص إيبر الحفاظ على توازن العالم
+عبر "سرقة" الأسلحة من الأشرار.
+AFTER:كتاب الأبراج الاثني عشر، المجلد 10، فصل إيبر
+
+دون أن يدرك الجميع، عاد الظلام الذي تم إبعاده مرة واحدة إلى العالم،
+وبدأ في تآكل قلوب الناس.
+
+بدأ الناس في إيذاء الآخرين بالأسلحة ليس لمقاومة القدر، بل من أجل الأطماع الشخصية.
+
+حاول الأمير اللص إيبر الحفاظ على توازن العالم
+عبر "سرقة" الأسلحة من الأشرار.
+REASON:Added missing line breaks to match source paragraph structure.
+----
+ID=411779
+JA: 十二天の書　１１巻　ビフェルガンの章
+
+
+闇もまた知恵をつけ、盗みの技をすぐに手に入れた。
+
+争いに加えて盗みが横行する状況を収めるため、
+紳商伯ビフェルガンは“商業”を人々にもたらした。
+
+これにより、他者から物を手に入れる際、
+対価を支払わなければ罰せられるようになった。
+EN:The Twelve Heavenly Scriptures: Book 11 - Bifelgan
+
+But the darkness was wise and quickly mastered the art of stealing.
+
+To put an end to the rampant fighting and theft, Bifelgan the Trader bestowed the people with "commerce."
+
+Thus, those who did not pay for the items they took would be punished.
+BEFORE:كتاب الأبراج الاثني عشر، المجلد 11، فصل بيفيرغان
+اكتسب الظلام أيضًا الحكمة، وحصل سريعًا على مهارات السرقة.
+من أجل تهدئة الوضع الذي انتشرت فيه السرقة بالإضافة إلى الصراع،
+جلب اللورد التاجر بيفيرغان "التجارة" إلى الناس.
+بفضل هذا، أصبح من الضروري دفع ثمن عند الحصول على الأشياء من الآخرين،
+وإلا فسيتم معاقبتهم.
+AFTER:كتاب الأبراج الاثني عشر، المجلد 11، فصل بيفيرغان
+
+اكتسب الظلام أيضًا الحكمة، وحصل سريعًا على مهارات السرقة.
+
+من أجل تهدئة الوضع الذي انتشرت فيه السرقة بالإضافة إلى الصراع،
+جلب اللورد التاجر بيفيرغان "التجارة" إلى الناس.
+
+بفضل هذا، أصبح من الضروري دفع ثمن عند الحصول على الأشياء من الآخرين،
+وإلا فسيتم معاقبتهم.
+REASON:Added missing line breaks to match source paragraph structure.
+----
+ID=411780
+JA: 十二天の書　１２巻　エルフリックの章
+
+
+人々に授けられたあらゆる叡智は、
+闇によって捻じ曲げられ、世界は混沌に陥った。
+
+ここに至り神々は、人々に必要なのが武器や技術ではなく
+心の正しさだったのだとようやく気づいた。
+
+聖火神エルフリックは、人々の心を“導く”炎を各地に灯し、
+十二神と人々は、世界から闇を再び退けたのだ。
+EN:The Twelve Heavenly Scriptures: Book 12 - Aelfric
+
+All the wisdom that had been bestowed upon mankind had been warped by darkness, and the world descended into chaos.
+
+Thus, the gods realized that what people needed were not weapons or skills, but to tread the right path.
+
+And so Aelfric the Flamebringer lit flames to "guide" people's hearts, and thus the twelve gods once again drove darkness from the land.
+BEFORE:كتاب الأبراج الاثني عشر، المجلد 12، فصل إلفريك
+كل الحكمة التي مُنحت للناس
+أُحرفت بواسطة الظلام، ووقع العالم في الفوضى.
+عند هذه النقطة، أدرك الآلهة أخيرًا أن ما يحتاجه الناس ليس الأسلحة أو التقنيات،
+بل استقامة القلوب.
+أشعل إلفريك، إله النار المقدسة، نيرانًا في كل مكان "لإرشاد" قلوب الناس،
+وتمكن الآلهة الاثنا عشر والناس من إبعاد الظلام عن العالم مرة أخرى.
+AFTER:كتاب الأبراج الاثني عشر، المجلد 12، فصل إلفريك
+
+كل الحكمة التي مُنحت للناس
+أُحرفت بواسطة الظلام، ووقع العالم في الفوضى.
+
+عند هذه النقطة، أدرك الآلهة أخيرًا أن ما يحتاجه الناس ليس الأسلحة أو التقنيات،
+بل استقامة القلوب.
+
+أشعل إلفريك، إله النار المقدسة، نيرانًا في كل مكان "لإرشاد" قلوب الناس،
+وتمكن الآلهة الاثنا عشر والناس من إبعاد الظلام عن العالم مرة أخرى.
+REASON:Added missing line breaks to match source paragraph structure.
+----
+ID=411890
+JA: 上納金を払わず商売できるって最高！
+ヴァローレとは大違いだ……
+EN:I can't believe I can do business
+without any sort of fee! This is
+nothing like Valore.
+BEFORE:من الرائع أن نتمكن من التجارة دون دفع ضرائب!
+هذا يختلف تماماً عن فالور
+AFTER:من الرائع أن أتمكن من التجارة دون دفع ضرائب!
+هذا يختلف تماماً عن فالور……
+REASON:Corrected the verb from 'نتمكن' (we can) to 'أتمكن' (I can) to match the speaker's perspective ('I can't believe I can do business'). Added missing ellipsis '……' at the end of the line to match the Japanese source.
+----
+ID=411910
+JA: 俺にも居場所があるってのか……？
+EN:Is there really a place for me too...?
+BEFORE:هل يعني هذا أن لي مكاناً أنتمي إليه……؟
+AFTER:هل لي مكان أنتمي إليه أيضاً……؟
+REASON:Rephrased for a more direct translation of the Japanese 'Is there a place for me too...?' without the added 'Does this mean...?'.
+----
+ID=412069
+JA: フレイムグレースは
+寒かったけど……
+EN:Flamesgrace was cold, but...
+BEFORE:فليم غريس
+AFTER:فليم غريس كانت باردة
+لكن……
+REASON:Missing predicate and line break; added ellipsis to match source.
+----
+ID=412216
+JA: さあ、石を持ってこい！
+どんな建物でも作ってやる！
+EN:Hurry up and bring me some rocks!
+I can build anythin', ya know!
+BEFORE:هيا، أحضروا الحجارة!
+سأبني أي مبنى تريدونه!
+AFTER:هيا، أحضروا الحجارة!
+سأبني أي مبنى!
+REASON:The original Arabic 'سأبني أي مبنى تريدونه!' added 'تريدونه' (you want) which is not present in the Japanese source 'どんな建物でも作ってやる！' (I'll build any building!). Removed the extra meaning.
+----
+ID=412345
+JA: ふん……間抜けヅラの
+集まった町だね
+EN:Hmph... This is nothing more
+than a village full of fools.
+BEFORE:هه…… إنها بلدة اجتمعت فيها وجوه حمقاء
+AFTER:هه……
+إنها بلدة اجتمعت فيها وجوه حمقاء
+REASON:Added line break to match source pacing.
+----
+ID=412348
+JA: この町に癒やしをもたらすには
+なにをすればよいでしょう
+EN:I wonder what I can do to help
+heal this town.
+BEFORE:ما الذي يجب فعله لجلب الشفاء إلى هذه البلدة؟
+AFTER:ما الذي يجب فعله لجلب الشفاء إلى هذه البلدة؟
+REASON:Added line break to match source pacing.
+----
+ID=412351
+JA: 我が指を以て
+この町に護りをもたらさん
+EN:I will protect this town with
+all the strength in my fingers.
+BEFORE:سأمنح هذه البلدة الحماية بأصابعي
+AFTER:سأمنح هذه البلدة الحماية
+بأصابعي
+REASON:Added line break to match source pacing.
+----
+ID=412362
+JA: 強大な力を感じる……
+EN:You sense a tremendous power.
+BEFORE:أشعر بقوة هائلة……
+AFTER:شُعِرَ بقوة هائلة……
+REASON:Changed 'أشعر بقوة هائلة' (I feel a tremendous power) to 'شُعِرَ بقوة هائلة' (A tremendous power was felt) to reflect the player character's sensation in a gender-neutral, past-tense passive form, suitable for a system message, as per the 'You sense' in English and player-address guidelines. Added minimal diacritics for clarity.
+----
+ID=412371
+JA: ね、これってあんたにとっても
+大事なものなの？
+EN:Exactly how important is it to you?
+BEFORE:أخبرني، هل هذا الشيء مهم لك أيضاً؟
+AFTER:أخبرني، هل هذا الشيء مهم
+لك أيضاً؟
+REASON:Added line break to match source pacing.
+----
+ID=412377
+JA: アタシ、あんたに
+ついて行こうと思うんだけど
+EN:I've been thinking. Maybe I ought
+to join up with you.
+BEFORE:أخططُ لمرافقتكِ
+AFTER:أخطط لمرافقتك
+REASON:Corrected 'لمرافقتكِ' (feminine) to 'لمرافقتك' (masculine/neutral) to adhere to the strict gender-neutrality rule for the player character. Removed unnecessary damma. Added line break to match source pacing.
+----
+ID=412473
+JA: 霧隠れの山洞なら
+北シェパードロック山道の北東だよ
+EN:The Cavern of Mists is just northeast
+of Shepherds Rock Pass.
+BEFORE:إذا كان كهف الضباب المخفي
+فهو يقع في الشمال الشرقي من طريق جبل شيباردلوك الشمالي
+AFTER:إذا كان كهف الضباب
+فهو يقع في الشمال الشرقي من طريق جبل شيباردلوك الشمالي
+REASON:Removed 'المخفي' as it's an added descriptive word not present in the Japanese source's proper noun 'Cavern of Mists'.
+----
+ID=412478
+JA: “選ばれし者”よ……
+そなたの“指輪”の輝きは、まだ満ちておりません
+EN:Ringbearer chosen... Your ring has yet
+to reach its full radiance.
+BEFORE:"المختار"……
+بريق "خاتمك" لم يكتمل بعد
+AFTER:أيها "المختار"……
+بريق "خاتمك" لم يكتمل بعد
+REASON:Added 'أيها' to 'المختار' to correctly reflect the direct address particle 'よ' in the Japanese source, maintaining gender neutrality for player address.
+----
+ID=412481
+JA: “選ばれし者”よ
+EN:Ringbearer chosen...
+BEFORE:"المختار"
+AFTER:أيها "المختار"
+REASON:Added 'أيها' to 'المختار' to correctly reflect the direct address particle 'よ' in the Japanese source, maintaining gender neutrality for player address.
+----
+ID=412540
+JA: 聖火神と、かつて在りし原母神に
+感謝の祈りを……
+EN:We must thank the Flamebringer and
+the one who was once Mother of All
+for this blessing.
+BEFORE:إلى إلفريك، وإلى إلهة الأرض الأم التي كانت موجودة في الماضي……
+AFTER:فلنقدم صلوات الشكر إلى إلفريك، وإلى إلهة الأرض الأم التي كانت موجودة في الماضي……
+REASON:Added 'فلنقدم صلوات الشكر' (Let us offer prayers of thanks) to complete the implied action from the Japanese '感謝の祈りを……' (prayers of gratitude...).
+----
+ID=412548
+JA: 北シアトポリス平原にある小屋に
+誰か住んでいるみたいなんだ
+EN:I think there's someone living in that
+shack in the North Theatropolis Plains.
+BEFORE:يبدو أن شخصاً ما يسكن في الكوخ الموجود في سهول شمال سياتوبوليس
+AFTER:يبدو أن شخصاً ما يسكن في الكوخ الموجود في سهول ثياتروبوليس الشمالية.
+REASON:Corrected transliteration of 'Theatropolis' to 'ثياتروبوليس' and rephrased 'شمال سياتوبوليس' to 'ثياتروبوليس الشمالية' for better flow and accuracy. Added missing line break '\n' as per source.
+----
+ID=412549
+JA: 家を建ててくれるなんて
+すまねぇな
+EN:Thanks for going to the trouble of
+building a house just for me.
+BEFORE:أنا آسف لأنك ستبني المنزل.
+AFTER:أنا ممتن لك على عناء بناء المنزل.
+REASON:The original 'أنا آسف لأنك ستبني المنزل' (I'm sorry you will build the house) mistranslated the nuance of 'すまねぇな' (sumanee na), which implies gratitude/indebtedness for the trouble caused, not an apology for the act itself. Changed to 'أنا ممتن لك على عناء بناء المنزل' (I am grateful for your trouble in building the house) to better reflect the source's meaning and ensure gender-neutrality for the player. Added missing line break '\n' as per source.
+----
+ID=412605
+JA: ネルムのことは一生忘れない
+でも、最近思うんだ……
+EN:I'll never forget Nellum, so long as
+I live. But lately, I've been thinking...
+BEFORE:لن أنسى نيرم طوال حياتي
+AFTER:لن أنسى نيرم طوال حياتي، لكنني أفكر مؤخراً……
+REASON:Added the missing second clause of the Japanese sentence.
+----
+ID=412608
+JA: みんなが食べてくれると思うと
+狩りにも張り合いが出るよ
+EN:Knowing that everyone can enjoy
+the fruits of my labor gets me
+excited for a hunt.
+BEFORE:عندما أفكر في أن الجميع سيأكلون،
+AFTER:عندما أفكر في أن الجميع سيأكلون، يزداد حماسي للصيد أيضاً.
+REASON:Added the missing second clause of the Japanese sentence.
+----
+ID=412634
+JA: 鳥たちのさえずりに、川のせせらぎ
+自然には、すでに歌が満ち溢れている
+EN:The chirping of birds, the babbling
+brook... Nature is filled with song.
+BEFORE:زقزقة الطيور، وخرير النهر
+AFTER:زقزقة الطيور، وخرير النهر،
+الطبيعة مليئة بالأغاني بالفعل.
+REASON:The original Arabic translation was incomplete, missing the second clause of the Japanese sentence: 'Nature is filled with song.' Added the missing part and adjusted punctuation to match the Japanese source.
+----
+ID=412635
+JA: 博物館へようこそニャ！
+EN:Welcome to the meow-seum!
+BEFORE:أهلاً بك في المتحف!
+AFTER:أهلاً بك في المتحف، مياو!
+REASON:Added 'مياو!' to capture the 'ニャ' (nya) sound, which is a key character voice element, similar to the English 'meow-seum'.
+----
+ID=412636
+JA: ここには優秀な剣士も、有望な若者も多い
+俺の出番はなさそうだな
+EN:There are many skilled warriors here,
+as well as promising youths. I can see
+my skills are not needed.
+BEFORE:هناك الكثير من السيافين المهرة والشباب الواعدين هنا
+AFTER:هناك الكثير من السيافين المهرة والشباب الواعدين هنا. لا يبدو أن لي دورًا.
+REASON:The original Arabic translation was incomplete, missing the second part of the Japanese sentence '俺の出番はなさそうだな' (My skills are not needed / I don't seem to have a role here). Added the missing meaning.
+----
+ID=412637
+JA: この町には、何もないようで……
+いろんなものがあるんだね
+EN:This town has a lot more to offer
+than I thought!
+BEFORE:يبدو أن هذه البلدة لا تحتوي على أي شيء……
+AFTER:يبدو أن هذه البلدة لا تحتوي على أي شيء…… لكنها تخبئ الكثير.
+REASON:The original Arabic translation was incomplete, missing the second part of the Japanese sentence 'いろんなものがあるんだね' (but it has many things / it has a lot more to offer). Added the missing meaning.
+----
+ID=412639
+JA: 無理のねぇ程度に生きて
+死を受け入れる……
+EN:Livin' a cozy life until you die...
+BEFORE:عِشْ بمستوىٍ لا يُطاق
+AFTER:يعيشون حياة معقولة ويتقبلون الموت……
+REASON:The original Arabic 'عِشْ بمستوىٍ لا يُطاق' (live at an unbearable level) was a mistranslation of '無理のねぇ程度に生きて 死を受け入れる' (live a reasonable life and accept death). Corrected the meaning and added the missing ellipsis.
+----
+ID=412668
+JA: 今はリシャ……シャルル殿と議論の最中だ
+“ウィッシュベールから何を学べるか”とね
+EN:Rich... I mean, Charles and I are
+debating what lessons to take
+from Wishvale.
+BEFORE:أنا الآن في خضم نقاش مع اللورد شارل
+حول "ما يمكننا تعلمه من ويشفيل"
+AFTER:أنا الآن في خضم نقاش مع ريشا…… أقصد اللورد شارل
+حول "ما يمكننا تعلمه من ويشفيل"
+REASON:Added the ellipsis and the self-correction 'أقصد' to reflect the speaker's hesitation and correction from 'Risha' to 'Charles' as indicated in the Japanese and English.
+----
+ID=412684
+JA: 演劇も観られるし、図書室もあるし……
+ここにいれば一生飽きないニャ！
+EN:Here, you can watch plays, read books...
+There's more than enough to keep you
+purr-occupied for nine whole lives!
+BEFORE:يمكننا مشاهدة المسرح، وهناك مكتبة أيضاً……
+لن نملّ أبداً طالما بقينا هنا!
+AFTER:يمكننا مشاهدة المسرح، وهناك مكتبة أيضاً……
+لن نملّ أبداً طالما بقينا هنا، مياو!
+REASON:Added 'مياو!' to reflect the 'ニャ！' (nya!) cat sound in the Japanese, which is part of the Cait Scholar's established personality.
+----
+ID=412746
+JA: ▼クエスト開始条件
+「シロブドウの花」の入手
+EN:▼Condition to unlock quest
+Obtain White Grape Blossom
+BEFORE:▼شروط بدء المهمة
+AFTER:▼شروط بدء المهمة
+الحصول على "زهرة العنب الأبيض"
+REASON:Missing second line of text translated and added.
+----
+ID=412750
+JA: 剣が飾られている
+台座には鍵穴があるようだ
+EN:There is a keyhole on the dais on
+which the sword is displayed.
+BEFORE:السيف معروض
+AFTER:السيف معروض.
+يبدو أن هناك ثقب مفتاح على القاعدة.
+REASON:Missing second line of text translated and added.
+----
+ID=412753
+JA: 槍が飾られている
+台座には鍵穴があるようだ
+EN:There is a keyhole on the dais on
+which the polearm is displayed.
+BEFORE:هناك رماح معروضة
+AFTER:هناك رماح معروضة.
+يبدو أن هناك ثقب مفتاح على القاعدة.
+REASON:Missing second line of text translated and added.
+----

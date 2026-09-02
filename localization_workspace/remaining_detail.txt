@@ -1,0 +1,1560 @@
+=== id 17814 ===
+JA: お代をもらえるんなら
+どうぞ持ってって
+EN: You give me money, I give you
+the goods.
+BEFORE: إذا كنت سأحصل على أجر
+GEMINI: إذا أعطيتني المال،
+فسأعطيك البضاعة.
+REASON: The original Arabic was incomplete, missing the second part of the Japanese sentence ('I'll give you the goods').
+
+=== id 17830 ===
+JA: たまには雇われる側に
+なってみるべきかもしれないな
+EN: Experiencing what it is to be employed
+may be a useful endeavor.
+BEFORE: ربما يجدر بك أن تكون في الجانب الذي يتم استئجاره لمرة واحدة على الأقل
+GEMINI: قد يكون من المفيد
+تجربة أن تكون موظفًا لمرة واحدة.
+REASON: The original Arabic incorrectly changed the subject from the speaker's reflection ('I' or 'one') to 'you'. Corrected to reflect the speaker's self-reflection.
+
+=== id 17831 ===
+JA: わかった
+あんたに売ろう
+EN: Very well. I'll sell.
+BEFORE: فهمت
+GEMINI: فهمت.
+سأبيع لك.
+REASON: The original Arabic was incomplete, missing the second part of the Japanese sentence ('I'll sell to you').
+
+=== id 17843 ===
+JA: それはちょっと……
+EN: I'm sorry...
+BEFORE: هذا الأمر...
+GEMINI: أنا آسفة……
+REASON: The original Arabic was too literal and did not convey the implied meaning of refusal or apology. Also corrected ellipsis from ASCII dots to Unicode.
+
+=== id 17846 ===
+JA: 黙って祈りましょう……
+EN: Be silent and pray with me.
+BEFORE: لنصلي في صمت...
+GEMINI: لنصلي في صمت……
+REASON: Corrected ellipsis from ASCII dots to Unicode.
+
+=== id 17848 ===
+JA: あなたに聖火の加護を……
+EN: May the Sacred Flame guide your path.
+BEFORE: أمنحك حماية الشعلة المقدسة...
+GEMINI: فلتكن الشعلة المقدسة مرشدك……
+REASON: Mistranslation of the blessing/wish, and incorrect ellipsis count/character. Changed 'أمنحك حماية' to 'فلتكن... مرشدك' to match the blessing tone of the source and English, and corrected ellipsis to two U+2026 characters.
+
+=== id 17855 ===
+JA: 聖火騎士の子を持つ神官
+EN: Patient Cleric
+BEFORE: كاهن لديه طفل من فارس الشعلة المقدسة
+GEMINI: كاهن لديه طفل من فارس اللهب المقدس
+REASON: Glossary compliance: 'فارس الشعلة المقدسة' changed to 'فارس اللهب المقدس' for 'Knight Ardante'.
+
+=== id 17861 ===
+JA: 欲深さは罪です
+悔い改めなさい
+EN: Greed is a sin. Repent.
+BEFORE: الطمع خطيئة
+GEMINI: الطمع خطيئة. تب.
+REASON: Truncation: The original Arabic missed 'Repent' (悔い改めなさい). Added the missing part.
+
+=== id 17865 ===
+JA: これも神の思し召しでしょう
+どうぞお持ちください
+EN: This must be the will of the gods.
+Please, take it.
+BEFORE: هذا أيضاً من مشيئة الإله
+GEMINI: هذا أيضاً من مشيئة الإله. تفضل خذه.
+REASON: Truncation: The original Arabic missed 'Please, take it' (どうぞお持ちください). Added the missing part.
+
+=== id 17878 ===
+JA: 弱ければなにも手に入れられない
+それが戦いの摂理だ
+EN: The weak deserve nothing.
+That is the law of the battlefield.
+BEFORE: إذا كنت ضعيفاً، فلن تحصل على شيء
+GEMINI: إذا كنت ضعيفاً، فلن تحصل على شيء.
+هذا هو قانون المعركة.
+REASON: Truncation: The original Arabic missed 'That is the law of the battlefield' (それが戦いの摂理だ). Added the missing part and preserved the line break.
+
+=== id 17880 ===
+JA: ……邪魔するな
+EN: Do not bother me.
+BEFORE: ……لا تعترض طريقي
+GEMINI: ……لا تزعجني
+REASON: Mistranslation: 'لا تعترض طريقي' is less accurate than 'لا تزعجني' for '邪魔するな' (Do not bother me/interfere).
+
+=== id 17882 ===
+JA: 勝者は戦利品を得る権利がある
+持っていけ
+EN: To the victor goes the spoils. Here.
+BEFORE: الفائز له الحق في الحصول على الغنائم
+GEMINI: الفائز له الحق في الحصول على الغنائم. خذها.
+REASON: Truncation: The original Arabic missed 'Take it' (持っていけ). Added the missing part.
+
+=== id 17895 ===
+JA: 欲深さは罪です
+悔い改めなさい
+EN: Greed is a sin. Repent.
+BEFORE: الطمع خطيئة
+GEMINI: الطمع خطيئة. تب.
+REASON: Truncation: The original Arabic missed 'Repent' (悔い改めなさい). Added the missing part.
+
+=== id 17899 ===
+JA: これも神の思し召しでしょう
+どうぞお持ちください
+EN: This must be the will of the gods.
+Please, take it.
+BEFORE: هذا أيضاً هو مشيئة الإله
+GEMINI: هذا أيضاً من مشيئة الآلهة.
+تفضل بأخذه.
+REASON: Incomplete translation; missing second sentence and improved phrasing for 'gods' (plural).
+
+=== id 17912 ===
+JA: 欲深さは罪です
+悔い改めなさい
+EN: Greed is a sin. Repent.
+BEFORE: الطمع خطيئة
+GEMINI: الطمع خطيئة.
+تب.
+REASON: Incomplete translation; missing second sentence.
+
+=== id 17916 ===
+JA: これも神の思し召しでしょう
+どうぞお持ちください
+EN: This must be the will of the gods.
+Please, take it.
+BEFORE: هذا أيضاً من مشيئة الإله
+GEMINI: هذا أيضاً من مشيئة الآلهة.
+تفضل بأخذه.
+REASON: Incomplete translation; missing second sentence and improved phrasing for 'gods' (plural).
+
+=== id 17932 ===
+JA: なにか新しいことが
+わかるかもしれませんね
+EN: Perhaps this will lead to some
+new discovery!
+BEFORE: قد نعرف شيئاً جديداً
+GEMINI: قد نعرف شيئاً جديداً.
+REASON: Added punctuation for completeness.
+
+=== id 17957 ===
+JA: おませな少年
+EN: Precocious Boy
+BEFORE: صبي متبختر
+GEMINI: صبي ناضج قبل أوانه
+REASON: Improved translation for 'precocious'.
+
+=== id 17963 ===
+JA: ダメだよ！
+EN: No!
+BEFORE: لا يمكن!
+GEMINI: لا!
+REASON: Changed to a more direct and natural exclamation for 'No!'.
+
+=== id 17964 ===
+JA: ぼくのこころを
+あたためてくれる？
+EN: Will you be the one to melt
+my heart of ice?
+BEFORE: هل يمكنك
+GEMINI: هل ستدفئ قلبي؟
+REASON: Completed the translation of the sentence. Used generic masculine for player address as a fallback for present tense.
+
+=== id 18297 ===
+JA: 熱心に手入れする兵士
+EN: Passionate Repairer
+BEFORE: جندي مهتم بالصيانة
+GEMINI: جندي حريص على الصيانة
+REASON: Used 'حريص' (diligent/eager) to better reflect '熱心' (passionate/diligent) than 'مهتم' (interested).
+
+=== id 18324 ===
+JA: せ、戦略的敗北だ
+べんしょう、するよ
+EN: Th-that was a strategic loss!
+Here, take this as compensation.
+BEFORE: هـ، هـ.. إنه هزيمة استراتيجية
+GEMINI: هـ، هـ.. إنه هزيمة استراتيجية
+سأعوضك.
+REASON: Completed the translation of the sentence. Preserved line break.
+
+=== id 18338 ===
+JA: 聞いてくださいますか？
+EN: Will you hear an old man out?
+BEFORE: هل يمكنك الاستماع؟
+GEMINI: هل تستمع إليّ؟
+REASON: Improved phrasing for 'hear me out' to be more direct and natural. Uses generic masculine as fallback for player address.
+
+=== id 18355 ===
+JA: オレの話を
+聞いてくれるのか？
+EN: Would you hear me out?
+BEFORE: هل ستستمع إلى قصتي؟
+GEMINI: هل ستستمع إلى
+قصتي؟
+REASON: Preserved the line break from the Japanese source.
+
+=== id 18358 ===
+JA: わかったわかった
+持ってけってんだ！
+EN: It's all yours!
+BEFORE: فهمت، فهمت!
+GEMINI: فهمت، فهمت!
+تفضل بها!
+REASON: Translation was incomplete; added the missing part 'It's all yours!'. Preserved line breaks.
+
+=== id 18360 ===
+JA: 町を直すことなら
+まかしとけ！
+EN: If it's repairs you need, you've come
+to the right guy!
+BEFORE: اترك إصلاح البلدة لي!
+GEMINI: اترك إصلاح البلدة
+لي!
+REASON: Preserved the line break from the Japanese source.
+
+=== id 18361 ===
+JA: よその町に行ってるヒマはねぇよ！
+EN: I've got my hands full here.
+No time to be traveling!
+BEFORE: لا وقت لدينا للذهاب إلى بلدة أخرى!
+GEMINI: لا وقت لديّ للذهاب إلى بلدة أخرى!
+REASON: Corrected the pronoun from 'لدينا' (we have) to 'لديّ' (I have) to match the singular speaker.
+
+=== id 18388 ===
+JA: 巡り巡って自分に還るよ
+がめつくしてるとさ
+EN: Avariciousness will only come
+back to harm you in the end.
+BEFORE: في النهاية، سيعود الأمر إليك
+GEMINI: إذا كنت طماعًا، فسيعود الأمر إليك
+في النهاية.
+REASON: Translation was incomplete; added the missing condition 'if you are greedy'. Preserved line breaks.
+
+=== id 18399 ===
+JA: 立ち話に花咲かす老婆
+EN: Chatty Old Woman
+BEFORE: العجوز التي تُزهر الأحاديث
+GEMINI: العجوز الثرثارة
+REASON: The original Arabic used a literal translation of the Japanese idiom 'تُزهر الأحاديث' which sounds less natural for a character title. Replaced with 'الثرثارة' (chatty) to match the 'grounded, natural' register and the English translation.
+
+=== id 18416 ===
+JA: 立ち話に花咲かす主婦
+EN: Chatty Housewife
+BEFORE: ربة منزل تُزهر الأحاديث الواقفة
+GEMINI: ربة المنزل الثرثارة
+REASON: The original Arabic used a literal translation of the Japanese idiom 'تُزهر الأحاديث' and added 'الواقفة' (standing) which was redundant. Replaced with 'الثرثارة' (chatty) for naturalness and to match the English translation.
+
+=== id 18455 ===
+JA: あれま、そんなもんかね
+EN: Oh. I'd expected more of a fight.
+BEFORE: أوه، هل هذا هو الأمر؟
+GEMINI: أوه، توقعت قتالاً أفضل.
+REASON: The original Arabic translation 'هل هذا هو الأمر؟' was too literal and did not convey the nuance of disappointment or expecting more of a fight. Rephrased to match the English translation's tone.
+
+=== id 18456 ===
+JA: あれま、そんなもんかね
+EN: Oh. I'd expected more of a fight.
+BEFORE: أوه، هل هذا هو الأمر؟
+GEMINI: أوه، هل هذا كل ما في الأمر؟
+REASON: Mistranslation; the original implies disappointment or a lack of challenge ('is that all?'), which the previous translation missed.
+
+=== id 18471 ===
+JA: 手合わせ、でありますか！
+よろしくお願いします！！
+EN: You wish to spar?
+Then take up arms!
+BEFORE: هل هو تدريب قتالي، إذن!
+GEMINI: هل هو تدريب قتالي، إذن؟!
+إذن فلنبدأ!
+REASON: Missing the second line of dialogue and the line break. Adjusted punctuation for the question mark.
+
+=== id 18472 ===
+JA: 今回は自分の勝ち、ですね
+またよろしくお願いします！
+EN: I have emerged victorious.
+I look forward to our next duel.
+BEFORE: هذه المرة فوزي، أليس كذلك
+GEMINI: هذه المرة فوزي، أليس كذلك؟
+أتطلع لمبارزتنا القادمة!
+REASON: Missing the second line of dialogue and the line break. Adjusted punctuation for the question mark.
+
+=== id 18473 ===
+JA: 今回は自分の勝ち、ですね
+またよろしくお願いします！
+EN: I have emerged victorious.
+I look forward to our next duel.
+BEFORE: هذه المرة فوزي، أليس كذلك
+GEMINI: هذه المرة فوزي، أليس كذلك؟
+أتطلع لمبارزتنا القادمة!
+REASON: Missing the second line of dialogue and the line break. Adjusted punctuation for the question mark.
+
+=== id 18477 ===
+JA: いい経験になりました
+これをお持ちください！
+EN: That was a valuable experience.
+Please take this in return!
+BEFORE: لقد كانت تجربة جيدة
+GEMINI: لقد كانت تجربة جيدة.
+تفضل هذا!
+REASON: Missing the second line of dialogue and the line break from the source.
+
+=== id 18505 ===
+JA: 手合わせですか……
+受けて立ちましょう！
+EN: You wish to spar? En garde!
+BEFORE: هل هو تدريب قتالي...
+GEMINI: هل هو تدريب قتالي……؟
+فلأقبل التحدي!
+REASON: Missing the second line of dialogue and the line break. Incorrect ellipsis character and count. Added question mark.
+
+=== id 18509 ===
+JA: 思い出は胸に秘めたまま……
+EN: I prefer to keep my memories close.
+BEFORE: مع إبقاء الذكريات في أعماق الصدر……
+GEMINI: أفضل الاحتفاظ بذكرياتي في صدري……
+REASON: Improved naturalness and captured the nuance of 'prefer to keep'.
+
+=== id 18511 ===
+JA: 参りました
+どうぞお持ちください！
+EN: I admit defeat. Please, take this
+with you.
+BEFORE: لقد انتهيت.
+GEMINI: لقد استسلمت.
+تفضل خذه!
+REASON: Corrected mistranslation of '参りました' and added the missing second part of the sentence, preserving line break.
+
+=== id 18513 ===
+JA: 私が身につけた騎士としての
+技術と心……お教えしましょう
+EN: I will teach you everything I learned
+to be a knight.
+BEFORE: المهارات والقلب اللذان اكتسبتهما كفارس…… سأعلمك إياهما.
+GEMINI: سأعلمك كل ما اكتسبته كفارس من مهارات وقلب……
+REASON: Rephrased for better grammatical agreement and naturalness, preserving ellipsis and line break.
+
+=== id 18514 ===
+JA: まだ準備ができているとは
+言い難いですね
+EN: I cannot say that I am ready just yet.
+BEFORE: يصعب القول إنك مستعد بعد.
+GEMINI: يصعب القول إنني مستعد بعد.
+REASON: Corrected subject from 'you' to 'I' based on source and EN text, preserving line break.
+
+=== id 18592 ===
+JA: 駄目だね
+これは俺のさ
+EN: Nope. That's mine.
+BEFORE: لا يمكن.
+GEMINI: لا يمكن.
+هذا لي.
+REASON: Added the missing second part of the sentence, preserving line break.
+
+=== id 18595 ===
+JA: 美味しいものを
+食べさせてほしいな！
+EN: I'm expecting to get a nice meal
+out of this!
+BEFORE: أود أن تجعلني آكل شيئًا لذيذًا!
+GEMINI: أتمنى أن أُطعَم شيئًا لذيذًا!
+REASON: Improved naturalness and captured the passive nuance of the Japanese source, preserving line break.
+
+=== id 18596 ===
+JA: そこまで言われちゃ
+しょうがないなぁ
+EN: If you insist.
+I can't very well say no.
+BEFORE: بما أنك قلت ذلك،
+GEMINI: بما أنك أصررت،
+فلا أستطيع الرفض.
+REASON: Added the missing second part of the sentence and improved naturalness, preserving line break.
+
+=== id 18611 ===
+JA: ちょっと手いっぱいで……
+EN: I'm a little busy right now...
+BEFORE: يداي مشغولتان قليلاً……
+GEMINI: أنا مشغول قليلاً……
+REASON: Improved naturalness for '手いっぱい', preserving ellipsis count.
+
+=== id 18613 ===
+JA: 売れ残って困っていたものですが
+よければ使ってください
+EN: I was having trouble selling that,
+so you're welcome to it.
+BEFORE: لقد كانت عالقة في المخازن وأرهقتني
+GEMINI: لقد كانت عالقة في المخازن وأرهقتني،
+تفضل باستخدامها.
+REASON: Added the missing second part of the sentence, preserving line break.
+
+=== id 18624 ===
+JA: 山道で鍛えた、この体
+甘く見るんじゃねぇぞ！
+EN: Don't make light of me!
+I've weathered countless
+roads fraught with danger!
+BEFORE: هذا الجسد الذي صقلته في الطرق الجبلية
+GEMINI: هذا الجسد الذي صقلته في الطرق الجبلية
+لا تستهن به!
+REASON: Incomplete translation of the Japanese source. Added the second part of the sentence.
+
+=== id 18628 ===
+JA: 間に合ってるよ！
+EN: No thanks!
+BEFORE: لقد وصلت في الوقت المناسب!
+GEMINI: لا شكرًا!
+REASON: Mistranslation of contextual meaning. '間に合ってるよ！' means 'No thanks!' or 'I'm fine as I am' in this context, not 'I arrived on time!'
+
+=== id 18644 ===
+JA: 私の話を聞きたまえ
+EN: Listen to my words of wisdom.
+BEFORE: استمع إلى حديثي
+GEMINI: استمع إلى كلماتي الحكيمة.
+REASON: Translation was too literal and missed the character's scholarly tone implied by the Japanese 'たまえ' (tamae) and the English 'words of wisdom'. Used generic masculine as fallback for player address.
+
+=== id 18664 ===
+JA: 懐の深いところを
+彼女に見せないとね！
+EN: I have to show my girlfriend
+how generous I am!
+BEFORE: يجب ألا أظهر لها
+GEMINI: يجب أن أظهر لها مدى كرمي!
+REASON: Mistranslation: 'يجب ألا أظهر لها' (I must not show her) incorrectly negates the Japanese '見せないとね' (misenai to ne), which means 'I must show'. Corrected to the affirmative meaning.
+
+=== id 18680 ===
+JA: フフッ……これからも
+一緒に踊りましょう
+EN: Haha... And so our
+dance continues.
+BEFORE: فُفُ…… فلنرقص معاً
+GEMINI: فُفُ……
+فلنواصل الرقص معاً.
+REASON: Incomplete translation; the original Arabic missed the nuance of 'continue' or 'from now on' (これからも). Added a line break for consistency with source.
+
+=== id 18681 ===
+JA: これを見たとき
+私のこと、思い出してね
+EN: Remember me whenever
+you look upon this.
+BEFORE: عندما ترى هذا
+GEMINI: عندما ترى هذا،
+تذكرني.
+REASON: Incomplete translation; the original Arabic missed the second part of the sentence ('Remember me').
+
+=== id 18688 ===
+JA: ホルンブルグの元家臣
+EN: Former Vassal of Hornburg
+BEFORE: تابع سابق لملك هورنبورغ
+GEMINI: تابع سابق لهورنبورغ
+REASON: Mistranslation; the original Arabic added 'ملك' (king) which is not present in the Japanese source 'ホルンブルグの元家臣' (Former Vassal of Hornburg).
+
+=== id 18693 ===
+JA: 人の足元を見るのは
+感心しませんな！
+EN: How dare you try to take
+advantage of me!
+BEFORE: النظر إلى أصل الناس
+GEMINI: لا أستحسن استغلال ضعف الناس!
+REASON: Mistranslation of the idiom '人の足元を見る' (hito no ashimoto o miru), which means 'to take advantage of someone's weakness' or 'to look down on someone's circumstances', not 'looking at people's origin'. Aligned with the English meaning 'How dare you try to take advantage of me!'
+
+=== id 18694 ===
+JA: 人の足元を見るのは
+感心しませんな！
+EN: How dare you try to take
+advantage of me!
+BEFORE: النظر إلى أصل الناس
+GEMINI: لا أستحسن استغلال ضعف الناس!
+REASON: Mistranslation of the idiom '人の足元を見る' (hito no ashimoto o miru), which means 'to take advantage of someone's weakness' or 'to look down on someone's circumstances', not 'looking at people's origin'. Aligned with the English meaning 'How dare you try to take advantage of me!'
+
+=== id 18697 ===
+JA: これも生き永らえるため
+精いっぱい働かせていただきます！
+EN: I will do my utmost to earn
+my keep!
+BEFORE: هذا أيضاً من أجل البقاء على قيد الحياة
+GEMINI: هذا أيضاً من أجل البقاء على قيد الحياة،
+وسأعمل قصارى جهدي!
+REASON: Incomplete translation; the original Arabic missed the second part of the sentence ('I will do my utmost to earn my keep!').
+
+=== id 18705 ===
+JA: 元剣士の看板娘
+EN: Former Warrior
+BEFORE: ابنة صاحب متجر سابقة لمحارب
+GEMINI: محاربة سابقة
+REASON: Mistranslation of '看板娘' (kanban musume) which means 'poster girl' or 'signboard girl', not 'daughter of a shop owner'. Simplified to 'Former Warrior' (feminine) to align with the English translation and the character's primary identity.
+
+=== id 18712 ===
+JA: 何かお聞きになりたいの？
+EN: Is there something you'd like
+to know?
+BEFORE: هل هناك شيء تودون سؤالي عنه؟
+GEMINI: هل هناك شيء تودون
+سؤالي عنه؟
+REASON: Added a line break to match the source Japanese and English for pacing.
+
+=== id 18798 ===
+JA: なにみてるのよ！？
+あっちいって！
+EN: What're you looking at!?
+Go away!
+BEFORE: ماذا تنظر؟!
+GEMINI: ماذا تنظر؟!
+اذهب بعيدًا!
+REASON: Incomplete translation; added missing part and preserved line break.
+
+=== id 18837 ===
+JA: ワシが動かせると思うか！
+EN: I'm not goin' anywhere!
+BEFORE: هل تعتقد أنني أستطيع تحريكه!
+GEMINI: هل تظن أنني سأتحرك؟
+REASON: Corrected mistranslation to match the EN interpretation of 'I'm not goin' anywhere!' (refusal to move oneself) rather than 'move it'.
+
+=== id 19259 ===
+JA: 残念だったわね
+EN: Too bad for you.
+BEFORE: كان ذلك مؤسفاً
+GEMINI: يا للأسف.
+REASON: Improved register and nuance for 'Too bad for you' to be more natural (يا للأسف).
+
+=== id 19261 ===
+JA: さすがね……
+いいわ、あげるわよ
+EN: I expected no less.
+Here, take it.
+BEFORE: كما هو متوقع……
+GEMINI: كما هو متوقع……
+حسناً، خذها.
+REASON: Incomplete translation; added missing phrase 'Here, take it.'; preserved ellipsis count and line break.
+
+=== id 19269 ===
+JA: そうはいかないぜ！
+EN: Oh, no, you don't!
+BEFORE: لن يمر الأمر بهذه السهولة!
+GEMINI: ليس بهذه السهولة!
+REASON: Improved register and nuance for 'Oh, no, you don't!' to be more direct and natural.
+
+=== id 19280 ===
+JA: そりゃちっと図々しくねえだべか？
+EN: Whoa there! Don't you think
+you're being a bit pushy?
+BEFORE: أليس هذا وقحاً بعض الشيء؟
+GEMINI: ألا تظن أنك تلحّ بعض الشيء؟
+REASON: Improved translation for 'pushy' (تلحّ); improved register; maintained generic masculine fallback for player address.
+
+=== id 19282 ===
+JA: 大事に使ってけろ
+EN: Make good use of that, all right?
+BEFORE: استخدمها بعناية
+GEMINI: استفد منها جيداً.
+REASON: Improved translation for 'Make good use of that' (استفد منها جيداً); improved register.
+
+=== id 19283 ===
+JA: 何の話をするべか？
+EN: What d'you wanna talk about?
+BEFORE: عن ماذا نتحدث؟
+GEMINI: ماذا تريد أن نتحدث عنه؟
+REASON: Improved register and directness for 'What d'you wanna talk about?'; maintained generic masculine fallback for player address.
+
+=== id 19294 ===
+JA: 詮索されるのは
+好きじゃないんでね
+EN: I don't like being interrogated.
+BEFORE: أنا لا أحب
+GEMINI: أنا لا أحب
+التطفل.
+REASON: Incomplete translation; added missing phrase 'being interrogated' (التطفل); preserved line break.
+
+=== id 19299 ===
+JA: お、やろうっての？
+EN: Oh? Looking for a fight, are you?
+BEFORE: أوه، هل تنوي فعلها؟
+GEMINI: أوه، هل تبحث عن قتال؟
+REASON: Improved accuracy and register; 'هل تبحث عن قتال؟' is a more natural fit for 'Looking for a fight?' than 'هل تنوي فعلها؟'.
+
+=== id 19300 ===
+JA: フフン、おつかれさま～！
+EN: Haha. Nice try!
+BEFORE: هه، عمل شاق، أليس كذلك~!
+GEMINI: هه، أحسنت المحاولة!
+REASON: Improved accuracy and register; 'أحسنت المحاولة!' is a more natural fit for 'Nice try!' than 'عمل شاق، أليس كذلك~!'.
+
+=== id 19303 ===
+JA: へえ、アタシに興味あんの？
+EN: Want to hear my story, do you?
+BEFORE: هه، هل أنت مهتم بي؟
+GEMINI: هه، هل تود سماع قصتي؟
+REASON: Improved accuracy and register; 'هل تود سماع قصتي؟' better captures the nuance of 'Want to hear my story?'.
+
+=== id 19304 ===
+JA: アタシの話なんて面白くないよ
+EN: I'm afraid my history would bore you.
+BEFORE: قصتي ليست ممتعة
+GEMINI: أخشى أن قصتي ستُملّك.
+REASON: Improved accuracy and register; 'أخشى أن قصتي ستُملّك' better captures the nuance of 'I'm afraid my history would bore you'.
+
+=== id 19307 ===
+JA: エスペル
+EN: Esperre
+BEFORE: إسبيل
+GEMINI: إسبير
+REASON: Corrected transliteration of 'Esperre' to 'إسبير' for glossary compliance.
+
+=== id 19312 ===
+JA: 参りました……
+はい、どうぞ
+EN: You got me...
+All right, here you are.
+BEFORE: لقد هُزمت……
+GEMINI: لقد هُزمت……
+تفضل.
+REASON: Completed the translation of the full Japanese text.
+
+=== id 19324 ===
+JA: 詳しい話はまた後で……
+EN: We can speak at length later.
+BEFORE: التفاصيل لاحقاً……
+GEMINI: سنتحدث عن التفاصيل لاحقاً……
+REASON: Improved register and naturalness; 'سنتحدث عن التفاصيل لاحقاً' is more natural for 'We can speak at length later'.
+
+=== id 19329 ===
+JA: よし、いっちょ揉んでやるか！
+EN: All right! Time for a sparring match!
+BEFORE: حسناً، لنرَ من سيفوز في هذه المعركة!
+GEMINI: حسناً، حان وقت النزال!
+REASON: Improved accuracy and register; 'حان وقت النزال!' is a more natural fit for 'Time for a sparring match!'.
+
+=== id 19332 ===
+JA: くっそー、腕を上げやがって！
+ほら、持ってけよ！
+EN: Dammit, you're stronger than
+I remember! Here, take it.
+BEFORE: سحقاً، لقد طورت مهاراتك!
+GEMINI: سحقاً، لقد طورت مهاراتك!
+هاك، خذها!
+REASON: Completed the translation of the full Japanese text.
+
+=== id 19363 ===
+JA: これがほしいの？
+いいわよ
+EN: You want this? All right.
+BEFORE: هل تريد هذا؟
+GEMINI: هل تريد هذا؟ حسنًا.
+REASON: Missing part of the translation.
+
+=== id 19365 ===
+JA: まだちょっと……
+ごめんなさい
+EN: Sorry, I...I'm not ready yet.
+BEFORE: لا يزال الأمر صعباً قليلاً……
+GEMINI: أنا آسفة، لا أزال غير مستعدة بعد……
+REASON: Missing part of the translation and better captured the nuance of 'not ready'; ensured correct feminine agreement for the speaker.
+
+=== id 19392 ===
+JA: 安く見られたものだな……
+EN: Never underestimate the Shipwreck
+King!
+BEFORE: لقد كان يبدو رخيصًا……
+GEMINI: كم تم الاستخفاف بي……
+REASON: Mistranslation of '安く見られた' (to be underestimated) as 'seemed cheap'.
+
+=== id 19404 ===
+JA: ええ、一緒に歌いましょう
+EN: Let us raise our voices in song.
+BEFORE: نعم، لنغنِّ معًا
+GEMINI: نعم، لنغن معا
+REASON: Removed unnecessary harakat (kasra on ن).
+
+=== id 19411 ===
+JA: ひとつ手合わせといこうか
+EN: Shall we spar?
+BEFORE: لنخض تجربة قتال واحدة
+GEMINI: لنتنازل
+REASON: Improved register and naturalness; 'لنخض تجربة قتال واحدة' was stiff, 'لنتنازل' is more natural for 'spar'.
+
+=== id 19412 ===
+JA: 弱い者にこれは託せない
+EN: I cannot give this to one who is not
+worthy of it.
+BEFORE: لا يمكنني إيداع هذا لدى الضعفاء
+GEMINI: لا يمكنني إيداع هذا لمن هو ضعيف
+REASON: Improved number agreement; 'لدى الضعفاء' (plural) changed to 'لمن هو ضعيف' (singular/generic) to match the nuance of the source.
+
+=== id 19439 ===
+JA: アーフェン
+EN: Alfyn
+BEFORE: أرفين
+GEMINI: ألفين
+REASON: Transliteration for 'Alfyn' adjusted to a more common Arabic spelling.
+
+=== id 19452 ===
+JA: その腕では渡せないな
+EN: I will not yielde this to one so untrained.
+BEFORE: لا يمكن تمريره بيدك هذه
+GEMINI: لا يمكنني تسليمه لك بهذه المهارة.
+REASON: Improved phrasing for natural MSA, more accurately reflecting the Japanese 'その腕では渡せないな' (I cannot hand it over with that skill/arm) rather than the archaic English interpretation.
+
+=== id 19454 ===
+JA: たいした腕だ
+持っていくがいい
+EN: Thou hast proven thyself.
+Taken it.
+BEFORE: مهارة جيدة
+GEMINI: مهارة رائعة!
+خذه.
+REASON: Original translation was severely truncated; full description translated. Preserved line breaks.
+
+=== id 19469 ===
+JA: サイラス
+EN: Cyrus
+BEFORE: سايلس
+GEMINI: سايرس
+REASON: Transliteration for 'Cyrus' adjusted to a common Arabic spelling.
+
+=== id 19476 ===
+JA: すまない、ちょっと待ってくれないか
+EN: Sorry, but could you give me
+a moment?
+BEFORE: عذراً، هل يمكنك الانتظار قليلاً
+GEMINI: عذراً، هل يمكنك الانتظار قليلاً؟
+REASON: Added missing question mark.
+
+=== id 19484 ===
+JA: いい踊りだったわ
+はい、どうぞ
+EN: That was a great performance.
+Here, have this.
+BEFORE: كانت رقصة جميلة
+GEMINI: كانت رقصة جميلة.
+تفضل.
+REASON: Incomplete translation; added missing phrase and preserved line break. Used generic masculine fallback for player address.
+
+=== id 19496 ===
+JA: ……忙しくてな
+EN: I'm busy right now.
+BEFORE: ……كنت مشغولًا
+GEMINI: ……أنا مشغول.
+REASON: Corrected verb tense from past to present to match Japanese source.
+
+=== id 19506 ===
+JA: すみません、またの機会に……
+EN: My apologies, but perhaps on
+another occasion...
+BEFORE: معذرة، في فرصة أخرى……
+GEMINI: معذرة، في فرصة أخرى……
+REASON: Removed extraneous line break from EN source, as it's not present in JA.
+
+=== id 19545 ===
+JA: フッ、話にならぬな
+EN: Ha! Pathetic.
+BEFORE: هه، لا يمكننا التفاهم
+GEMINI: هه، لا فائدة من الكلام.
+REASON: More accurately reflects the Japanese meaning 'not worth talking about' and the dismissive tone.
+
+=== id 19548 ===
+JA: なんじゃ？
+EN: What?
+BEFORE: ما الأمر؟
+GEMINI: ماذا؟
+REASON: Changed to a more direct and informal 'What?' to match the Japanese tone.
+
+=== id 19549 ===
+JA: 控えろ
+EN: Cease your prattling.
+BEFORE: تراجع
+GEMINI: كف عن الكلام.
+REASON: Mistranslation; 'تراجع' means retreat. Corrected to 'cease talking' to match the intent of 'Cease your prattling'.
+
+=== id 19565 ===
+JA: そなたの腕を確かめたい
+EN: I wish to take the full measure
+of your strength.
+BEFORE: أريد اختبار ذراعك
+GEMINI: أريد اختبار قوتك
+REASON: Changed 'ذراعك' (your arm) to 'قوتك' (your strength) to better reflect the meaning of 'strength' or 'ability' implied by '腕' and the English translation.
+
+=== id 19576 ===
+JA: いくら君でもあげられないのニャ
+EN: I can't give that up, not even fur you.
+BEFORE: مهما كنت، لا يمكنني إعطاؤك إياه نيا
+GEMINI: مهما كنتَ أنت، لا يمكنني إعطاؤك إياه نيا
+REASON: Added 'أنت' and made 'كنتَ' explicit for better accuracy and flow, reflecting 'even if it's you'.
+
+=== id 19578 ===
+JA: 君にならあげてもいいニャ
+EN: Purr-haps it's okay if you have it.
+BEFORE: يمكنني إعطاؤك إياه أنت نيا
+GEMINI: يمكنني أن أعطيك إياه نيا
+REASON: Rephrased 'يمكنني إعطاؤك إياه أنت' to 'يمكنني أن أعطيك إياه' for more natural Arabic phrasing, removing redundancy.
+
+=== id 19634 ===
+JA: ヨーセフ大司教
+EN: Archbishop Josef
+BEFORE: الأرشوبسيس يوسف
+GEMINI: رئيس الأساقفة يوسف
+REASON: Changed 'الأرشوبسيس' to 'رئيس الأساقفة' for consistency with standard Arabic terminology and the glossary's use of 'الأسقف' for Bishop.
+
+=== id 19697 ===
+JA: 私なら役に立てるだろう
+EN: I am certain I can be of help.
+BEFORE: يمكنني المساعدة إذا كنتُ مكانك
+GEMINI: أنا متأكد أنني أستطيع المساعدة.
+REASON: Corrected the nuance to better reflect the Japanese '私なら役に立てるだろう' and English 'I am certain I can be of help', focusing on the speaker's general ability to help rather than a hypothetical 'if I were in your place'.
+
+=== id 19709 ===
+JA: お話を伺いましょう
+EN: What is it you want to talk about?
+BEFORE: دعنا نستمع إلى القصة
+GEMINI: دعنا نستمع إليك.
+REASON: More general and natural phrasing for 'Let's hear what you have to say' instead of 'Let's listen to the story'.
+
+=== id 19715 ===
+JA: まだこの町を放っては行けません
+EN: I cannot leave this town just yet.
+BEFORE: لا يمكنني الذهاب وترك هذه البلدة بعد
+GEMINI: لا يمكنني ترك هذه البلدة بعد.
+REASON: More concise and natural phrasing for 'I cannot leave this town just yet'.
+
+=== id 19719 ===
+JA: 凝り性な針子
+EN: Fastidious Seamstress
+BEFORE: خياطة مهووسة
+GEMINI: خياطة دقيقة
+REASON: Used 'دقيقة' (meticulous) which is a better fit for 'Fastidious' than 'مهووسة' (obsessed).
+
+=== id 19726 ===
+JA: ふぅ……休憩がてら
+話をしてもいいわ
+EN: Phew... I suppose we could talk
+while I'm taking my break.
+BEFORE: هاه…… هل يمكننا التحدث
+GEMINI: هاه……
+يمكننا التحدث أثناء استراحتي.
+REASON: Full translation of the Japanese source, preserving line break and ellipsis count.
+
+=== id 19819 ===
+JA: 聖火騎士ロンド
+EN: Rondo of the Knights Ardante
+BEFORE: روند، فارس الشعلة المقدسة
+GEMINI: روند، فارس اللهب المقدس
+REASON: Corrected 'فارس الشعلة المقدسة' to 'فارس اللهب المقدس' for glossary compliance.
+
+=== id 19934 ===
+JA: リプルタイドの名匠による帆船“クイーン・オルサ”を駆り、
+中つ海から外海までを巡った海の冒険家。
+恋人は未だ帰らず、今もなお失意の海から抜け出せない。
+EN: An adventurer who sailed the seas aboard the Queen Orsa, a magnificent ship that was crafted by a master shipwright from Rippletide. The love of his life still has not returned, and so he remains stranded in a sea of despair.
+BEFORE: مغامر بحري جاب البحار من البحر المتوسط إلى البحار الخارجية على متن السفينة الشراعية "كوين أورسا" التي صنعها حرفي بارع من ريبلتايد.
+GEMINI: مغامر بحري جاب البحار من البحر المتوسط إلى البحار الخارجية على متن السفينة الشراعية "كوين أورسا" التي صنعها حرفي بارع من ريبلتايد. لم تعد حبيبته بعد، ولا يزال غارقًا في بحر اليأس.
+REASON: The original translation was incomplete, missing the second sentence about his lost love and despair.
+
+=== id 19945 ===
+JA: 冒険家の恋人を海で失い、
+悲嘆に暮れて、海から離れた町に来た。
+今でも彼を忘れられない。
+EN: After losing her true love at sea, she moved to a town far away from the coast. To this day, she still pines for her adventurous beau.
+BEFORE: فقدت حبيبها المغامر في البحر، وجاءت إلى بلدة بعيدة عن البحر وهي غارقة في الحزن.
+GEMINI: فقدت حبيبها المغامر في البحر، وجاءت إلى بلدة بعيدة عن البحر وهي غارقة في الحزن. ولا تزال لا تستطيع نسيانه حتى اليوم.
+REASON: The original translation was incomplete, missing the last sentence about her inability to forget him.
+
+=== id 19952 ===
+JA: マージムが生きてるの……？
+お願い、彼のところに連れてって！！
+EN: Marjim is alive?
+Please, bring me to him!
+BEFORE: هل مارجيم على قيد الحياة……؟
+GEMINI: هل مارجيم على قيد الحياة……؟
+أرجوك، خذني إليه!!
+REASON: The original translation was incomplete, missing the second sentence. Preserved the line break and ellipsis count.
+
+=== id 19980 ===
+JA: ま……まさか……
+これは……
+EN: Wait...
+Could this truly be...?
+BEFORE: لا…… لا يمكن أن يكون……
+GEMINI: لا…… لا يمكن أن يكون……
+هذا……
+REASON: Added the implied 'هذا' and preserved the line break and ellipsis count to match the source's pacing and meaning.
+
+=== id 19984 ===
+JA: ファラメ
+EN: Pharamea
+BEFORE: فاراميا
+GEMINI: فارميا
+REASON: Corrected transliteration of 'Pharamea' to 'فارميا' as per glossary.
+
+=== id 19994 ===
+JA: 大司教セラフィナ
+EN: Archbishop Ceraphina
+BEFORE: الكاردينال سيرينا
+GEMINI: رئيسة الأساقفة سيرينا
+REASON: Corrected 'الكاردينال' to 'رئيسة الأساقفة' for accurate title translation.
+
+=== id 20179 ===
+JA: 打ち合わせかい？
+望むところさ！
+EN: You want a briefing?
+It'd be my pleasure!
+BEFORE: هل هو اجتماع؟
+GEMINI: هل هو اجتماع؟
+يسعدني ذلك!
+REASON: Incomplete translation; completed the sentence and preserved line break.
+
+=== id 20184 ===
+JA: 戦う相手か、切る木があれば
+喜んで伺うとしよう
+EN: I'll gladly oblige as long as there
+are opponents I can duel or trees
+I can fell.
+BEFORE: هل هو خصم للقتال، أم شجرة لقطعها؟
+GEMINI: إذا كان هناك خصم للقتال، أو شجرة لقطعها،
+فسأحضر بكل سرور.
+REASON: Mistranslation of sentence type (question instead of statement); rephrased to match source and preserved line break.
+
+=== id 20185 ===
+JA: 闘技大会こそ紳士の職場
+すまないね
+EN: Apologies, but the arena is where
+a gentleman truly belongs.
+BEFORE: مسابقات القتال هي مكان السادة
+GEMINI: مسابقات القتال هي مكان السادة الحقيقيين
+أعتذر.
+REASON: Incomplete translation; completed the sentence and preserved line break.
+
+=== id 20186 ===
+JA: い、今は
+そういう気分じゃ……
+EN: I'm not in the mood.
+BEFORE: أ-أنا لست في
+GEMINI: أ-أنا لست في
+المزاج الآن……
+REASON: Incomplete translation; completed the sentence, preserved line break, and corrected ellipsis count.
+
+=== id 20189 ===
+JA: ふふふ、俺の話か……
+EN: Heh heh. Want to hear my story?
+BEFORE: هيهيهي، قصتي أنا...
+GEMINI: هيهيهي، قصتي أنا……
+REASON: Corrected ellipsis count to match source.
+
+=== id 20190 ===
+JA: 聞いてくれるかい……？
+EN: You'll listen to me...?
+BEFORE: هل ستستمع إليّ...؟
+GEMINI: هل ستستمع إليّ……؟
+REASON: Corrected ellipsis count to match source.
+
+=== id 20196 ===
+JA: 私の話か……
+EN: My story? Well...
+BEFORE: قصتي أنا...
+GEMINI: قصتي أنا……
+REASON: Corrected ellipsis count to match source.
+
+=== id 20198 ===
+JA: あんまり人に
+言うことじゃねえがな……
+EN: I really shouldn't be telling you this,
+but...
+BEFORE: ليس من السهل قول هذا للآخرين……
+GEMINI: هذا ليس شيئاً
+يُقال للآخرين عادةً……
+REASON: Improved nuance to match source Japanese and English, preserved line break, and corrected ellipsis count.
+
+=== id 20201 ===
+JA: うむ
+語り合おうではないか
+EN: Very well. Let us talk.
+BEFORE: همم، فلنتحدث معاً إذن
+GEMINI: همم
+فلنتحدث معاً إذن
+REASON: Preserved line break.
+
+=== id 20202 ===
+JA: ちょっと聞いてくれよ……
+EN: Could I tell you somethin'?
+BEFORE: استمع إليّ قليلاً……
+GEMINI: استمع إليّ قليلاً……
+REASON: Corrected ellipsis count to match source.
+
+=== id 20203 ===
+JA: 私にはやることがあるの……
+EN: There is something I must do...
+BEFORE: لدي ما يجب عليّ فعله……
+GEMINI: لدي ما يجب عليّ فعله……
+REASON: Corrected ellipsis count to match source.
+
+=== id 20205 ===
+JA: 詳しい情報を
+聞きたいのかい？
+EN: Curious to learn more, are you?
+BEFORE: هل تود سماع معلومات مفصلة؟
+GEMINI: هل تود سماع معلومات
+مفصلة؟
+REASON: Preserved line break.
+
+=== id 20206 ===
+JA: ここでの貧しい暮らしの
+話なんて聞きたい？
+EN: Do you want to know what it's like
+living an impoverished life here?
+BEFORE: هل تود سماع قصص عن الحياة الفقيرة هنا؟
+GEMINI: هل تود سماع قصص عن
+الحياة الفقيرة هنا؟
+REASON: Preserved line break.
+
+=== id 20207 ===
+JA: わたくしのドラマ
+聞かせてあげますわ
+EN: I'll gladly tell you about my life—
+and all its twists and turns.
+BEFORE: سأقص عليك درامتي
+GEMINI: سأقص عليك
+درامتي
+REASON: Preserved line break.
+
+=== id 20208 ===
+JA: ちょっとした
+苦労話さ……
+EN: My life hasn't been easy...
+BEFORE: إنها مجرد قصة معاناة بسيطة……
+GEMINI: إنها مجرد
+قصة معاناة بسيطة……
+REASON: Preserved line break.
+
+=== id 20209 ===
+JA: お控えなすって
+EN: Allow me to introduce myself to ya.
+BEFORE: من فضلك، كفّ عن ذلك
+GEMINI: اسمح لي أن أقدم نفسي.
+REASON: Mistranslation. The original Arabic meant 'Please stop that,' while the Japanese and English mean 'Allow me to introduce myself.'
+
+=== id 20212 ===
+JA: 老人の話に
+耳を貸してくれるか……
+EN: Will you listen to this old man's tale?
+BEFORE: هل ستنصت لقصة عجوز……
+GEMINI: هل ستنصت لقصة
+عجوز……
+REASON: Preserved line break.
+
+=== id 20215 ===
+JA: この町にいても
+辛いばかりだからな……
+EN: There's only misery left for me here,
+anyway...
+BEFORE: فالبقاء في هذه البلدة مؤلم فحسب……
+GEMINI: فالبقاء في هذه البلدة
+مؤلم فحسب……
+REASON: Preserved line break.
+
+=== id 20217 ===
+JA: 新たな景色を見に
+ご同行するのであります！
+EN: I'll accompany you to scout out
+this new environment!
+BEFORE: سأرافقكم لرؤية مناظر جديدة!
+GEMINI: سأرافقكم لرؤية
+مناظر جديدة!
+REASON: Preserved line break.
+
+=== id 20218 ===
+JA: 見張りだろうと
+強くなければ……であります！
+EN: Lookouts are often first to fight!
+We're no pushovers!
+BEFORE: إذا لم تكن قوياً بما يكفي لتكون حارساً... هذا هو رأيي!
+GEMINI: حتى لو كنت حارساً، يجب أن تكون قوياً……
+هذا هو الأمر!
+REASON: Mistranslation/awkward phrasing, fixed ellipsis count, preserved line break.
+
+=== id 20219 ===
+JA: 偉業を大陸中に伝えましょう
+ドゥデク！　ドゥデク！
+EN: Let us tell the world of King Dudek's
+great deeds! Hail King Dudek!
+BEFORE: لننشر هذا الإنجاز في جميع أنحاء القارة
+GEMINI: لننشر هذا الإنجاز في جميع أنحاء القارة
+دوديك! دوديك!
+REASON: Incomplete translation; missing the repeated name. Preserved line break.
+
+=== id 20220 ===
+JA: ……歌の邪魔を
+しないでください
+EN: I'm trying to sing.
+Please stop interfering.
+BEFORE: ……من فضلك لا تعكر
+GEMINI: ……من فضلك لا تعكر
+غنائي.
+REASON: Incomplete translation. Preserved line break.
+
+=== id 20225 ===
+JA: ほう、なかなか骨がありそうだ
+EN: Confident, I see.
+BEFORE: هه، يبدو أن الأمر صعب للغاية
+GEMINI: هه، تبدو ذا عزيمة قوية.
+REASON: Mistranslation. The original Arabic meant 'it seems very difficult,' while the Japanese and English imply the addressee is confident/tough.
+
+=== id 20227 ===
+JA: いい腕だ
+これを持っていけ
+EN: Impressive. It's all yours.
+BEFORE: ذراعك قوية
+GEMINI: مهارة جيدة.
+خذ هذا.
+REASON: Incomplete translation; missing the second part. Preserved line break.
+
+=== id 20230 ===
+JA: 愚痴も出ねえよ……
+EN: Can't even grumble about that.
+BEFORE: لا يمكنني حتى التذمر...
+GEMINI: لا يمكنني حتى التذمر……
+REASON: Ellipsis count/character mismatch (ja_text has two U+2026, ar_text had three ASCII dots).
+
+=== id 20231 ===
+JA: 言ってもしょうがないわ……
+EN: Telling you wouldn't solve a thing...
+BEFORE: لا فائدة من الكلام...
+GEMINI: لا فائدة من الكلام……
+REASON: Ellipsis count/character mismatch (ja_text has two U+2026, ar_text had three ASCII dots).
+
+=== id 20232 ===
+JA: すみません、忙しいので……
+EN: Sorry, but I'm quite busy right now.
+BEFORE: معذرة، أنا مشغول...
+GEMINI: معذرة، أنا مشغول……
+REASON: Ellipsis count/character mismatch (ja_text has two U+2026, ar_text had three ASCII dots).
+
+=== id 20236 ===
+JA: 俺の仕事はこの町の再建だ！
+すまねえな！
+EN: Sorry, but my job is rebuilding
+this here town!
+BEFORE: عملي هو إعادة بناء هذه البلدة!
+GEMINI: عملي هو إعادة بناء هذه البلدة!
+آسف!
+REASON: Missing second part of dialogue ('Sorry!') and line break.
+
+=== id 20237 ===
+JA: あんた、怪しいね……
+EN: I don't trust you.
+BEFORE: أنت، تبدو مشبوهاً...
+GEMINI: أنت، تبدو مشبوهاً……
+REASON: Ellipsis count/character mismatch (ja_text has two U+2026, ar_text had three ASCII dots).
+
+=== id 20241 ===
+JA: うう……頭が痛い
+ほっといてくれ
+EN: Ugh... My head hurts.
+Leave me alone.
+BEFORE: أوه…… رأسي يؤلمني
+GEMINI: أوه…… رأسي يؤلمني
+دعني وشأني.
+REASON: Missing second part of dialogue ('Leave me alone.') and line break.
+
+=== id 20244 ===
+JA: なんだよ、お前
+あっちいけよ
+EN: What do you want? Go away.
+BEFORE: ما بك أيها اللعين
+GEMINI: ماذا تريد؟
+اذهب بعيدًا!
+REASON: Mistranslation (added 'أيها اللعين' which is not in source), missing second part of dialogue ('Go away.') and line break.
+
+=== id 20246 ===
+JA: あんたからは
+金の匂いがしないな
+EN: I don't detect even a whiff of leaves
+from you.
+BEFORE: لا أشم منك
+GEMINI: لا أشم منك
+رائحة الأوراق.
+REASON: Missing key information ('whiff of leaves') and line break.
+
+=== id 20250 ===
+JA: おつとめの途中ですので……
+EN: I must see to my duties right now.
+BEFORE: أنا في منتصف الصلاة……
+GEMINI: أنا في منتصف واجباتي……
+REASON: More accurate translation of 'duties' (واجباتي) instead of 'prayer' (الصلاة) to match EN and be less specific.
+
+=== id 20266 ===
+JA: 話せば長くなるから
+またにしてくれ
+EN: It's quite a long story... Maybe
+another time.
+BEFORE: سيطول الحديث إذا تكلمت
+GEMINI: الحديث سيطول،
+فلنؤجله لوقت آخر.
+REASON: The original translation was incomplete, missing the 'another time' part and the line break. Rephrased for completeness and natural flow.
+
+=== id 20267 ===
+JA: すまない、疲れてるんだ
+荷物が重くてね……
+EN: Sorry, but my wares are heavy and
+I'm awfully tired...
+BEFORE: معذرة، أنا متعب
+GEMINI: معذرة، أنا متعب
+فحمولي ثقيلة……
+REASON: The original translation was incomplete, missing the reason for being tired ('my wares are heavy'), the line break, and the ellipsis.
+
+=== id 20276 ===
+JA: うぇ～
+クラクラするぅ……
+EN: Ohhh... The world is spinning...
+BEFORE: أوه...
+GEMINI: أوه...
+أشعر بالدوار……
+REASON: The original translation was incomplete, missing the meaning of dizziness ('クラクラするぅ'), the line break, and had incorrect ellipsis formatting (ASCII dots instead of Unicode, wrong count).
+
+=== id 20296 ===
+JA: 準備中ですのでご遠慮ください
+EN: We're currently in the midst of
+preparations. Please come back
+another time.
+BEFORE: نحن في طور التحضير، يرجى عدم الإزعاج
+GEMINI: نحن في طور التحضير، يرجى العودة لاحقاً
+REASON: The original 'يرجى عدم الإزعاج' (please do not disturb) was too strong and didn't match the nuance of 'ご遠慮ください' (please refrain/excuse yourself) or the English 'Please come back another time'. 'يرجى العودة لاحقاً' (please return later) is a better fit.
+
+=== id 20304 ===
+JA: ベラベラしゃべるわけねぇだろ
+EN: And why should I blab to you?
+BEFORE: لا يمكنني الثرثرة طوال الوقت
+GEMINI: ولماذا أثرثر لك؟
+REASON: The original 'لا يمكنني الثرثرة طوال الوقت' (I cannot chatter all the time) was a mistranslation of 'ベラベラしゃべるわけねぇだろ' (There's no way I'd blab to you). The English 'And why should I blab to you?' captures the rhetorical refusal, which 'ولماذا أثرثر لك؟' matches better.
+
+=== id 20315 ===
+JA: 俺は学院の
+人間だからな……
+EN: I'm in the middle of my studies,
+you see...
+BEFORE: بما أنني من
+GEMINI: بما أنني من الأكاديمية……
+REASON: The original 'بما أنني من' (since I am from) was an incomplete sentence. It needed the object 'الأكاديمية' (the academy) to match '学院の人間だからな' (because I am a person of the academy). The ellipsis count was also corrected to match the Japanese source.
+
+=== id 20318 ===
+JA: 火山のロマンはだな……
+EN: Let me tell you what I love about
+volcanoes...
+BEFORE: سحر البراكين هو……
+GEMINI: شغفي بالبراكين هو……
+REASON: Improved word choice for 'ロマン' (passion) to 'شغفي' for better nuance.
+
+=== id 20322 ===
+JA: ……ロマンを感じないな
+EN: I doubt you share my passion.
+BEFORE: ……لا أشعر بالسحر
+GEMINI: ……لا أشعر بالشغف.
+REASON: Improved word choice for 'ロマン' (passion) to 'الشغف' for better nuance.
+
+=== id 20327 ===
+JA: 厄介事は御免だよ
+EN: I've had enough trouble for one life.
+BEFORE: أعتذر عن أي مشاكل
+GEMINI: لقد اكتفيت من المتاعب.
+REASON: Mistranslation; 'أعتذر عن أي مشاكل' implies apology, but source means 'I want to avoid trouble'. Corrected to 'I've had enough trouble'.
+
+=== id 20338 ===
+JA: アタシの話……聞いてくれる？
+EN: Will you listen to my story?
+BEFORE: هل... ستستمع إلى حديثي؟
+GEMINI: هل…… ستستمع إلى حديثي؟
+REASON: Corrected ellipsis character and count from '...' to '……'.
+
+=== id 20347 ===
+JA: それどころじゃないんだ
+EN: I don't have time to talk.
+BEFORE: الأمر أكبر من ذلك بكثير
+GEMINI: ليس هذا وقته
+REASON: The original Arabic 'الأمر أكبر من ذلك بكثير' shifts the meaning from 'I don't have time for that' (Japanese source) to 'The matter is much bigger'. Changed to a more direct and natural translation that conveys lack of time/unsuitability of the moment.
+
+=== id 20355 ===
+JA: 食事の邪魔をするな
+EN: Don't interrupt me when I'm eating.
+BEFORE: لا تعقّ طعامي
+GEMINI: لا تُقاطعني أثناء طعامي.
+REASON: The original Arabic 'لا تعقّ طعامي' uses a less natural verb ('تعقّ' - to hinder/obstruct) in this context. Changed to 'لا تُقاطعني' (don't interrupt me) for better naturalness and accuracy to the English reference 'Don't interrupt me when I'm eating'.
+
+=== id 20363 ===
+JA: ニャんだ？　やる気か？
+EN: Mrooow? Mew pickin' a fight
+with me?
+BEFORE: مياو؟ هل أنت جاد؟
+GEMINI: مياو؟ هل تبحث عن شجار؟
+REASON: The original Arabic 'هل أنت جاد؟' (Are you serious?) misses the aggressive nuance of 'やる気か？' (Are you up for a fight?) in the Japanese source, which is captured by the English 'Mew pickin' a fight with me?'. Changed to 'هل تبحث عن شجار؟' for better accuracy and tone. Removed an extraneous line break that was only present in the English reference, not the Japanese source.
+
+=== id 20364 ===
+JA: 雪がニャい町があるのか！？
+EN: What do mew mean there are
+towns without snow!?
+BEFORE: هل هناك بلدة لا تسقط فيها الثلوج، مياو؟!
+GEMINI: هل هناك بلدة لا تسقط فيها الثلوج، مياو؟!
+REASON: Removed an extraneous line break that was only present in the English reference, not the Japanese source.
+
+=== id 20365 ===
+JA: なかなか骨があるニャ
+ほら、やるよ
+EN: You're purr-etty good.
+Here, take it.
+BEFORE: أنت شجاع حقاً، مياو
+GEMINI: أنت شجاع حقاً، مياو.
+تفضل، خذه.
+REASON: The original Arabic only translated the first part of the Japanese source ('You're quite tough'), omitting the second part 'ほら、やるよ' (Here, take it). Provided a complete translation and preserved the line break.
+
+=== id 20367 ===
+JA: ふっ、口ほどにもニャい
+EN: Ha! All hiss and no bite.
+BEFORE: هه، لست بطلاً كما تدعي، مياو
+GEMINI: هه، أنت مجرد كلام، مياو.
+REASON: The original Arabic 'لست بطلاً كما تدعي' is a specific interpretation of the Japanese idiom '口ほどにもない' (all talk, no action). Changed to 'أنت مجرد كلام' for a more direct and general translation of the idiom, matching the English 'All hiss and no bite'.
+
+=== id 20368 ===
+JA: のんきなカモメ
+EN: Carefree Seagull
+BEFORE: النورس الهادئ
+GEMINI: النورس المسترخٍ
+REASON: The original Arabic 'النورس الهادئ' (the quiet/calm seagull) doesn't fully capture the meaning of 'のんきな' (carefree/easygoing) from the Japanese source. Changed to 'النورس المسترخٍ' (the relaxed seagull) for better accuracy.
+
+=== id 20371 ===
+JA: ふわぁ……眠いからまたね
+EN: *yawn* I'm too sleepy to talk
+right now.
+BEFORE: وااااه…… أنا نعسان، نلتقي لاحقاً
+GEMINI: وااااه…… أنا نعسان، نلتقي لاحقاً
+REASON: Removed an extraneous line break that was only present in the English reference, not the Japanese source.
+
+=== id 20376 ===
+JA: 暴れアルパカ
+EN: Aggressive Alpaca
+BEFORE: الألبكة الثائرة
+GEMINI: الألبكة العدوانية
+REASON: The original Arabic 'الألبكة الثائرة' (the rebellious alpaca) doesn't accurately convey '暴れ' (aggressive/rampaging) from the Japanese source. Changed to 'الألبكة العدوانية' (the aggressive alpaca) for better accuracy.
+
+=== id 20379 ===
+JA: 今なら大目に見てやる
+……消えな
+EN: I'm gonna pretend I didn't see ya.
+Now scram.
+BEFORE: سأتغاضى عن الأمر الآن
+GEMINI: سأتغاضى عن الأمر الآن
+……انصرف.
+REASON: Missing second part of the sentence, missing line break, and incorrect ellipsis count. Added 'انصرف' and corrected ellipsis to two U+2026 characters.
+
+=== id 20380 ===
+JA: ……いいだろう
+行ってやるよ
+EN: ...All right. Lead the way.
+BEFORE: ……حسناً
+GEMINI: ……حسناً
+تفضل بالقيادة.
+REASON: Missing second part of the sentence, missing line break, and incorrect ellipsis count. Added 'تفضل بالقيادة' and corrected ellipsis to two U+2026 characters.
+
+=== id 20381 ===
+JA: ……やるじゃねえか
+持ってけよ
+EN: ...Not too shabby.
+Here ya go.
+BEFORE: ……أنت تفعلها حقاً
+GEMINI: ……ليس سيئاً
+خذه.
+REASON: Missing second part of the sentence, missing line break, and incorrect ellipsis count. Rephrased 'أنت تفعلها حقاً' to 'ليس سيئاً' for better tone match with 'Not too shabby' and added 'خذه'. Corrected ellipsis to two U+2026 characters.
+
+=== id 20406 ===
+JA: いまさら新しい土地なんて……
+EN: I don't think I have it in me to
+travel to new places.
+BEFORE: في هذا الوقت المتأخر، أرض جديدة...
+GEMINI: في هذا الوقت المتأخر، أرض جديدة……
+REASON: Incorrect ellipsis count. Changed '...' to '……' (two U+2026 characters).
+
+=== id 20418 ===
+JA: 何かな？
+EN: Yes?
+BEFORE: ما هذا؟
+GEMINI: ماذا تريد؟
+REASON: Changed 'ما هذا؟' (What is this?) to 'ماذا تريد؟' (What do you want?) to better reflect the nuance of '何かな？' (Yes? / What is it?) when responding to someone approaching, which is more natural in Arabic.
+
+=== id 20422 ===
+JA: せっかくこの町にこんなに
+掘ったんだから……
+EN: I can't leave this place. I already dug
+so many holes here...
+BEFORE: بما أنني تعبتُ في حفر كل هذا
+GEMINI: بما أنني تعبتُ في حفر كل هذا
+……
+REASON: Added the line break '\n' and the ellipsis '……' to match the Japanese source's formatting and character count.
+
+=== id 20431 ===
+JA: 安く見られたものね
+EN: Did you honestly think you could
+buy my time for such a paltry sum?
+BEFORE: يُنظر إليه على أنه شيء رخيص
+GEMINI: لقد استُخف بي!
+REASON: The original Arabic 'يُنظر إليه على أنه شيء رخيص' (It is seen as something cheap) was too literal and lost the nuance of the speaker feeling underestimated or insulted. Changed to 'لقد استُخف بي!' (I've been underestimated!) to better convey the character's emotional state and the implied meaning of the Japanese source.
+
+=== id 20437 ===
+JA: もうそれでいいわ
+EN: Fine, take it.
+BEFORE: هذا يكفي
+GEMINI: حسناً، خذه.
+REASON: Mistranslation: 'هذا يكفي' is too literal and misses the concession/giving aspect. Changed to 'حسناً، خذه' (Fine, take it) to match the EN context.
+
+=== id 20439 ===
+JA: ふざけないでよ
+EN: Stop horsing around!
+BEFORE: لا تمزح
+GEMINI: توقف عن العبث!
+REASON: Mistranslation: 'لا تمزح' is too mild for 'ふざけないでよ' (Stop horsing around!). 'توقف عن العبث' (Stop messing around/fooling around) is a better fit.
+
+=== id 20445 ===
+JA: 参った……やるよ
+EN: You got me. Fine, have it.
+BEFORE: يا للهول…… سأفعل ذلك
+GEMINI: لقد هزمتني…… خذه.
+REASON: Mistranslation: 'يا للهول' is too strong for '参った' (You got me/I give up). 'سأفعل ذلك' is incorrect for 'やるよ' (I'll give it to you). Corrected to 'لقد هزمتني…… خذه' (You got me... take it).
+
+=== id 20447 ===
+JA: かわいいだけじゃないんだよ
+EN: I'm no ordinary rabbit, you know.
+BEFORE: ليس لطيفاً فحسب
+GEMINI: أنا لست لطيفاً فحسب.
+REASON: Mistranslation: 'ليس لطيفاً فحسب' is impersonal. 'かわいいだけじゃないんだよ' implies 'I'm not just cute'. Added 'أنا' (I) for correct self-reference.
+
+=== id 20448 ===
+JA: 気ままな野良猫
+EN: Carefree Cat
+BEFORE: قطة شوارع عابرة
+GEMINI: قطة شوارع مرحة
+REASON: Mistranslation: 'عابرة' (passing) is not in the source. 'مرحة' (playful/carefree) better captures '気ままな' (carefree).
+
+=== id 20451 ===
+JA: お前、よそ者だからなぁ
+EN: You're not from around here.
+You wouldn't understand.
+BEFORE: أنت، أنت غريب عن هنا
+GEMINI: أنت غريب عن هنا.
+REASON: Redundancy: Removed the repeated 'أنت' for better flow. 'أنت غريب عن هنا' is sufficient.
+
+=== id 20460 ===
+JA: 新天地を目指すか……
+EN: Guess flyin' somewhere new
+wouldn't hurt...
+BEFORE: هل نهدف إلى أرض جديدة……
+GEMINI: ربما نهدف إلى أرض جديدة……
+REASON: Mistranslation/Tone: 'هل نهدف' implies a direct question, but the Japanese '……' suggests a trailing thought or contemplation. 'ربما نهدف' (Perhaps we should aim) better captures this nuance.
+
+=== id 20463 ===
+JA: やれないな
+EN: Nope. I'm keepin' it.
+BEFORE: لا يمكنني فعل ذلك
+GEMINI: لا أستطيع التخلي عنه.
+REASON: Mistranslation: 'لا يمكنني فعل ذلك' (I can't do that) is too general. 'やれないな' in this context means 'I can't give it (to you)'. 'لا أستطيع التخلي عنه' (I can't let go of it/give it up) is a better fit for 'I'm keepin' it'.
+
+=== id 20468 ===
+JA: 他の生き物がいるところへ
+連れていってくれ！
+EN: Take me baack to civilization!
+BEFORE: خذني إلى مكان يتواجد فيه كائنات أخرى!
+GEMINI: خذني إلى مكان
+يتواجد فيه كائنات أخرى!
+REASON: Preserved the line break from the Japanese source.
+
+=== id 20475 ===
+JA: うーん……キミ、つまらなそう
+EN: ...Nah, you seem kinda boring.
+BEFORE: همم…… أنت تبدو غير مستمتع.
+GEMINI: همم…… أنت تبدو مملًا.
+REASON: Corrected the nuance of 'つまらなそう' from 'غير مستمتع' (unamused) to 'مملًا' (boring), and ensured generic masculine for player address.
+
+=== id 20496 ===
+JA: 地方公演ってことだね
+いいよ！
+EN: Oh, is this a traveling performance?
+I'm in!
+BEFORE: هذا يعني عرضًا إقليميًا، أليس كذلك؟
+GEMINI: هذا يعني عرضًا إقليميًا، أليس كذلك؟
+أنا موافق!
+REASON: Missing second part of the sentence and line break from the Japanese source.
+
+=== id 20498 ===
+JA: この町で成功を収めてからね
+EN: Only after I become a star here first!
+BEFORE: بعد أن أحقق النجاح في هذه المدينة
+GEMINI: فقط بعد أن أحقق النجاح في هذه المدينة
+REASON: Added emphasis ('فقط بعد أن') to better match the nuance of the Japanese and English source.
+
+=== id 20507 ===
+JA: カッレ
+EN: Kalle
+BEFORE: كاري
+GEMINI: كالي
+REASON: Corrected transliteration to 'كالي' to match the official English spelling 'Kalle'.
+
+=== id 20516 ===
+JA: 貴様……敵か……？
+EN: Are you...a foe...?
+BEFORE: أنت…… عدوٌ ما……؟
+GEMINI: أنت…… عدوٌ……؟
+REASON: Made the phrasing more natural for 'an enemy?'.
+
+=== id 20518 ===
+JA: 私の声は……
+聞き届けられなかった……
+EN: My voice...was not heard...
+BEFORE: صوتي……
+GEMINI: صوتي……
+لم يُسمع……
+REASON: Provided full translation of the Japanese text, preserved line break, and corrected ellipsis count.
+
+=== id 20522 ===
+JA: この島から見守ることが
+わたくしの役目……
+EN: It is my duty to watch over the cats
+from this island...
+BEFORE: مراقبة هذه الجزيرة
+GEMINI: مراقبة هذه الجزيرة
+واجبي……
+REASON: Provided full translation of the Japanese text, preserved line break, and corrected ellipsis count.
+
+=== id 20523 ===
+JA: 我が指を
+オルステラの役に立てようぞ
+EN: It is time for my fingers to fight
+for Orsterra.
+BEFORE: لنجعل أصابعي
+GEMINI: لنجعل أصابعي
+مفيدة لأورستيرا.
+REASON: Provided full translation of the Japanese text, preserved line break, and included the world name 'أورستيرا'.
+
+=== id 20559 ===
+JA: サンシェイドに
+僕を連れていってくれ！
+EN: Please, take me to Sunshade!
+BEFORE: خذني إلى
+GEMINI: خذني إلى
+سانشيد!
+REASON: The original Arabic translation was incomplete, missing the town name and the line break. Corrected to include 'سانشيد!' (transliterated) and the newline.
+
+=== id 20573 ===
+JA: 故郷を滅ぼされて
+復讐心に囚われた<chara_name>。
+絶望に打ちひしがれている。
+EN: Their hometown destroyed, <chara_name> harbors a burning desire for vengeance yet wallows in despair.
+BEFORE: <chara_name>، الذي أُبيد موطنه وأُسِرَ لثأره.
+GEMINI: دُمر موطنه، و<chara_name> أسيرٌ لروح الانتقام، ومُثقل باليأس.
+REASON: The original Arabic translation was incomplete, missing the part about 'wallowing in despair'. Corrected to include 'ومُثقل باليأس.' The masculine relative pronoun 'الذي' was already correct for the default masculine protagonist.
+
+=== id 20574 ===
+JA: 忙しいんだ
+またにしてくれ
+EN: I'm busy. Come back later.
+BEFORE: أنا مشغول
+GEMINI: أنا مشغول.
+عد لاحقاً.
+REASON: The original Arabic translation was incomplete, missing the second part of the sentence and the line break. Corrected to include 'عد لاحقاً.' and the newline.
+

@@ -1,0 +1,66 @@
+==================== 3370
+JA: '私はシキレンカの花に\nなんと誓いましたか？'
+EN: 'Did I not swear by the\nadorablooms that I would?'
+BEFORE: 'ما الذي أقسمتِ عليه\nبخصوص زهرة شيكيلينكا؟'
+AR: 'ألم أقسمْ على زهرة شيكيلينكا؟'
+REASON: "Corrected mistranslation from direct question to rhetorical question, and adjusted subject from 'you' (feminine) to 'I' to match Japanese source and context."
+==================== 3388
+JA: 'お前には、強き志と\n民を想う優しさがある'
+EN: 'You have a strong will and\na heart for the people.'
+BEFORE: 'لديك عزيمة قوية'
+AR: 'لديك عزيمة قوية وقلبٌ يهتم بالناس.'
+REASON: "Corrected omission; the original Arabic only translated 'You have a strong will' and missed 'and a heart for the people'."
+==================== 3390
+JA: '私は長くはない\nお前が国を導いてくれ'
+EN: 'I am not long for this world.\nWhen I am gone, you shall be king.'
+BEFORE: 'لن يطول عمري'
+AR: 'لن يطول عمري. قد أنت البلاد.'
+REASON: "Corrected omission; the original Arabic only translated 'I am not long for this world' and missed 'You lead the country'."
+==================== 3502
+JA: '獅子にキスして\nいただけますかな？'
+EN: 'Might you favor this Lion with\na kiss before you go?'
+BEFORE: 'هل يمكنني الحصول على قبلة من الأسد؟'
+AR: 'هل يمكن أن تقبّلي الأسد؟'
+REASON: "The original Arabic implied the speaker (Mahrez, the Lion) was asking to receive a kiss from the Lion (himself), which is grammatically awkward and contradicts the context. The Japanese '獅子にキスしていただけますかな？' means 'Could you give a kiss to the lion?'. The corrected Arabic 'هل يمكن أن تقبّلي الأسد؟' accurately reflects the female addressee (Erica) giving a kiss to the male speaker (Mahrez, the Lion)."
+==================== 3969
+JA: 'あんたはなぜ\n“密談”に向かってる？'
+EN: "What's your interest in this\nsecret meeting?"
+BEFORE: 'لماذا\nتتجهين نحو\n"المحادثة السرية"؟'
+AR: 'لماذا\nتتجهين نحو\n«المحادثة السرية»؟'
+REASON: 'Replaced ASCII quotation marks with correct Arabic quotation marks.'
+==================== 3971
+JA: '私は……“密談”の\n真意を知ってしまった'
+EN: "I've learned of an ulterior motive\nbehind it all."
+BEFORE: 'لقد…… عرفتُ\nالهدف الحقيقي من\n"المحادثة السرية"'
+AR: 'لقد…… عرفتُ\nالهدف الحقيقي من\n«المحادثة السرية»'
+REASON: 'Replaced ASCII quotation marks with correct Arabic quotation marks.'
+==================== 4868
+JA: 'エリカ様と……\n王妃様のお形見です'
+EN: 'It was a keepsake...of your sister\nand the queen...'
+BEFORE: 'إنه مقتنيات\nسمو إريكا……\nوالملكة'
+AR: 'إنه تذكار\nسمو إريكا……\nوالملكة'
+REASON: "Changed 'مقتنيات' (possessions, plural) to 'تذكار' (keepsake, singular) to better match the Japanese 'お形見' (singular keepsake) and improve grammatical flow."
+==================== 4925
+JA: 'だがマフレズは\nエリカ様と出会い変わった'
+EN: 'But after meeting Princess Elrica,\nMahrez began to change...'
+BEFORE: 'لكن مافلز\nتغير بعد لقائه\nبسامة إريكا'
+AR: 'لكن مافلز\nتغير بعد لقائه\nبالأميرة إريكا'
+REASON: "Corrected honorific for 'Elrica' from 'سامة' to 'الأميرة'."
+==================== 5359
+JA: '民、国、世の全て……'
+EN: 'The people, the nation,\nthe land itself...'
+BEFORE: 'الشعب، الدولة، والعالم أجمع……'
+AR: 'الشعب، الدولة،\nوالعالم أجمع……'
+REASON: 'Line break not preserved.'
+==================== 7156
+JA: '聖火騎士ロンドを\n同行させよう'
+EN: 'You would do well to take\nKnight Ardante Rondo with you.'
+BEFORE: 'سأجعل\nفارس اللهب المقدس روند\nيرافقنا'
+AR: 'سأجعل\nفارس اللهب المقدس روند\nيرافقك'
+REASON: "Changed 'يرافقنا' (accompany us) to 'يرافقك' (accompany you) to match the implied addressee (Sazantos) more accurately."
+==================== 7184
+JA: 'なりません、守指長殿'
+EN: 'I promise not to be a burden,\nFlameguard, sir.'
+BEFORE: 'لا يمكن ذلك، يا سيادة قائد الحرس'
+AR: 'أعدك ألا أكون عبئاً،\nيا سيادة حارس الخاتم.'
+REASON: "Mistranslation/nuance: 'لا يمكن ذلك' (That cannot be) did not convey the promise. Changed to 'أعدك ألا أكون عبئاً' (I promise not to be a burden). Glossary compliance: 'قائد الحرس' was changed to 'حارس الخاتم' to match the established translation for 'Flameguard'."

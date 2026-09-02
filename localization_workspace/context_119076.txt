@@ -1,0 +1,71 @@
+ID:119058
+JA:あなたたちを守るには
+これしかないわ
+EN:This is the only way I know
+to keep you two safe.
+ARb:لحمايةِكم
+هذا هو الخيارُ الوحيدُ
+ARa:لحمايتكم
+هذا هو الخيار الوحيد
+---
+ID:119059
+JA:エリカ、アラウネ
+しかと心に刻みなさい
+EN:Elrica, Alaune... You must find
+and etch in your hearts...
+ARb:إريكا، ألاون
+احفرا هذا جيداً في قلوبِكما
+ARa:إريكا، ألاون
+احفرا هذا جيداً في قلوبكما
+---
+ID:119060
+JA:……守るべきものを
+EN:...what it is you wish to protect.
+ARb:……ما يجبُ حمايتُه
+ARa:……ما يجب حمايته
+---
+ID:119061
+JA:処刑の用意はよいか
+ウルリカ？
+EN:Is everything ready to proceed
+with the executions?
+ARb:هل أُعدَّتْ مراسمُ الإعدام؟
+أولريكا؟
+ARa:هل أُعدَّتْ مراسم الإعدام؟
+أولريكا؟
+---
+ID:119075
+JA:必ずや……
+エドラスを……背負う……
+EN:They will surely...lead Edoras...
+ARb:لا بد أنها……
+ستحملُ إيدوراس…… على عاتقها……
+ARa:لا بد أنهنَّ……
+سيحملنَ إيدوراس…… على عاتقهنَّ……
+---
+ID:119076
+JA:希望の……光に……
+EN:As beacons...of hope...
+ARb:ستكونُ…… ضوءَ…… الأمل……
+ARa:سيكُنَّ…… ضوءَ…… الأمل……
+---
+ID:119091
+JA:“強者が弱者から奪う
+それが世の常”
+EN:There once was a pirate who
+told me:
+ARb:"القوي يأخذ من الضعيف
+هذه هي سنة العالم"
+ARa:«القوي يأخذ من الضعيف
+هذه هي سنة العالم»
+---
+ID:119117
+JA:あの黒い船……
+ガ・ロハ……！
+EN:I recognize those black ships.
+They're from G'roha!
+ARb:ذلك السفينة السوداء……
+غا-روها……!
+ARa:تلك السفينة السوداء……
+غا-روها……!
+---

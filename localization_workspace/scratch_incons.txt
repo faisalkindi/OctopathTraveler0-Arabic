@@ -1,0 +1,217 @@
+=== JA: <skl_user_name>は大きく身構えた！ ===
+  id=93635 EN='<skl_user_name> stands ready!' AFTER='تأهب <skl_user_name> بقوة!'
+  id=95273 EN='<skl_user_name> stands ready!' AFTER='استعد <skl_user_name>!'
+
+=== JA: たたかう ===
+  id=93898 EN='Attack' AFTER='هجوم'
+  id=94244 EN='Attack' AFTER='قتال'
+  id=94549 EN='Attack' AFTER='هجوم'
+  id=152118 EN='Attack' AFTER='هجوم'
+
+=== JA: 一閃 ===
+  id=94551 EN='Stunning Strike' AFTER='ضربة مذهلة'
+  id=95169 EN='Stunning Strike' AFTER='ضربة مذهلة'
+  id=95290 EN='Stunning Strike' AFTER='ضربة مذهلة'
+  id=152645 EN='Stunning Strike' AFTER='ضربة خاطفة'
+  id=152891 EN='Stunning Strike' AFTER='ضربة مذهلة'
+  id=153524 EN='Stunning Strike' AFTER='ضربة مذهلة'
+
+=== JA: 威圧 ===
+  id=94653 EN='Oppression' AFTER='قمع'
+  id=96212 EN='Oppression' AFTER='ترهيب'
+
+=== JA: 雷公烈風 ===
+  id=94666 EN='Thundersquall' AFTER='الرعد الإلهي والريح العاتية'
+  id=96155 EN='Thundersquall' AFTER='عاصفة رعدية'
+
+=== JA: 自身に物攻アップの効果を
+<skl_turn_count>付与する ===
+  id=152011 EN='Raise own Phys. Atk. for <skl_turn_count> turn(s).' AFTER='يمنح نفسه تأثير زيادة الهجوم الفيزيائي\nلمدة <skl_turn_count>'
+  id=153164 EN='Raise own Phys. Atk. for <skl_turn_count> turn(s).' AFTER='يمنح نفسه تأثير زيادة الهجوم المادي لمدة <skl_turn_count>.'
+
+=== JA: 自身に物理攻撃を受けたとき
+剣で反撃する効果を<skl_turn_count>付与する ===
+  id=152014 EN='Counter physical attacks with a sword for <skl_turn_count> turn(s).' AFTER='يمنح نفسه تأثير الهجوم المضاد بالسيف عند تلقي هجوم فيزيائي\nلمدة <skl_turn_count>'
+  id=152244 EN='Counter physical attacks with a sword for <skl_turn_count> turn(s).' AFTER='عند تلقي هجوم فيزيائي، يمنح تأثير الهجوم المضاد بالسيف\nلمدة <skl_turn_count> دورة.'
+
+=== JA: 敵全体に槍でダメージを与える
+後衛から出てきて攻撃すると
+威力アップ ===
+  id=152015 EN='Deal polearm damage to all foes. More potent if attacking from the back row.' AFTER='يلحق ضررًا بالعدو بالكامل باستخدام الرمح\nعند الهجوم من الخلف\nتزداد القوة'
+  id=152509 EN='Deal polearm damage to all foes. More potent if attacking from the back row.' AFTER='إلحاق الضرر بجميع الأعداء بالرمح.\nتزداد قوته عند الهجوم من الصف الخلفي.'
+
+=== JA: 装備者がステータスダウン効果を
+付与するとき、ターン数を１増加する ===
+  id=152029 EN='When the equipped character inflicts an attribute-reducing effect, extend duration by 1 turn.' AFTER='عندما يطبق مرتدي العتاد تأثيرًا لخفض الإحصائيات،\nتزداد مدته دورًا واحدًا.'
+  id=152551 EN='When the equipped character inflicts an attribute-reducing effect, extend duration by 1 turn.' AFTER='عندما يمنح المجهز تأثير خفض الإحصائيات،\nتزداد مدة التأثير بدورة واحدة.'
+
+=== JA: バトル開始時、敵全体の弱点を
+１つずつ発見する ===
+  id=152040 EN='At the start of battle, discover 1 weak point of each foe.' AFTER='عند بدء المعركة،\nيكتشف نقطة ضعف واحدة لكل عدو.'
+  id=152562 EN='At the start of battle, discover 1 weak point of each foe.' AFTER='عند بدء المعركة، يتم اكتشاف\nنقطة ضعف واحدة لكل عدو.'
+
+=== JA: バトル開始時、戦闘不能になったとき
+一度だけ最大HPの25%で復活する
+効果を自身に付与する ===
+  id=152056 EN='Grant an effect that allows you to recover with 25% of your max. HP upon being incapacitated (one time only).' AFTER='في بداية المعركة،\nيمنح نفسه تأثيرًا للبعث مرة واحدة بنسبة 25% من الحد الأقصى لنقاط الصحة\nعند فقدانه للقدرة على القتال.'
+  id=152555 EN='Grant an effect that allows you to recover with 25% of your max. HP upon being incapacitated (one time only).' AFTER='عند بدء المعركة، أو عند فقدان القدرة على القتال،\nيمنح تأثيرًا يسمح بالإحياء مرة واحدة بنسبة 25% من نقاط الصحة القصوى.'
+
+=== JA: 武器をひとつ選択して
+敵単体にダメージを与える ===
+  id=152082 EN='Select a weapon and deal damage to a foe.' AFTER='يختار سلاحًا واحدًا\nويلحق الضرر بخصم واحد.'
+  id=152467 EN='Select a weapon and deal damage to a foe.' AFTER='اختر سلاحاً واحداً وألحق الضرر بهدف واحد.'
+
+=== JA: 自身のHP/SPを回復し、
+状態異常を治す ===
+  id=152125 EN='Restore own HP/SP, and cure own status ailments.' AFTER='استعادة نقاط الصحة/نقاط المهارة وعلاج الحالات السلبية.'
+  id=153176 EN='Restore own HP/SP, and cure own status ailments.' AFTER='يسترد نقاط الصحة/نقاط المهارة الخاصة به،\nويعالج حالاته السلبية.'
+
+=== JA: ランダムなターゲットに
+剣で大ダメージを<skl_exec_count>回与える
+ブーストLvが高いほど攻撃回数が増加 ===
+  id=152242 EN='Deal great sword damage to random foes <skl_exec_count> time(s). Attack count increases based on Boost Lv.' AFTER='إلحاق ضرر كبير بالسيف على أهداف عشوائية\n<skl_exec_count> مرة.\nيزداد عدد الهجمات كلما ارتفع مستوى التعزيز.'
+  id=153191 EN='Deal great sword damage to random foes <skl_exec_count> time(s). Attack count increases based on Boost Lv.' AFTER='يلحق ضررًا كبيرًا بالسيف <skl_exec_count> مرات بهدف عشوائي،\nوتزداد عدد مرات الهجوم كلما ارتفع مستوى التعزيز.'
+
+=== JA: ランダムなターゲットに
+槍でダメージを３～５回与える ===
+  id=152260 EN='Deal polearm damage to random foes 3 to 5 time(s).' AFTER='إلحاق ضرر بالرمح على أهداف عشوائية\n3 إلى 5 مرات.'
+  id=153169 EN='Deal polearm damage to random foes 3 to 5 time(s).' AFTER='يلحق ضررًا بالرمح لأهداف عشوائية 3 إلى 5 مرات.'
+
+=== JA: 敵単体に短剣で大ダメージを与える
+後衛から出てきて攻撃すると
+威力アップ ===
+  id=152264 EN='Deal great dagger damage to a foe. More potent if attacking from the back row.' AFTER='إلحاق ضرر كبير بهدف واحد باستخدام الخنجر.\nتزداد قوته عند الهجوم من الصف الخلفي.'
+  id=153417 EN='Deal great dagger damage to a foe. More potent if attacking from the back row.' AFTER='يلحق ضررًا كبيرًا بهدف واحد باستخدام الخنجر. تزداد القوة عند الهجوم من الصف الخلفي.'
+
+=== JA: 敵単体に斧でダメージを与える
+後衛から出てきて攻撃すると
+自身のHPを回復する ===
+  id=152280 EN='Deal axe damage to a foe. Restore own HP if attacking from the back row.' AFTER='يلحق الضرر بهدف واحد باستخدام الفأس.\nإذا هاجم من الصف الخلفي، يستعيد نقاط صحته.'
+  id=153371 EN='Deal axe damage to a foe. Restore own HP if attacking from the back row.' AFTER='يلحق الضرر بهدف واحد بالفأس\nويستعيد نقاط صحته إذا هاجم من الصف الخلفي.'
+
+=== JA: 武器をひとつ選択して
+敵単体にダメージを与え、
+物防ダウンの効果を2ターン付与する ===
+  id=152438 EN='Select a weapon and deal damage to a foe, and lower Phys. Def. for 2 turn(s).' AFTER='اختر سلاحًا واحدًا وألحق ضررًا بهدف واحد من الأعداء، وخفّض دفاعه الفيزيائي لمدة دورين'
+  id=153110 EN='Select a weapon and deal damage to a foe, and lower Phys. Def. for 2 turn(s).' AFTER='اختر سلاحًا واحدًا وألحق ضررًا بعدو واحد، ثم طبق تأثير خفض الدفاع الفيزيائي لمدة دورتين.'
+
+=== JA: 味方前衛もしくは後衛全体に
+HP自動回復の効果を<skl_turn_count>付与 ===
+  id=152476 EN='Grant HP regeneration to the entire front row or entire back row for <skl_turn_count> turn(s).' AFTER='يمنح الصف الأمامي أو الخلفي بأكمله تأثير الاستعادة التلقائية لنقاط الحياة لمدة <skl_turn_count> دورة.'
+  id=153158 EN='Grant HP regeneration to the entire front row or entire back row for <skl_turn_count> turn(s). Dance skill.' AFTER='يمنح كافة أفراد الصف الأمامي أو الخلفي تأثير الاستشفاء التلقائي لنقاط الصحة لمدة <skl_turn_count>.'
+
+=== JA: 自身に物防アップの効果を
+<skl_turn_count>付与する ===
+  id=152479 EN='Raise own Phys. Def. for <skl_turn_count> turn(s).' AFTER='يمنح نفسه تأثير زيادة الدفاع المادي لمدة <skl_turn_count> دورة.'
+  id=153168 EN='Raise own Phys. Def. for <skl_turn_count> turn(s).' AFTER='يمنح نفسه تأثير زيادة الدفاع المادي لمدة <skl_turn_count>.'
+
+=== JA: 敵単体に戦闘終了時の獲得経験値と
+獲得金額が増加する効果を付与する ===
+  id=152486 EN='Target foe provides additional EXP and leaves at the end of battle.' AFTER='يمنح هدفًا فرديًا من الأعداء تأثير زيادة نقاط الخبرة والمبلغ المكتسب عند نهاية المعركة.'
+  id=153353 EN='Target foe provides additional EXP and leaves at the end of battle.' AFTER='يمنح عدوًا واحدًا تأثيرًا يزيد من نقاط الخبرة والأوراق المكتسبة عند نهاية المعركة.'
+
+=== JA: さみだれ矢 ===
+  id=152492 EN='Rain of Arrows' AFTER='وابل السهام'
+  id=153293 EN='Rain of Arrows' AFTER='مطر السهام'
+
+=== JA: 乱伏せ ===
+  id=152493 EN='Wild Strike' AFTER='ضربة فوضوية'
+  id=153562 EN='Wild Strike' AFTER='ضربة جامحة'
+
+=== JA: 復活手当 ===
+  id=152500 EN='Vivify' AFTER='إنعاش'
+  id=153236 EN='Vivify' AFTER='إسعاف الإحياء'
+
+=== JA: 敵単体に弓で大ダメージを与える
+与えたダメージに応じてJPを獲得する ===
+  id=152510 EN='Deal great bow damage to a foe, and obtain JP based on damage dealt.' AFTER='إلحاق ضرر كبير بهدف واحد بالسهام.\nويتم الحصول على نقاط JP بناءً على الضرر الذي تم إلحاقه.'
+  id=153122 EN='Deal great bow damage, and obtain JP based on damage dealt.' AFTER='يلحق ضررًا كبيرًا بالعدو الواحد باستخدام القوس، ويكتسب نقاط الخبرة (JP) بناءً على الضرر الذي ألحقه.'
+
+=== JA: ランダムなターゲットに
+弓でダメージを２回与える ===
+  id=152511 EN='Deal bow damage to random foes 2 time(s).' AFTER='إلحاق الضرر بالسهام مرتين على أهداف عشوائية.'
+  id=153391 EN='Deal bow damage to random foes 2 time(s).' AFTER='إلحاق الضرر مرتين بقوس\nعلى أهداف عشوائية.'
+
+=== JA: ランダムなターゲットに
+弓でダメージを５～８回与える ===
+  id=152512 EN='Deal bow damage to random foes 5 to 8 time(s).' AFTER='إلحاق الضرر بالسهام من ٥ إلى ٨ مرات على أهداف عشوائية.'
+  id=153433 EN='Deal bow damage to random foes 5 to 8 time(s).' AFTER='يلحق ضررًا بالقوس على أهداف عشوائية من 5 إلى 8 مرات.'
+
+=== JA: 装備者がステータスアップ効果を
+受けるとき、ターン数を１増加する ===
+  id=152549 EN='When the equipped character is granted an attribute-raising effect, extend duration by 1 turn.' AFTER='عندما يتلقى المجهز تأثير زيادة الإحصائيات،\nتزداد مدة التأثير بدورة واحدة.'
+  id=153453 EN='When the equipped character is granted an attribute-raising effect, extend duration by 1 turn.' AFTER='عندما يتلقى المجهز تأثير زيادة الإحصائيات، يزداد عدد الأدوار بمقدار 1.'
+
+=== JA: 装備者が敵の攻撃を受けたとき
+25%の確率でBPを１回復する ===
+  id=152556 EN='The equipped character will have a 25% chance to restore 1 BP when attacked.' AFTER='عندما يتلقى المجهز هجوماً من العدو\nتكون هناك فرصة بنسبة 25% لاستعادة نقطة طاقة واحدة.'
+  id=153349 EN='The equipped character will have a 25% chance to restore 1 BP when attacked.' AFTER='عند تعرض المجهز لهجوم من العدو، هناك فرصة 25% لاستعادة نقطة طاقة واحدة.'
+
+=== JA: 装備者はバトル勝利時に
+最大HP/SPの30%分を回復する ===
+  id=152557 EN="Restore 30% of the equipped character's max. HP and SP upon winning the battle." AFTER='يستعيد المجهز 30% من الحد الأقصى لنقاط الصحة/المهارة\nعند الفوز بالمعركة'
+  id=153386 EN="Restore 30% of the equipped character's max. HP and SP upon winning the battle." AFTER='يستعيد المجهز 30% من نقاط الصحة القصوى ونقاط المهارة\nعند الفوز بالمعركة.'
+
+=== JA: 装備者が後衛にいるとき
+装備者の前衛の状態異常を無効化する ===
+  id=152558 EN='When the equipped character is in the back row, nullify status ailments of paired ally.' AFTER='عندما يكون المجهز في الصف الخلفي\nيتم إبطال تأثيرات الحالة السلبية للحليف الأمامي.'
+  id=153494 EN='When the equipped character is in the back row, nullify status ailments of paired ally.' AFTER='عندما يكون المجهز في الخلف، يتم إبطال الحالات غير الطبيعية للحليف الأمامي للمجهز'
+
+=== JA: 装備者が後衛にいるとき
+装備者の前衛は25%の確率で
+BPを消費しない ===
+  id=152559 EN="When the equipped character is in the back row, they will have a 25% chance to reduce paired ally's BP consumption to 0." AFTER='عندما يكون المجهز في الصف الخلفي\nتكون هناك فرصة بنسبة 25% للحليف الأمامي\nلعدم استهلاك نقاط الطاقة.'
+  id=153151 EN="When the equipped character is in the back row, they will have a 25% chance to reduce paired ally's BP consumption to 0." AFTER='عندما يكون المجهز في الصف الخلفي، يكون لدى الصف الأمامي للمجهز فرصة 25% لعدم استهلاك نقاط الطاقة.'
+
+=== JA: 属性攻撃を受けたとき
+50%の確率で攻撃する ===
+  id=152561 EN='Gain a 50% chance to counter elemental attacks.' AFTER='عند تلقي هجوم عنصري\nتكون هناك فرصة بنسبة 50% للرد بالهجوم.'
+  id=153346 EN='50% chance to counter elemental attacks.' AFTER='فرصة 50% للهجوم المضاد عند تلقي هجوم عنصري.'
+
+=== JA: 装備者が瀕死ではないとき
+HPが０になるダメージを
+受けてもHPが１残る ===
+  id=152564 EN='When the equipped character is not near death, they will survive an otherwise lethal attack with 1 HP remaining.' AFTER='عندما لا يكون المجهز في حالة احتضار\nحتى لو تلقى ضرراً يؤدي إلى صفر نقاط صحة\nتبقى لديه نقطة صحة واحدة.'
+  id=153182 EN='When the equipped character is not near death, they will survive an otherwise lethal attack with 1 HP remaining.' AFTER='عندما لا يكون مرتدي العتاد على وشك الموت،\nفإنه ينجو من الهجوم الذي يودي بحياته ويبقى لديه نقطة صحة واحدة.'
+
+=== JA: 装備者は毒/出血/睡眠/麻痺/暗闇
+沈黙/恐怖/衰弱にかかりにくくなる ===
+  id=152565 EN="Improve the equipped character's resistance to poison/bleeding/sleep/paralysis/blindness/silence/terror/weakness." AFTER='يصعب على المجهز الإصابة بالسم/النزيف/النوم/الشلل/الظلام\nالصمت/الرعب/الضعف.'
+  id=153429 EN="Improve the equipped character's resistance to poison/bleeding/sleep/paralysis/blindness/silence/terror/weakness." AFTER='يصبح المرتدي أقل عرضة للإصابة بالسم/النزيف/النوم/الشلل/الظلام/الصمت/الخوف/الضعف.'
+
+=== JA: 敵単体に物攻/属攻ダウンの効果を
+<skl_turn_count>付与する ===
+  id=152632 EN='Lower Phys. Atk./Elem. Atk. of a foe for <skl_turn_count> turn(s).' AFTER='يمنح هدفًا واحدًا من الأعداء تأثير خفض الهجوم الفيزيائي/السحري\nلمدة <skl_turn_count>'
+  id=153362 EN='Lower Phys. Atk./Elem. Atk. of a foe for <skl_turn_count> turn(s).' AFTER='يمنح تأثير خفض الهجوم الجسدي/الهجوم العنصري على عدو واحد لمدة <skl_turn_count>.'
+
+=== JA: フォローバック ===
+  id=152848 EN='Back Row Protection' AFTER='حماية من الخلف'
+  id=153547 EN='Back Row Protection' AFTER='حماية الصف الخلفي'
+
+=== JA: 会心の矢 ===
+  id=152869 EN='True Strike' AFTER='سهم الضربة الحرجة'
+  id=153298 EN='True Strike' AFTER='سهم حاسم'
+
+=== JA: どしゃぶり矢 ===
+  id=152881 EN='Arrowstorm' AFTER='وابل السهام'
+  id=153300 EN='Arrowstorm' AFTER='عاصفة السهام'
+
+=== JA: 突風の詩 ===
+  id=152901 EN='Song of Winds' AFTER='قصيدة الرياح العاتية'
+  id=153067 EN='Song of Winds' AFTER='قصيدة العاصفة'
+
+=== JA: ランダムなターゲットに
+光属性のダメージを３回与える ===
+  id=153012 EN='Deal light damage to random foes 3 time(s).' AFTER='إلحاق ضرر ضوئي بأهداف عشوائية 3 مرات'
+  id=153186 EN='Deal light damage to random foes 3 time(s).' AFTER='يلحق ضررًا من عنصر الضوء 3 مرات بهدف عشوائي.'
+
+=== JA: 自身に物攻/物防/属攻/属防アップの
+効果を<skl_turn_count>付与する ===
+  id=153014 EN='Raise own Phys. Atk./Phys. Def./Elem. Atk./Elem. Def. for <skl_turn_count> turn(s).' AFTER='منح الذات تأثير زيادة الهجوم المادي/الدفاع المادي/الهجوم العنصري/الدفاع العنصري لمدة <skl_turn_count> دورة'
+  id=153187 EN='Raise own Phys. Atk./Phys. Def./Elem. Atk./Elem. Def. for <skl_turn_count> turn(s).' AFTER='يزيد من الهجوم الفيزيائي والدفاع الفيزيائي والهجوم العنصري والدفاع العنصري للذات لمدة <skl_turn_count> دور.'
+
+=== JA: 味方単体に物防アップの効果を
+<skl_turn_count>付与する ===
+  id=153152 EN='Raise Phys. Def. of an ally for <skl_turn_count> turn(s). Dance skill.' AFTER='يمنح هدفًا واحدًا من الحلفاء تأثير زيادة الدفاع المادي لمدة <skl_turn_count>.'
+  id=153449 EN='Raise Phys. Def. of an ally for <skl_turn_count> turn(s).' AFTER='يمنح هدفًا واحدًا من الحلفاء تأثير زيادة الدفاع المادي لـ <skl_turn_count> دور.'
+

@@ -1,0 +1,25 @@
+2471
+ja: 　　　　　２９枚目を入れる頃には
+en:           With the twenty-ninth coin,
+ar_before: بحلول الوقت الذي وضعت فيه الورقة التاسعة والعشرين
+ar: بحلول الوقت الذي وضعت فيه القطعة النقدية التاسعة والعشرين
+reason: Changed 'الورقة' (sheet/paper) to 'القطعة النقدية' (coin) to match the Japanese '枚目' (counter for coins) and English 'coin'.
+
+2571
+ja: あぁ、忘れていたよ
+解毒薬はもう１つあったんだ
+en: Oh, it seems I forgot I had another
+dose of antidote with me.
+ar_before: آه، لقد نسيتُ ذلك.
+ar: آه، لقد نسيتُ.
+كان لدي ترياق آخر.
+reason: Arabic translation was incomplete, missing the second part of the Japanese sentence.
+
+2627
+ja: アーギュストの犠牲が
+また１人……
+en: Auguste claims another victim...
+ar_before: ضحية أخرى لأوغست...
+ar: ضحية أخرى لأوغست……
+reason: Ellipsis count/character mismatch with Japanese source.
+

@@ -1,0 +1,60 @@
+IDX 236 ID 301901
+JA: '剣闘士を称える一対の銅像の右。\n闘志が湧いてくる気がする'
+AFTER: 'التمثال الأيمن من زوج من التماثيل البرونزية التي تمجد المصارعين. أشعر وكأن روح القتال تتوقد في داخلي.'
+REASON: Full translation of the Japanese source, improved phrasing, and corrected material (bronze vs copper).
+
+IDX 240 ID 301905
+JA: '<Param_State>\n装備効果：前衛時、毎ターン\n自身の最大SPの５％分のSPを失う'
+AFTER: '<Param_State>\nتأثير التجهيز: عند التواجد في الصف الأمامي، تخسر نقاط مهارة تعادل 5% من نقاط مهارتك القصوى في كل دور.'
+REASON: Full translation of the Japanese source and preserved placeholders/line breaks.
+
+IDX 248 ID 301943
+JA: '十年以上前に描かれた絵本。\n存在を信じる人にしか見えない、\n願いを叶える流れ星を題材にしている'
+AFTER: 'كتاب مصور رُسم قبل أكثر من عشر سنوات.\nيتناول قصة نجم متساقط يحقق الأمنيات، ولا يراه إلا من يؤمن بوجوده.'
+REASON: The original Arabic omitted the latter part of the Japanese and English source, which describes the content of the picture book. Added the missing description and preserved the line break.
+
+IDX 269 ID 301988
+JA: '伝説の秘宝。\n清き心の持ち主の前にしか現れない\nと伝えられる、角持つ馬の像'
+AFTER: 'كنز أسطوري.\nتمثال لفرس ذي قرن، يُقال إنه لا يظهر إلا أمام أصحاب القلوب النقية.'
+REASON: Incomplete translation; added the full item description. Preserved line break.
+
+IDX 365 ID 302155
+JA: '猫の亜人をかたどった彫像。\n設置中、EXPとリーフの\n獲得量が少し上がる\n※同種の装飾品との効果は重複しない'
+AFTER: 'تمثال على شكل هجين قط.\nيزيد قليلاً من الخبرة والأوراق المكتسبة عند وضعه.\n*ملاحظة: لا تتراكم تأثيرات الزينة من نفس النوع.'
+REASON: Significant omission: Translated missing sentences and added line breaks (`\n`). Used glossary terms for EXP and Leaves.
+
+IDX 400 ID 302223
+JA: 'ヴァローレの商品を\nウィッシュベールの商店で\n買えるようにする情報'
+AFTER: 'معلومات تسمح بشراء منتجات فالور\nفي متجر ويشفيل'
+REASON: Added the missing phrase 'في متجر ويشفيل' (ウィッシュベールの商店で) and preserved the line break.
+
+IDX 501 ID 10101003
+JA: '大陸一の大富豪、“強欲の魔女”ヘルミニア。\n巨万の富を独占した魔女に買えぬものは、\nこの世にはない――'
+AFTER: 'السيدة هيرمينيا، أغنى شخص في القارة، والمعروفة بـ "ساحرة الطمع".\nلا يوجد شيء في هذا العالم لا يمكن لثروتها الهائلة أن تشتريه.'
+REASON: Incomplete translation; added the missing part of the sentence and preserved line break. Used glossary term for Lady Herminia.
+
+IDX 510 ID 10201003
+JA: '私兵組織“緋翼”を率いて、\nエンバーグロウの民を支配する“英雄”タイタス――\nさらなる権力を求める彼に、抗おうとする者がいた。'
+AFTER: 'يقود "تايتوس"، "البطل" المزعوم، منظمة "الأجنحة القرمزية" العسكرية ويحكم شعب إمبرغلو. لكن كان هناك من يحاول مقاومته في سعيه نحو المزيد من السلطة… …'
+REASON: Mistranslation: The original Arabic omitted the crucial phrase about Tytos seeking 'further power' and the nuance of him being a 'so-called hero'. Also, adjusted the ending punctuation to two ellipsis characters to match the pause implied by the source's '――' and the English translation's '...'.
+
+IDX 514 ID 10301003
+JA: '芸術の都シアトポリスにて最も高き名声を誇る\n劇作家アーギュスト。誰もが彼の作品を褒めそやし、\n讃え、魅入られ、道を誤った――'
+AFTER: 'في ثياتروبوليس، مدينة الفنون، يتباهى الكاتب المسرحي أوغست بأعلى درجات الشهرة. الجميع أشاد بأعماله، وأعجب بها، وسُحر بها، وضلّ طريقه بسببها…'
+REASON: The original Arabic was a significant omission, only translating the first clause. Re-translated the full Japanese sentence, including the part about people being captivated and going astray. Transliterated 'Theatropolis' as 'ثياتروبوليس' and corrected the ellipsis from '――' to '…'.
+
+IDX 523 ID 10400003
+JA: '富、権力、名声――極めし三者を倒し、\n故郷で安息を得られるかに見えた<chara_name>。\nそこに、ひとりの聖火騎士が現れた。'
+AFTER: 'هزم <chara_name> أسياد الثروة والسلطة والشهرة الثلاثة، وأعاد السلام إلى وطنه. حينها، ظهر فارس اللهب المقدس أمامه.'
+REASON: Completed the translation by adding the missing second sentence. Clarified 'the three who reached their peak' to 'أسياد الثروة والسلطة والشهرة الثلاثة' to match en_text. Used glossary term for 'Knight Ardante'.
+
+IDX 534 ID 10404043
+JA: '“密談”にて、ソロン王の命が狙われる――\n<chara_name>は剣士エル、旅人シャルルと共に、\n砂漠の町サンシェイドに急行した。'
+AFTER: 'خلال "محادثة سرية"، يتم استهداف حياة الملك الحكيم سورون――\nتوجه <chara_name> مسرعًا إلى مدينة سان شيد الصحراوية برفقة المحارب إل والمسافر شارل.'
+REASON: Translated the missing second part of the sentence, updated 'الملك سورون' to 'الملك الحكيم سورون' for glossary compliance, updated 'السيف إل' to 'المحارب إل' for consistency, and used past tense 'توجه' for gender-neutrality for <chara_name>.
+
+IDX 557 ID 212004060
+JA: '故郷スフラタルジャに帰ったオスカは、\n信奉者に領主スカラベを殺させた。\n彼の次のターゲットは、他ならぬヴァローレだった――'
+AFTER: 'عاد أوسكا إلى موطنه سفلارالجا، وأمر أتباعه بقتل اللورد سكارابي. وكان هدفه التالي هو فالور نفسها...'
+REASON: Incomplete translation. The original Arabic only translated the first clause. Added the rest of the sentence and corrected the trailing punctuation to an ellipsis '...' as per Japanese source '――'.
+

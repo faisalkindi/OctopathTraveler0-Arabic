@@ -1,0 +1,87 @@
+=== 152386 ===
+JA: 装備者が与えるダメージは
+最大99999となる
+EN: The equipped character will deal up to 99,999 damage.
+BEFORE: يصبح الضرر الذي يلحقه مرتدي العتاد
+AFTER: يصبح الضرر الذي يلحقه مرتدي العتاد بحد أقصى 99999.
+REASON: Incomplete translation; added the missing maximum damage value.
+
+=== 152387 ===
+JA: ターン開始時、25%の確率で
+自身に物理攻撃を１回だけ
+必ず回避する効果を付与する
+EN: At the start of turn, grant self a 25% chance to dodge physical attacks 1 time(s).
+BEFORE: عند بداية الدور، بنسبة 20%
+AFTER: عند بداية الدور، بنسبة 25%، يمنح نفسه تأثير تفادي الهجمات الجسدية مرة واحدة فقط.
+REASON: Mistranslation of percentage (20% instead of 25%) and incomplete translation of the effect.
+
+=== 152556 ===
+JA: 装備者が敵の攻撃を受けたとき
+25%の確率でBPを１回復する
+EN: The equipped character will have a 25% chance to restore 1 BP when attacked.
+BEFORE: عندما يتلقى المجهز هجوماً من العدو
+AFTER: عندما يتلقى المجهز هجوماً من العدو
+تكون هناك فرصة بنسبة 25% لاستعادة نقطة طاقة واحدة.
+REASON: Translation was incomplete; added missing text and line break to match Japanese source.
+
+=== 152559 ===
+JA: 装備者が後衛にいるとき
+装備者の前衛は25%の確率で
+BPを消費しない
+EN: When the equipped character is in the back row, they will have a 25% chance to reduce paired ally's BP consumption to 0.
+BEFORE: عندما يكون المجهز في الصف الخلفي
+AFTER: عندما يكون المجهز في الصف الخلفي
+تكون هناك فرصة بنسبة 25% للحليف الأمامي
+لعدم استهلاك نقاط الطاقة.
+REASON: Translation was incomplete; added missing text and line breaks to match Japanese source.
+
+=== 152267 ===
+JA: 敵単体に短剣でダメージを２回与える
+与えたダメージの５%分のSPを奪う
+EN: Deal dagger damage to a foe 2 time(s), and steal SP equal to 5% of damage dealt.
+BEFORE: إلحاق الضرر بخصم واحد مرتين باستخدام خنجر
+AFTER: إلحاق الضرر بخصم واحد مرتين باستخدام خنجر،
+واستنزاف نقاط مهارة تعادل 5% من الضرر الملحق.
+REASON: Completed the translation, used glossary term 'نقاط مهارة', and preserved line break.
+
+=== 152512 ===
+JA: ランダムなターゲットに
+弓でダメージを５～８回与える
+EN: Deal bow damage to random foes 5 to 8 time(s).
+BEFORE: إلحاق الضرر من ٥ إلى ٨ مرات بالسهام
+AFTER: إلحاق الضرر بالسهام من ٥ إلى ٨ مرات على أهداف عشوائية.
+REASON: Incomplete translation; missing 'to random foes'.
+
+=== 152514 ===
+JA: ランダムなターゲットに
+扇でダメージを３回与える
+EN: Deal fan damage to random foes 3 time(s).
+BEFORE: إلحاق الضرر ٣ مرات بالمروحة
+AFTER: إلحاق الضرر بالمروحة ٣ مرات على أهداف عشوائية.
+REASON: Incomplete translation; missing 'to random foes'.
+
+=== 153134 ===
+JA: 敵単体に杖でダメージを２回与える
+与えたダメージの10％分のSPを回復
+EN: Deal staff damage to a foe 2 time(s), and restore SP equal to 10% of damage dealt.
+BEFORE: يلحق ضررًا بالعدو الواحد مرتين باستخدام العصا
+AFTER: يلحق ضررًا بالعدو الواحد مرتين باستخدام العصا، ويستعيد نقاط المهارة بنسبة 10% من الضرر الذي ألحقه.
+REASON: The original translation was incomplete, missing the second part of the effect: 'and restore SP equal to 10% of damage dealt'. Used glossary term 'نقاط المهارة' for SP.
+
+=== 153151 ===
+JA: 装備者が後衛にいるとき
+装備者の前衛は25%の確率で
+BPを消費しない
+EN: When the equipped character is in the back row, they will have a 25% chance to reduce paired ally's BP consumption to 0.
+BEFORE: عندما يكون المجهز في الصف الخلفي،
+AFTER: عندما يكون المجهز في الصف الخلفي، يكون لدى الصف الأمامي للمجهز فرصة 25% لعدم استهلاك نقاط الطاقة.
+REASON: The original translation was incomplete, missing the effect: 'they will have a 25% chance to reduce paired ally's BP consumption to 0'. Used glossary term 'نقاط الطاقة' for BP.
+
+=== 153349 ===
+JA: 装備者が敵の攻撃を受けたとき
+25%の確率でBPを１回復する
+EN: The equipped character will have a 25% chance to restore 1 BP when attacked.
+BEFORE: عند تعرض المجهز لهجوم من العدو
+AFTER: عند تعرض المجهز لهجوم من العدو، هناك فرصة 25% لاستعادة نقطة طاقة واحدة.
+REASON: The original Arabic was an incomplete translation, missing the '25% chance to restore 1 BP' part. Used 'نقاط طاقة' for BP as per glossary.
+

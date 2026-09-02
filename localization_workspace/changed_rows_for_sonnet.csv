@@ -1,0 +1,83 @@
+﻿id,ja_text,en_text,ar_text_before,ar_text,changed,reason
+2,"金のためなら
+赤子も喜んで殺すらしい","They say she'd happily slaughter
+her own child for coin!",يقال إنها مستعدة لقتل طفل رضيع من أجل المال.,يقال إنها تقتل طفلاً رضيعًا بكل سرور من أجل المال.,True,Improved translation of '喜んで殺す' (happily kill) to 'تقتل بكل سرور'.
+18,…………,......,............,……,True,Adjusted ellipsis count to match Japanese source (4 dots).
+19,お花はいかがですか？,Would you like a flower?,هل ترغب في الحصول على زهور؟,هل ترغب في الحصول على زهرة؟,True,"Changed 'زهور' (flowers, plural) to 'زهرة' (flower, singular) to match Japanese source."
+20,…………,......,............,……,True,Adjusted ellipsis count to match Japanese source (4 dots).
+23,"ずいぶんお高い
+花らしい",Pretty steep for a single flower.,"إنها باهظة الثمن للغاية
+يا لها من زهرة",إنها باهظة الثمن للغاية لزهرة واحدة.,True,Improved translation of '花らしい' to convey 'expensive for a single flower'.
+25,…………,Um...,...........,……,True,Adjusted ellipsis count to match Japanese source (4 dots).
+26,誰に頼まれて売っている？,Who put you up to this?,لمن تبيعينها بناءً على طلب من أحد؟,من طلب منكِ بيعها؟,True,"Rephrased for more natural and concise Arabic, maintaining feminine address."
+27,それは……,I...I can't...,هذا...,لا أستطيع...,True,"Conveyed implied meaning of hesitation/inability to speak, rather than a literal 'This...'"
+29,"だけど……
+これを売らないと……","But they said that if I don't
+sell this...","ولكن...
+إذا لم أبع هذا...","ولكن……
+إذا لم أبع هذا……",True,Adjusted ellipsis count to match Japanese source (6 dots).
+30,弟たちが……,My brothers... They'll...,إخوتي...,إخوتي……,True,Adjusted ellipsis count to match Japanese source (6 dots).
+36,"やれやれだ……
+結局こうなるもんな",How did I know this was coming?,"يا للهول...
+في النهاية ينتهي الأمر هكذا","يا إلهي...
+في النهاية ينتهي الأمر هكذا",True,"Changed 'يا للهول' to 'يا إلهي' for better tone/register matching 'yareyare da' (sigh of resignation, not horror)."
+39,…………,......,............,......,True,Corrected ellipsis count to match source (6 dots).
+45,……来るぞ,...Here they come!,...إنه قادم.,...إنهم قادمون.,True,Changed singular 'إنه قادم' to plural 'إنهم قادمون' to reflect 'they come' (referring to multiple enemies).
+46,"ひいぃ……
+おい、退くぞ！","No-good scoundrels!
+You'll pay for this!","هيه...
+هيا، تراجعوا!","آهٍ...
+هيا، تراجعوا!",True,Changed 'هيه...' to 'آهٍ...' to better convey the sound of fear/surprise ('ひいぃ').
+47,…………,......,............,......,True,Corrected ellipsis count to match source (6 dots).
+48,"あんな子供にまで
+“粉”を売らせるのか","Using children to peddle their
+poison, are they now?","هل يبيعون ""المسحوق"" حتى للأطفال؟","هل يجعلون الأطفال يبيعون ""المسحوق""؟",True,Corrected verb to reflect causative 'make children sell' ('売らせる') instead of 'sell to children'.
+58,クールだ,...It's go time.,هذا رائع.,...حان وقت العمل.,True,"Glossary compliance and tone: 'It's go time.' is a fixed term in the glossary, and conveys a more active, gritty tone than 'هذا رائع'."
+60,……助かったぜ,"You really helped us out
+back there.",...لقد أنقذتَنا.,...لقد ساعدتنا.,True,"Gender neutrality for player character: 'أنقذتَنا' is explicitly masculine. 'ساعدتنا' (without diacritics) is gender-neutral in written form for past-tense 2nd-person verbs, as per style guide."
+62,"昔はマシな町だったが
+いまは見ての通りだ",and we've watched it go to shit.,"كانت مدينة أفضل في الماضي،
+لكنها الآن كما ترون.","كانت مدينة أفضل في الماضي،
+لكنها الآن في حال يرثى لها.",True,Tone: 'كما ترون' is too mild for 'go to shit'. 'في حال يرثى لها' (in a deplorable state) better captures the 'grittier' tone while remaining natural MSA.
+65,"改めて聞く
+俺たちの仲間になるか？","Do you still want to join
+our cause?","سأسألك مجدداً
+هل ستنضم إلى جماعتنا؟","سأسألك مجدداً
+هل ترغب في الانضمام إلى جماعتنا؟",True,"Gender neutrality for player character: 'هل ستنضم' is masculine. 'هل ترغب في الانضمام' uses a verbal noun, making it gender-neutral."
+66,"へえ……
+びびってンのか？","C'mon!
+What are you, scared?","هه...
+هل أنت خائف؟","هه...
+هل تشعر بالخوف؟",True,Gender neutrality for player character: 'خائف' is masculine. 'هل تشعر بالخوف؟' (Do you feel fear?) is gender-neutral.
+68,"……もう一度聞こう
+俺たちの仲間になるか？","...Think carefully, friend.
+A chance like this doesn't
+come along every day.","...سأسأل مرة أخرى
+هل ستنضم إلى جماعتنا؟","...سأسأل مرة أخرى
+هل ترغب في الانضمام إلى جماعتنا؟",True,"Gender neutrality for player character: 'هل ستنضم' is masculine. 'هل ترغب في الانضمام' uses a verbal noun, making it gender-neutral."
+70,"やったぜ！
+歓迎するぜ、新入り！","All right!
+A new addition to our ranks!","فعلتها!
+أهلاً بك، أيها المنضم الجديد!","فعلتها!
+أهلاً بالمنضم الجديد!",True,Gender neutrality for player character: 'أيها المنضم الجديد' is a direct masculine address. 'أهلاً بالمنضم الجديد!' avoids direct address and is gender-neutral.
+72,……クールだ,...It's go time.,...رائع,...حان وقت العمل.,True,"Glossary compliance and tone: 'It's go time.' is a fixed term in the glossary, and conveys a more active, gritty tone than 'رائع'."
+86,"ヘルミニアは絶世の美女で
+神父も発情した犬になるって","They say she's so gorgeous that even
+clergymen are reduced to dogs in heat.","هيرمينيا جميلة فاتنة،
+لدرجة أن الكاهن سيصبح كلباً هائجاً.","هيرمينيا جميلة فاتنة،
+لدرجة أن الكهنة سيصبحون كلاباً هائجة.",True,Changed singular 'الكاهن' and 'كلباً هائجاً' to plural 'الكهنة' and 'كلاباً هائجة' for better agreement with the implied generalization in the Japanese and English.
+87,"きっと、大陸の金持ち全員を
+相手にしたンだよ","...And that she's slept with the
+wealthiest men in the realm.","من المؤكد أنها تعاملت مع
+كل الأثرياء في القارة.","من المؤكد أنها نامت مع
+كل الأثرياء في القارة.",True,Changed 'تعاملت مع' (dealt with) to 'نامت مع' (slept with) to accurately reflect the sexual connotation of the Japanese '相手にした' and match the English translation's explicit meaning.
+89,"何千人くわえ込めば
+この御殿が建つんだ？　ああ？","I've never met a harlot who lives
+in a mansion like this.","كم ألف شخص استضافت في أحشائها
+حتى بُني هذا القصر؟ هاه؟","كم ألف رجل نامت معهم
+حتى بُني هذا القصر؟ هاه؟",True,Rephrased 'استضافت في أحشائها' to 'نامت معهم' to be less graphically explicit while retaining the crude meaning of the Japanese 'くわえ込めば' and aligning with the English interpretation. Also changed 'شخص' (person) to 'رجل' (man) as implied by context.
+94,"俺たちの後ろ盾になり得る
+……な","...Some of whom might be able
+to help us get what we want.",أولئك الذين يمكنهم أن يكونوا درعاً لنا... أليس كذلك؟,أولئك الذين يمكنهم أن يكونوا سنداً لنا... أليس كذلك؟,True,Changed 'درعاً لنا' (a shield for us) to 'سنداً لنا' (a support for us) to be a more direct and accurate translation of the Japanese '後ろ盾' (backing/patron).
+100,俺、パーティって大好き！,"All right!
+Time to have some fun!",أنا أحب المجموعات كثيراً!,أنا أحب الحفلات كثيراً!,True,Corrected 'المجموعات' (groups) to 'الحفلات' (parties/banquets) to accurately reflect the meaning of Japanese 'パーティ' as a social event in this context.

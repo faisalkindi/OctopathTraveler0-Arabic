@@ -1,0 +1,84 @@
+ID=39155
+JA:よう、相棒
+あんたも手紙をもらったのか？
+EN:Hey, friend. You got a letter too?
+BEFORE:أهلاً، يا شريكي
+AFTER:أهلاً، يا شريكي.
+هل تلقيتَ رسالةً أنتَ أيضاً؟
+REASON:Significant omission: The second part of the JA text 'あんたも手紙をもらったのか？' was missing. Added 'هل تلقيتَ رسالةً أنتَ أيضاً؟' and ensured player-address neutrality (past tense verb).
+----
+ID=39159
+JA:<chara_name>様
+いらしたのですね
+EN:Ah, <chara_name>.
+So you have come, too.
+BEFORE:<chara_name>
+AFTER:<chara_name>.
+لقد أتيتَ أنتَ أيضاً.
+REASON:Significant omission: The second part of the JA text 'いらしたのですね' was missing. Added 'لقد أتيتَ أنتَ أيضاً.' and ensured player-address neutrality (past tense verb).
+----
+ID=39163
+JA:よう、あんたも来たのか
+EN:Ah, you're here as well.
+BEFORE:أهلاً، هل أتيتَ أنتَ أيضاً؟
+AFTER:أهلاً، هل أتيتَ أيضاً؟
+REASON:Player-address gender neutrality: 'أنتَ' (explicit masculine pronoun) was used. Removed 'أنتَ' as 'أتيتَ' (past tense) is already gender-neutral in spelling and the pronoun is redundant.
+----
+ID=39164
+JA:あんな手紙もらったら
+行くしかないよな？
+EN:Who could ignore such a letter?
+BEFORE:عندما نتلقى رسالة كهذه،
+فليس أمامنا سوى الذهاب، أليس كذلك؟
+AFTER:إذا تلقيتَ رسالة كهذه،
+فليس أمامك سوى الذهاب، أليس كذلك؟
+REASON:Number and player-address gender neutrality: 'نتلقى' (we receive) and 'أمامنا' (before us) were plural. Changed to 'إذا تلقيتَ' (if you received, past tense, neutral spelling) and 'أمامك' (before you, singular) to address the player character neutrally and singularly.
+----
+ID=40326
+JA:お前……強そうだな……
+EN:You...look strong...
+BEFORE:أنتِ…… تبدين قوية……
+AFTER:بدوتَ قوياً……
+REASON:Addressee is the protagonist; changed feminine present tense/adjective to gender-neutral past tense form as per style guide.
+----
+ID=411409
+JA:……って、<chara_name>には耳タコか
+団長の子供だものね
+EN:...Though I'm sure you're sick of
+hearing that, considering your
+father's captain of the watch.
+BEFORE:……مهلاً، لقد سئمتِ من سماع هذا يا <chara_name>
+فأنتِ ابنة قائد الفصيل، أليس كذلك؟
+AFTER:……مهلاً، لقد سئمتَ من سماع هذا يا <chara_name>
+فأنت طفل قائد الفصيل، أليس كذلك؟
+REASON:Corrected gender-specific phrasing for the player character: 'سئمتِ' to gender-neutral 'سئمتَ' (past tense is spelling-neutral) and 'أنتِ ابنة' to generic masculine 'أنت طفل' as per style guide.
+----
+ID=412125
+JA:あなたはいつも
+揺るがないように見えます
+EN:You never seem shaken no matter
+what happens.
+BEFORE:تبدو دائماً
+ثابتاً لا يتزعزع
+AFTER:بدوتَ دائماً
+ثابتاً لا يتزعزع
+REASON:Used past tense `بدوتَ` for gender neutrality (spelling is neutral). `ثابتاً` defaults to generic masculine as per style guide.
+----
+ID=412134
+JA:そなたは……何と共に歩む？
+EN:What is it you walk with?
+BEFORE:أنت…… مع من تسير؟
+AFTER:أنت…… مع أي شيء سرتَ؟
+REASON:Corrected `مع من` to `مع أي شيء` to match `何と`. Used past tense `سرتَ` for gender neutrality.
+----
+ID=412651
+JA:……もしかして
+<chara_name>さんですか？
+EN:Are you <chara_name>,
+by any chance?
+BEFORE:……هل أنتِ
+<chara_name>؟
+AFTER:……هل أنتَ
+<chara_name>؟
+REASON:Changed 'أنتِ' (feminine 'you') to 'أنتَ' (masculine 'you') to adhere to the gender-neutrality rule for the player character, using the generic masculine as the acceptable fallback.
+----

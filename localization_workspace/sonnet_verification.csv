@@ -1,0 +1,94 @@
+id,ja_text,en_text,ar_text_before,ar_text_gemini,verdict,final_ar_text,notes
+2,"金のためなら
+赤子も喜んで殺すらしい","They say she'd happily slaughter
+her own child for coin!",يقال إنها مستعدة لقتل طفل رضيع من أجل المال.,يقال إنها تقتل طفلاً رضيعًا بكل سرور من أجل المال.,improvement,يقال إنها تقتل طفلاً رضيعًا بكل سرور من أجل المال.,"'喜んで殺す' = kill gladly/happily. Before ('مستعدة لقتل' = willing/ready to kill) shifts meaning to willingness rather than the actual enjoyment in killing. After ('تقتل...بكل سرور') correctly conveys the gladness/glee, matching EN 'happily slaughter'."
+18,…………,......,............,……,regression,…………,"STYLE_GUIDE.md: 'Ellipsis … (single char), preserve count for pacing.' Source ja_text has 4 consecutive U+2026 characters (verified: len=4). Before used 12 ASCII dots (=4 units of '...', arguably matching count if read as 3-dot groups, but wrong character per style guide). Gemini's 'after' uses only 2 unicode ellipsis chars, undercounting the source's 4-char run despite the stated reason claiming '4 dots' — internally inconsistent with its own output. Correct fix should use exactly 4 unicode ellipsis characters to preserve count as the style guide requires."
+19,お花はいかがですか？,Would you like a flower?,هل ترغب في الحصول على زهور؟,هل ترغب في الحصول على زهرة؟,improvement,هل ترغب في الحصول على زهرة؟,"EN uses singular 'a flower', and the follow-up line (id=23, '花らしい' = 'a single flower') confirms she is selling one flower at a time. Singular 'زهرة' is the accurate, contextually consistent choice."
+20,…………,......,............,……,regression,…………,"Identical case to id=18 — ja_text is 4 unicode ellipsis chars, Gemini's 2-char output undercounts against STYLE_GUIDE.md's 'preserve count' rule. Correct final text needs 4 unicode ellipsis characters."
+23,"ずいぶんお高い
+花らしい",Pretty steep for a single flower.,"إنها باهظة الثمن للغاية
+يا لها من زهرة",إنها باهظة الثمن للغاية لزهرة واحدة.,improvement,إنها باهظة الثمن للغاية لزهرة واحدة.,"Before was a garbled two-line fragment ('how expensive... what a flower!') that loses the comparative meaning 'expensive FOR a single flower'. After is a single clear sentence matching both ja_text and en_text precisely."
+25,…………,Um...,...........,……,regression,…………,"Same ellipsis-count issue as id=18/20. ja_text is 4 unicode ellipsis characters; Gemini's 'after' (2 chars) still undercounts per STYLE_GUIDE.md. Correct final text: 4 unicode ellipsis characters."
+26,誰に頼まれて売っている？,Who put you up to this?,لمن تبيعينها بناءً على طلب من أحد؟,من طلب منكِ بيعها؟,improvement,من طلب منكِ بيعها؟,"Before was an awkward/garbled construction mixing 'to whom' with 'based on someone's request' that doesn't parse cleanly in Arabic. After is a clean, natural, accurate rendering of '誰に頼まれて' (who asked you to) while correctly preserving the feminine addressee marker (منكِ)."
+27,それは……,I...I can't...,هذا...,لا أستطيع...,improvement,لا أستطيع...,"This is an interpretive leap beyond the literal ja ('that is...'), but it matches the official en_text's adaptation ('I...I can't...') and fits the scene (flower girl being pressured/interrogated, trailing off in inability to answer). 'هذا...' (literal 'this...') doesn't convey the implied hesitation/inability that both the EN localization and dialogue context call for."
+29,"だけど……
+これを売らないと……","But they said that if I don't
+sell this...","ولこن...
+إذا لم أبع هذا...","ولكن……
+إذا لم أبع هذا……",improvement,"ولكن……
+إذا لم أبع هذا……","Each ja ellipsis run is exactly 2 unicode '…' characters. Before used 3 ASCII dots per run (non-compliant with STYLE_GUIDE.md's 'single char' unicode ellipsis rule). After correctly uses 2 unicode ellipsis characters per run, matching the source count exactly."
+30,弟たちが……,My brothers... They'll...,إخوتي...,إخوتي……,improvement,إخوتي……,"ja ellipsis run is 2 unicode '…' characters. After correctly switches from 3 ASCII dots to 2 unicode ellipsis characters, matching source count and the style guide's unicode-ellipsis rule."
+36,"やれやれだ……
+結局こうなるもんな",How did I know this was coming?,"يا للهول...
+في النهاية ينتهي الأمر هكذا","يا إلهي...
+في النهاية ينتهي الأمر هكذا",improvement,"يا إلهي...
+في النهاية ينتهي الأمر هكذا","'やれやれ' is a tired/resigned sigh ('sheesh', 'well, well') — NOT an expression of horror. Before ('يا للهول' = 'how horrifying!') wrongly injects a fear/shock register the source doesn't have. After ('يا إلهي' = 'oh good grief/my god') correctly reads as resigned exasperation, matching GAME_CONTEXT.md's confirmed 'grounded, not overwrought' tone."
+39,…………,......,............,......,regression,…………,"Same source ja_text (4 unicode ellipsis chars, verified len=4) as id=18/20/25, yet here Gemini's 'after' reverted to 6 ASCII dots and its stated reason claims '6 dots' — inconsistent both with the actual source count (4, not 6) and with unicode-ellipsis-only compliance (STYLE_GUIDE.md forbids ASCII dot sequences). Correct final text: 4 unicode ellipsis characters, consistent with the identical id=18/20/25 lines."
+45,……来るぞ,...Here they come!,...إنه قادم.,...إنهم قادمون.,improvement,...إنهم قادمون.,"EN explicitly uses plural 'they come', and this is a combat-warning line about an incoming enemy group (typical ambush/encounter context). Plural 'إنهم قادمون' matches both the EN gloss and the typical multi-enemy encounter framing; singular 'إنه قادم' understates the threat."
+46,"ひいぃ……
+おい、退くぞ！","No-good scoundrels!
+You'll pay for this!","هيه...
+هيا، تراجعوا!","آهٍ...
+هيا، تراجعوا!",improvement,"آهٍ...
+هيا، تراجعوا!","'ひいぃ' is a whimper/gasp of fear. 'هيه' is not a standard Arabic interjection and reads oddly; 'آهٍ' is an established Arabic exclamation of pain/distress and renders the fear-whimper more naturally, without changing the accompanying 'let's retreat' line."
+47,…………,......,............,......,regression,…………,"Same issue as id=39 — identical ja_text (4 unicode ellipsis chars) to id=18/20/25, but Gemini output 6 ASCII dots with the same mismatched '6 dots' reasoning. Correct final text: 4 unicode ellipsis characters."
+48,"あんな子供にまで
+“粉”を売らせるのか","Using children to peddle their
+poison, are they now?","هل يبيعون ""المسحوق"" حتى للأطفال؟","هل يجعلون الأطفال يبيعون ""المسحوق""؟",improvement,"هل يجعلون الأطفال يبيعون ""المسحوق""؟","'売らせる' is the causative form of 売る ('sell') = 'make [someone] sell'. Before mistranslated this as selling TO children (reversing subject/object: children as buyers). After correctly uses a causative construction ('يجعلون الأطفال يبيعون' = 'make the children sell'), matching both ja_text's causative grammar and en_text's 'using children to peddle'. This is a genuine mistranslation fix, not a stylistic wash."
+58,クールだ,...It's go time.,هذا رائع.,...حان وقت العمل.,improvement,...حان وقت العمل.,"GLOSSARY.csv (row: en_text='It's go time.') explicitly freezes 'クールだ' → '...حان وقت العمل.' as 'recurring fixed battle-start phrase'. Gemini's change brings this row into compliance with the locked glossary term; before ('هذا رائع' = 'this is cool', a literal/generic rendering) was not glossary-compliant."
+60,……助かったぜ,"You really helped us out
+back there.",...لقد أنقذتَنا.,...لقد ساعدتنا.,improvement,...لقد ساعدتنا.,"STYLE_GUIDE.md requires gender-neutral phrasing for lines addressing the player character, and notes past-tense 2nd-person verbs are the reliable neutral tool since the gender marker is an unwritten short vowel. The 'before' text explicitly carried a fatha diacritic on 'أنقذتَنا', visibly marking masculine and breaking neutrality. 'ساعدتنا' (undiacritized past tense) is genuinely gender-neutral in written form. Both verb choices ('saved'/'helped') are acceptable translations of 助かった, so this is a legitimate neutrality fix, not just a wash."
+62,"昔はマシな町だったが
+いまは見ての通りだ",and we've watched it go to shit.,"كانت مدينة أفضل في الماضي،
+لكنها الآن كما ترون.","كانت مدينة أفضل في الماضي،
+لكنها الآن في حال يرثى لها.",improvement,"كانت مدينة أفضل في الماضي،
+لكنها الآن في حال يرثى لها.","GAME_CONTEXT.md confirms the game's register is 'grittier/grounded', explicitly contrasted with lighter fantasy tone. Before ('كما ترون' = 'as you can see') is neutral/mild and loses the crude 'go to shit' register entirely. After ('في حال يرثى لها' = 'in a deplorable/pitiable state') captures the decline/disgust register while staying within warm-natural MSA (فصحى ميسّرة), per style guide, without breaking into dialect or vulgarity."
+65,"改めて聞く
+俺たちの仲間になるか？","Do you still want to join
+our cause?","سأسألك مجدداً
+هل ستنضم إلى جماعتنا؟","سأسألك مجدداً
+هل ترغب في الانضمام إلى جماعتنا؟",wash,"سأسألك مجدداً
+هل ترغب في الانضمام إلى جماعتنا؟","Gemini's stated reason ('uses a verbal noun, making it gender-neutral') is factually incorrect: 'ترغب' is a conjugated 2nd-person present-tense verb (تفعل pattern), not a verbal noun, and it is masculine-marked exactly like 'ستنضم' — the feminine form would add ين ('ترغبين'), per standard Arabic morphology and STYLE_GUIDE.md's own note that present-tense verbs 'visibly mark gender in the spelling itself' (تثق vs تثقين). Both before and after are equally masculine-default (an acceptable style-guide fallback), so no real neutrality gain occurred — the text is a stylistic wash with a false justification, not a genuine improvement."
+66,"へえ……
+びびってンのか？","C'mon!
+What are you, scared?","هه...
+هل أنت خائف؟","هه...
+هل تشعر بالخوف؟",wash,"هه...
+هل تشعر بالخوف؟","Same false-neutrality pattern as id=65/68: 'تشعر' is a 2nd-person masculine present-tense verb (feminine would be 'تشعرين'), exactly as gender-marked as the adjective 'خائف' it replaced. No actual neutrality improvement was achieved despite the stated reasoning; both are equally acceptable masculine-default fallbacks per STYLE_GUIDE.md, so this is a cosmetic reword, not a fix."
+68,"……もう一度聞こう
+俺たちの仲間になるか？","...Think carefully, friend.
+A chance like this doesn't
+come along every day.","...سأسأل مرة أخرى
+هل ستنضم إلى جماعتنا؟","...سأسأل مرة أخرى
+هل ترغب في الانضمام إلى جماعتنا؟",wash,"...سأسأل مرة أخرى
+هل ترغب في الانضمام إلى جماعتنا؟","Identical case to id=65 — 'ترغب' is a masculine-marked present-tense verb, not a gender-neutral verbal noun as Gemini's reason claims. No real neutrality gain; both before/after equally rely on the masculine-default fallback permitted by STYLE_GUIDE.md."
+70,"やったぜ！
+歓迎するぜ、新入り！","All right!
+A new addition to our ranks!","فعلتها!
+أهلاً بك، أيها المنضم الجديد!","فعلتها!
+أهلاً بالمنضم الجديد!",improvement,"فعلتها!
+أهلاً بالمنضم الجديد!","Unlike id=65/66/68, this is a genuine neutrality fix: before used a direct vocative address ('أيها المنضم الجديد' = 'O new member,' with masculine vocative particle أيها) plus a gendered attached pronoun ('بك' = 'to you-m'). After removes both the direct-address pronoun and vocative, recasting it as an impersonal welcome statement about the new member as a category rather than addressing 'you' directly — actually eliminating the gendered address element, not just swapping one masculine verb form for another."
+72,……クールだ,...It's go time.,...رائع,...حان وقت العمل.,improvement,...حان وقت العمل.,"Same glossary-compliance fix as id=58 — GLOSSARY.csv locks 'クールだ' → '...حان وقت العمل.' as the frozen recurring battle-start phrase. Before ('...رائع' = 'cool') was not glossary-compliant."
+86,"ヘルミニアは絶世の美女で
+神父も発情した犬になるって","They say she's so gorgeous that even
+clergymen are reduced to dogs in heat.","هيرمينيا جميلة فاتنة،
+لدرجة أن الكاهن سيصبح كلباً هائجاً.","هيرمينيا جميلة فاتنة،
+لدرجة أن الكهنة سيصبحون كلاباً هائجة.",improvement,"هيرمينيا جميلة فاتنة،
+لدرجة أن الكهنة سيصبحون كلاباً هائجة.","ja's '神父' is a generic/indefinite reference (no article), functioning as a rhetorical generalization ('even a priest/priests') consistent with en_text's explicit plural 'clergymen'. The plural rendering better conveys the gossip's hyperbolic generalization (she affects clergy broadly, not one specific priest), matching both en_text and the rumor-mongering register of the scene."
+87,"きっと、大陸の金持ち全員を
+相手にしたンだよ","...And that she's slept with the
+wealthiest men in the realm.","من المؤكد أنها تعاملت مع
+كل الأثرياء في القارة.","من المؤكد أنها نامت مع
+كل الأثرياء في القارة.",improvement,"من المؤكد أنها نامت مع
+كل الأثرياء في القارة.","ja's '相手にした' is a euphemism that, in this crude-gossip context (matching GAME_CONTEXT.md's confirmed 'crime-adjacent/darker' tone for Herminia's arc), implies a sexual encounter. Before's 'تعاملت مع' ('dealt with') is overly vague/business-like and loses the intended crude implication; after's 'نامت مع' ('slept with') matches en_text's explicit 'slept with' and the scene's register."
+89,"何千人くわえ込めば
+この御殿が建つんだ？　ああ？","I've never met a harlot who lives
+in a mansion like this.","كم ألف شخص استضافت في أحشائها
+حتى بُني هذا القصر؟ هاه؟","كم ألف رجل نامت معهم
+حتى بُني هذا القصر؟ هاه؟",improvement,"كم ألف رجل نامت معهم
+حتى بُني هذا القصر؟ هاه؟","'رجل' (man) is more accurate than the generic 'شخص' (person) given the established context (id=87 establishes she slept with wealthy MEN specifically). 'نامت معهم' is also less grotesquely anatomical than before's 'استضافت في أحشائها' ('hosted in her guts/womb') while still preserving the scene's crude, gritty register per GAME_CONTEXT.md."
+94,"俺たちの後ろ盾になり得る
+……な","...Some of whom might be able
+to help us get what we want.",أولئك الذين يمكنهم أن يكونوا درعاً لنا... أليس كذلك؟,أولئك الذين يمكنهم أن يكونوا سنداً لنا... أليس كذلك؟,improvement,أولئك الذين يمكنهم أن يكونوا سنداً لنا... أليس كذلك؟,"'後ろ盾' means 'backing/patronage/backer' (a supporter who provides influence/resources), not a literal defensive 'shield' (درع). 'سند' (support/backing) is the semantically accurate term for a patron who helps you 'get what you want', matching en_text's meaning; 'درعاً' (a shield) wrongly imports a defensive/protective connotation not present in 後ろ盾."
+100,俺、パーティって大好き！,"All right!
+Time to have some fun!",أنا أحب المجموعات كثيراً!,أنا أحب الحفلات كثيراً!,improvement,أنا أحب الحفلات كثيراً!,"'パーティ' here reads as a social gathering/celebration ('party' in the banquet sense) rather than the RPG 'party' (group) system — en_text's 'Time to have some fun!' fits a celebratory-party reading, not a generic-groups reading. 'الحفلات' (parties/celebrations) matches this tone; before's 'المجموعات' (groups) reads as a flat, unrelated generic term that doesn't fit 'have some fun'."

@@ -1,0 +1,5 @@
+'そのまま食べても\nHPが回復しない品種のブドウ。\n料理の素材になる'
+real newline count 2
+literal backslash-n count 0
+CRLF count 0
+CR count 0

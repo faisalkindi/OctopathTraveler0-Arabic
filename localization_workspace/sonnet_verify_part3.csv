@@ -1,0 +1,484 @@
+id,ja_text,en_text,ar_text_before,ar_text_gemini,verdict,final_ar_text,notes
+2655,"……む
+なんだお前は？",Hm? And just who are you?,"......مُ
+من أنت؟","……مُ
+من أنت؟",improvement,,Ellipsis 2/2 matches ja_text.
+2657,"ここはアーギュスト様の
+神聖な劇場だ……","This is Master Auguste's sacred
+theatre.","هذا هو مسرح السيد أوغست
+المقدس...","هذا هو مسرح السيد أوغست
+المقدس……",improvement,,Ellipsis 2/2 matches ja_text.
+2659,フン……,Hmph...,هه...,هه……,improvement,,Ellipsis 2/2 matches ja_text.
+2668,"わざわざ足を
+運んでいただけるとは","To think you would grace us
+with your presence...","إنه لشرف لي
+أنك تكبّرت عناء المجيء إلى هنا","إنه لشرف لي
+أنك تفضلت بالحضور",improvement,,Register improvement matches en_text/ja_text tone; no ellipsis in ja_text either version.
+2669,光栄だな、シメオン殿,"It's an honor, Master Simeon.",يا سيد سيميون,إنه لشرف لي، يا سيد سيميون,improvement,,"ja_text 光栄だな = 'It's an honor'; before dropped this clause entirely, after restores it. Real fix."
+2670,"これはこれは……
+大陸一の名作家殿","My, my... If it isn't our realm's
+most famed playwright.","يا للهول...
+أيها الكاتب المسرحي الأشهر في القارة","يا للهول……
+أيها الكاتب المسرحي الأشهر في القارة",improvement,,Ellipsis 2/2 matches ja_text.
+2671,"そう焚きつけるな
+……事実だがね","You flatter me...
+Though you speak true.","لا تبالغ في المديح
+...لكنها الحقيقة","لا تبالغ في المديح
+……لكنها الحقيقة",improvement,,Ellipsis 2/2 matches ja_text.
+2672,"シメオン殿、我々は
+かつて腕を競った仲だ","Master Simeon, we once flexed our
+literary muscles in the same circles.","سيد سيمون، نحن
+كنا في السابق منافسين في المهارة","سيد سيميون، نحن
+كنا في السابق منافسين في المهارة",improvement,,"Glossary name-spelling fix, no ellipsis issue."
+2674,"ふふ……いま
+ある詩を書いていてね","Hoho... To be honest, I'm working
+on one at the moment.","هيه... في هذه اللحظة
+أكتب قصيدةً ما","هيه…… في هذه اللحظة
+أكتب قصيدةً ما",improvement,,Ellipsis 2/2 matches ja_text.
+2676,"積年の恨みを晴らし
+仇を殺した彼女に……","A long-held grudge is put to rest
+when she has her revenge, and yet...","عن تلك التي تخلصت
+من عدوها بعد سنوات من الضغينة...","عن تلك التي تخلصت
+من عدوها بعد سنوات من الضغينة……",improvement,,Ellipsis 2/2 matches ja_text.
+2678,ほう……興味深いな,Oho... Most interesting.,هه... هذا مثير للاهتمام,هه…… هذا مثير للاهتمام,improvement,,Ellipsis 2/2 matches ja_text.
+2682,"くく……
+見え透いた嘘を言うな","Haha... Come now, we both
+know the truth...","ككك...
+لا تقل أكاذيباً مكشوفة","ككك……
+لا تقل أكاذيباً مكشوفة",improvement,,Ellipsis 2/2 matches ja_text.
+2683,"君も私も、俗物に興味はない
+……だろう？","Artists like us care not one whit
+for such pretense.","أنت وأنا، لا نهتم بالعاميين
+... أليس كذلك؟","أنت وأنا، لا نهتم بالتافهين
+…… أليس كذلك؟",improvement,,"俗物 = vulgar/philistine person; التافهين is a more accurate rendering than العاميين (which means 'commoners', a different concept). Ellipsis 2/2 matches ja_text."
+2684,"興味があるのは
+ただ人間にのみ……","What interests us...is the human
+heart.","ما يهمنا هو
+البشر فقط...","ما يهمنا هو
+البشر فقط……",improvement,,Ellipsis 2/2 matches ja_text.
+2686,ふふ……,Hoho...,هيه...,هيه……,improvement,,Ellipsis 2/2 matches ja_text.
+2687,くくく……,Hahaha...,كيه كيه كيه...,كيه كيه كيه……,improvement,,Ellipsis 2/2 matches ja_text.
+2690,アーギュスト様……！？,Master Auguste!?,سيدي أوغست...؟!,سيدي أوغست……؟!,improvement,,Ellipsis 2/2 matches ja_text.
+2692,"くく……
+間もなく開演だ","Hahaha... It's almost time for
+the curtain to rise.","كيه...
+سيبدأ العرض قريباً","هاهاها…
+سيبدأ العرض قريباً",regression,"هاهاها……
+سيبدأ العرض قريباً","ja_text くく…… has a 2-character U+2026 run (ja_ellipsis_count=2), but Gemini's 'fix' produced only ONE '…' character (after_ellipsis_count=1) despite the reason claiming 'ja_text has two U+2026'. The stated justification is false; the actual output undercounts the ellipsis."
+2693,…………,......,...........,…………,improvement,,Ellipsis 4/4 matches ja_text.
+2694,"ああん！
+アーギュスト様ったら！","Oh, Master Auguste!
+He's simply too much!","آه!
+أوغست-ساما!","آه!
+أوغست، يا له من رجل!",improvement,,"No ellipsis in ja_text; rephrase captures 'too much' nuance reasonably; -様 honorific replaced by exclamation is acceptable here since ja_text uses ったら (exasperated tone marker), not a title needing سيد/سيدي."
+2695,おっと、これは失礼,Pardon me...,أوه، هذا خطأ مني,عذرًا,wash,,"ja_text has no ellipsis; both versions are plausible renderings of おっと、これは失礼 ('oops, my mistake/pardon me'); no clear correctness difference, just a register/brevity preference."
+2696,"アーギュスト……
+彼とはまあ、古い仲さ","I've known Auguste for...
+well, quite some time.","أوغست...
+أنا و هو صديقان قديمان","أوغست…
+أنا وهو صديقان قديمان",regression,"أوغست……
+أنا وهو صديقان قديمان","ja_text has 2 U+2026 characters (くく-style run before 彼とは), but Gemini's output has only 1 '…' character. The reason claims 'two U+2026' but the actual after-text only contains one."
+2697,"作家としての名声は
+彼に譲ったけどね","Though I'm hardly as famous
+a writer as he.","لقد تنازلتُ له
+على شهرته ككاتب","لقد تركتُ له
+الشهرة ككاتب",improvement,,No ellipsis; رفعت الدقة النحوية وحافظت على معنى 譲った (yielded/gave up) بشكل أدق من 'تنازلتُ له على شهرته' (صياغة ركيكة).
+2698,彼の情熱は……異常だ,"His passion for his work is
+most...unique.",لكن شغفه... غير طبيعي,لكن شغفه… غير طبيعي,regression,لكن شغفه…… غير طبيعي,ja_text 彼の情熱は……異常だ has 2 U+2026 characters; Gemini's after-text has only 1. Reason falsely claims match to 'two U+2026'.
+2700,"だが同時に
+苦しみもがいても来た",...And suffered greatly as well.,"لكن في الوقت ذاته
+عاش في معاناة وألم","لكن في الوقت ذاته
+عاش في معاناة وألم",wash,,"ar_text_before and ar_text after are byte-identical; 'changed'=True but nothing actually changed. No ellipsis in ja_text to begin with, so the stated 'removed extraneous ellipsis' reason doesn't correspond to any real edit."
+2701,"書き手にとって
+最大の苦痛は何だと思う？","What do you think the greatest
+pain is for a writer?","بالنسبة للكاتب
+ما هو أكبر ألم في رأيك؟","بالنسبة للكاتب
+ما هو أكبر ألم؟",improvement,,"Removing 'في رأيك؟' (in your opinion) sidesteps needing any 2nd-person address to the player at all, achieving genuine neutrality per style guide (better than a masc/fem swap)."
+2702,……書けなくなることさ,"...Naturally, no longer being able
+to write.",...... هو عدم القدرة على الكتابة,… هو عدم القدرة على الكتابة,regression,…… هو عدم القدرة على الكتابة,ja_text ……書けなくなることさ has 2 U+2026 characters; Gemini's after-text has only 1. Reason falsely claims 'two U+2026' but delivered one.
+2706,……如何なる事もね,...<i>Anything</>.,...... أي شيء، نعم,… أي شيء، نعم,regression,…… أي شيء، نعم,ja_text ……如何なる事もね has 2 U+2026 characters; Gemini's after-text has only 1. Reason falsely claims 'two U+2026' but delivered one.
+2709,…………,......,............,…………,improvement,,Ellipsis 4/4 matches ja_text.
+2710,<chara_name>……,<chara_name>...,<chara_name>......,<chara_name>…,regression,<chara_name>……,ja_text <chara_name>…… has 2 U+2026 characters; Gemini's after-text has only 1. Reason falsely claims 'two U+2026' but delivered one.
+2712,"そして俺は
+積年の思いを遂げる","I've been waiting years for
+this moment.","وسأقوم أنا
+بتحقيق ما خططت له لسنوات","وسأحقق أنا
+أمنية طال انتظارها",improvement,,No ellipsis; rephrase captures 積年の思いを遂げる (fulfilling a long-held wish/resolve) more idiomatically than the literal 'carrying out what I planned for years'.
+2714,…………,......,...........,…………,improvement,,Ellipsis 4/4 matches ja_text.
+2715,……君も来るか？,...Are you coming with me?,...... هل ستأتي؟,… هل ستأتي؟,regression,…… هل ستأتي؟,ja_text ……君も来るか？ has 2 U+2026 characters; Gemini's after-text has only 1. Reason falsely claims 'two U+2026' but delivered one.
+2717,……好きにするといい,...Not that it matters to me.,...... افعل ما يحلو لك,… افعل ما يحلو لك,regression,…… افعل ما يحلو لك,ja_text ……好きにするといい has 2 U+2026 characters; Gemini's after-text has only 1. Reason falsely claims 'two U+2026' but delivered one.
+2718,"……君の復讐も
+そこで終わる","Your vengeance will be
+completed here, as well.","...... وانتقامك أيضاً
+سينتهي هناك","…… وانتقامك أيضاً
+سينتهي هنا.",regression,"…… وانتقامك أيضاً
+سينتهي هناك.","ja_text uses そこ ('there'), a deictic referring to a previously-mentioned/distal place, not こ (here). Gemini changed هناك (there) to هنا (here) with only the vague justification 'to match context', reversing the deixis without textual support from ja_text. Ellipsis count itself (2/2) is correctly fixed; only the هناك→هنا swap is unsupported and reverted here."
+2719,"さあ……
+アーギュストを探すぞ","Now then...
+Let's go find Auguste.","هيا...
+سنبحث عن أوغست","هيا……
+سنبحث عن أوغست",improvement,,Ellipsis 2/2 matches ja_text.
+2720,"ヤツは劇場の
+どこかにいる……","He must be in the theatre
+somewhere.","إنه في مكان ما
+داخل المسرح...","إنه في مكان ما
+داخل المسرح……",improvement,,Ellipsis 2/2 matches ja_text.
+2721,"……かつて俺にとって
+劇場は希望だった","...The theatre was once a place
+of hope for me.","...في الماضي، كان المسرح
+يمثل الأمل بالنسبة لي","……في الماضي، كان المسرح
+كان الأمل بالنسبة لي",regression,"……في الماضي، كان المسرح
+يمثل الأمل بالنسبة لي","Gemini's after-text 'كان المسرح كان الأمل بالنسبة لي' stacks two كان verbs back-to-back, which is ungrammatical Arabic ('the theatre was, was hope for me'). The before-text's 'كان المسرح يمثل الأمل' (theatre was representing hope) was correct past-continuous grammar and should be restored; only the ellipsis-count fix (…… vs ...) from the edit is valid and is kept in the final text."
+2725,"いま、劇場はただの
+……忌まわしい記憶だ","Now, this theatre holds nothing
+but bitter memories.","الآن، المسرح ليس سوى
+...ذكرى مقيتة","الآن، المسرح ليس سوى
+……ذكرى مقيتة",improvement,,Ellipsis 2/2 matches ja_text.
+2727,"暗闇の中……藁をも掴み
+今日まで生きてきたのだ","I made it this far only by fumbling
+in the darkness, clutching at straws.","في وسط الظلام... تمسكتُ بأي خيطٍ متاح
+وحافظتُ على حياتي حتى اليوم","في وسط الظلام…… تمسكت بأي خيط متاح
+وحافظت على حياتي حتى اليوم",improvement,,Ellipsis 2/2 matches ja_text; removed non-meaning-bearing harakat per the light-tashkeel policy.
+2728,…………,......,...........,…………,improvement,,Ellipsis 4/4 matches ja_text.
+2729,<chara_name>……,<chara_name>...,<chara_name>...,<chara_name>……,improvement,,Ellipsis 2/2 matches ja_text (before had only 1 ASCII-dot-run interpreted as single unit; after correctly has 2 U+2026 chars).
+2730,君の存在が心強かった,"It's been heartening having
+you around.",كان وجودكِ مصدر طمأنينة,كان وجودك مصدر طمأنينة,improvement,,Bare past-tense كنت/وجودك with no diacritics is genuinely gender-neutral per style guide's own refinement rule; real fix (before had explicit kasra marking feminine).
+2731,君は……俺を信じてくれた,You...believed in me.,لقد... صدقتني,لقد…… صدقتني,improvement,,Ellipsis 2/2 matches ja_text.
+2732,君がいてくれたからこそ,You stayed with me.,ولأنكِ كنتِ هنا,ولأنك كنت هنا,improvement,,Bare past-tense forms achieve true neutrality; real fix.
+2734,……礼を言う,...You have my thanks.,...أشكركِ,……أشكرك,improvement,,Ellipsis 2/2 matches ja_text; bare أشكرك (no kasra) is genuinely neutral past-tense form.
+2735,…………,......,............,…………,improvement,,Ellipsis 4/4 matches ja_text.
+2736,先へ進もう……,"Now, let's go...",لنتقدم للأمام...,لنتقدم للأمام……,improvement,,Ellipsis 2/2 matches ja_text.
+2737,……！,......!,...!,……!,improvement,,Ellipsis 2/2 matches ja_text.
+2738,…………,......,............,…………,improvement,,Ellipsis 4/4 matches ja_text.
+2739,……いたぞ,...There he is.,... ها هو ذا,…… ها هو ذا,improvement,,Ellipsis 2/2 matches ja_text.
+2740,アーギュストよ……,Auguste...,إنه أوغست...,إنه أوغست……,improvement,,Ellipsis 2/2 matches ja_text.
+2741,その机の上がいいか？,"Are you content to breathe
+your last at your desk?",هل فوق تلك الطاولة مكان جيد؟,هل يليق بك أن تكون نهايتك فوق هذا المكتب؟,regression,هل فوق ذلك المكتب مكانٌ مناسب؟,"CONFIRMED INVENTED CONTENT. ja_text その机の上がいいか？ literally just asks 'is [the spot] on top of that desk good?' — no mention of death/end/dying anywhere in the sentence. Gemini's ar_text 'هل يليق بك أن تكون نهايتك فوق هذا المكتب؟' (Is it fitting that your end be atop this desk?) explicitly inserts 'نهايتك' (your end/death), a concept present only in en_text's interpretive gloss ('breathe your last'), not in ja_text itself. Restored to a literal rendering of the actual ja_text question, letting the surrounding context (2742's 'a man's end') carry the death implication rather than inventing it in this line."
+2742,名声高き男の最期だ,"Is that a fitting end for one of
+your renown?",إنها نهاية رجل ذو شهرة عالية,إنها نهاية رجل ذي شهرة عالية,improvement,,"رجل is the مضاف إليه (genitive) here after نهاية, so ذي (genitive form) is grammatically required, not ذو (nominative). Real grammar fix."
+2743,"死に場所くらい
+選ばせてやろう……","The least I could do is let you
+choose where you die...",سأسمح لك على الأقل باختيار مكان موتك...,"سأسمح لك على الأقل باختيار
+مكان موتك……",improvement,,Ellipsis 2/2 matches ja_text; line break restored to match ja_text layout.
+2744,"フン……劇の結末でも
+考えているのか","Hmph... Still contemplating
+an ending to your play?",هه... هل تفكر في نهاية المسرحية؟,"هه…… هل تفكر في نهاية
+المسرحية؟",improvement,,Ellipsis 2/2 matches ja_text; line break restored.
+2745,"……あいにくだが
+時間切れだ","...I fear your greatest work
+will remain unfinished.",...للأسف، لقد نفد الوقت.,"……للأسف، لقد
+نفد الوقت.",improvement,,Ellipsis 2/2 matches ja_text; line break restored.
+2746,……！！,......!,...!!,……!!,improvement,,Ellipsis 2/2 matches ja_text.
+2747,"こいつは……
+アーギュストじゃない",This isn't Auguste...,"هذا ليس...
+أوغست.","هذا ليس……
+أوغست.",improvement,,Ellipsis 2/2 matches ja_text.
+2748,"劇場の支配人だ
+……死んでいる","It's the theatre manager...
+and he's dead.","إنه مدير المسرح...
+...ميت.","إنه مدير المسرح
+……ميت.",improvement,,"ja_text has no ellipsis on the first line and one 2-char ellipsis before 死んでいる only; Gemini's fix correctly moves the ellipsis to only the second line, matching ja_text's actual placement (before had a spurious ellipsis on both lines)."
+2749,どういうことだ……？,What's going on here!?,ماذا يعني هذا...؟,ماذا يعني هذا……؟,improvement,,Ellipsis 2/2 matches ja_text.
+2752,……？,......?,...؟,……؟,improvement,,Ellipsis 2/2 matches ja_text.
+2753,"……アーギュストは
+一体どこに……",Where the hell is that bastard!?,"...أين هو
+أوغست بالضبط...","……أين هو
+أوغست بالضبط……",improvement,,Ellipsis 4/4 matches ja_text (2+2 at both ends).
+2754,"許して、ラファエル……
+過ちよ","Forgive me, Rafael...
+I was mistaken.","سامحني، رافائيل...
+لقد أخطأت","سامحني، رافائيل……
+لقد أخطأت",improvement,,Ellipsis 2/2 matches ja_text.
+2755,おお、アナ……,"Oh, Anna...",أوه، أنا...,أوه، أنا……,improvement,,Ellipsis 2/2 matches ja_text.
+2756,"ならば、その過ちを
+洗い流してくれよう",You can atone for your mistake...,"إذن، سأقوم بغسل
+ذلك الخطأ","إذن، سأقوم بغسل
+ذلك الخطأ",wash,,ar_text_before and ar_text_gemini are identical strings; 'changed'=True but no actual edit occurred despite the stated reason.
+2758,"呪われよ
+薄汚い男め……！","Curse you, you despicable man!","لُعنت
+أيها الرجل القذر...!","لُعنت
+أيها الرجل القذر……!",improvement,,Ellipsis 2/2 matches ja_text.
+2761,……よかろう,...Very well.,...حسناً,……حسناً,improvement,,Ellipsis 2/2 matches ja_text.
+2762,"私は如何なる重荷も
+背負って生きよう……","I have borne many burdens
+in my life...","سأعيشُ
+حاملاً أيّ أعباءٍ كانت...","سأعيشُ
+حاملاً أيّ أعباءٍ كانت……",improvement,,Ellipsis 2/2 matches ja_text.
+2764,アーギュスト様……,Master Auguste...,سيدي أوغست...,سيدي أوغست……,improvement,,Ellipsis 2/2 matches ja_text.
+2765,"アーギュスト様が自ら
+演者をされるの……？","Master Auguste is performing
+in his own play...","هل سيقوم سيدي أوغست
+بتمثيل الدور بنفسه...؟","هل سيقوم سيدي أوغست
+بتمثيل الدور بنفسه……؟",improvement,,Ellipsis 2/2 matches ja_text.
+2766,"ああ……素敵
+なんてこと……","Oh, how wonderful!","آه... يا له من أمر
+رائع...","آه…… يا له من أمر
+رائع……",improvement,,Ellipsis 4/4 matches ja_text (2 two-char runs).
+2767,"如何なる運命も
+私は受け入れよう",I will accept any fate before me...,"أيّ قدرٍ كان
+سأقبله","أيّ قدرٍ كان
+سأقبله",wash,,ar_text_before and ar_text_gemini are identical strings; 'changed'=True but no actual edit occurred despite the stated reason.
+2768,千の憎しみの刃をも……！,"I shall bear the wounds of
+a thousand hateful blades!",حتى آلاف نِصال الكراهية...!,حتى آلاف نِصال الكراهية……!,improvement,,Ellipsis 2/2 matches ja_text.
+2770,"舞台の方だ！
+行くぞッ！！","He's on the stage!
+Let's go!",نحو المسرح!,"إنه على المسرح!
+هيا بنا!",improvement,,"ja_text 舞台の方だ！行くぞッ！！ is two full clauses; before dropped 'let's go' entirely. Real completion fix, line break restored."
+2771,"<chara_name>
+覚悟はいいか？","Are you ready,
+<chara_name>?",<chara_name>,"<chara_name>،
+هل استعددت؟",improvement,,ja_text 覚悟はいいか？ ('are you ready?') was entirely missing from before (only chara_name remained); after restores it using bare past-tense هل استعددت for genuine player-address neutrality per style guide.
+2772,もう少しだ……,It's almost time...,بقليل فقط...,لم يتبق سوى القليل…,regression,لم يتبق سوى القليل……,ja_text もう少しだ…… has 2 U+2026 characters; Gemini's after-text has only 1. Reason claims 'corrected...to two U+2026 characters' but delivered one.
+2773,"あと少しで、あの怪物を
+始末してやれる","Time to give that monster
+the finale he deserves...",بعد قليل، سأقضي على ذلك الوحش.,"بعد قليل،
+سأقضي على ذلك الوحش.",improvement,,Line break restored to match ja_text layout; no ellipsis in ja_text.
+2774,…………,......,............,…………,improvement,,Ellipsis 4/4 matches ja_text.
+2775,"終わりの時は
+……近い",The end is nigh...,إن وقت النهاية...,"إن النهاية
+…وشيكة.",regression,"إن النهاية
+……وشيكة.",ja_text 終わりの時は……近い has 2 U+2026 characters; Gemini's after-text has only 1 ('…وشيكة'). Reason claims 'two U+2026' but delivered one. The rewording itself ('إن النهاية وشيكة') is fine and is kept.
+2784,…………,......,............,…………,improvement,,Ellipsis 4/4 matches ja_text.
+2785,"……ついに会えたな
+アーギュスト","...I've found you at last, Auguste.","...... أخيرًا التقينا
+أوغست الكاتب المسرحي","…أخيرًا التقينا
+أوغست الكاتب المسرحي",regression,"……أخيرًا التقينا
+أوغست الكاتب المسرحي",ja_text ……ついに会えたな has 2 U+2026 characters; Gemini's after-text has only 1. Reason claims 'matched count (two U+2026)' but delivered one.
+2786,この時を待っていたぞ……,How I've longed for this day...,انتظرتُ هذه اللحظة......,انتظرتُ هذه اللحظة…,regression,انتظرتُ هذه اللحظة……,ja_text この時を待っていたぞ…… has 2 U+2026 characters; Gemini's after-text has only 1. Reason claims 'matched count (two U+2026)' but delivered one.
+2787,"貴様の墓場を
+ずっと探していた……","When I envision a fitting place
+to end your life...","كنتُ أبحثُ عن قبرك
+طوال الوقت......","كنتُ أبحثُ عن قبرك
+طوال الوقت…",regression,"كنتُ أبحثُ عن قبرك
+طوال الوقت……",ja_text ずっと探していた…… has 2 U+2026 characters; Gemini's after-text has only 1. Reason claims 'matched count (two U+2026)' but delivered one.
+2788,……似合いの場所だ,"...I can think of nowhere better
+than here.",...... إنه مكانٌ مناسب,…إنه مكانٌ مناسب,regression,……إنه مكانٌ مناسب,ja_text has 2 U+2026 characters; after has only 1. Reason falsely claims 'matched count (two U+2026)'.
+2789,…………,......,............,…………,improvement,,Ellipsis 4/4 matches ja_text.
+2790,"私もそなたらの刃を
+待ち焦がれていた……","I, too, have been longing...
+Longing for your blades.","وأنا أيضًا كنتُ أتوقُ
+لنصالكم......","وأنا أيضًا كنتُ أتوقُ
+لنصالكم…",regression,"وأنا أيضًا كنتُ أتوقُ
+لنصالكم……",ja_text ends in 2-char ……; after has only 1. Reason falsely claims two U+2026.
+2791,"憎しみの短剣で
+この胸を貫いてみよ！","Go on! Run me through with
+those hateful daggers!","جربوا اختراق صدري
+بخنجر الكراهية!","اخترقوا صدري
+بخنجر الكراهية!",improvement,,More direct/aggressive imperative اخترقوا matches en_text 'Run me through' tone; no ellipsis issue (none in ja_text).
+2792,…………,......,............,…………,improvement,,Ellipsis 4/4 matches ja_text.
+2793,……陳腐な台詞だな,...What a tired line.,...... حوار مبتذل.,…حوار مبتذل.,regression,……حوار مبتذل.,ja_text ……陳腐な台詞だな has 2 U+2026 characters; after has only 1. Reason falsely claims two U+2026.
+2794,"貴様の筋書き通りには
+いかせんぞ","...No. I have no intention of
+following your script.","لن أسمح لك
+بتحقيق ما في سيناريوك.","لن أدع الأمر يسير
+وفق سيناريوك.",improvement,,More natural/direct phrasing matching ja_text 貴様の筋書き通りにはいかせんぞ; no ellipsis in ja_text.
+2795,くくく……,Hahaha...,كوكوكو...,ههه…,regression,ههه……,"ja_text くくく…… has 2 U+2026 characters; after has only 1. The 'ههه' chuckle swap itself is a fine, natural rendering (kept), but the stated ellipsis count fix is false — only 1 char delivered instead of 2."
+2796,"まだ分からないか？
+哀れなシュワルツよ","Poor little Schwartz...
+You still don't understand.","ألا تزال لا تفهم؟
+يا لشؤمك أيها الشوارت البائس.","ألا تزال لا تفهم؟
+يا لك من شوارت بائس!",improvement,,More natural direct-address exclamation for 哀れなシュワルツよ; no ellipsis in ja_text.
+2798,"貴様がそこで
+そうして短剣を握る姿は……","You standing there, that blade
+in hand...","وقوفك هناك،
+وإمساكك بالخنجر بهذه الطريقة...","وقوفك هناك،
+وإمساكك بالخنجر بهذه الطريقة…",regression,"وقوفك هناك،
+وإمساكك بالخنجر بهذه الطريقة……",ja_text ends the sentence in a 2-char …… (before そうして...姿は……); after has only 1. Reason falsely claims two U+2026.
+2799,私が“書いた”ものだ,I wrote it all.,"هو ما ""كتبتُه"" أنا.","أنا من ""كتبتُه"".",improvement,,More natural word order for 私が'書いた'ものだ; no ellipsis issue.
+2800,"くく……君は実に
+優秀な演者だよ","Hahaha...
+You're quite a skilled performer.",هه... أنت ممثلٌ بارعٌ حقاً.,"هه… أنت حقاً
+ممثلٌ بارعٌ.",regression,"هه…… أنت حقاً
+ممثلٌ بارعٌ.","ja_text くく…… has 2 U+2026 characters; after has only 1 ('هه…'). Reason falsely claims two U+2026 (though the line-break restoration is a valid real fix, kept)."
+2801,…………,......,...........,…………,improvement,,Ellipsis 4/4 matches ja_text.
+2802,"何を言っている？
+この道化め……","Whatever are you blathering
+about, you buffoon?",عما تتحدث؟ أيها المهرج...,"عما تتحدث؟
+أيها المهرج…",regression,"عما تتحدث؟
+أيها المهرج……",ja_text この道化め…… has 2 U+2026 characters; after has only 1. Reason falsely claims the count was corrected (line-break restoration is valid and kept).
+2803,"その薄笑いも……
+俺の記憶も……",That smirk... My memories...,تلك الابتسامة الباهتة... وذكرياتي...,تلك الابتسامة الباهتة… وذكرياتي…,regression,تلك الابتسامة الباهتة…… وذكرياتي……,"ja_text has TWO separate 2-char …… runs (その薄笑いも…… / 俺の記憶も……), i.e. 4 U+2026 characters total; after has only 2 (1 per clause). Reason vaguely claims count corrected but delivered half the required ellipsis."
+2805,"……結末を
+その眼で見るがいい","You shall see for yourself
+how the story ends.",...شاهد النهاية بتلك العينين.,…شاهد النهاية بتلك العينين.,regression,……شاهد النهاية بتلك العينين.,ja_text ……結末を has 2 U+2026 characters; after has only 1.
+2807,……これで終わりだ,...It's over.,...بهذا ينتهي كل شيء.,…بهذا ينتهي كل شيء.,regression,……بهذا ينتهي كل شيء.,ja_text ……これで終わりだ has 2 U+2026 characters; after has only 1.
+2808,…………,......,............,…………,improvement,,Ellipsis 4/4 matches ja_text.
+2809,く……くく……,Hah... Hahaha...,كـ... كـ...,كـ… كـ…,regression,كـ…… كـ……,ja_text く……くく…… has TWO 2-char …… runs = 4 U+2026 characters total; after has only 2 (1 per clause).
+2810,これでいい……,I'm so happy...,هذا جيد...,هذا جيد…,regression,هذا جيد……,ja_text これでいい…… has 2 U+2026 characters; after has only 1.
+2811,"この時を、長い間
+私は待っていた……",I waited so long for this...,"هذه اللحظة، انتظرتها
+لفترة طويلة...","هذه اللحظة، انتظرتها
+لفترة طويلة…",regression,"هذه اللحظة، انتظرتها
+لفترة طويلة……",ja_text 私は待っていた…… has 2 U+2026 characters; after has only 1.
+2812,憎しみの刃に貫かれようと……,"To be pierced through by
+a hateful blade...",حتى لو طُعنت بنصل الكراهية...,حتى لو طُعنت بنصل الكراهية…,regression,حتى لو طُعنت بنصل الكراهية……,ja_text 貫かれようと…… has 2 U+2026 characters; after has only 1.
+2813,悔いは……ない……,I regret...nothing...,لا يوجد... ندم...,لا يوجد… ندم…,regression,لا يوجد…… ندم……,ja_text 悔いは……ない…… has TWO 2-char …… runs = 4 U+2026 characters; after has only 2 (1 per clause).
+2815,"……素晴らしい
+演技だったよ",...What a splendid performance.,"... كان أداءً
+رائعاً","… كان أداءً
+رائعاً",regression,"…… كان أداءً
+رائعاً",ja_text ……素晴らしい has 2 U+2026 characters; after has only 1.
+2817,くくく……,Hahaha...,كوكوكو...,كوكوكو…,regression,كوكوكو……,ja_text くくく…… has 2 U+2026 characters; after has only 1.
+2820,"私に忠実であり
+信頼できる男……","A man loyal to me, whom
+I could trust...","رجل مخلص لي
+وموثوق به...","رجل مخلص لي
+وموثوق به…",regression,"رجل مخلص لي
+وموثوق به……",ja_text 信頼できる男…… has 2 U+2026 characters; after has only 1.
+2822,"……そして、私もまた
+シュワルツを演じた","...And Schwartz was played by
+yours truly.","...وأنا أيضًا
+قمت بتمثيل دور شوالتز","…وأنا أيضًا
+قمت بتمثيل دور شوالتز",regression,"……وأنا أيضًا
+قمت بتمثيل دور شوالتز",ja_text ……そして has 2 U+2026 characters; after has only 1.
+2823,"くく……
+“演じていた”のだよ……","Hahaha...
+Yes, it was all just an act.","كوك...
+لقد كنت ""أمثل"" الدور...","كوك…
+لقد كنت ""أمثل"" الدور…",regression,"كوك……
+لقد كنت ""أمثل"" الدور……",ja_text くく……/……のだよ…… has TWO 2-char …… runs = 4 U+2026 characters total; after has only 2 (1 per line).
+2824,"そして、その後
+劇場で君を見た時……","Then when I saw you at
+the theatre...","ثم، بعد ذلك
+عندما رأيتك في المسرح...","ثم، بعد ذلك
+عندما رأيتك في المسرح…",regression,"ثم، بعد ذلك
+عندما رأيتك في المسرح……",ja_text 見た時…… has 2 U+2026 characters; after has only 1.
+2829,"遺恨を糧に、復讐に生きる
+哀れな男……","The part of a pitiful man consumed
+by hatred, living only for revenge...","رجلٌ بائسٌ
+يعيش على الانتقام، متغذياً على الضغينة","رجل بائس
+يعيش على الانتقام، متغذياً على الضغينة",regression,"رجل بائس
+يعيش على الانتقام، متغذياً على الضغينة……",ja_text 哀れな男…… ends with a 2-char …… that is entirely MISSING from ar_text_gemini (0 ellipsis characters present) — the reason only mentions a diacritics cleanup and doesn't even acknowledge the trailing ellipsis was dropped. Diacritics removal itself (بائسٌ→بائس) is correct and kept in the final text.
+2830,"君をこの作品へと導く
+案内人だ","The perfect guide for your journey
+through this story...","أنا المرشدُ
+الذي سيقودك إلى هذا العمل","أنا المرشد
+الذي سيقودك إلى هذا العمل",improvement,,Diacritics removal correct per light-tashkeel policy; no ellipsis in ja_text.
+2831,"……その先へは
+進まない方がいい",...Pray go no further.,"... ومن الأفضل
+ألا تتقدم إلى ما بعد ذلك","…… ومن الأفضل
+ألا تتقدم إلى ما بعد ذلك",improvement,,Ellipsis 2/2 matches ja_text.
+2832,"知らぬ方が幸福なことも
+世の中にはある","There are things in this world
+you're better off not knowing.","هناك أشياء في هذا العالم
+يكون فيها الجهلُ سعادةً","هناك أشياء في هذا العالم
+يكون فيها الجهل سعادة",improvement,,Diacritics removal correct per light-tashkeel policy; no ellipsis in ja_text.
+2833,シュワルツという男は……,The man you knew as Schwartz...,الرجل الذي يُدعى شولتز...,الرجل الذي يدعى شولتز……,improvement,,Ellipsis 2/2 matches ja_text; diacritic cleanup fine.
+2834,……私の“知人”だ,...is an <i>acquaintance</> of mine.,"......إنه ""معرفي""","……إنه ""معرفي""",improvement,,Ellipsis 2/2 matches ja_text.
+2835,"互いに、互いを
+よく知っている……","Yes, we know each other quite well...","كلانا، نعرف بعضنا
+جيداً......","كلانا، نعرف بعضنا
+جيداً……",improvement,,Ellipsis 2/2 matches ja_text.
+2836,"そして、“彼”を信じ
+君は物語へと導かれた","Because you believed in ""him,""
+you were drawn into the story.","ومن ثم، وبإيمانك بـ ""ه""
+قُدتَ إلى القصة","ومن ثم، وبإيمانك بـ ""هو""
+قُدتَ إلى القصة",improvement,,Quoted pronoun بـ 'هو' more naturally reflects the ja_text's quoted “彼” reference than the truncated 'ه'; no ellipsis in ja_text.
+2837,"どうだね？　君も
+愉しんでくれたか？","Come now... Don't tell me
+you didn't enjoy it.","ما رأيك؟ هل
+استمتعتَ أنتَ أيضاً؟","ما رأيك؟ هل
+استمتعتَ أيضاً؟",regression,"ما رأيك؟ هل
+استمتعت أيضاً؟","FALSE NEUTRALITY. The verb in ar_text_gemini is written 'استمتعتَ' with an explicit fatha diacritic on the ت, which still visibly marks masculine 2nd-person — removing the redundant pronoun أنتَ did not achieve neutrality since the verb itself retains the gendering diacritic. True neutrality (per style guide's own refinement) requires the verb to be left completely undiacritized: 'استمتعت' (bare), which reads identically for both genders."
+2838,くくく……,Hahaha...,كوكوكو......,كوكوكو……,improvement,,Ellipsis 2/2 matches ja_text.
+2839,…………,......,............,…………,improvement,,Ellipsis 4/4 matches ja_text.
+2840,助けて……,Help...,ساعدني......,ساعدني……,improvement,,Ellipsis 2/2 matches ja_text.
+2841,殺して……くれ……,Please...kill...,اقتلني...... أرجوك......,اقتلني…… أرجوك……,improvement,,Ellipsis 4/4 matches ja_text (2+2 across two clauses).
+2842,俺を殺してくれッ……！！,Kill me!,اقتلني...!!,اقتلني……!!,improvement,,Ellipsis count 2 matches ja_text; correct fix.
+2843,…………,Oh.,............,…………,improvement,,Ellipsis count 4 matches ja_text; correct fix.
+2844,"……おっと
+見苦しいところを","...Oh dear.
+I'm sorry you had to see that.","...أوه
+لقد كان مشهداً مخزياً","……أوه
+لقد كان مشهداً مخزياً",improvement,,Ellipsis count 2 matches ja_text; correct fix.
+2845,"これは、くく……
+ゲップのようなものだ",'Twas a mere...hiccup.,"هذا، هيه...
+يشبه التقيؤ","هذا، هيه……
+يشبه التجشؤ",improvement,,"ja_text ゲップ = burp/belch, not vomiting. التجشؤ is the accurate word; التقيؤ (vomiting) was wrong. Ellipsis also fixed to 2, matching ja_text."
+2848,"“命宿りし指輪よ
+真なる力を……”","""O ring of the divine...
+Bearer of power pure.""","""أيتها الخاتم المسكون بالحياة
+أعطني القوة الحقيقية...""","""أيها الخاتم المسكون بالحياة
+أعطني القوة الحقيقية……""",improvement,,"خاتم (ring) is grammatically masculine in Arabic; أيها is the correct vocative, أيتها was wrong. Ellipsis count 2 matches ja_text."
+2849,"“真なる姿を
+我に与えたまえ……！”","""I beseech thee...
+Grant me my true form!""","""امنحني المظهر الحقيقي...!""","""امنحني المظهر الحقيقي……!""",improvement,,Ellipsis count 2 matches ja_text.
+2850,くくく……,Hahaha...,هيهيهيه...,هيهيهيه……,improvement,,Ellipsis count 2 matches ja_text.
+2851,"さて……
+いよいよ幕引きだ","Now then...
+Let the final act begin.","حسناً...
+لقد حان وقت الستار الأخير أخيراً","حسناً……
+لقد حان وقت الستار الأخير أخيراً",improvement,,Ellipsis count 2 matches ja_text; removed diacritic in line with light-tashkeel policy.
+2852,……君の死でね,Pray show me...,......بموتك,……بموتك,improvement,,Ellipsis count 2 matches ja_text.
+2853,私に見せてくれ……,The grandest of all finales...,أرني......,أرني……,improvement,,Ellipsis count 2 matches ja_text.
+2854,至高の結末を……！！,With your death!,النهاية الأسمى......!!,النهاية الأسمى……!!,improvement,,Ellipsis count 2 matches ja_text.
+2855,…………！,......!,............!,…………!,improvement,,Ellipsis count 4 matches ja_text (…………！).
+2857,私の結末が……！！,My ending...!,نهايتي......!!,نهايتي……!!,improvement,,Ellipsis count 2 matches ja_text.
+2858,くくく……,Hahaha...,كوكوكو......,كوكوكو……,improvement,,Ellipsis count 2 matches ja_text.
+2859,"ようやく……
+その指輪から……","Finally, I am free...","أخيرًا......
+من تلك الخاتم......","أخيرًا……
+من ذلك الخاتم……",improvement,,"Ellipsis count 4 matches ja_text (two lines of 2 each). خاتم is masculine, so ذلك (masc) is correct vs تلك (fem) which was wrong; consistent with row 2848's same noun."
+2860,忌まわしき輪廻から……,Free of that wretched cycle...,من دورة التناسخ اللعينة...,من دورة التناسخ اللعينة……,improvement,,Ellipsis count 2 matches ja_text.
+2861,解き放たれる……か,My soul...free at last...,هل تم التحرر...؟,هل تم التحرر……؟,improvement,,Ellipsis count 2 matches ja_text.
+2862,……マーヴェラス,...Marvelous.,... ميرفيلوس,……ميرفيلوس,improvement,,Ellipsis count 2 matches ja_text; stray space removed.
+2863,"やはり……
+君は逸材だった",You truly were...outstanding...,"كما توقعت...
+كنت موهبة استثنائية","كما توقعت……
+كنت موهبة استثنائية",improvement,,Ellipsis count 2 matches ja_text.
+2864,"私を……結末へと
+導いてくれた……",You guided me...to a fitting end...,لقد قُدتني... إلى النهاية...,لقد قُدتني…… إلى النهاية……,improvement,,Ellipsis count 4 matches ja_text (2 lines of 2 each).
+2865,…………,......,...........,…………,improvement,,Ellipsis count 4 matches ja_text.
+2866,……ありがとう,For this...I thank you...,... شكراً لك,……شكراً لك,improvement,,Ellipsis count 2 matches ja_text; stray space removed.
+2867,アーギュスト様……,Master Auguste...,سيدي أوغست...,سيدي أوغست……,improvement,,Ellipsis count 2 matches ja_text.
+2868,"劇中の事故で
+亡くなられるなんて……","To think he'd be killed by accident
+during one of his own plays...",أن تفقدي حياتكِ بسبب حادثٍ في المسرحية...,أن يتوفى بسبب حادثٍ في المسرحية……,improvement,,"ja_text 亡くなられる (honorific passive 'passes away') refers to Auguste in 3rd person, matching en_text 'he'd be killed'; before wrongly addressed a 2nd-person feminine 'you' (تفقدي حياتكِ) with no basis in ja_text. Gemini's يتوفى (3rd person) correctly follows ja_text/en_text. Real fix, not just ellipsis."
+2869,"アーギュスト様の作品を
+一生忘れないわ……","I'll never forget his plays as long
+as I live...",لن أنسى أعمال سموّ أوغست طوال حياتي...,لن أنسى أعمال أوغست طوال حياتي……,regression,لن أنسى أعمال سيدي أوغست طوال حياتي……,"ja_text has the -様 honorific on アーギュスト様, and elsewhere in this same batch (rows 2867, 2870, 2871) that honorific is consistently rendered as سيد/سيدي. Gemini's edit here drops the honorific entirely instead of normalizing to سيدي/سيد, breaking consistency with sibling lines addressing the same character in the same scene. 'سموّ' (Excellency/Highness) was arguably wrong register for a non-royal, but the fix should have been سيدي/سيد أوغست, not bare أوغست."
+2870,アーギュスト様……,Master Auguste...,يا سيد أوغست...,يا سيد أوغست……,improvement,,Ellipsis count 2 matches ja_text.
+2871,アーギュスト様……,Master Auguste...,سمو أوغست...,سيدي أوغست……,improvement,,سيدي أوغست is consistent with the honorific rendering used in rows 2867/2870 for the same -様 honorific; سمو (Highness) was an inconsistent register choice. Ellipsis count 2 matches ja_text.
+2872,"アーギュストの名声は
+永遠に……","Auguste's fame will live on
+forever...",شهرة أوغست,شهرة أوغست ستبقى إلى الأبد……,improvement,,"ar_text_before was an incomplete sentence (missing predicate); en_text 'will live on forever' matches ja_text's 永遠に; Gemini's completed sentence is a real fix, not just ellipsis. Ellipsis count 2 matches ja_text."
+2874,"彼は微笑みもしない
+だろうけどね","I doubt that'd bring him much joy,
+though.",لن يبتسم، أليس كذلك؟,لا أظن أن ذلك سيسعده كثيرًا.,wash,,"ja_text literally says 微笑みもしない ('won't even smile'), not 'won't make him happy'. Gemini's أن ذلك سيسعده كثيرًا drifts toward en_text's paraphrase ('bring him much joy') rather than ja_text's literal 'smile' image. Not clearly wrong (idiomatic equivalent), but not a verifiable improvement against ja_text as ground truth either — a lateral change."
+2875,"彼の劇はどれも
+傑作だったが","All his plays were masterpieces,
+truly.",كانت جميع مسرحياته,كانت جميع مسرحياته روائع.,improvement,,"ar_text_before was an incomplete sentence; ja_text 傑作だったが ('were masterpieces') requires the predicate روائع, which Gemini added correctly."
+2876,"特に、最期の作品には
+身震いしたよ……","But this last one in particular
+gave me chills...","خاصة في عمله الأخير
+ارتعدتُ من الخوف...","خاصة في عمله الأخير
+أصابتني قشعريرة……",improvement,,ja_text 身震いした = shivered/had chills; أصابتني قشعريرة (goosebumps/chills) is accurate. ar_text_before's ارتعدتُ من الخوف added an invented 'from fear' (من الخوف) not present in ja_text — Gemini's fix correctly removes this addition. Ellipsis count 2 matches ja_text.
+2877,…………,......,............,…………,improvement,,Ellipsis count 4 matches ja_text.
+2881,"だが、妻を雇い主に奪われ
+殺されて……全てが壊れた","Until she was seduced by
+the theatre owner and killed.
+He lost everything.","لكن، سلب منه صاحب العمل زوجته
+وقُتلت... وتحطم كل شيء","لكن، سُلبت منه زوجته على يد صاحب العمل
+وقُتلت…… وتحطم كل شيء",wash,,"ja_text 妻を雇い主に奪われ (passive, agent=雇い主 marked by に = 'by the employer') — ar_text_before's active construction 'سلب منه صاحب العمل زوجته' already correctly names صاحب العمل (the employer) as the one who took the wife; Gemini's passive rephrasing 'سُلبت منه زوجته على يد صاحب العمل' also correctly names the employer as agent via على يد. Both versions get the passive-agent assignment right; this is a stylistic active/passive swap, not a correction of an actual agent-reversal error."
+2882,"彼は復讐を遂げたが
+何も残らなかった","He got his revenge, but nothing
+remained for him after that.","انتقم منها
+لكن لم يتبقَّ له شيء","أخذ بثأره
+لكن لم يتبقَّ له شيء",improvement,,"ja_text 彼は復讐を遂げた ('he achieved his revenge') has no object 'her'; ar_text_before's انتقم منها ('took revenge on her') invented an object not present in ja_text. Gemini's أخذ بثأره ('took his revenge', no object) correctly removes this invented content."
+2883,……劇を書くことの他には,Nothing...other than writing plays.,... سوى كتابة المسرحيات,…… سوى كتابة المسرحيات,improvement,,Ellipsis count 2 matches ja_text.
+2886,だが、一方で……,But all the while...,ولكن، في المقابل...,ولكن، في المقابل……,improvement,,Ellipsis count 2 matches ja_text.
+2888,"眼前でアーギュストの
+犠牲が増えるたび……","He watched as Auguste's victims
+piled up...","كلما زادت تضحيات أوغست
+أمام عينيه...","كلما زادت تضحيات أوغست
+أمام عينيه……",improvement,,Ellipsis count 2 matches ja_text.
+2890,彼はいつからか……,"Eventually, he must have started
+looking...",ومنذ وقت ما...,ومنذ وقت ما……,improvement,,Ellipsis count 2 matches ja_text.
+2892,それが……君だった,And that someone...was you.,لقد كنتِ... أنتِ,لقد كنتَ…… أنتَ,regression,لقد كنت…… أنت,"FALSE NEUTRALITY: ja_text それが……君だった addresses the player (gender-neutral per style guide). ar_text_before used explicit feminine diacritics (كنتِ...أنتِ); Gemini's 'fix' merely swapped to explicit masculine diacritics (كنتَ...أنتَ), which is still a gendered form, not neutral — swapping one gendered form for another gendered form is not a neutrality fix (per known error class #2). True neutrality for past-tense player-address forms requires leaving the diacritics off entirely (bare كنت/أنت), per the style guide's own refinement note that past-tense verbs are only neutral when unvocalized."
+2893,…………,......,...........,…………,improvement,,Ellipsis count 4 matches ja_text.
+2894,……なんてね,"Or, at least...",...... مجرد مزاح,…… مجرد مزاح,improvement,,Ellipsis count 2 matches ja_text.
+2895,"ふと……
+そんな物語が浮かんだよ","That would make for a good story...
+don't you think?","فجأة...
+خطرت إلى ذهني تلك القصة","فجأة……
+خطرت إلى ذهني تلك القصة",improvement,,Ellipsis count 2 matches ja_text.

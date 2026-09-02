@@ -1,0 +1,22 @@
+Microsoft (R) COFF/PE Dumper Version 14.44.35228.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+Dump of file C:\Users\faisa\Ai\Mods Dev\OctopathTraveler0\localization_workspace\msvc_build\mid_hook_asm.obj
+
+File Type: COFF OBJECT
+
+COFF SYMBOL TABLE
+000 00000000 DEBUG  notype       Filename     | .file
+    C:\Users\faisa\Ai\
+002 00000000 SECT1  notype       Static       | .text
+    Section length  187, #relocs    0, #linenums    0, checksum        0
+004 00000000 ABS    notype       Static       | .absolut
+005 00000000 UNDEF  notype       External     | destination
+006 00000000 UNDEF  notype       External     | trampoline
+
+String Table Size = 0x1B bytes
+
+  Summary
+
+         187 .text
