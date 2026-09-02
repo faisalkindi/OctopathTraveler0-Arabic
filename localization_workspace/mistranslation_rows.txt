@@ -1,0 +1,301 @@
+43
+========== 417866
+JA: 治したい気持ちと、治せる腕があれば / そいつはずっと、薬師だろ
+EN: So long as I've got the will to heal / and the hands to do it, I don't plan / on stoppin'.
+BEFORE: إذا كانت هناك رغبة في العلاج ومهارة في القيام به
+فذلك يعني أنك صيدلاني دائمًا
+AFTER: إذا كانت هناك رغبة في العلاج ومهارة في القيام به
+فذلك الشخص يظل صيدلانيًا دائمًا
+REASON: Corrected mistranslation of 'そいつ' (that person) from a direct address to the injured NPC ('أنك') to a general statement about what defines an apothecary, aligning with Alfyn's philosophical tone.
+========== 417972
+JA: 悪いな、あいつ…… / こうなったら手が付けられねえンだ
+EN: Sorry, but when he gets like this, / he's even more of a rampaging / beast than usual.
+BEFORE: أنا آسف، ذلك الشخص……
+بمجرد أن أصبح على هذه الحال، لا يمكن لأحد التعامل معه
+AFTER: أنا آسف، ذلك الشخص……
+بمجرد أن يصبح على هذه الحال، لا يمكن لأحد التعامل معه
+REASON: Mistranslation of subject and verb tense. 'أصبح' (I become) was incorrect; changed to 'يصبح' (he becomes) to match the Japanese 'あいつ' (that guy).
+========== 417989
+JA: ロッソのやつ……惚れたな
+EN: Rosso's head over heels for her.
+BEFORE: ذلك الرجل روسو…… لقد أُعجبت به
+AFTER: ذلك الرجل روسو…… لقد وقع في حبها.
+REASON: Mistranslation of the verb and subject. 'أُعجبت به' (I was impressed by him) was incorrect; changed to 'وقع في حبها' (he fell in love with her) to match '惚れたな' (he's fallen for her).
+========== 417997
+JA: どう？　悪い話では / ないと思うけど……
+EN: So, what say you? I think it quite / a good deal for all involved...
+BEFORE: ما رأيك؟ لا أظن أنها قصة سيئة……
+AFTER: ما رأيك؟ لا أظن أنها صفقة سيئة……
+REASON: Mistranslation: 'قصة سيئة' (bad story) changed to 'صفقة سيئة' (bad deal/offer) to accurately reflect '悪い話'.
+========== 418120
+JA: ドゥデク王には子がなかったが / 甥がいてな
+EN: Now, while King Dudek didn't have / any children, he did have a nephew.
+BEFORE: لم يكن للملك دوديك أبناء
+لكن لديه ابن أخ
+AFTER: لم يكن للملك دوديك أبناء
+لكن كان لديه ابن أخ
+REASON: Mistranslation (tense): "いてな" implies past tense, so "كان لديه" (he had) is more accurate than "لديه" (he has).
+========== 418139
+JA: 聡明な方で、すぐに俺が教えられることなど / なくなってしまったよ
+EN: He was so bright, though, that before / long I had nothing left to teach him.
+BEFORE: بما أنك شخص ذكي، فقد نفدت الأشياء التي يمكنني تعليمك إياها
+AFTER: كان شخصًا ذكيًا للغاية، وسرعان ما نفدت الأشياء التي يمكنني تعليمه إياها.
+REASON: Corrected a mistranslation of subject and object. The original Arabic incorrectly referred to the addressee ('أنت') instead of Ensio ('هو') as the smart person and the object of teaching.
+========== 418232
+JA: 女の子はお父さんと / 二人で暮らしていました
+EN: The little girl had a father, and / the two of them lived together.
+BEFORE: كانت الفتاة تعيش مع والدها
+بمفردها
+AFTER: كانت الفتاة تعيش مع والدها وحدهما
+REASON: Corrected mistranslation from 'بمفردها' (by herself) to 'وحدهما' (the two of them alone) to reflect '二人で暮らしていました' (lived together as two).
+========== 418247
+JA: 落ち着きな……代わりに行ってくれる / お節介がいるみたいだぜ
+EN: Stop worryin', would ya? / I may not be willin' to go, but I / know a busybody who would.
+BEFORE: اهدأ…… سأذهب بدلاً منك
+يبدو أن هناك من يحب التدخل
+AFTER: اهدأ…… يبدو أن هناك متطفلاً سيذهب بدلاً منك
+REASON: Corrected mistranslation from 'سأذهب بدلاً منك' (I will go instead of you) to 'يبدو أن هناك متطفلاً سيذهب بدلاً منك' (It seems there's a busybody who will go instead of you), matching the Japanese 'お節介がいるみたいだぜ' (it seems there's a busybody).
+========== 418259
+JA: ちくしょう……さっきのやつといい / 一体なんなんだ……
+EN: Tch... Who are you people...?
+BEFORE: تباً…… سواء كان ذلك الشخص قبل قليل
+ما هذا بحق الجحيم……
+AFTER: تباً…… ذلك الشخص قبل قليل، والآن هذا…… ما هذا بحق الجحيم؟
+REASON: Corrected mistranslation of `さっきのやつといい` to better reflect 'that person earlier, and now this' and adjusted punctuation for a question.
+========== 418285
+JA: ……アタシと同じ“価値”の指輪か
+EN: So this is the ring that defined / my worth.
+BEFORE: ……خاتم بنفس "قيمة" خاتمي
+AFTER: ……خاتم بنفس "قيمتي"
+REASON: Corrected mistranslation of `アタシと同じ“価値”` to 'same value as me' (`قيمتي`) instead of 'same value as my ring'.
+========== 418390
+JA: だよな！　自警団ともあろうものが / かすり傷で包帯なんか巻けないよな！
+EN: I knew it! A member of the watch / can't be seen bandaging up every / little scrape!
+BEFORE: هذا صحيح! فبما أننا من جماعة الدفاع الذاتي
+فلا يمكننا ترك جرح بسيط دون لف ضمادة!
+AFTER: هذا صحيح! فبما أننا من جماعة الدفاع الذاتي
+فلا يمكننا أن نلف ضمادة على كل خدش بسيط!
+REASON: Corrected mistranslation; original Arabic conveyed the opposite meaning of the Japanese source.
+========== 418455
+JA: うふふ、元気になりましたね
+EN: Haha, I'm glad she's feeling better.
+BEFORE: هيهي، لقد استعدت عافيتك
+AFTER: هيهي، لقد استعادت عافيتها.
+REASON: Mistranslation; corrected the pronoun from second person ('you') to third person feminine ('she') to match the English source and context.
+========== 418477
+JA: 銀の乙女に連れられて
+EN: "Following the silver maiden..."
+BEFORE: قادته العذراء الفضية
+AFTER: مُقاداً بالعذراء الفضية
+REASON: Corrected from active voice to passive voice to match the Japanese source and removed the implied masculine object.
+========== 418504
+JA: この船に惚れ込んでタダでやってくれる / 船大工でもいれば話は別だが……
+EN: If I could find a shipwright that holds / it in the same high esteem as I do, / perhaps they'd do it for free...
+BEFORE: أنت معجب بهذه السفينة وستقوم بإصلاحها مجانًا
+لو كان هناك نجار سفن لكان الأمر مختلفًا……
+AFTER: لو كان هناك نجار سفن معجب بهذه السفينة ويصلحها مجانًا
+لكان الأمر مختلفًا……
+REASON: Corrected mistranslation: original Arabic implied the player would repair it for free, but the Japanese is a hypothetical about finding such a shipwright.
+========== 418541
+JA: あなたに船を譲った……？ / マージムが……？
+EN: You gave away your ship? / But Marjim...
+BEFORE: هل منحتَ السفينةَ لي……؟
+مارجيم……؟
+AFTER: هل تنازلتَ عن السفينة……؟
+مارجيم……؟
+REASON: Mistranslation: 'منحتَ السفينةَ لي' (gave the ship to me) was incorrect; the Japanese '譲った' (gave away/transferred) implies he got rid of it, not gave it to her. Changed to 'تنازلتَ عن السفينة' (relinquished the ship). Also, corrected 'ماجيم' to 'مارجيم' per glossary.
+========== 418572
+JA: ……逃げる途中ではぐれてしまったの
+EN: We got separated while we were / fleeing...
+BEFORE: ……لقد انفصلت عنا أثناء الهروب
+AFTER: ……لقد انفصلنا أثناء الهروب
+REASON: Mistranslation: 'はぐれてしまったの' (we got separated) should be 'انفصلنا' (we got separated) to reflect the speaker and Lila getting separated, matching context and EN text.
+========== 418675
+JA: ……すまない
+EN: Thank you...
+BEFORE: ……أنا آسف
+AFTER: ……شكرًا لك
+REASON: Corrected mistranslation of 'すまない' from 'I'm sorry' to 'Thank you' based on context and en_text.
+========== 418677
+JA: ……ルータスも帰ってこない？
+EN: Why don't you come back with us?
+BEFORE: ……ألن يعود لوتوس؟
+AFTER: ……ألن تعود معنا يا لوتوس؟
+REASON: Corrected mistranslation from a question about Lutus to a question addressed to Lutus, matching en_text.
+========== 418704
+JA: 金なら持て余している / 同等に魅力的な品でもなければね……
+EN: I've no need of more money. / What I would ask for is an item / of similar appeal.
+BEFORE: لدي الكثير من المال
+ولكن ليس لدي أي قطعة جذابة مماثلة……
+AFTER: لدي الكثير من المال. ما أطلبه هو قطعة جذابة بنفس القدر……
+REASON: Mistranslation of the conditional phrase; the original Arabic implied the speaker lacked such an item, while the Japanese and English indicate the speaker is setting a condition for exchange.
+========== 418772
+JA: <chara_name>たちと…… / ウィッシュベールに帰るんだ……
+EN: Go with them...back to Wishvale...
+BEFORE: سأعود…… مع <chara_name>
+إلى ويشفيل……
+AFTER: اذهبي مع <chara_name>……
+إلى ويشفيل……
+REASON: Corrected mistranslation: 'سأعود' (I will return) to 'اذهبي' (Go, imperative for female Lila) to match the Japanese imperative and English reference.
+========== 418837
+JA: カラン！ / そっちに行ったぞ！
+EN: Karan! They're coming your way!
+BEFORE: كاران!
+ذهبتُ إلى هناك!
+AFTER: كاران!
+لقد ذهبوا إلى هناك!
+REASON: Corrected mistranslation of 'そっちに行ったぞ' (They went that way!) from first-person singular 'I went' to third-person plural 'They went'.
+========== 418838
+JA: くっ…… / あとからあとから……
+EN: Tch... Is there no end to them?
+BEFORE: تباً……
+جئتُ متأخراً جداً……
+AFTER: تباً……
+يتوالون الواحد تلو الآخر……
+REASON: Mistranslation of 'あとからあとから……' which means 'one after another' or 'endlessly', not 'I came too late'. Corrected to convey the sense of an endless stream of enemies/problems.
+========== 418844
+JA: 昔の住人も続々と戻ってきてるぜ / カランさんたちも……どう？
+EN: But a lot of the others have started / coming back. Why don't you two / come back, too?
+BEFORE: وبدأ السكان القدامى بالعودة الواحد تلو الآخر
+وأنت أيضًا يا سيد كاران…… كيف حالك؟
+AFTER: وبدأ السكان القدامى بالعودة الواحد تلو الآخر
+وأنتما أيضًا يا سيد كاران ومن معك…… ما رأيكما؟
+REASON: Mistranslation of 'どう？' (dou?) which is an inquiry/invitation, not 'كيف حالك؟' (how are you?). Corrected to 'ما رأيكما؟' (what do you two think?) to reflect the invitation to return, and adjusted pronoun to dual 'أنتما' for Phenn and <chara_name>.
+========== 418908
+JA: また大牙イノシシ獲ってくれよ / フェンのやつ、逃げられてばっかでさ
+EN: Finally! Now we have someone who / can hunt wild boar. Phenn here seems / to love seeing them run away.
+BEFORE: اصطد لي خنزيرًا بريًا كبيرًا مرة أخرى
+فقط لأن ذلك الذي يدعى فين هرب مني مرارًا
+AFTER: اصطد لي خنزيرًا بريًا كبيرًا مرة أخرى
+فين هذا، دائمًا ما تفلت منه
+REASON: Mistranslation of '逃げられてばっかでさ'. Original 'هرب مني مرارًا' implied Phenn escaped, not that boars escaped from Phenn. Corrected to 'دائمًا ما تفلت منه' (always escapes from him).
+========== 418909
+JA: お、俺がいつ逃げられたよ！？
+EN: Wh-when did I ever let one / get away!?
+BEFORE: أوه، متى هربتُ أنا؟!
+AFTER: أوه، متى أفلت مني؟!
+REASON: Mistranslation of '俺がいつ逃げられたよ！？'. Original 'متى هربتُ أنا؟!' implied the speaker escaped, not that something escaped from the speaker. Corrected to 'متى أفلت مني؟!'.
+========== 418963
+JA: 聖火教会の中でも / ごくわずかな者のみが知る
+EN: Even within the Order, only a handful / of people know of it.
+BEFORE: هي قريةُ الاختباءِ
+لشعبِ النارِ المقدسةِ،
+AFTER: لا يعرفها إلا قلةٌ قليلةٌ
+داخل كنيسة النار المقدسة.
+REASON: Mistranslation in original draft; retranslated to match Japanese source and corrected line break count.
+========== 418964
+JA: 聖火の民の隠れ里です
+EN: It is the hidden village of the people / of the Sacred Flame.
+BEFORE: التي لا يعرفها
+إلا قلةٌ قليلةٌ
+داخلَ كنيسةِ النارِ المقدسةِ
+AFTER: إنها القرية المخفية لشعب النار المقدسة.
+REASON: Mistranslation in original draft; retranslated to match Japanese source and corrected line break count.
+========== 419061
+JA: ああ、連れていってくれ / フィルのところへ……
+EN: Of course, I would be happy to / accompany you. Please take me to / see my son...
+BEFORE: آه، خذه
+إلى مكان فيل……
+AFTER: آه، اصطحبني
+إلى مكان فيل……
+REASON: The original Arabic 'خذه' (take him) was a mistranslation of the Japanese '連れていってくれ' (tsurete itte kure), which means 'take me' (the speaker). Changed to 'اصطحبني' (accompany me) to correctly reflect the speaker's request to be taken to Phil.
+========== 419103
+JA: まったく、何度も襲われた相手の / 手当をするなんてな
+EN: They wanted me to patch ya up / despite your constant need to test / their mettle.
+BEFORE: حقاً، إن تقديم العلاج لشخص تعرض للهجوم مرات عديدة هو أمر مرهق
+AFTER: حقاً، أن نعالج شخصاً هاجمنا مراراً وتكراراً، هذا أمر عجيب!
+REASON: Corrected mistranslation from 'تعرض للهجوم' (was attacked) to 'هاجمنا' (attacked us) to match JA meaning. Rephrased to capture the exasperated tone of the source.
+========== 419115
+JA: 助けてもらったばかりですまないが…… / やはり、ここにはいられないよ
+EN: I know I just arrived here, but... / I'm afraid I can't stay.
+BEFORE: أعتذر لأنني أطلب المساعدة بعد أن أنقذتني……
+ولكن، لا يمكنني البقاء هنا
+AFTER: أعتذر رغم أنني تلقيت المساعدة للتو……
+ولكن، لا يمكنني البقاء هنا
+REASON: Corrected mistranslation from 'أطلب المساعدة' (asking for help) to 'تلقيت المساعدة للتو' (just received help) to match JA meaning.
+========== 419137
+JA: 本当に８つの神器を集めることが / できたなんて……
+EN: I can scarce believe that we actually / managed to gather all eight weapons.
+BEFORE: أنه تم جمع ثماني الآلهة المقدسة حقًا……
+AFTER: أنه تم جمع ثماني الآثار المقدسة حقًا……
+REASON: Mistranslation of '神器' (Jingi - sacred artifacts/treasures, not gods).
+========== 419207
+JA: 申し訳なくてね…… / 折を見ちゃ墓参りをしてるんだ
+EN: I still regret it to this day, so I go / and pay my respects whenever / I get a chance.
+BEFORE: أشعرُ بالأسفِ الشديد……
+لذا أزورُ القبرَ في كلِّ شهر
+AFTER: أشعر بالأسف الشديد……
+لذا أزور القبر كلما سنحت لي الفرصة.
+REASON: Corrected mistranslation of '折を見ちゃ' (whenever I get a chance) from 'في كل شهر' to 'كلما سنحت لي الفرصة'. Also removed unnecessary harakat.
+========== 419216
+JA: <chara_name> / これからも一緒に守らせてもらうぜ
+EN: Let's work to make sure this town / never sees another tragedy, all right, / <chara_name>?
+BEFORE: <chara_name>
+سأستمر في حمايتك من الآن فصاعداً
+AFTER: <chara_name>
+سأستمر في حماية هذه البلدة معك من الآن فصاعداً
+REASON: Corrected mistranslation of the object of protection. The Japanese implies protecting the town together with the protagonist, not protecting the protagonist directly.
+========== 419227
+JA: そっからは自由さ！
+EN: Then I was free as a bird!
+BEFORE: أنت حرٌ من الآن فصاعداً!
+AFTER: منذ ذلك الحين، أصبحتُ حرة!
+REASON: Mistranslation: The original Japanese refers to the speaker's own freedom, not the player's. Corrected to first-person feminine to match the speaker's pronoun (アタシ).
+========== 419228
+JA: 気になる指輪を見つけたら奪って……
+EN: I decided that if I ever found a ring / I liked, I'd take it.
+BEFORE: إذا وجدتِ خاتماً يثير اهتمامكِ، فخذهِ……
+AFTER: إذا وجدتُ خاتماً يثير اهتمامي، كنتُ أسرقه……
+REASON: Mistranslation: The original Japanese refers to the speaker's past actions/intentions, not the player's. Corrected to first-person singular and feminine to match the speaker.
+========== 419229
+JA: 奪えなかったのはあんたの指輪だけ
+EN: The only one I haven't been able to / take is yours.
+BEFORE: الخاتم الوحيد الذي لم تستطعِ أخذه هو خاتمكِ
+AFTER: الخاتم الوحيد الذي لم أستطع أخذه هو خاتمك
+REASON: Mistranslation: The original Japanese refers to the speaker's inability to take the player's ring, not the player's inability. Corrected the verb to first-person singular.
+========== 419276
+JA: 酒場を仕切らせてくれって言った手前 / 料理の一つくらい作れなきゃな
+EN: Being able to cook is one of the basic / requirements for the job, after all.
+BEFORE: بما أنني طلبت منك أن تدير الحانة
+فمن غير اللائق ألا أستطيع صنع طبق واحد على الأقل
+AFTER: بما أنني طلبت أن أدير الحانة،
+فلا بد أن أكون قادرًا على صنع طبق واحد على الأقل.
+REASON: Corrected a mistranslation of '言った手前' (given that I said) which was incorrectly rendered as 'طلبت منك أن تدير الحانة' (I asked you to manage the tavern). The speaker is referring to their own commitment to managing the tavern. Also improved the phrasing for natural flow.
+========== 419280
+JA: 俺たちががっついて食べるのを / ニコニコしながら見てたっけ
+EN: I remember her grinning from ear to / ear as she watched us wolf it all down.
+BEFORE: هل كنتَ تراقبنا ونحن نأكل بنهمٍ بابتسامة؟
+AFTER: أتذكر أنها كانت تبتسم وهي ترانا نأكل بنهم.
+REASON: Corrected mistranslation: The original Arabic was a question ('هل كنتَ تراقبنا...؟') and incorrectly attributed the action to the player. The Japanese '見てたっけ' (I remember she was watching) refers to Yusia watching 'us'. Rephrased to reflect Yusia as the subject and the sentence as a statement.
+========== 419575
+JA: 村のそばにサシガメの巣があって / 繁殖期になると群れを成して襲ってくる
+EN: There was an assassin bug nest / near our village, and they'd swarm / us during their breeding season.
+BEFORE: يوجد عش لذبابة الساشيغامي بالقرب من القرية، وعندما يحين موسم التكاثر، تهاجم في أسراب.
+AFTER: كان هناك عش لبق الساشيغامي قرب قريتنا، وفي موسم التكاثر، كانت تهاجمنا في أسراب.
+REASON: Mistranslation/Grammar: 'ذبابة الساشيغامي' (sashigame fly) corrected to 'بق الساشيغامي' (sashigame bug). Changed 'يوجد عش' (there is a nest, present) to 'كان هناك عش' (there was a nest, past) to match context. Rephrased for natural flow.
+========== 419693
+JA: <chara_name>はピウスさんに / 激突して転んで……
+EN: I remember you running smack / into Pius and falling over, / <chara_name>.
+BEFORE: اصطدمت بـ <chara_name> بالسيد بيوس وسقطت……
+AFTER: اصطدم <chara_name> بالسيد بيوس وسقط……
+REASON: Mistranslation: The original Arabic incorrectly made '<chara_name>' the object of 'اصطدمت بـ'. Corrected to make '<chara_name>' the subject of the verb 'اصطدم' (crashed), using the generic masculine default for the player character as a third-person subject, and preserved ellipsis count.
+========== 419760
+JA: もう……みんな揃ってできないのね
+EN: I guess...we'll never be able to / do that with everyone again.
+BEFORE: أخيرًا…… لا يمكننا القيام بذلك معًا
+AFTER: لم نعد نستطيع…… القيام بذلك معًا
+REASON: Corrected mistranslation of 'もう' (anymore/no longer) from 'أخيرًا' (finally) to 'لم نعد نستطيع'.
+========== 419869
+JA: アタシみたいなのが目を光らせてないと / またぶっ壊されそうだ
+EN: If I don't keep an eye out for you, / it'll only be a matter of time before / this place gets razed again.
+BEFORE: لو لم أكن هنا أراقبهم بعيني
+لأفسدوا كل شيء مرة أخرى
+AFTER: لو لم أكن هنا أراقبهم بعيني
+لكانت دمرت مرة أخرى
+REASON: Changed 'لأفسدوا كل شيء مرة أخرى' (active voice, slightly reinterpreted) to 'لكانت دمرت مرة أخرى' (passive voice), to more accurately reflect the Japanese source's passive construction 'ぶっ壊されそうだ'.
+========== 419922
+JA: む……手強いな
+EN: Hmm... She's clearly a tough nut to crack.
+BEFORE: يا…… إنك قوي
+AFTER: يا…… إنها صعبة المراس
+REASON: Mistranslation/Register: 'إنك قوي' literally means 'you are strong' which is too generic. 'إنها صعبة المراس' (she is hard to deal with/tough) better conveys the nuance of 'tough nut to crack' in the context of making someone laugh, and corrected the pronoun to feminine 'إنها' as the speaker refers to 'her'.

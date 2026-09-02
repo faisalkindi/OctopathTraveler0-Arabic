@@ -1,0 +1,66 @@
+========== 3796
+JA: '私は、剣士エル\n東へ発つところでな'
+EN: 'I am El, a swordsman. I was just\npreparing to journey eastward.'
+BEFORE: 'أنا سيافة إير\nسأكون في المكان الذي تنطلق فيه نحو الشرق'
+AR: 'أنا سيافة إير\nكنت على وشك الانطلاق نحو الشرق'
+REASON: "Corrected mistranslation of '東へ発つところでな' (I was just about to depart eastward) from 'سأكون في المكان الذي تنطلق فيه نحو الشرق' (I will be in the place where you depart eastward) to accurately reflect El's own departure."
+========== 3891
+JA: '私はエルと申す\n……シャルル殿'
+EN: 'My name is El... Master Charles.'
+BEFORE: 'اسمي إيريكا\n……سيد شارل'
+AR: 'اسمي إل\n……سيد شارل'
+REASON: 'Mistranslation of the name `エル` (El). The original Arabic `إيريكا` was incorrect. Corrected to `إل`.'
+========== 3923
+JA: 'よし、行くぜ\nエル'
+EN: "Let's go, El."
+BEFORE: 'حسناً، لننطلق\nإريكا'
+AR: 'حسناً، لننطلق\nإيل'
+REASON: 'Mistransliteration: The Japanese name `エル` (Eru) should be `إيل` in Arabic, not `إريكا`.'
+========== 3983
+JA: 'あんたと目的は\n同じってことさ、エル'
+EN: 'Suffice to say, you and I share\na common goal.'
+BEFORE: 'هذا يعني أن هدفك\nهو نفسه هدفي، يا إيريكا'
+AR: 'هذا يعني أن هدفك\nهو نفسه هدفي، يا إل'
+REASON: "Corrected character name transliteration from 'إيريكا' to 'إل' based on game context and standard transliteration for 'El'."
+========== 4074
+JA: '……結構\n私は、剣士エルと申す者'
+EN: 'No, thank you.\nMy name is El, a swordsman.'
+BEFORE: '……حسناً\nأنا الشخص الذي يدعى السيف إيل'
+AR: '……لا، شكراً\nأنا إيل، السياف'
+REASON: "Corrected 'حسناً' to 'لا، شكراً' for '結構' and 'السيف إيل' to 'إيل، السياف' for '剣士エル' (swordsman)."
+========== 4264
+JA: '剣士エル殿……'
+EN: 'El...'
+BEFORE: 'أيها السيف إيل……'
+AR: 'أيها السياف إيل……'
+REASON: "Corrected 'السيف' (the sword) to 'السياف' (the swordsman) to accurately translate '剣士' (kenshi)."
+========== 4341
+JA: 'ところで、先ほどから\n剣士エル殿が見えない'
+EN: 'Incidentally, have you seen El\nas of late?'
+BEFORE: 'بالمناسبة، منذ فترة\nلا أرى السيف إيل'
+AR: 'بالمناسبة، منذ فترة\nلا أرى السياف إيل'
+REASON: "Mistranslation: 'السيف إيل' (The sword El) changed to 'السياف إيل' (Swordsman El) for naturalness and accuracy."
+========== 4344
+JA: '地形の把握は済んだかね\n剣士エル殿？'
+EN: 'Have you completed your survey\nof the terrain, El?'
+BEFORE: 'هل انتهيتَ من استطلاع التضاريس؟\nالسيف إيل؟'
+AR: 'هل انتهيتَ من استطلاع التضاريس؟\nالسياف إيل؟'
+REASON: "Mistranslation: 'السيف إيل؟' (The sword El?) changed to 'السياف إيل؟' (Swordsman El?) for naturalness and accuracy."
+========== 4505
+JA: 'なんと……\n剣士エル殿は……'
+EN: 'The swordsman El...'
+BEFORE: 'يا للهول……\nالسيف إيل هو……'
+AR: 'يا للهول……\nالمبارز إيل هو……'
+REASON: "Corrected 'السيف' (sword) to 'المبارز' (swordsman) to accurately reflect '剣士' in the Japanese source."
+========== 4970
+JA: '剣士エル……\nエリカ王女には世話になった'
+EN: 'I traveled with El—with your sister,\nPrincess Elrica.'
+BEFORE: 'أيها السيف إلف……\nلقد ساعدتني الأميرة إريكا كثيراً'
+AR: 'السيافة إلف……\nلقد ساعدتني الأميرة إريكا كثيراً'
+REASON: "Mistranslation: '剣士エル' (kenshi Eru) means 'Swordsman El', not 'Sword El'. Given El is female (Princess Elrica's sister), 'السيافة إلف' (female Swordsman El) is correct."
+========== 4990
+JA: 'エル……エリカ王女と\n一緒に旅をしたとき……'
+EN: 'When I was traveling with El...Elrica...'
+BEFORE: 'في رحلة معاً……'
+AR: 'عندما سافرتُ مع إل…… الأميرة إيركا……'
+REASON: "Incomplete translation. The original Japanese includes the names 'El... Princess Elrica' which were missing from the draft."

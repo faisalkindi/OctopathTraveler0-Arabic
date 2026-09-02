@@ -1,0 +1,46 @@
+=== id 11993 ===
+JA: シャーッ！
+ずうずうしいニャ！
+EN: Hiss! Fur-get it!
+BEFORE: شاو!
+GEMINI: شاو! يا لك من وقح، نيا!
+
+=== id 12737 ===
+JA: 何か話があるのかい？
+EN: Do you need to talk to me about
+something?
+BEFORE: هل هناك ما تريد قوله؟
+GEMINI: هل من حديث؟
+
+=== id 13402 ===
+JA: かなりの腕前だな、あんた……
+EN: You know what you're doing,
+I'll grant you that.
+BEFORE: أنت بارع حقاً...
+GEMINI: أنت بارع حقاً……
+
+=== id 13403 ===
+JA: かなりの腕前だな、あんた……
+EN: You know what you're doing,
+I'll grant you that.
+BEFORE: أنت بارع حقاً...
+GEMINI: أنت بارع حقاً……
+
+=== id 14167 ===
+JA: よろしくおねがいします
+EN: Sure, I'll follow along.
+BEFORE: أرجو مساعدتَك.
+GEMINI: سأرافقك.
+
+=== id 14338 ===
+JA: 役立ててくれ
+EN: Hope this helps.
+BEFORE: ساعدني
+GEMINI: أتمنى أن يكون هذا مفيداً لك.
+
+=== id 14521 ===
+JA: もう少し腕を上げなさい
+EN: Keep training that arm of yours.
+BEFORE: ارفعي ذراعكِ قليلاً
+GEMINI: واصل تدريبك.
+

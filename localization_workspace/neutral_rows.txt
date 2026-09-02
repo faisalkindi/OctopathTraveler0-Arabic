@@ -1,0 +1,598 @@
+========== 417826
+JA: え？　代わりにお代を / 受け取ってほしいって？
+BEFORE: هاه؟ تريد مني
+أن أقبل الأجر بدلاً عنك؟
+AFTER: هاه؟ هل طلبت مني
+أن أقبل الأجر بدلاً عنك؟
+REASON: Changed present-tense gendered verb to past-tense gender-neutral verb for player address.
+========== 417840
+JA: ん？　あんたも / ついてきてくれるって？
+BEFORE: هاه؟
+هل ستأتي معي أيضاً؟
+AFTER: هاه؟
+هل أردت المجيء معي أيضاً؟
+REASON: Changed present-tense gendered verb to past-tense gender-neutral verb for player address.
+========== 417841
+JA: 気持ちは嬉しいが / いいって、病み上がりだろ？
+BEFORE: يسعدني شعورك هذا
+لكن لا بأس، أليس لتوك متعافياً؟
+AFTER: يسعدني شعورك هذا
+لكن لا بأس، أليس لتوك تعافيت؟
+REASON: Changed gendered predicate adjective to past-tense gender-neutral verb for player address.
+========== 417843
+JA: ……本当に、いいのか？
+BEFORE: ……هل أنت متأكد حقاً؟
+AFTER: ……هل تأكدت حقاً؟
+REASON: Changed gendered predicate adjective to past-tense gender-neutral verb for player address.
+========== 417947
+JA: ねぇ、ふたりで飲み直さない？
+BEFORE: هيه، ما رأيكم أن نشرب معاً مرة أخرى؟
+AFTER: هيه، ألا نشرب معًا مرة أخرى؟
+REASON: Changed plural 'ما رأيكم' to neutral 'ألا نشرب معًا' to correctly reflect the Japanese 'ふたりで' (two people) and avoid gendered second-person address if the protagonist is the addressee.
+========== 417999
+JA: 逆に燃えてきちゃう / 必ずあなたの気持ち、変えてみせるわ
+BEFORE: بل على العكس، هذا يحمسني أكثر
+سأغير مشاعركِ بالتأكيد
+AFTER: بل على العكس، هذا يحمسني أكثر
+سأغير مشاعرك بالتأكيد
+REASON: Player-address gender-neutrality: 'مشاعركِ' (feminine) changed to 'مشاعرك' (gender-neutral) as the addressee is the player character.
+========== 418004
+JA: 少しの間、あなたのそばで / 踊らせてもらうわ
+BEFORE: سأسمح لي بالرقص بجانبكِ
+لفترة وجيزة
+AFTER: اسمح لي بالرقص بجانبك
+لفترة وجيزة
+REASON: Grammar and player-address gender-neutrality: 'سأسمح لي' is awkward; changed to 'اسمح لي'. 'بجانبكِ' (feminine) changed to 'بجانبك' (gender-neutral).
+========== 418013
+JA: <chara_name>、ありがとう / この広さがあれば作れるよ
+BEFORE: <chara_name>، شكراً لكِ
+AFTER: <chara_name>، شكراً لك
+هذا يكفي.
+REASON: Player-address gender-neutrality: 'شكراً لكِ' (feminine) changed to 'شكراً لك' (gender-neutral). Missing sentence 'This should do it' added as 'هذا يكفي.'.
+========== 418049
+JA: <chara_name> / どうしよう……？
+BEFORE: <chara_name>
+ماذا أفعل……؟
+AFTER: <chara_name>
+ماذا نفعل……؟
+REASON: Changed from 'ماذا أفعل' (What should I do) to 'ماذا نفعل' (What should we do) to better reflect the collective action implied by the English and the context of the player being asked for advice on a group task, while maintaining gender neutrality for the player character.
+========== 418082
+JA: ちょうどいい、料理ができたところなんだ / お前も食ってけよ
+BEFORE: هذا توقيت مثالي، لقد انتهيتُ من إعداد الطعام للتو
+تناول أنتَ أيضاً
+AFTER: هذا توقيت مثالي، لقد انتهيتُ من إعداد الطعام للتو. تناول أيضاً.
+REASON: Removed the explicit masculine pronoun 'أنتَ' from 'تناول أنتَ أيضاً' to ensure gender-neutral address for the player character. Added a period for sentence separation.
+========== 418085
+JA: へっへ、<chara_name>も懐かしいだろ？ / お前の親父さんに教わった味つけさ
+BEFORE: هيه هيه، <chara_name> يشعر بالحنين لهذا المذاق أيضاً، أليس كذلك؟
+إنه التتبيل الذي تعلمتُه من والدك
+AFTER: هيه هيه، ألا يثير هذا المذاق الحنين لدى <chara_name> أيضاً؟ إنه التتبيل الذي تعلمتُه من والدك.
+REASON: Rephrased 'يشعر بالحنين' (masculine) to 'ألا يثير هذا المذاق الحنين لدى' (making 'taste' the subject) to ensure gender-neutral address for the player character. Added a period for sentence separation.
+========== 418111
+JA: <chara_name>、お前は / 俺とメイシィどっちの味方だ？
+BEFORE: <chara_name>، أنت
+مع من تقف، معي أم مع مايسي؟
+AFTER: <chara_name>، مع من وقفت، معي أم مع مايسي؟
+REASON: Player-address gender-neutrality: Changed present tense "أنت مع من تقف" (masculine default) to past tense "مع من وقفت" which is spelled identically for both genders, per style guide preference for true neutrality.
+========== 418114
+JA: 何と答えますか？
+BEFORE: بماذا ستجيب؟
+AFTER: بماذا أجبت؟
+REASON: Player-address gender-neutrality: Changed present tense "ستجيب" (masculine default) to past tense "أجبت" which is spelled identically for both genders, per style guide preference for true neutrality.
+========== 418155
+JA: ドニエスクがガ・ロハの侵略で / 大変な目に遭ったのは知ってっぺ？
+BEFORE: هل تعلم أن دونيسك عانت كثيراً بسبب غزو غا-روها؟
+AFTER: هل لديك علم بأن دونيسك عانت كثيراً بسبب غزو غا-روها؟
+REASON: Added line break per source; rephrased for gender-neutrality when addressing the player character.
+========== 418157
+JA: ドニエスクに戻って / 王様になってくんねえか？
+BEFORE: ألا يمكنك العودة إلى دونيسك وتولي العرش؟
+AFTER: ألا يمكن العودة إلى دونيسك وتولي العرش؟
+REASON: Added line break per source; rephrased for gender-neutrality when addressing the player character.
+========== 418163
+JA: エンシオ様を説得できる人を / 連れてくるって？
+BEFORE: هل ستحضر شخصاً يمكنه إقناع السيد إنسيو؟
+AFTER: هل سيُحضَر شخصٌ يمكنه إقناع السيد إنسيو؟
+REASON: Added line break per source; rephrased for gender-neutrality when addressing the player character.
+========== 418219
+JA: アタシはハイドネ / 憶えててよね
+BEFORE: أنا هايدني
+تذكريني جيداً
+AFTER: أنا هايدني
+تذكرني جيداً
+REASON: Changed 'تذكريني' (feminine) to 'تذكرني' (generic masculine) for player-address gender-neutrality.
+========== 418221
+JA: こんな寒いところで待たせないでよ / ……風邪引いちゃう
+BEFORE: لا تجعليني أنتظر في مكان بارد كهذا
+……سأصاب بالزكام
+AFTER: لا تجعلني أنتظر في مكان بارد كهذا
+……سأصاب بالزكام
+REASON: Changed 'لا تجعليني' (feminine) to 'لا تجعلني' (generic masculine) for player-address gender-neutrality.
+========== 418329
+JA: 我らにお任せあれ！
+BEFORE: اتركي الأمر لنا!
+AFTER: اترك الأمر لنا!
+REASON: Corrected imperative verb 'اتركي' (feminine) to 'اترك' (masculine/gender-neutral) as the addressee is the player character, who requires gender-neutral phrasing. Removed unnecessary harakat.
+========== 418373
+JA: お腹空いてないか？ / 向こうでパンを配ってるぜ
+BEFORE: ألم تشعر بالجوع؟
+إنهم يوزعون الخبز هناك
+AFTER: هل شعرت بالجوع؟
+إنهم يوزعون الخبز هناك
+REASON: Rephrased to past tense for gender-neutral address to the protagonist.
+========== 418388
+JA: ねえ、聞こえるでしょう…… / 絶えることのない、川のせせらぎ……
+BEFORE: ألا تسمع ذلك……
+خرير النهر الذي لا ينقطع……
+AFTER: ألم تسمع ذلك……
+خرير النهر الذي لا ينقطع……
+REASON: Rephrased to past tense for gender-neutral address to the protagonist.
+========== 418393
+JA: さすがは<chara_name>さん / よくわかってますね
+BEFORE: كما هو متوقع من <chara_name>
+إنه يفهم الأمر جيداً
+AFTER: كما هو متوقع من <chara_name>
+لقد فهم الأمر جيداً
+REASON: Rephrased to past tense for gender-neutral address to the protagonist.
+========== 418427
+JA: 本当に君は興味深いよ / フフフ……絶対に離れないぞ
+BEFORE: أنت مثير للاهتمام حقًا
+فوفوفو…… لن أتركك أبدًا
+AFTER: لقد أثرت اهتمامي حقًا
+فوفوفو…… لن أتركك أبدًا
+REASON: Changed 'أنت مثير للاهتمام حقًا' to 'لقد أثرت اهتمامي حقًا' for gender-neutral phrasing when addressing the player character (using past tense verb).
+========== 418428
+JA: やれやれ / あんたも大変な人に見込まれたね
+BEFORE: يا للهول
+لقد وقعتَ تحت رعاية شخص عظيم
+AFTER: يا للهول
+لقد أصبحتَ محط اهتمام شخص صعب المراس
+REASON: Corrected mistranslation of '大変な人に見込まれたね' (taken in by a formidable/troublesome person) from 'وقعتَ تحت رعاية شخص عظيم' (fallen under the care of a great person) to 'أصبحتَ محط اهتمام شخص صعب المراس' (become the focus of a difficult person's attention) for better nuance and meaning. The past tense verb 'أصبحتَ' is gender-neutral in spelling.
+========== 418439
+JA: 無理は禁物です / <chara_name>さんならどうしますか？
+BEFORE: لا يجب الإفراط في الجهد.
+AFTER: لا يجب الإفراط في الجهد. ماذا كنتَ لتفعل يا <chara_name>؟
+REASON: Added the missing second part of the Japanese sentence, including the placeholder and using gender-neutral phrasing for the player character.
+========== 418451
+JA: このお茶をどうぞ / <chara_name>さんもいかがですか？
+BEFORE: تفضل بهذا الشاي
+AFTER: تفضلي بهذا الشاي.
+وماذا عنك يا <chara_name>؟
+REASON: Incomplete translation; corrected gender for the first addressee (female), used gender-neutral phrasing for the player character, and preserved line break.
+========== 418483
+JA: あなたの好きにすればいいのよ
+BEFORE: افعل ما يحلو لك
+AFTER: لك حرية فعل ما تشاء.
+REASON: Rephrased to be more gender-neutral for the player character, avoiding the masculine imperative.
+========== 418484
+JA: あなたが思う道を選べばいいの
+BEFORE: اختر الطريق الذي تراه مناسباً
+AFTER: لك أن تختار الطريق الذي تراه مناسباً.
+REASON: Rephrased to be more gender-neutral for the player character, avoiding the masculine imperative.
+========== 418551
+JA: あんたもそう思うって？
+BEFORE: هل تعتقدين ذلك أيضًا؟
+AFTER: هل تعتقد ذلك أيضًا؟
+REASON: Gender agreement: The player character is addressed, requiring gender-neutral phrasing. 'تعتقدين' (feminine) changed to 'تعتقد' (generic masculine fallback for present tense).
+========== 418607
+JA: 立派な家を建ててくれて / ありがとう、スティア、<chara_name>
+BEFORE: شكرًا لكِ يا ستيا، <chara_name>
+على بناء هذا المنزل الرائع
+AFTER: شكرًا لكما يا ستيا، <chara_name>
+على بناء هذا المنزل الرائع
+REASON: Changed 'شكرًا لكِ' (feminine singular) to 'شكرًا لكما' (dual) to address both Stia (female) and the player character (gender-neutral, treated as dual here).
+========== 418868
+JA: 俺作ったことねぇんだけど / <chara_name>は作れるか？
+BEFORE: لم أصنع شيئاً كهذا من قبل
+AFTER: لم أصنع شيئاً كهذا من قبل
+لكن هل يمكنك أنت يا <chara_name>؟
+REASON: Missing translation for the second clause '<chara_name>は作れるか？' (Can <chara_name> make it?). Added the missing question, using generic masculine 'يمكنك' as a fallback for the player character's gender-neutral address.
+========== 418874
+JA: 他所で作っても同じ味にはならないわ / やっぱり、ここで作らなきゃ
+BEFORE: لن يكون المذاق نفسه حتى لو صنعته في مكان آخر
+AFTER: لن يكون المذاق نفسه حتى لو صُنع في مكان آخر. لا بد أن يُصنع هنا.
+REASON: The original Arabic was incomplete; added the missing second sentence and rephrased for better flow and neutrality.
+========== 418877
+JA: レシピをあげるから / このあたりで食材を集めてきて
+BEFORE: سأعطيكِ الوصفة، لذا اجمعي المكونات من هنا.
+AFTER: سأعطيك الوصفة، لذا اجمع المكونات من هنا.
+REASON: Changed feminine address ('كِ', 'اجمعي') to generic masculine ('ك', 'اجمع') for the gender-neutral protagonist.
+========== 418879
+JA: <favorite_dish_name>、完成だ！ / みんなを呼んでくれないか？
+BEFORE: لقد انتهيتُ من إعداد <favorite_dish_name>!
+AFTER: لقد انتهيتُ من إعداد <favorite_dish_name>! هل يمكنك مناداة الجميع؟
+REASON: Added the missing second sentence ('Would you mind rounding everyone up?') with gender-neutral phrasing for the protagonist.
+========== 418891
+JA: わざわざ作ってきてくれたのかい？
+BEFORE: هل تعبتِ في إعداده وجلبتِه لي؟
+AFTER: هل تعبتَ في إعداده وجلبته لي؟
+REASON: Changed feminine address ('تعبتِ', 'جلبتِه') to generic masculine ('تعبتَ', 'جلبته') for the gender-neutral protagonist.
+========== 418902
+JA: やっぱり、私たちも帰っていいかな / <chara_name>君、フェン君
+BEFORE: إذن، هل يمكننا العودة؟
+أنتِ <chara_name>، وأنتَ فين
+AFTER: إذن، هل يمكننا العودة؟
+أنتَ <chara_name>، وأنتَ فين
+REASON: Player character address must be gender-neutral or generic masculine. Changed 'أنتِ' (feminine) to 'أنتَ' (generic masculine) for <chara_name>.
+========== 418942
+JA: それでも、そなたは聖火神の試練を越え / 囚われた人々の心を解放しました
+BEFORE: ومع ذلك، فقد تجاوزتَ اختبار إلفريك
+وأطلقتَ سراح قلوب المحبوسين
+AFTER: ومع ذلك، فقد تجاوزت اختبار إلفريك
+وأطلقت سراح قلوب المحبوسين
+REASON: Removed explicit fatha diacritics from 'تجاوزتَ' and 'أطلقتَ' to render them gender-neutral in spelling, as per player-address gender-neutrality rules for past-tense verbs.
+========== 418943
+JA: たったひとりで……
+BEFORE: بمفردك……
+AFTER: بمفردك……
+REASON: Removed explicit fatha diacritic from 'بمفردك' to render it gender-neutral in spelling. Corrected ellipsis count from one U+2026 to two U+2026 characters to match ja_text.
+========== 418954
+JA: ……おやめなさい
+BEFORE: ……توقفي
+AFTER: ……توقف
+REASON: Player character address must be gender-neutral; changed feminine imperative to generic masculine imperative as fallback.
+========== 418955
+JA: 消し去るつもりですか？ / 最後の灯火を
+BEFORE: هل تنوين إطفاءها؟
+آخر شعلة
+AFTER: هل لديك نية إطفائها؟
+آخر شعلة
+REASON: Player character address must be gender-neutral; changed feminine present tense to gender-neutral phrasing.
+========== 418957
+JA: その指輪…… / “選ばれし者”とお見受けします
+BEFORE: ذلك الخاتم……
+يبدو أنكِ "المختارة"
+AFTER: ذلك الخاتم……
+يبدو أنك "المختار"
+REASON: Player character address must be gender-neutral; changed feminine forms to generic masculine as fallback.
+========== 418958
+JA: そなたが / この地を訪れること……
+BEFORE: لقد سمعتُ
+أنك ستزورُ
+هذه الأرض……
+AFTER: لقد سمعتُ عن زيارتك لهذه الأرض……
+REASON: Player character address must be gender-neutral; changed masculine present tense to gender-neutral verbal noun. Corrected line break count to match source.
+========== 418961
+JA: どうぞ、こちらへ
+BEFORE: تفضل، إلى هنا
+AFTER: الرجاء القدوم إلى هنا
+REASON: Player character address must be gender-neutral; changed masculine imperative to gender-neutral phrasing.
+========== 418995
+JA: どうだい、いいと思わないか？
+BEFORE: ما رأيكم، ألا تعتقدون أن هذا رائع؟
+AFTER: ما رأيك، ألا تعتقد أن هذا رائع؟
+REASON: Changed player address from plural masculine to singular generic masculine fallback for consistency with player-character neutrality guidelines.
+========== 419071
+JA: ……なんだって？ / ウィッシュベール？
+BEFORE: ……ماذا قلتِ؟
+ويشفيل؟
+AFTER: ……ماذا؟
+ويشفيل؟
+REASON: Changed 'ماذا قلتِ؟' (feminine) to 'ماذا؟' for gender-neutrality when addressing the player character, per style guide.
+========== 419072
+JA: 俺たちをその町に匿うっていうのか？
+BEFORE: هل تقصدين أنه سيخفينا في تلك البلدة؟
+AFTER: هل ستخفينا في تلك البلدة؟
+REASON: Changed 'هل تقصدين أنه سيخفينا' (feminine, third-person verb) to 'هل ستخفينا' (masculine default, second-person verb) for gender-neutrality and correct subject when addressing the player character, per style guide.
+========== 419080
+JA: ありがとう / その町に行ってみることにするよ
+BEFORE: شكراً لكِ
+سأقرر الذهاب إلى تلك البلدة
+AFTER: شكراً لك
+سأقرر الذهاب إلى تلك البلدة
+REASON: Changed 'شكراً لكِ' (feminine) to 'شكراً لك' (masculine default) for gender-neutrality when addressing the player character, per style guide.
+========== 419102
+JA: <chara_name>が連れてきたんだよ
+BEFORE: <chara_name> هو من أحضركِ
+AFTER: <chara_name> هو من أحضرك
+REASON: Removed explicit feminine kasra from 'أحضركِ' to ensure gender-neutrality for the player character.
+========== 419156
+JA: あなたとの出会いは僥倖だったわ
+BEFORE: كان لقائي بكِ محض صدفة
+AFTER: كان لقائي بك محض صدفة
+REASON: Changed player address from feminine `بكِ` to gender-neutral `بك`.
+========== 419158
+JA: なんて、思い上がっていたわ / ……あなたに会うまで
+BEFORE: يا له من غرورٍ كان لدي
+……حتى التقيتُ بكِ
+AFTER: يا له من غرورٍ كان لدي
+……حتى التقيتُ بك
+REASON: Changed player address from feminine `بكِ` to gender-neutral `بك`.
+========== 419159
+JA: あなたに敗北を喫したおかげで / 上には上がいると知ることができた
+BEFORE: بفضل هزيمتي أمامكِ
+أدركتُ أن هناك من هو أقوى من غيره
+AFTER: بفضل هزيمتي أمامك
+أدركتُ أن هناك من هو أقوى من غيره
+REASON: Changed player address from feminine `أمامكِ` to gender-neutral `أمامك`.
+========== 419230
+JA: もうどうでもいいけどね / 指輪よりあんたの方が面白いから
+BEFORE: لا يهم الأمر الآن
+لأنكِ أكثر إثارة من الخاتم
+AFTER: لا يهم الأمر الآن
+لأنك أكثر إثارة من الخاتم
+REASON: Player-address gender-neutrality: The original Arabic used feminine address (لأنكِ). Corrected to generic masculine (لأنك) as per style guide for the silent protagonist.
+========== 419231
+JA: アタシを仲間にしたのはあんたなんだから / 責任取りなさいよ
+BEFORE: أنت من جعلتِني شريكتكِ
+لذا تحملي المسؤولية
+AFTER: أنت من جعلتني شريكة لك
+لذا تحمل المسؤولية
+REASON: Player-address gender-neutrality: The original Arabic used feminine address (جعلتِني، شريكتكِ، تحملي). Corrected to generic masculine (جعلتني، شريكة لك، تحمل) as per style guide for the silent protagonist.
+========== 419232
+JA: まあ、あんたが嫌がっても / どこまでもついていくけどね！
+BEFORE: حسناً، حتى لو لم ترغبي في ذلك
+سأتبعكِ إلى أي مكان!
+AFTER: حسناً، حتى لو لم ترغب في ذلك
+سأتبعك إلى أي مكان!
+REASON: Player-address gender-neutrality: The original Arabic used feminine address (ترغبي، سأتبعكِ). Corrected to generic masculine (ترغب، سأتبعك) as per style guide for the silent protagonist.
+========== 419256
+JA: ありがとうございます！ / これからもよろしくお願いします！
+BEFORE: شكراً لكِ!
+أرجو أن نبقى على علاقة طيبة من الآن فصاعداً!
+AFTER: شكراً لك!
+أرجو أن نبقى على علاقة طيبة من الآن فصاعداً!
+REASON: Changed 'لكِ' (feminine) to 'لك' (generic masculine) to maintain gender-neutrality when addressing the player character.
+========== 419262
+JA: これもすべて / あなたのおかげです
+BEFORE: كل هذا
+بفضلكِ أنتِ
+AFTER: كل هذا
+بفضلك أنت
+REASON: Changed 'بفضلكِ أنتِ' (feminine) to 'بفضلك أنت' (generic masculine) to maintain gender-neutrality when addressing the player character.
+========== 419263
+JA: 薬草の種も、東方の薬学書も / 探していただいて……
+BEFORE: لأنكِ بحثتِ عن بذور الأعشاب، وكتاب الصيدلة الشرقي……
+AFTER: لأنك بحثت عن بذور الأعشاب، وكتاب الصيدلة الشرقي……
+REASON: Changed 'لأنكِ بحثتِ' (feminine) to 'لأنك بحثت' (generic masculine) to maintain gender-neutrality when addressing the player character.
+========== 419294
+JA: それがお前の使命だと言うなら / 私も共に為す！
+BEFORE: إذا كانت تلك هي مهمتك
+فأنا سأعملُ معكِ عليها!
+AFTER: إذا كانت تلك هي مهمتك فأنا سأعملُ معك عليها!
+REASON: Corrected gender agreement for the player character. Changed 'معكِ' (feminine) to 'معك' (gender-neutral/masculine default) as the player character is gender-customizable and the game has no gender-branching dialogue.
+========== 419304
+JA: でも、君は道を間違えず / いくつもの厳しい試練を乗り越えた……
+BEFORE: ومع ذلك، لم تضل الطريق
+وتجاوزتَ العديد من الاختبارات القاسية……
+AFTER: ومع ذلك، لم تضل الطريق
+وتجاوزت العديد من الاختبارات القاسية……
+REASON: Changed 'تجاوزتَ' (masculine) to 'تجاوزت' (unvocalized past tense) for gender neutrality when addressing the player character.
+========== 419307
+JA: 優しいユーシアさんと強いフリードさん…… / 君は２人の良いところを受け継ぎました
+BEFORE: السيدة يوشيا اللطيفة والفارس فريد القوي……
+لقد ورثتَ أفضل ما في كليهما
+AFTER: السيدة يوشيا اللطيفة والفارس فريد القوي……
+لقد ورثت أفضل ما في كليهما
+REASON: Changed 'ورثتَ' (masculine) to 'ورثت' (unvocalized past tense) for gender neutrality when addressing the player character.
+========== 419308
+JA: 知っていましたか？ / フリードさんは、聖火騎士だったんですよ
+BEFORE: هل كنتَ تعلم؟
+الفارس فريد كان فارساً لشعلة القداسة
+AFTER: هل كنت تعلم؟
+الفارس فريد كان فارس اللهب المقدس
+REASON: Changed 'كنتَ تعلم' (masculine) to 'كنت تعلم' (unvocalized past tense) for gender neutrality. Changed 'فارساً لشعلة القداسة' to 'فارس اللهب المقدس' for consistency with the glossary term 'Knight Ardante'.
+========== 419371
+JA: 君が、その指輪を / 正しく扱ってきたように……
+BEFORE: تماماً كما تعاملتَ مع تلك الخاتم
+بشكل صحيح……
+AFTER: تماماً كما تعاملت مع ذلك الخاتم
+بشكل صحيح……
+REASON: The original `تلك الخاتم` had a feminine demonstrative pronoun `تلك` with a masculine noun `الخاتم`. Corrected to `ذلك الخاتم`. Also, removed the fatha from `تعاملتَ` to make it `تعاملت`, ensuring gender-neutrality for the player character in past tense as per style guide.
+========== 419374
+JA: だから……私の側にいてくれ
+BEFORE: لذا…… ابقَ بجانبي
+AFTER: لذا…… أرجو منك البقاء بجانبي
+REASON: The original `ابقَ` is a masculine imperative. Rephrased to `أرجو منك البقاء بجانبي` to use a verbal noun (`البقاء`) and achieve gender-neutrality for the player character, as per style guide.
+========== 419375
+JA: 私が道を見失いそうになったら / 行く先を照らしてくれ
+BEFORE: إذا كدتُ أفقد الطريق
+أرشدني إلى الوجهة التي يجب أن أسلكها
+AFTER: إذا كدتُ أفقد الطريق
+فأتمنى منك إضاءة الدرب
+REASON: The original `أرشدني` is a masculine imperative. Rephrased to `فأتمنى منك إضاءة الدرب` to use a verbal noun (`إضاءة`) and achieve gender-neutrality for the player character, as per style guide, while also being more concise and closer to the 'light the way' meaning.
+========== 419378
+JA: 初めて出会ったあの時…… / 君がくれたラタトゥイユ……
+BEFORE: في المرة الأولى التي التقينا فيها……
+الراتاتوي الذي قدمته لي……
+AFTER: في المرة الأولى التي التقينا فيها……
+الراتاتوي الذي قدمته لي……
+REASON: Removed the fatha from `قدمته` to make it `قدمته`, ensuring gender-neutrality for the player character in past tense as per style guide.
+========== 419410
+JA: 俺たちは同じ / 故郷を失った者同士だと……
+BEFORE: نحن متشابهان
+كلاهما فقد موطنه……
+AFTER: نحن متشابهان
+فقد فقدنا موطننا……
+REASON: Corrected subject-verb agreement and pronoun usage for 'we both lost our homeland' instead of 'both of them lost his homeland'. Also improved gender neutrality for player address.
+========== 419432
+JA: そしてあんたの周りに / どんどん人が集まってくる……
+BEFORE: والناس يتجمعون حولكِ أكثر فأكثر……
+AFTER: والناس يتجمعون حولك أكثر فأكثر……
+REASON: Changed feminine 'حولكِ' to masculine 'حولك' for player character gender neutrality.
+========== 419433
+JA: 俺は今更、あんたみたいにはなれねえ / でもよ……
+BEFORE: لا يمكنني أن أصبح مثلكِ الآن، ولكن……
+AFTER: لا يمكنني أن أصبح مثلك الآن، ولكن……
+REASON: Changed feminine 'مثلكِ' to masculine 'مثلك' for player character gender neutrality.
+========== 419434
+JA: たまにはあんたみたいに / 誰かを信じてみるのもいいのかなって
+BEFORE: أتساءل أحياناً إن كان من الجيد أن أثق بشخص ما مثلكِ
+AFTER: أتساءل أحياناً إن كان من الجيد أن أثق بشخص ما
+مثلك
+REASON: Changed feminine 'مثلكِ' to masculine 'مثلك' for player character gender neutrality, and preserved line break.
+========== 419437
+JA: ……もう少し一緒にいて / 見届けさせてもらおう
+BEFORE: ……دعني أبقى معكِ لفترة أطول
+لأشهد بنفسي
+AFTER: ……دعني أبقى معك لفترة أطول
+لأشهد بنفسي
+REASON: Changed feminine 'معكِ' to masculine 'معك' for player character gender neutrality.
+========== 419438
+JA: あんたの旅が / どこにたどり着くかをな
+BEFORE: إلى أين ستصل رحلتكِ
+AFTER: إلى أين ستصل
+رحلتك
+REASON: Changed feminine 'رحلتكِ' to masculine 'رحلتك' for player character gender neutrality, and preserved line break.
+========== 419465
+JA: この長い旅路で / あなたはどんな困難にあっても
+BEFORE: خلال هذه الرحلة الطويلة،
+مهما كانت الصعوبات التي واجهتكم،
+AFTER: خلال هذه الرحلة الطويلة،
+مهما كانت الصعوبات التي واجهتَ،
+REASON: Changed plural 'واجهتكم' to singular gender-neutral past tense 'واجهتَ' to address the player character.
+========== 419466
+JA: 決してくじけずに / 未来を切り拓いてゆきました
+BEFORE: لم تستسلموا أبدًا،
+وواصلتم شق طريقكم نحو المستقبل.
+AFTER: لم تستسلمْ أبدًا،
+وواصلتَ شق طريقكَ نحو المستقبل.
+REASON: Changed plural 'تستسلموا' to singular gender-neutral past tense 'تستسلمْ' and 'واصلتم' to 'واصلتَ' to address the player character, and adjusted possessive suffix.
+========== 419484
+JA: 国の歴史を変えるほどの偉業を / 次々と成し遂げている
+BEFORE: وتنجزُ إنجازاتٍ متتالية
+بقدرتها على تغيير تاريخ البلاد
+AFTER: وقد أنجزتَ إنجازات متتالية عظيمة، غيرت تاريخ البلاد.
+REASON: Rephrased for better meaning and agency (player as subject of 'changing history'). Used past tense (أنجزتَ) for player gender-neutrality. Removed unnecessary diacritic.
+========== 419486
+JA: 私はこれからも / キミの紡ぐ物語を見届けるつもりだ
+BEFORE: سأستمرُ في
+مراقبة القصة التي تنسجها
+AFTER: سأستمر في
+مراقبة القصة التي تنسجها
+REASON: Changed player pronoun from feminine (تنسجها) to masculine (تنسجها) for gender-neutrality fallback. Removed unnecessary diacritic.
+========== 419496
+JA: 君と一緒だと、ごはんの味も / 二倍おいしくなることに気付いたニャ
+BEFORE: لقد لاحظتُ أن طعم الطعام يصبح
+أشهى بمرتين عندما أكون معكِ
+AFTER: لقد لاحظت أن طعم الطعام يصبح
+أشهى بمرتين عندما أكون معك
+REASON: Changed player pronoun from feminine (معكِ) to masculine (معك) for gender-neutrality fallback. Removed unnecessary diacritic.
+========== 419498
+JA: それで気付いたニャ / 君はボクの、初めての友達なんだって
+BEFORE: ولذلك أدركتُ
+أنكِ صديقتي الأولى
+AFTER: ولذلك أدركت
+أنك صديقي الأول
+REASON: Changed player pronoun and predicate adjective from feminine (أنكِ صديقتي الأولى) to masculine (أنك صديقي الأول) for gender-neutrality fallback. Removed unnecessary diacritic.
+========== 419501
+JA: その全ての思い出の中に / <chara_name>、君がいるのニャ
+BEFORE: في كل تلك الذكريات
+<chara_name>، أنتِ موجودةٌ فيها
+AFTER: في كل تلك الذكريات
+<chara_name>، أنت موجود فيها
+REASON: Changed player pronoun and predicate adjective from feminine (أنتِ موجودةٌ) to masculine (أنت موجود) for gender-neutrality fallback. Removed unnecessary diacritic.
+========== 419556
+JA: それくらいなら繕えば大丈夫ですよ / 裁縫道具をお貸ししましょうか？
+BEFORE: إذا كان الأمر كذلك، فسيصبح الأمر جيداً إذا أصلحته.
+هل أُعيرك أدوات الخياطة؟
+AFTER: إذا كان الأمر كذلك، فيمكن إصلاحه.
+هل أُعيرك أدوات الخياطة؟
+REASON: Rephrased 'فسيصبح الأمر جيداً إذا أصلحته' to 'فيمكن إصلاحه' to avoid a gendered second-person verb referring to Delitia, making the phrasing more general and neutral as per style guide.
+========== 419565
+JA: それを実践できているのがすごいのだ / なあ、<chara_name>？
+BEFORE: من الرائع أنك تطبق ذلك، أليس كذلك، <chara_name>؟
+AFTER: من الرائع أنك طبقت ذلك، أليس كذلك، <chara_name>؟
+REASON: Changed present tense verb 'تطبق' to past tense 'طبقت' to achieve gender-neutral spelling when addressing the player character, as per style guide.
+========== 419598
+JA: “足を踏み入れたら戻れない / 囚われの身を嘆くばかり”
+BEFORE: "إذا وطأتَها فلن تعود
+لا تفعل شيئاً سوى التحسر على حالك كأَسير"
+AFTER: "إذا وطأتَها فلن تعود
+لا سبيل سوى التحسر على حال الأسير"
+REASON: Rephrased the second line for better gender-neutrality and to reflect the general statement in the source, rather than a direct action by the player.
+========== 419652
+JA: 何と答えますか？
+BEFORE: بماذا ستجيب؟
+AFTER: ماذا سيكون جوابك؟
+REASON: Rephrased to use gender-neutral phrasing for addressing the player character, as per style guide.
+========== 419669
+JA: あんた気に入ったよ / 一杯奢るぜ
+BEFORE: لقد أعجبتُ بك
+سأدفع ثمن كأس لك
+AFTER: لقد نلت إعجابي
+سأدفع ثمن كأس لك
+REASON: Rephrased 'لقد أعجبتُ بك' to 'لقد نلت إعجابي' to use gender-neutral phrasing for addressing the player character, as per style guide. 'لك' remains as generic masculine fallback.
+========== 419675
+JA: <chara_name>、憶えてる？
+BEFORE: <chara_name>، هل تتذكر؟
+AFTER: <chara_name>، هل تذكرت؟
+REASON: Changed present tense masculine verb to past tense to ensure gender-neutrality when addressing the player character, as per style guide.
+========== 419724
+JA: あんた、盗品の扱いに慣れてるな / 裏社会にも通じてるようだ
+BEFORE: أنت معتاد على التعامل مع المسروقات
+ويبدو أنك على صلة بالعالم السفلي
+AFTER: اعتدت على التعامل مع المسروقات
+ويبدو أنك على صلة بالعالم السفلي
+REASON: Changed 'أنت معتاد' to 'اعتدت' for gender-neutral phrasing when addressing the player (past tense verb spelling is identical for both genders).
+========== 419726
+JA: それに慣れすぎちまうと / 大事なもんをなくすことになるぜ
+BEFORE: إذا اعتدت على ذلك أكثر من اللازم
+فستفقد أشياءً مهمة
+AFTER: إذا اعتدت على ذلك أكثر من اللازم
+فسيؤدي ذلك إلى فقدانك أشياءً مهمة
+REASON: Rephrased 'فستفقد أشياءً مهمة' to 'فسيؤدي ذلك إلى فقدانك أشياءً مهمة' to use a verbal noun ('فقدانك') for gender-neutral phrasing when addressing the player.
+========== 419737
+JA: ほらな / いいことをするとご褒美があるもんだ
+BEFORE: أرأيت
+عندما تفعل شيئاً جيداً، تحصل على مكافأة
+AFTER: أرأيت
+عند فعل الخير، تكون هناك مكافأة
+REASON: Removed fatha from 'أرأيت' for gender-neutral spelling. Rephrased 'عندما تفعل شيئاً جيداً، تحصل على مكافأة' to 'عند فعل الخير، تكون هناك مكافأة' to avoid gendered present-tense verbs when addressing the player.
+========== 419842
+JA: あんた、町のことになると / 目の色変わるよね
+BEFORE: أنتِ، عندما يتعلق الأمر بالبلدة
+تتغير نظرتكِ تماماً
+AFTER: أنتَ، عندما يتعلق الأمر بالبلدة
+تتغير نظرتكَ تماماً
+REASON: The addressee is the player character, who must be addressed with gender-neutral phrasing (or generic masculine as a fallback). Changed feminine forms (أنتِ, نظرتكِ) to generic masculine (أنتَ, نظرتكَ).
+========== 419844
+JA: はいはい、ぶっ壊されて作り直したんだよね / えらいえらい！
+BEFORE: أجل أجل، لقد تم تحطيمه وإعادة بنائه
+أحسنتِ، أحسنتِ!
+AFTER: أجل أجل، لقد تم تحطيمه وإعادة بنائه
+أحسنتَ، أحسنتَ!
+REASON: The addressee is the player character, who must be addressed with gender-neutral phrasing (or generic masculine as a fallback). Changed feminine forms (أحسنتِ) to generic masculine (أحسنتَ).
+========== 419850
+JA: 何と答えますか？
+BEFORE: بماذا ستجيب؟
+AFTER: بماذا أجبت؟
+REASON: Changed present tense 'ستجيب' to past tense 'أجبت' for gender-neutrality when addressing the player character, as per style guide.
+========== 419861
+JA: アタシに子供をぶつけてくるとは / あんたも策士だね！
+BEFORE: أن تهاجميني بطفلكِ
+أنتِ أيضاً مخادعة!
+AFTER: أن تهاجم بطفلك،
+أنت أيضاً مخادع!
+REASON: Changed feminine forms ('تهاجميني', 'طفلكِ', 'أنتِ', 'مخادعة') to generic masculine ('تهاجم', 'طفلك', 'أنت', 'مخادع') for player-address gender-neutrality, as per style guide fallback.
+========== 419864
+JA: 言っとくけどアタシは / 町を襲う方の人間だったんだよ
+BEFORE: سأقول لكِ،
+لقد كنتُ من النوع الذي يهاجم البلدة.
+AFTER: سأقول لك،
+لقد كنتُ من النوع الذي يهاجم البلدة.
+REASON: Changed feminine 'لكِ' to generic masculine 'لك' for player-address gender-neutrality, as per style guide fallback.
+========== 419867
+JA: ……はぁ、おめでたいね
+BEFORE: ……آه، يا لكِ من متفائلة.
+AFTER: ……آه، يا لك من متفائل.
+REASON: Changed feminine 'لكِ من متفائلة' to generic masculine 'لك من متفائل' for player-address gender-neutrality, as per style guide fallback.
+========== 419871
+JA: は？　何言ってんの？ / これはアタシのためだから
+BEFORE: هاه؟ ماذا تقولين؟
+لقد فعلتُ هذا من أجلي أنا
+AFTER: هاه؟ ماذا تقول؟
+لقد فعلتُ هذا من أجلي أنا
+REASON: Changed feminine 'تقولين' to generic masculine 'تقول' for player-address gender-neutrality, as per style guide fallback.
+========== 419879
+JA: 手持ちの石は全部使ってしまった / 巨大精霊石は助手が保管している
+BEFORE: لقد استُخدمت كل الأحجار التي كانت معي
+حجر الروح العملاق تحتفظ به المساعدة
+AFTER: لقد استخدمتُ كل الأحجار التي كانت معي
+حجر الروح العملاق يحتفظ به المساعد
+REASON: Corrected 'استُخدمت' (passive) to 'استخدمتُ' (active, I used) to match the Japanese active voice. Corrected 'المساعدة' (female assistant) to 'المساعد' (generic masculine assistant) and 'تحتفظ به' (feminine verb) to 'يحتفظ به' (masculine verb) to maintain gender neutrality for the player character (the assistant).
+========== 419929
+JA: 今、ちょっとだけ笑ったよな？
+BEFORE: لقد ضحكتَ قليلاً الآن، أليس كذلك؟
+AFTER: لقد ضحكتْ قليلاً الآن، أليس كذلك؟
+REASON: Mistranslation of subject gender. Japanese `笑った` is gender-neutral for past tense, but context (Laurana just chuckled and left) and EN text suggest it refers to Laurana (female), not the player character. Changed `ضحكتَ` (masc. you) to `ضحكتْ` (fem. she).

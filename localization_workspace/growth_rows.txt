@@ -1,0 +1,515 @@
+==================== 417974
+JA: ふっ……そうね
+ここで死ぬわけにはいかないの
+EN: I suppose you're right.
+It wouldn't do for me to die here.
+BEFORE: هه…… صحيح
+AFTER: هه…… صحيح.
+لا يمكنني أن أموت هنا.
+REASON: Missing the second part of the Japanese sentence: 'ここで死ぬわけにはいかないの' (It wouldn't do for me to die here).
+
+==================== 417978
+JA: ごめんなさい
+人違いだったみたい……お互いにね
+EN: I apologize. It seems both you
+and I had the wrong person.
+BEFORE: أعتذر
+AFTER: أعتذر.
+يبدو أننا أخطأنا الشخص…… كلانا.
+REASON: Missing the second part of the Japanese sentence: '人違いだったみたい……お互いにね' (It seems both you and I had the wrong person). Also added the ellipsis.
+
+==================== 417980
+JA: 人を捜しているの
+……カラスの入れ墨の男をね
+EN: I'm searching for someone.
+Someone with the mark of the crow.
+BEFORE: أبحث عن شخصٍ ما
+AFTER: أبحث عن شخصٍ ما……
+رجل بوشم غراب.
+REASON: Missing the second part of the Japanese sentence: '……カラスの入れ墨の男をね' (Someone with the mark of the crow). Also added the ellipsis.
+
+==================== 418015
+JA: 瓦礫を片付けたおかげで
+石材は十分にあるから……
+EN: The rubble provided us with plenty
+of stone, but we don't have any
+lumber.
+BEFORE: بفضل إزالة الأنقاض
+AFTER: بفضل إزالة الأنقاض، لدينا ما يكفي من الحجارة……
+REASON: Incomplete translation: The sentence was incomplete; added 'لدينا ما يكفي من الحجارة' to reflect the Japanese source's meaning.
+
+==================== 418018
+JA: うん、大丈夫……
+建築の基礎は父さんにしっかり教わってる
+EN: Yeah, I can do this... Pops taught
+me all about building a strong
+foundation.
+BEFORE: أجل، لا بأس……
+AFTER: أجل، لا بأس……
+لقد تعلمتُ أساسيات البناء جيداً من والدي.
+REASON: Missing sentence: Added 'لقد تعلمتُ أساسيات البناء جيداً من والدي.' to translate '建築の基礎は父さんにしっかり教わってる' (Pops taught me all about building a strong foundation).
+
+==================== 418031
+JA: ちっと飲みすぎたかな……？
+ウィッシュベールの子供らの幻が……
+EN: Must be drinking too much...
+I'm seeing the ghosts of Wishvale's
+little ones...
+BEFORE: هل شربتُ أكثر من اللازم قليلاً……؟
+AFTER: هل شربتُ أكثر من اللازم قليلاً……؟ أرى أشباح أطفال ويشفيل……
+REASON: Completed the translation, which was missing the second part of the Japanese text: 'ウィッシュベールの子供らの幻が……' (The ghosts of Wishvale's little ones...).
+
+==================== 418032
+JA: 幻じゃないですよ！
+<chara_name>とスティアです！
+EN: We're not ghosts! It's Stia and
+<chara_name>!
+BEFORE: ليس هذا خيالاً!
+AFTER: ليس هذا خيالاً! إنها <chara_name> وستيا!
+REASON: Completed the translation, which was missing the second part of the Japanese text: '<chara_name>とスティアです！' (It's Stia and <chara_name>!).
+
+==================== 418034
+JA: 生きてたんだなぁ、お前たち……
+いやぁ……大きくなって……
+EN: You're alive...and you're so much
+bigger than I remember...
+BEFORE: لقد كبرتم حقاً……
+AFTER: لقد كنتم أحياءً، أنتما الاثنان…… لقد كبرتم حقاً……
+REASON: Completed the translation, which was missing the first part of the Japanese text: '生きてたんだなぁ、お前たち……' (You're alive, you guys...). Used dual form 'أنتما الاثنان' for clarity.
+
+==================== 418124
+JA: 頼んだぜ！
+川豆やるからさ
+EN: I'll give you some river beans if
+you can take care of this for us!
+BEFORE: اعتمدتُ عليك!
+AFTER: اعتمدتُ عليك! سأعطيك بعض حبوب النهر.
+REASON: Mistranslation: The second part of the Japanese sentence "川豆やるからさ" (I'll give you some river beans) was omitted.
+
+==================== 418130
+JA: リーヴェン王たちのおかげで
+生活に必要な物は揃うようになってきたよ
+EN: I'm happy to say that I've got everything
+I need thanks to the King of Riven and
+his friends.
+BEFORE: بفضل الملك ليفين ورفاقه،
+AFTER: بفضل ملك ريفن ورفاقه، أصبحت الأشياء الضرورية للحياة متوفرة.
+REASON: Corrected for completeness; the original Arabic only translated the first clause of the Japanese sentence, omitting the second clause about necessities becoming available.
+
+==================== 418439
+JA: 無理は禁物です
+<chara_name>さんならどうしますか？
+EN: You mustn't overestimate yourself.
+What do you think she should do,
+<chara_name>?
+BEFORE: لا يجب الإفراط في الجهد.
+AFTER: لا يجب الإفراط في الجهد. ماذا كنتَ لتفعل يا <chara_name>؟
+REASON: Added the missing second part of the Japanese sentence, including the placeholder and using gender-neutral phrasing for the player character.
+
+==================== 418450
+JA: ……わかりました
+では、体の内側から温めましょう
+EN: Fine. Then we'll have to warm you
+up from the inside instead.
+BEFORE: ……فهمت
+AFTER: ……فهمت.
+إذن، لندفئك من الداخل.
+REASON: Incomplete translation; added the missing part and preserved line break.
+
+==================== 418451
+JA: このお茶をどうぞ
+<chara_name>さんもいかがですか？
+EN: Here, have some tea.
+Would you like some as well,
+<chara_name>?
+BEFORE: تفضل بهذا الشاي
+AFTER: تفضلي بهذا الشاي.
+وماذا عنك يا <chara_name>؟
+REASON: Incomplete translation; corrected gender for the first addressee (female), used gender-neutral phrasing for the player character, and preserved line break.
+
+==================== 418453
+JA: 体が燃えるように熱い！
+じっとしてなどいられない！
+EN: I feel like I'm on fire! I can't sit still
+like this!
+BEFORE: جسدي يحترق من الحرارة!
+AFTER: جسدي يحترق من الحرارة!
+لا أستطيع البقاء ساكنة!
+REASON: Incomplete translation; added the missing part, preserved line break, and ensured gender agreement for the speaker.
+
+==================== 418521
+JA: ……俺かい？
+いや、俺はもう海に出ない
+EN: With my help? Oh no, I'll never go
+to sea again.
+BEFORE: ……أنا؟
+AFTER: ……أنا؟
+لا، لن أذهب إلى البحر بعد الآن.
+REASON: Missing translation for the second part of the sentence and missing line break.
+
+==================== 418646
+JA: “豪胆”か……
+たしかに怪しい密談に応じるような人物だ
+EN: "Bold," you say? He does seem the
+type to attract dubious rumors.
+BEFORE: "شجاعة"……
+AFTER: «جرأة»…… إنه بالفعل من النوع الذي يستجيب للمحادثات السرية المشبوهة.
+REASON: Translation was incomplete and 'شجاعة' was not the best fit for 'bold' in this context; changed to 'جرأة' and completed the sentence.
+
+==================== 418647
+JA: 知識と経験……
+そして腕に自信があればこそだ
+EN: He has both knowledge and experience,
+as well as the confidence to back them up.
+BEFORE: المعرفة والخبرة……
+AFTER: المعرفة والخبرة…… وهذا بفضل ثقته بقدراته.
+REASON: Translation was incomplete; completed the sentence.
+
+==================== 418648
+JA: そのうえ商魂たくましい！
+普通にリンゴ売りながら来たらしいぜ
+EN: And he's a sly merchant to boot!
+I hear he's been selling apples along
+the way.
+BEFORE: علاوة على ذلك، لديه طموح تجاري كبير!
+AFTER: علاوة على ذلك، لديه طموح تجاري كبير! ويقال إنه جاء وهو يبيع التفاح في طريقه.
+REASON: Translation was incomplete; completed the sentence.
+
+==================== 418650
+JA: あのような方が王なら……
+民も幸せなのだろうか
+EN: The people of Altinia must be
+happy to live under such a king.
+BEFORE: إذا كان شخصٌ كهذا هو الملك……
+AFTER: إذا كان شخصٌ كهذا هو الملك…… فهل سيكون الشعب سعيدًا أيضًا؟
+REASON: Translation was incomplete; completed the sentence.
+
+==================== 418663
+JA: ウィッシュベールが襲われた後……
+２人でみんなのお墓を作ったの
+EN: After the attack on Wishvale,
+we built graves for everyone that
+we lost.
+BEFORE: بعد أن تعرضت ويشفيل للهجوم……
+AFTER: بعد أن تعرضت ويشفيل للهجوم…… قمنا نحن الاثنان ببناء قبور للجميع.
+REASON: Translation was incomplete; completed the sentence.
+
+==================== 418666
+JA: 一緒に逃げてたんだ
+でも……緋翼兵に見つかって……
+EN: We were fleeing together, but the
+Scarlet Wings caught up to us.
+BEFORE: كنا نهرب معًا
+AFTER: كنا نهرب معًا
+لكن…… جنود الأجنحة القرمزية عثروا علينا……
+REASON: Translation was incomplete; added the missing part, preserved line break, and corrected ellipsis count.
+
+==================== 418668
+JA: ネルムの傷は深くて……
+俺の腕の中で……息を引き取った……
+EN: Nellum's wounds were too deep.
+She died in my arms.
+BEFORE: جرح نيرم كان عميقاً……
+AFTER: جرح نيلوم كان عميقًا……
+وفي ذراعي…… لفظت أنفاسها الأخيرة……
+REASON: Translation was incomplete; corrected transliteration of 'Nellum' from 'نيرم' to 'نيلوم'; completed the sentence, preserved line break, and corrected ellipsis count; removed unnecessary harakat.
+
+==================== 418669
+JA: 最期にあいつは言ったんだ
+“ルータス、あなたは生きて”……
+EN: Her last words to me were,
+"Lutus, you have to live for me..."
+BEFORE: قال ذلك في لحظاته الأخيرة
+AFTER: في لحظاتها الأخيرة، قالت:
+"لوتوس، عليك أن تعيش"……
+REASON: Gender mismatch: 'قال' (he said) and 'لحظاته' (his moments) were incorrect; changed to 'قالت' (she said) and 'لحظاتها' (her moments); completed the translation by adding the quoted dialogue; preserved line break and corrected ellipsis count.
+
+==================== 418691
+JA: ……でも、必ず取り戻す
+それまで待っててくれないか
+EN: But I will get it back. Can you wait
+just a while longer, until I do?
+BEFORE: ……لكن، سأستعيدها بالتأكيد
+AFTER: ……لكن، سأستعيدها بالتأكيد
+ألا يمكنكما الانتظار حتى ذلك الحين؟
+REASON: Translated the missing second part of the sentence and ensured dual address for the two listeners.
+
+==================== 418693
+JA: ねえ、<chara_name>
+あたしたちに何かできないかな？
+EN: Hey, do you think there's any way
+we can help him?
+BEFORE: مهلاً، <chara_name>
+AFTER: مهلاً، <chara_name>
+هل يمكننا مساعدته؟
+REASON: Translated the missing second part of the sentence, matching en_text.
+
+==================== 418695
+JA: いたたたた……
+なんて強いヤツだ……
+EN: Owww...!
+That's enough, you brute!
+BEFORE: آآآآه……
+AFTER: آآآآه……
+يا لك من وحشي……
+REASON: Translated the missing second part of the sentence and adjusted ellipsis count to match ja_text.
+
+==================== 418696
+JA: あのペンダントならもう売っ払ったぞ
+貴族のベンノ様にな
+EN: That pendant? I already sold it to
+Master Benno, the nobleman.
+BEFORE: لقد بعتُ تلك القلادة بالفعل
+AFTER: لقد بعتُ تلك القلادة بالفعل
+للسيد بينو النبيل.
+REASON: Translated the missing information about who the pendant was sold to. Transliterated 'Benno' as 'بينو'.
+
+==================== 418858
+JA: カランさんは罠猟が得意だったよな
+大牙イノシシを獲ってみんなで分けたり……
+EN: You were a great hunter, Karan.
+You used to take down those wild
+boars and share it with everyone.
+BEFORE: لقد كنت بارعًا في صيد الفخاخ، أليس كذلك؟
+AFTER: لقد كنت بارعًا في صيد الفخاخ، أليس كذلك؟
+كنت تصطاد الخنازير البرية ذات الأنياب الكبيرة وتتقاسمها مع الجميع……
+REASON: Missing translation for the second clause '大牙イノシシを獲ってみんなで分けたり……' (like catching large-tusked boars and sharing them with everyone). Added the missing content.
+
+==================== 418860
+JA: キャラベルが……
+<favorite_dish_name>が食べたいって言うんだ
+EN: Carabell is saying she wants some
+<favorite_dish_name>.
+BEFORE: تقول كاريال إنها……
+AFTER: تقول كارابل إنها……
+تريد أن تأكل <favorite_dish_name>
+REASON: Transliteration inconsistency for 'Carabell' (was 'كيارابل', corrected to 'كارابل' for consistency). Also, the second part of the sentence '<favorite_dish_name>が食べたいって言うんだ' (she wants to eat <favorite_dish_name>) was missing. Added the missing content.
+
+==================== 418862
+JA: 故郷を思い出させたくないのに
+料理を食べさせてやりたくて……
+EN: I don't want to remind her of home,
+but I want to give her a taste of that
+old familiar cooking...
+BEFORE: لا أريد تذكيره بوطنه
+AFTER: لا أريد تذكيرها بوطنها
+ولكنني أرغب في إطعامها ذلك الطبق……
+REASON: Pronoun error: 'تذكيره' (remind him) was incorrect, changed to 'تذكيرها' (remind her) as the subject is Carabell. Also, the second clause '料理を食べさせてやりたくて……' (but I want to let her eat the food...) was missing. Added the missing content.
+
+==================== 418863
+JA: ……矛盾しているよね
+何が最善か私には分からないんだ
+EN: Doesn't make sense, does it? I really
+don't know what's best anymore.
+BEFORE: ……هذا متناقض، أليس كذلك؟
+AFTER: ……هذا متناقض، أليس كذلك؟
+لم أعد أعرف ما هو الأفضل
+REASON: Missing translation for the second clause '何が最善か私には分からないんだ' (I don't know what's best anymore). Added the missing content.
+
+==================== 418868
+JA: 俺作ったことねぇんだけど
+<chara_name>は作れるか？
+EN: I've never made <favorite_dish_name>,
+though... How about you?
+BEFORE: لم أصنع شيئاً كهذا من قبل
+AFTER: لم أصنع شيئاً كهذا من قبل
+لكن هل يمكنك أنت يا <chara_name>؟
+REASON: Missing translation for the second clause '<chara_name>は作れるか？' (Can <chara_name> make it?). Added the missing question, using generic masculine 'يمكنك' as a fallback for the player character's gender-neutral address.
+
+==================== 419129
+JA: 貴族に取り入ってその家を支配した後……
+領民まで奴隷にして売ったらしい
+EN: They say he found his way into some
+noble family and gained control of their
+house, then sold everyone into slavery.
+BEFORE: بعد أن تودد إلى النبلاء وسيطر على تلك العائلة……
+AFTER: بعد أن تودد إلى النبلاء وسيطر على تلك العائلة……
+يقال إنه باع حتى أهل القرية كعبيد.
+REASON: Missing translation for the second part of the Japanese sentence.
+
+==================== 419133
+JA: 奴隷商人どもが話していた……
+中つ海の小さな島を隠れ家にしていると
+EN: I heard the other slave traders say
+he has a hideout on a small island
+in the Middlesea.
+BEFORE: كان تجار العبيد يتحدثون……
+AFTER: كان تجار العبيد يتحدثون……
+أنه يتخذ جزيرة صغيرة في البحر الأوسط مخبأً له.
+REASON: Missing translation for the second part of the Japanese sentence.
+
+==================== 419135
+JA: ……行くよ
+クソ親父の顔を見にね
+EN: I'm going to see my bastard of
+a father, obviously.
+BEFORE: ……سأذهب
+AFTER: ……سأذهب
+لأرى وجه أبي اللعين.
+REASON: Missing translation for the second part of the Japanese sentence.
+
+==================== 419187
+JA: “取引は対等に”がおらの信条だ
+どっちかが損する関係は良くねえからな
+EN: A deal has to be fair and square, as
+I always say! It ain't right for one side
+to benefit more than the other.
+BEFORE: "المساواة في التعامل" هي مبدئي
+AFTER: «المساواة في التعامل» هي مبدئي. فالعلاقة التي يخسر فيها أحد الطرفين ليست جيدة.
+REASON: Completed the translation to include the second part of the sentence: 'It ain't right for one side to benefit more than the other.'
+
+==================== 419192
+JA: わかってるって
+自分たちの力でやりたいんだべ？
+EN: I know, I know. You wanna put it
+back together with your own two
+hands, right?
+BEFORE: أعرف ذلك
+AFTER: أعرف ذلك. أتريد أن تفعلها بقوتك الخاصة، أليس كذلك؟
+REASON: Completed the translation to include the second part of the sentence: 'You wanna put it back together with your own two hands, right?'
+
+==================== 419193
+JA: そういうとこだべなぁ
+みんなに信頼されてんのは
+EN: That kind of attitude is exactly why
+everyone trusts you so much.
+BEFORE: هذا هو الأمر بالضبط
+AFTER: هذا هو الأمر بالضبط. لهذا يثق بك الجميع.
+REASON: Completed the translation to include the second part of the sentence: 'That kind of attitude is exactly why everyone trusts you so much.'
+
+==================== 419447
+JA: お前と共に旅をすることで
+共闘を学ぶことができた
+EN: This journey has taught me
+how to relyen on others.
+BEFORE: بفضل السفر معك،
+AFTER: بفضل السفر معك،
+تمكنت من تعلم التعاون
+REASON: Completed the translation of the full Japanese sentence and preserved line break.
+
+==================== 419574
+JA: 修行というか……
+毎日が実戦だった
+EN: I don't know if I'd call it training,
+but I did have to use my bow every
+single day.
+BEFORE: كان الأمر أشبه بالتدريب……
+AFTER: كان الأمر أشبه بالتدريب…… بل كانت كل يوم معركة حقيقية.
+REASON: Omission: The second part of the Japanese sentence was missing. Added 'بل كانت كل يوم معركة حقيقية.' (rather, every day was a real battle).
+
+==================== 419576
+JA: 村を守るため
+戦える者は皆、弓を取る
+EN: So all the able-bodied villagers
+took up the bow in defense.
+BEFORE: من أجل حماية القرية
+AFTER: من أجل حماية القرية، حمل كل القادرين على القتال القوس.
+REASON: Omission: The second part of the Japanese sentence was missing. Added 'حمل كل القادرين على القتال القوس.' (all who could fight took up bows).
+
+==================== 419577
+JA: 素早く正確に矢を射続けなければ
+サシガメの侵入を許してしまう
+EN: You had to learn to be quick and
+accurate, else the bugs would slip
+by you.
+BEFORE: إذا لم تستمر في إطلاق السهام بسرعة ودقة
+AFTER: إذا لم تستمر في إطلاق السهام بسرعة ودقة، فستسمح لبق الساشيغامي بالتوغل.
+REASON: Omission: The second part of the Japanese sentence (the consequence) was missing. Added 'فستسمح لبق الساشيغامي بالتوغل.' (you would allow the assassin bugs to invade). Also corrected 'ذبابة الساشيغامي' to 'بق الساشيغامي'.
+
+==================== 419578
+JA: 村を守りたいという強い気持ちが
+私を一人前の狩人にした
+EN: That's why I became a hunter.
+Because I was determined to
+protect my village.
+BEFORE: الرغبة القوية في حماية القرية
+AFTER: الرغبة القوية في حماية القرية هي ما جعلتني صيادة ماهرة.
+REASON: Omission: The second part of the Japanese sentence was missing. Added 'هي ما جعلتني صيادة ماهرة.' (is what made me a skilled huntress). Ensured female speaker (Delitia) is reflected.
+
+==================== 419581
+JA: そうか
+では、これから繕い物はお前に頼む
+EN: Yeah, you're right. I'll leave the
+sewing to you from now on, then!
+BEFORE: أرى ذلك
+AFTER: أرى ذلك. إذاً، سأترك لكَ مهمة إصلاح الملابس من الآن فصاعداً!
+REASON: Omission: The second part of the Japanese sentence was missing. Added 'إذاً، سأترك لكَ مهمة إصلاح الملابس من الآن فصاعداً!' (Then, I'll leave the task of mending clothes to you from now on!). Used generic masculine 'لكَ' for player character.
+
+==================== 419583
+JA: ありがとうございます
+私も作業に集中することができますよ
+EN: Thank you. That will allow me to
+focus on what I do best, in turn.
+BEFORE: شكراً لكِ
+AFTER: شكراً لكِ. سأتمكن أنا أيضاً من التركيز على عملي.
+REASON: Omission: The second part of the Japanese sentence was missing. Added 'سأتمكن أنا أيضاً من التركيز على عملي.' (I will also be able to concentrate on my work).
+
+==================== 419587
+JA: そんなことでいいなら
+確かに私は料理が得意だ！
+EN: If that's all it takes to be a good
+cook, then sure, I can do that!
+BEFORE: إذا كان هذا الأمر كافيًا
+AFTER: إذا كان هذا الأمر كافيًا، فأنا بالفعل بارعة في الطهي!
+REASON: Omission: The second part of the Japanese sentence was missing. Added 'فأنا بالفعل بارعة في الطهي!' (then indeed, I am skilled at cooking!). Ensured female speaker (Delitia) is reflected.
+
+==================== 419692
+JA: チョウチョを追いかけて
+夢中で網を振り回して……
+EN: I think we were chasing a butterfly,
+swinging our nets without paying
+attention to what was around us.
+BEFORE: طارد الفراشات
+AFTER: كنا نطارد الفراشات ونلوّح بالشبكات بحماس……
+REASON: Mistranslation: The original Arabic was an incomplete imperative. Corrected to reflect the full meaning of 'we were chasing butterflies, swinging our nets' from the Japanese and English, and added missing ellipsis.
+
+==================== 419696
+JA: ユーシアさんに怒られました
+“周りをよく見なさい”って
+EN: Yusia was so angry with us. She said
+we needed to be more careful of the
+people and things around us.
+BEFORE: لقد غضبت مني السيدة يوشيا
+AFTER: لقد غضبتْ منا السيدة يوشيا قائلةً: "انظرا جيداً إلى ما حولكما"
+REASON: Incomplete translation: The original Arabic omitted the quoted speech from Yusia. Added the full quote, using dual imperative 'انظرا' for the two children, and corrected 'مني' to 'منا' for 'at us'.
+
+==================== 419698
+JA: そのあと、みんなで
+<favorite_dish_name>食べたよね
+EN: After that, we sat down to eat.
+<favorite_dish_name>, I think it was.
+BEFORE: بعد ذلك، أكلنا جميعاً
+AFTER: بعد ذلك، أكلنا جميعاً <favorite_dish_name>.
+REASON: Missing placeholder `<favorite_dish_name>` from the original Japanese text. Added it and adjusted punctuation.
+
+==================== 419831
+JA: 神官は心を癒やし
+薬師は病を治します
+EN: Just as clerics soothe the soul,
+so do apothecaries heal the body.
+BEFORE: الكاهن يداوي القلوب
+AFTER: الكاهن يداوي القلوب،
+والصيدلي يعالج الأمراض.
+REASON: The original Arabic was an incomplete sentence and missed the second part of the JA text, as well as the line break. Completed the sentence and restored the line break to match the JA structure.
+
+==================== 419834
+JA: 目の前の患者を救い続けていれば
+君の理想とする薬師になれるでしょう
+EN: Continue to save those in front
+of you, and you'll live up to your
+ideals in time.
+BEFORE: إذا استمررت في إنقاذ المرضى أمامك
+AFTER: إذا استمررت في إنقاذ المرضى أمامك،
+فستصبح الصيدلي الذي تطمح إليه.
+REASON: The original Arabic was an incomplete sentence and missed the second part of the JA text, as well as the line break. Completed the sentence and restored the line break to match the JA structure.
+
+==================== 419835
+JA: ……はい、努力します！
+父さんみたいな薬師になれるように！
+EN: Thank you! I'll do my best to be
+a great apothecary like my father!
+BEFORE: ……نعم، سأبذل قصارى جهدي!
+AFTER: ……نعم، سأبذل قصارى جهدي!
+لأصبح صيدلياً مثل والدي!
+REASON: The original Arabic was an incomplete sentence and missed the second part of the JA text, as well as the line break. Completed the sentence and restored the line break to match the JA structure.
+

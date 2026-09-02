@@ -1,0 +1,42 @@
+--- 161014 ---
+ja_text: 'スフラタルジャ様式の施設が\n建てられるようになる'
+en_text: 'Plans for a Sufrataljah-style building.'
+ar_text_before: 'أصبح من الممكن بناء مرافق على طراز سفلارالجا'
+ar_text: 'أصبح من الممكن بناء مرافق على طراز سفراتالجا'
+reason: "Corrected transliteration of 'Sufrataljah' from 'سفلارالجا' to 'سفراتالجا' for accuracy with EN source."
+
+--- 173103 ---
+ja_text: 'そのまま食べても\nHPが回復しない品種のブドウ。\n料理の素材になる'
+en_text: "Grapes that don't heal HP when eaten raw. Used for cooking."
+ar_text_before: 'نوع من العنب لا يستعيد نقاط الصحة (HP) عند أكله كما هو.'
+ar_text: 'نوع من العنب لا يستعيد نقاط الصحة (HP) عند أكله كما هو.\nيُستخدم في الطهي.'
+reason: "The original Arabic translation omitted the third part of the Japanese source ('Used as a cooking ingredient') and did not preserve the newline character. Corrected to include both parts and the line break."
+
+--- 174104 ---
+ja_text: '10本の脚が特徴的な海の生きもの。\n料理の素材になる'
+en_text: 'A unique ten-legged sea creature. Used for cooking.'
+ar_text_before: 'كائن بحري يتميز بأرجله العشرة.'
+ar_text: 'كائن بحري يتميز بأرجله العشرة. يستخدم في الطهي.'
+reason: 'The phrase `料理の素材になる` (Used for cooking.) was missing from the Arabic translation. Added `يستخدم في الطهي.` to complete the description.'
+
+--- 174105 ---
+ja_text: 'オルステラでなぜか特別視される\n８本脚の海の生きもの。\n料理の素材になる'
+en_text: 'An eight-legged sea creature for which Orsterrans oddly hold special regard. Used for cooking.'
+ar_text_before: 'كائن بحري بثماني أرجل يُنظر إليه لسبب ما ككائن مميز.'
+ar_text: 'كائن بحري بثماني أرجل يُنظر إليه لسبب ما ككائن مميز. يستخدم في الطهي.'
+reason: 'The phrase `料理の素材になる` (Used for cooking.) was missing from the Arabic translation. Added `يستخدم في الطهي.` to complete the description.'
+
+--- 301158 ---
+ja_text: '<Param_State>\n装備効果：毎ターンHP200/SP８回復'
+en_text: '<Param_State>\nEquip effect: Restore 200 HP/8 SP every turn.'
+ar_text_before: '<Param_State>'
+ar_text: '<Param_State>\nتأثير التجهيز: استعادة 200 نقطة صحة (HP) و 8 نقاط مهارة (SP) في كل دور.'
+reason: 'Missing translation for the effect description; translated from Japanese source and applied glossary terms for HP/SP.'
+
+--- 300817 ---
+ja_text: '<Param_State>\n装備効果：毎ターン自身の最大SPの\n３％分のSPを失う'
+en_text: '<Param_State>\nEquip effect: Lose SP equal to 3% of own max SP every turn.'
+ar_text_before: '<Param_State>'
+ar_text: '<Param_State>\nتأثير التجهيز: تخسر نقاط مهارة تعادل 3% من نقاط مهارتك القصوى في كل دور.'
+reason: 'Arabic translation was incomplete, only preserving the placeholder tag. Added the full effect description and line breaks.'
+

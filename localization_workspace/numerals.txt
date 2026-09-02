@@ -1,0 +1,912 @@
+IDX 2 ID 301524 JA:消費SP：13
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 13
+<item_skill_explanation>
+
+IDX 3 ID 301525 JA:消費SP：19
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 19
+<item_skill_explanation>
+
+IDX 4 ID 301526 JA:消費SP：16
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 16
+<item_skill_explanation>
+
+IDX 5 ID 301527 JA:消費SP：30
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 30
+<item_skill_explanation>
+
+IDX 7 ID 301529 JA:消費SP：30
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 30
+<item_skill_explanation>
+
+IDX 12 ID 301534 JA:消費SP：15
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 15
+<item_skill_explanation>
+
+IDX 15 ID 301537 JA:消費SP：30
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 30
+<item_skill_explanation>
+
+IDX 17 ID 301539 JA:消費SP：10
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 10
+<item_skill_explanation>
+
+IDX 20 ID 301562 JA:消費SP：18
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 18
+<item_skill_explanation>
+
+IDX 21 ID 301563 JA:消費SP：35
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 35
+<item_skill_explanation>
+
+IDX 22 ID 301564 JA:消費SP：28
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 28
+<item_skill_explanation>
+
+IDX 23 ID 301565 JA:消費SP：34
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 34
+<item_skill_explanation>
+
+IDX 24 ID 301566 JA:消費SP：18
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 18
+<item_skill_explanation>
+
+IDX 25 ID 301567 JA:消費SP：35
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 35
+<item_skill_explanation>
+
+IDX 26 ID 301568 JA:消費SP：35
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 35
+<item_skill_explanation>
+
+IDX 28 ID 301570 JA:消費SP：32
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 32
+<item_skill_explanation>
+
+IDX 31 ID 301573 JA:消費SP：15
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 15
+<item_skill_explanation>
+
+IDX 33 ID 301575 JA:消費SP：30
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 30
+<item_skill_explanation>
+
+IDX 34 ID 301576 JA:消費SP：35
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 35
+<item_skill_explanation>
+
+IDX 35 ID 301577 JA:消費SP：30
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 30
+<item_skill_explanation>
+
+IDX 36 ID 301578 JA:消費SP：18
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 18
+<item_skill_explanation>
+
+IDX 37 ID 301579 JA:消費SP：30
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 30
+<item_skill_explanation>
+
+IDX 38 ID 301580 JA:消費SP：32
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 32
+<item_skill_explanation>
+
+IDX 39 ID 301581 JA:消費SP：58
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 58
+<item_skill_explanation>
+
+IDX 40 ID 301582 JA:消費SP：14
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 14
+<item_skill_explanation>
+
+IDX 41 ID 301583 JA:消費SP：18
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 18
+<item_skill_explanation>
+
+IDX 42 ID 301584 JA:消費SP：50
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 50
+<item_skill_explanation>
+
+IDX 43 ID 301585 JA:消費SP：36
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 36
+<item_skill_explanation>
+
+IDX 44 ID 301586 JA:消費SP：13
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 13
+<item_skill_explanation>
+
+IDX 45 ID 301587 JA:消費SP：14
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 14
+<item_skill_explanation>
+
+IDX 46 ID 301588 JA:消費SP：28
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 28
+<item_skill_explanation>
+
+IDX 47 ID 301589 JA:消費SP：55
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 55
+<item_skill_explanation>
+
+IDX 48 ID 301590 JA:消費SP：12
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 12
+<item_skill_explanation>
+
+IDX 49 ID 301591 JA:消費SP：30
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 30
+<item_skill_explanation>
+
+IDX 50 ID 301592 JA:消費SP：30
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 30
+<item_skill_explanation>
+
+IDX 52 ID 301594 JA:消費SP：26
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 26
+<item_skill_explanation>
+
+IDX 53 ID 301595 JA:消費SP：21
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 21
+<item_skill_explanation>
+
+IDX 54 ID 301596 JA:消費SP：29
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 29
+<item_skill_explanation>
+
+IDX 55 ID 301597 JA:消費SP：14
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 14
+<item_skill_explanation>
+
+IDX 56 ID 301598 JA:消費SP：30
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 30
+<item_skill_explanation>
+
+IDX 57 ID 301599 JA:消費SP：36
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 36
+<item_skill_explanation>
+
+IDX 58 ID 301600 JA:消費SP：28
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 28
+<item_skill_explanation>
+
+IDX 59 ID 301601 JA:消費SP：50
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 50
+<item_skill_explanation>
+
+IDX 60 ID 301602 JA:消費SP：14
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 14
+<item_skill_explanation>
+
+IDX 61 ID 301603 JA:消費SP：22
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 22
+<item_skill_explanation>
+
+IDX 62 ID 301604 JA:消費SP：34
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 34
+<item_skill_explanation>
+
+IDX 64 ID 301606 JA:消費SP：18
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 18
+<item_skill_explanation>
+
+IDX 65 ID 301607 JA:消費SP：30
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 30
+<item_skill_explanation>
+
+IDX 66 ID 301608 JA:消費SP：27
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 27
+<item_skill_explanation>
+
+IDX 67 ID 301609 JA:消費SP：28
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 28
+<item_skill_explanation>
+
+IDX 68 ID 301610 JA:消費SP：21
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 21
+<item_skill_explanation>
+
+IDX 69 ID 301611 JA:消費SP：43
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 43
+<item_skill_explanation>
+
+IDX 70 ID 301612 JA:消費SP：14
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 14
+<item_skill_explanation>
+
+IDX 71 ID 301613 JA:消費SP：22
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 22
+<item_skill_explanation>
+
+IDX 72 ID 301614 JA:消費SP：29
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 29
+<item_skill_explanation>
+
+IDX 74 ID 301616 JA:消費SP：12
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 12
+<item_skill_explanation>
+
+IDX 75 ID 301617 JA:消費SP：16
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 16
+<item_skill_explanation>
+
+IDX 76 ID 301618 JA:消費SP：31
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 31
+<item_skill_explanation>
+
+IDX 77 ID 301619 JA:消費SP：15
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 15
+<item_skill_explanation>
+
+IDX 78 ID 301620 JA:消費SP：25
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 25
+<item_skill_explanation>
+
+IDX 79 ID 301621 JA:消費SP：30
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 30
+<item_skill_explanation>
+
+IDX 80 ID 301622 JA:消費SP：27
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 27
+<item_skill_explanation>
+
+IDX 81 ID 301623 JA:消費SP：30
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 30
+<item_skill_explanation>
+
+IDX 82 ID 301624 JA:消費SP：12
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 12
+<item_skill_explanation>
+
+IDX 83 ID 301625 JA:消費SP：18
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 18
+<item_skill_explanation>
+
+IDX 84 ID 301626 JA:消費SP：36
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 36
+<item_skill_explanation>
+
+IDX 85 ID 301627 JA:消費SP：34
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 34
+<item_skill_explanation>
+
+IDX 86 ID 301628 JA:消費SP：60
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 60
+<item_skill_explanation>
+
+IDX 87 ID 301629 JA:消費SP：45
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 45
+<item_skill_explanation>
+
+IDX 88 ID 301630 JA:消費SP：17
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 17
+<item_skill_explanation>
+
+IDX 89 ID 301631 JA:消費SP：11
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 11
+<item_skill_explanation>
+
+IDX 90 ID 301632 JA:消費SP：11
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 11
+<item_skill_explanation>
+
+IDX 91 ID 301633 JA:消費SP：35
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 35
+<item_skill_explanation>
+
+IDX 92 ID 301634 JA:消費SP：22
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 22
+<item_skill_explanation>
+
+IDX 94 ID 301636 JA:消費SP：12
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 12
+<item_skill_explanation>
+
+IDX 95 ID 301637 JA:消費SP：30
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 30
+<item_skill_explanation>
+
+IDX 96 ID 301638 JA:消費SP：39
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 39
+<item_skill_explanation>
+
+IDX 97 ID 301639 JA:消費SP：54
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 54
+<item_skill_explanation>
+
+IDX 98 ID 301640 JA:消費SP：13
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 13
+<item_skill_explanation>
+
+IDX 99 ID 301641 JA:消費SP：42
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 42
+<item_skill_explanation>
+
+IDX 100 ID 301642 JA:消費SP：26
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 26
+<item_skill_explanation>
+
+IDX 101 ID 301643 JA:消費SP：11
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 11
+<item_skill_explanation>
+
+IDX 102 ID 301644 JA:消費SP：11
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 11
+<item_skill_explanation>
+
+IDX 103 ID 301645 JA:消費SP：22
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 22
+<item_skill_explanation>
+
+IDX 104 ID 301646 JA:消費SP：16
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 16
+<item_skill_explanation>
+
+IDX 105 ID 301647 JA:消費SP：22
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 22
+<item_skill_explanation>
+
+IDX 106 ID 301648 JA:消費SP：12
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 12
+<item_skill_explanation>
+
+IDX 107 ID 301649 JA:消費SP：30
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 30
+<item_skill_explanation>
+
+IDX 108 ID 301650 JA:消費SP：54
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 54
+<item_skill_explanation>
+
+IDX 109 ID 301651 JA:消費SP：13
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 13
+<item_skill_explanation>
+
+IDX 110 ID 301652 JA:消費SP：19
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 19
+<item_skill_explanation>
+
+IDX 111 ID 301653 JA:消費SP：26
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 26
+<item_skill_explanation>
+
+IDX 112 ID 301654 JA:消費SP：11
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 11
+<item_skill_explanation>
+
+IDX 113 ID 301655 JA:消費SP：11
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 11
+<item_skill_explanation>
+
+IDX 114 ID 301656 JA:消費SP：22
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 22
+<item_skill_explanation>
+
+IDX 115 ID 301657 JA:消費SP：16
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 16
+<item_skill_explanation>
+
+IDX 116 ID 301658 JA:消費SP：19
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 19
+<item_skill_explanation>
+
+IDX 117 ID 301659 JA:消費SP：12
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 12
+<item_skill_explanation>
+
+IDX 118 ID 301660 JA:消費SP：54
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 54
+<item_skill_explanation>
+
+IDX 119 ID 301661 JA:消費SP：23
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 23
+<item_skill_explanation>
+
+IDX 120 ID 301662 JA:消費SP：26
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 26
+<item_skill_explanation>
+
+IDX 121 ID 301664 JA:消費SP：11
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 11
+<item_skill_explanation>
+
+IDX 122 ID 301665 JA:消費SP：11
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 11
+<item_skill_explanation>
+
+IDX 123 ID 301666 JA:消費SP：22
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 22
+<item_skill_explanation>
+
+IDX 124 ID 301667 JA:消費SP：24
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 24
+<item_skill_explanation>
+
+IDX 125 ID 301668 JA:消費SP：12
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 12
+<item_skill_explanation>
+
+IDX 126 ID 301669 JA:消費SP：15
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 15
+<item_skill_explanation>
+
+IDX 127 ID 301670 JA:消費SP：21
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 21
+<item_skill_explanation>
+
+IDX 128 ID 301671 JA:消費SP：54
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 54
+<item_skill_explanation>
+
+IDX 129 ID 301672 JA:消費SP：13
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 13
+<item_skill_explanation>
+
+IDX 130 ID 301673 JA:消費SP：19
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 19
+<item_skill_explanation>
+
+IDX 131 ID 301674 JA:消費SP：26
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 26
+<item_skill_explanation>
+
+IDX 132 ID 301675 JA:消費SP：11
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 11
+<item_skill_explanation>
+
+IDX 133 ID 301676 JA:消費SP：30
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 30
+<item_skill_explanation>
+
+IDX 134 ID 301677 JA:消費SP：22
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 22
+<item_skill_explanation>
+
+IDX 135 ID 301678 JA:消費SP：16
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 16
+<item_skill_explanation>
+
+IDX 136 ID 301679 JA:消費SP：24
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 24
+<item_skill_explanation>
+
+IDX 137 ID 301681 JA:消費SP：54
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 54
+<item_skill_explanation>
+
+IDX 138 ID 301683 JA:消費SP：19
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 19
+<item_skill_explanation>
+
+IDX 139 ID 301684 JA:消費SP：26
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 26
+<item_skill_explanation>
+
+IDX 140 ID 301685 JA:消費SP：53
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 53
+<item_skill_explanation>
+
+IDX 141 ID 301686 JA:消費SP：11
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 11
+<item_skill_explanation>
+
+IDX 142 ID 301687 JA:消費SP：11
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 11
+<item_skill_explanation>
+
+IDX 143 ID 301688 JA:消費SP：40
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 40
+<item_skill_explanation>
+
+IDX 144 ID 301689 JA:消費SP：16
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 16
+<item_skill_explanation>
+
+IDX 145 ID 301690 JA:消費SP：15
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 15
+<item_skill_explanation>
+
+IDX 146 ID 301692 JA:消費SP：18
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 18
+<item_skill_explanation>
+
+IDX 147 ID 301694 JA:消費SP：54
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 54
+<item_skill_explanation>
+
+IDX 148 ID 301695 JA:消費SP：13
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 13
+<item_skill_explanation>
+
+IDX 149 ID 301696 JA:消費SP：19
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 19
+<item_skill_explanation>
+
+IDX 150 ID 301697 JA:消費SP：26
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 26
+<item_skill_explanation>
+
+IDX 152 ID 301699 JA:消費SP：28
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 28
+<item_skill_explanation>
+
+IDX 153 ID 301700 JA:消費SP：10
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 10
+<item_skill_explanation>
+
+IDX 154 ID 301701 JA:消費SP：24
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 24
+<item_skill_explanation>
+
+IDX 155 ID 301702 JA:消費SP：36
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 36
+<item_skill_explanation>
+
+IDX 156 ID 301703 JA:消費SP：15
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 15
+<item_skill_explanation>
+
+IDX 159 ID 301707 JA:消費SP：24
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 24
+<item_skill_explanation>
+
+IDX 160 ID 301708 JA:消費SP：75
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 75
+<item_skill_explanation>
+
+IDX 161 ID 301709 JA:消費SP：250
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 250
+<item_skill_explanation>
+
+IDX 162 ID 301710 JA:消費SP：12
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 12
+<item_skill_explanation>
+
+IDX 163 ID 301711 JA:消費SP：12
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 12
+<item_skill_explanation>
+
+IDX 164 ID 301712 JA:消費SP：16
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 16
+<item_skill_explanation>
+
+IDX 165 ID 301713 JA:消費SP：38
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 38
+<item_skill_explanation>
+
+IDX 167 ID 301715 JA:消費SP：15
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 15
+<item_skill_explanation>
+
+IDX 168 ID 301716 JA:消費SP：15
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 15
+<item_skill_explanation>
+
+IDX 169 ID 301717 JA:消費SP：33
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 33
+<item_skill_explanation>
+
+IDX 170 ID 301718 JA:消費SP：18
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 18
+<item_skill_explanation>
+
+IDX 171 ID 301719 JA:消費SP：20
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 20
+<item_skill_explanation>
+
+IDX 174 ID 301722 JA:消費SP：12
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 12
+<item_skill_explanation>
+
+IDX 176 ID 301724 JA:消費SP：24
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 24
+<item_skill_explanation>
+
+IDX 177 ID 301725 JA:消費SP：24
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 24
+<item_skill_explanation>
+
+IDX 181 ID 301730 JA:消費SP：18
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 18
+<item_skill_explanation>
+
+IDX 182 ID 301731 JA:消費SP：12
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 12
+<item_skill_explanation>
+
+IDX 184 ID 301733 JA:消費SP：38
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 38
+<item_skill_explanation>
+
+IDX 187 ID 301736 JA:消費SP：18
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 18
+<item_skill_explanation>
+
+IDX 192 ID 301742 JA:消費SP：12
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 12
+<item_skill_explanation>
+
+IDX 193 ID 301743 JA:消費SP：12
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 12
+<item_skill_explanation>
+
+IDX 195 ID 301745 JA:消費SP：12
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 12
+<item_skill_explanation>
+
+IDX 197 ID 301748 JA:消費SP：16
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 16
+<item_skill_explanation>
+
+IDX 198 ID 301749 JA:消費SP：20
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 20
+<item_skill_explanation>
+
+IDX 200 ID 301751 JA:消費SP：33
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 33
+<item_skill_explanation>
+
+IDX 202 ID 301753 JA:消費SP：32
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 32
+<item_skill_explanation>
+
+IDX 204 ID 301755 JA:消費SP：12
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 12
+<item_skill_explanation>
+
+IDX 206 ID 301757 JA:消費SP：12
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 12
+<item_skill_explanation>
+
+IDX 208 ID 301759 JA:消費SP：24
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 24
+<item_skill_explanation>
+
+IDX 209 ID 301760 JA:消費SP：24
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 24
+<item_skill_explanation>
+
+IDX 211 ID 301762 JA:消費SP：12
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 12
+<item_skill_explanation>
+
+IDX 213 ID 301764 JA:消費SP：15
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 15
+<item_skill_explanation>
+
+IDX 216 ID 301767 JA:消費SP：16
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 16
+<item_skill_explanation>
+
+IDX 217 ID 301768 JA:消費SP：15
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 15
+<item_skill_explanation>
+
+IDX 223 ID 301774 JA:消費SP：10
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 10
+<item_skill_explanation>
+
+IDX 226 ID 301777 JA:消費SP：10
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 10
+<item_skill_explanation>
+
+IDX 228 ID 301887 JA:消費SP：21
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 21
+<item_skill_explanation>
+
+IDX 229 ID 301888 JA:消費SP：35
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 35
+<item_skill_explanation>
+
+IDX 230 ID 301889 JA:消費SP：14
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 14
+<item_skill_explanation>
+
+IDX 231 ID 301890 JA:消費SP：12
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 12
+<item_skill_explanation>
+
+IDX 232 ID 301891 JA:消費SP：29
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 29
+<item_skill_explanation>
+
+IDX 233 ID 301892 JA:消費SP：22
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 22
+<item_skill_explanation>
+
+IDX 234 ID 301893 JA:消費SP：12
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 12
+<item_skill_explanation>
+
+IDX 272 ID 301991 JA:伝説の秘宝。
+１００年以上前に作られたという、
+大型帆船の精密な模型
+  AFTER:كنز أسطوري.
+نموذج دقيق لسفينة كبيرة، يُقال إنه صُنع قبل أكثر من قرن.
+
+IDX 350 ID 302098 JA:消費SP：27
+<item_skill_explanation>
+  AFTER:استهلاك نقاط المهارة: 27
+<item_skill_explanation>
+
+IDX 501 ID 10101003 JA:大陸一の大富豪、“強欲の魔女”ヘルミニア。
+巨万の富を独占した魔女に買えぬものは、
+この世にはない――
+  AFTER:السيدة هيرمينيا، أغنى شخص في القارة، والمعروفة بـ "ساحرة الطمع".
+لا يوجد شيء في هذا العالم لا يمكن لثروتها الهائلة أن تشتريه.
+

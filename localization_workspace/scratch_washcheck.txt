@@ -1,0 +1,408 @@
+id=93466
+JA=全ては妾の虜じゃ！
+EN=All bow to me!
+BEFORE=كل شيء هو أسيرُ سموي!
+AFTER=كل شيء هو أسيري!
+REASON=Changed 'أسيرُ سموي' to 'أسيري' for a more direct and less formal translation of 'my captive', aligning with the 'grittier' tone.
+
+id=93578
+JA=回転石打
+EN=Spinning Boulder Bash
+BEFORE=ضربة الحجر الدوارة
+AFTER=ضربة الحجر الدوار
+REASON=Changed 'الدوارة' (feminine) to 'الدوار' (masculine) to correctly describe 'الحجر' (the stone) as spinning, rather than the strike itself.
+
+id=93635
+JA=<skl_user_name>は大きく身構えた！
+EN=<skl_user_name> stands ready!
+BEFORE=اتخذ <skl_user_name> وضعية الدفاع بقوة!
+AFTER=تأهب <skl_user_name> بقوة!
+REASON=«اتخذ وضعية الدفاع بقوة» is a bit verbose and specific. «تأهب بقوة» (braced strongly/stood ready strongly) is more concise and closer to the nuance of «身構えた» and «stands ready».
+
+id=93910
+JA=<skl_user_name>が亡者マフレズの攻撃無効を解除した！
+EN=<skl_user_name> cancels fallen Mahrez's immunity to attacks!
+BEFORE=أزال <skl_user_name> تأثير إبطال الهجوم الخاص بشبح مافليز!
+AFTER=أزال <skl_user_name> مناعة شبح مافليز ضد الهجمات!
+REASON=Rephrased 'تأثير إبطال الهجوم الخاص بشبح مافليز' to 'مناعة شبح مافليز ضد الهجمات' for better conciseness and natural flow, matching 'immunity to attacks'.
+
+id=94198
+JA=瞬身の構え
+EN=Swift Stance
+BEFORE=وضعية الجسد الخاطف
+AFTER=وضعية سريعة
+REASON=More concise and natural translation for 'Swift Stance', aligning with the 'grounded, natural' tone.
+
+id=94200
+JA=怨嗟の嵐刺突
+EN=Storm of Rancour
+BEFORE=طعنة عاصفة الحقد
+AFTER=عاصفة الحقد
+REASON=Simplified to 'عاصفة الحقد' to directly match the English 'Storm of Rancour' and improve conciseness for a skill name.
+
+id=94201
+JA=怨嗟四連
+EN=Fourfold Rancour
+BEFORE=أربع طعنات حقد متتالية
+AFTER=الحقد الرباعي
+REASON=More concise and direct translation 'الحقد الرباعي' for 'Fourfold Rancour', suitable for a skill name.
+
+id=94266
+JA=アラウネが光を照らす……
+EN=Alaune shines her light...
+BEFORE=ألاون تضيء الضوء……
+AFTER=تنشر ألاون نورها……
+REASON=Rephrased for more natural and flowing Arabic, avoiding redundancy in 'تضيء الضوء'.
+
+id=94655
+JA=迅雷風烈
+EN=Stormwind
+BEFORE=رعد الرياح الخاطف
+AFTER=عاصفة رعدية
+REASON=Changed 'رعد الرياح الخاطف' to 'عاصفة رعدية' for 'Stormwind' to be more natural and concise in Arabic, reflecting the meaning of '迅雷風烈' (fierce storm).
+
+id=95068
+JA=さあ……プレゼントだ
+EN=A gift, from me to you.
+BEFORE=هيا…… هذه هدية
+AFTER=إليك…… هذه هدية
+REASON=Changed `هيا` (come on) to `إليك` (here/to you) for a more appropriate tone when presenting a gift, matching 'A gift, from me to you.'
+
+id=95093
+JA=黒葬送
+EN=Dark Burial
+BEFORE=إرسال الجنازة السوداء
+AFTER=دفن أسود
+REASON=The original Arabic 'إرسال الجنازة السوداء' was a literal and clunky translation of 'sending the funeral'. 'دفن أسود' (Black Burial) is more concise and natural for a skill name.
+
+id=95168
+JA=三連斬
+EN=Trifold Slash
+BEFORE=الضربات الثلاث المتتالية
+AFTER=القطع الثلاثي
+REASON=More concise and direct translation for a skill name, matching 'Trifold Slash'.
+
+id=95273
+JA=<skl_user_name>は大きく身構えた！
+EN=<skl_user_name> stands ready!
+BEFORE=اتخذت <skl_user_name> وضعية الدفاع بقوة!
+AFTER=استعد <skl_user_name>!
+REASON=Changed feminine verb 'اتخذت' to masculine 'استعد' as the generic default for the placeholder '<skl_user_name>' (which can be male or female). Simplified 'وضعية الدفاع بقوة' to 'استعد' for conciseness, matching 'stands ready'.
+
+id=95891
+JA=寵愛の祈掌
+EN=Affectionate Prayer
+BEFORE=ضربة اليد للصلاة بالرعاية
+AFTER=صلاة الرعاية
+REASON=Simplified the verbose 'ضربة اليد للصلاة بالرعاية' to 'صلاة الرعاية' for better conciseness and naturalness as a skill name, aligning with the English 'Affectionate Prayer' while still capturing the essence of the Japanese '寵愛の祈'.
+
+id=95893
+JA=無我無心
+EN=Selfless Spirit
+BEFORE=انعدام الذات والقلب
+AFTER=روح التضحية
+REASON=Changed 'انعدام الذات والقلب' to 'روح التضحية' for better register and naturalness as a skill name, aligning with 'Selfless Spirit'.
+
+id=96107
+JA=サザントスの纏う黒呪炎が燃え盛る！
+EN=The Accurst Flame enveloping Sazantos rages!
+BEFORE=تشتعل شعلة اللعنة السوداء التي يرتديها سازانتوس!
+AFTER=تشتعل شعلة اللعنة السوداء التي تغطي سازانتوس!
+REASON=Rephrased 'التي يرتديها' (which he wears) to 'التي تغطي' (which envelops) for better naturalness when describing a flame.
+
+id=96120
+JA=魔剣フィステラルダ
+EN=Demon Blade Fisteralda
+BEFORE=السيف السحري فيستيرالدا
+AFTER=السيف الشيطاني فيستيرالدا
+REASON=Changed 'السيف السحري' (Magic Blade) to 'السيف الشيطاني' (Demon Blade) to better align with the English 'Demon Blade' and the game's grittier tone.
+
+id=96155
+JA=雷公烈風
+EN=Thundersquall
+BEFORE=ريح رعد إله الرعد
+AFTER=عاصفة رعدية
+REASON=عاصفة رعدية (thunderstorm/thundersquall) is a more concise and natural translation of Thundersquall than ريح رعد إله الرعد, which is redundant and clunky.
+
+id=152171
+JA=荒鷲斬り
+EN=Talon Strike
+BEFORE=ضرب العقاب الهائج
+AFTER=ضربة المخلب
+REASON=`ضرب العقاب الهائج` is verbose. `ضربة المخلب` (Talon Strike) is a more concise and direct translation of 'Talon Strike'.
+
+id=152178
+JA=急所突き
+EN=Deadly Thrust
+BEFORE=طعنة النقطة القاتلة
+AFTER=طعنة قاتلة
+REASON=`طعنة النقطة القاتلة` is verbose. `طعنة قاتلة` (Deadly Thrust) is more concise and natural.
+
+id=152187
+JA=大回転槍
+EN=Spear Whirl
+BEFORE=رمح الدوران الكبير
+AFTER=دوامة الرمح
+REASON=`رمح الدوران الكبير` is a literal translation. `دوامة الرمح` (Spear Whirlwind) is more concise and captures the 'whirl' aspect of 'Spear Whirl'.
+
+id=152195
+JA=蛇毒牙
+EN=Serpent's Fang
+BEFORE=ناب سم الأفعى
+AFTER=ناب الأفعى
+REASON=`ناب سم الأفعى` is verbose. `ناب الأفعى` (Serpent's Fang) is a more concise and natural translation of 'Serpent's Fang'.
+
+id=152222
+JA=斧ブーメラン
+EN=Boomerang Toss
+BEFORE=فأس البوميرانج
+AFTER=رمية الفأس المرتدة
+REASON=Improved phrasing to better reflect 'Toss' and sound like a skill name.
+
+id=152229
+JA=敵単体に剣でダメージを２回与える
+EN=Deal sword damage to a foe 2 time(s).
+BEFORE=إلحاق الضرر بخصم واحد مرتين بالسيف
+AFTER=إلحاق ضرر بالسيف بهدف واحد مرتين
+REASON=Improved phrasing for better flow and conciseness.
+
+id=152230
+JA=敵単体に剣で大ダメージを２回与える
+EN=Deal great sword damage to a foe 2 time(s).
+BEFORE=إلحاق ضرر كبير بالسيف على عدو واحد مرتين
+AFTER=إلحاق ضرر كبير بالسيف بهدف واحد مرتين
+REASON=Improved phrasing for consistency with similar lines.
+
+id=152231
+JA=敵単体に剣でダメージを３回与える
+EN=Deal sword damage to a foe 3 time(s).
+BEFORE=إلحاق الضرر بخصم واحد بالضرب بالسيف 3 مرات
+AFTER=إلحاق الضرر بالسيف بهدف واحد 3 مرات
+REASON=Removed redundant 'بالضرب' for conciseness.
+
+id=152232
+JA=敵単体に剣で大ダメージを３回与える
+EN=Deal great sword damage to a foe 3 time(s).
+BEFORE=إلحاق ضرر كبير بالسيف بـ 3 مرات على عدو واحد
+AFTER=إلحاق ضرر كبير بالسيف بهدف واحد 3 مرات
+REASON=Removed awkward 'بـ' and improved phrasing for consistency.
+
+id=152234
+JA=敵全体に剣でダメージを与える
+EN=Deal sword damage to all foes.
+BEFORE=إلحاق الضرر بالجميع باستخدام السيف
+AFTER=إلحاق الضرر بجميع الأعداء بالسيف
+REASON=Used more specific 'بجميع الأعداء' instead of 'بالجميع' and more concise 'بالسيف'.
+
+id=152374
+JA=装備者の速度を＋50する
+EN=Raise the equipped character's Speed by 50.
+BEFORE=يزيد سرعة مرتدي العتاد بمقدار +50
+AFTER=يزيد سرعة مرتدي العتاد بمقدار 50
+REASON=Removed redundant '+' sign from the number for natural phrasing.
+
+id=152375
+JA=装備者の回避を＋50する
+EN=Raise the equipped character's Evasion by 50.
+BEFORE=يزيد تفادي مرتدي العتاد بمقدار +50
+AFTER=يزيد تفادي مرتدي العتاد بمقدار 50
+REASON=Removed redundant '+' sign from the number for natural phrasing.
+
+id=152376
+JA=装備者の命中を＋50する
+EN=Raise the equipped character's Accuracy by 50.
+BEFORE=يزيد دقة مرتدي العتاد بمقدار +50
+AFTER=يزيد دقة مرتدي العتاد بمقدار 50
+REASON=Removed redundant '+' sign from the number for natural phrasing.
+
+id=152427
+JA=敵単体に
+物攻/物防/属攻/属防ダウンの効果を
+<skl_turn_count>付与し、必ずアイテムを盗む
+EN=Lower Phys. Atk./Phys. Def./Elem. Atk./Elem. Def. of a foe for <skl_turn_count> turn(s), and steal an item.
+BEFORE=إلحاق تأثير خفض الهجوم/الدفاع الفيزيائي/الهجوم/الدفاع العنصري بهدف واحد من الأعداء لمدة <skl_turn_count>، وسرقة عنصر دائماً
+AFTER=على عدو واحد
+إلحاق تأثير خفض الهجوم/الدفاع الفيزيائي/الهجوم/الدفاع العنصري
+لمدة <skl_turn_count>، وسرقة عنصر دائماً.
+REASON=Line break compliance: Added '\n' characters as present in the Japanese source text to control text-box pacing. Rephrased slightly for natural flow with the added breaks and improved conciseness ('على عدو واحد' instead of 'بهدف واحد من الأعداء').
+
+id=152435
+JA=敵単体に闇属性のダメージを与え、
+速度ダウンの効果を2ターン付与する
+EN=Deal dark damage to a foe, and lower Speed for 2 turn(s).
+BEFORE=إلحاق ضرر عنصري بالظلام بهدف واحد من الأعداء، وإلحاق تأثير خفض السرعة لمدة دورين
+AFTER=إلحاق ضرر عنصري بالظلام بهدف واحد من الأعداء، وتخفيض سرعته لمدة دورين
+REASON=Rephrased 'إلحاق تأثير خفض السرعة' to 'وتخفيض سرعته' for more natural phrasing.
+
+id=152436
+JA=敵単体に
+闇属性のダメージを２回与える
+EN=Deal dark damage to a foe 2 time(s).
+BEFORE=إلحاق ضرر عنصري بالظلام مرتين بهدف واحد من الأعداء
+AFTER=إلحاق ضرر عنصري بالظلام بهدف واحد من الأعداء مرتين
+REASON=Reordered words for more natural Arabic sentence structure.
+
+id=152456
+JA=受け流し
+EN=Parry
+BEFORE=صدّ الانزلاق
+AFTER=صدّ
+REASON=Simplified 'صدّ الانزلاق' to 'صدّ' for direct translation of 'Parry' and better naturalness.
+
+id=152537
+JA=反撃の狼煙
+EN=Foresight
+BEFORE=دخان الهجوم المضاد
+AFTER=إشارة الهجوم المضاد
+REASON=Improved natural phrasing for '反撃の狼煙' (signal fire of counterattack).
+
+id=152563
+JA=バトル開始時、BPが１回復する
+EN=At the start of battle, restore 1 BP.
+BEFORE=عند بدء المعركة، يتم استرداد 1 من نقاط الطاقة
+AFTER=عند بدء المعركة، يتم استرداد نقطة طاقة واحدة
+REASON=Improved phrasing from '1 من نقاط الطاقة' to 'نقطة طاقة واحدة' for naturalness.
+
+id=152581
+JA=彼岸蓮刃
+EN=Lotus Blade
+BEFORE=نصل لوتس الضفة الأخرى
+AFTER=نصل اللوتس
+REASON=Simplified 'نصل لوتس الضفة الأخرى' to 'نصل اللوتس' to match the English 'Lotus Blade' and align with the 'grounded' tone.
+
+id=152719
+JA=定期的に様々な上位食材を持ってくる
+EN=Regularly receive a delivery of quality foods.
+BEFORE=إحضار مكونات عالية الجودة متنوعة بانتظام
+AFTER=إحضار مكونات متنوعة عالية الجودة بانتظام
+REASON=Reordered adjectives for more natural Arabic flow: 'مكونات متنوعة عالية الجودة' instead of 'مكونات عالية الجودة متنوعة'.
+
+id=152886
+JA=属性防御破壊叩き
+EN=Elemental Bash
+BEFORE=ضربة تحطيم الدفاعات العنصرية
+AFTER=ضربة عنصرية
+REASON=Changed 'ضربة تحطيم الدفاعات العنصرية' to 'ضربة عنصرية'. The original was overly long and literal for 'Elemental Bash'; 'ضربة عنصرية' is more concise and natural.
+
+id=153012
+JA=ランダムなターゲットに
+光属性のダメージを３回与える
+EN=Deal light damage to random foes 3 time(s).
+BEFORE=إلحاق الضرر بعنصر الضوء 3 مرات بهدف عشوائي
+AFTER=إلحاق ضرر ضوئي بأهداف عشوائية 3 مرات
+REASON=Improved flow and conciseness ('ضرر ضوئي' instead of 'ضرر بعنصر الضوء'). Changed 'بهدف عشوائي' (singular) to 'بأهداف عشوائية' (plural) to match 'random foes'.
+
+id=153014
+JA=自身に物攻/物防/属攻/属防アップの
+効果を<skl_turn_count>付与する
+EN=Raise own Phys. Atk./Phys. Def./Elem. Atk./Elem. Def. for <skl_turn_count> turn(s).
+BEFORE=منح تأثير زيادة الهجوم المادي/الدفاع المادي/الهجوم العنصري/الدفاع العنصري على الذات لمدة <skl_turn_count>
+AFTER=منح الذات تأثير زيادة الهجوم المادي/الدفاع المادي/الهجوم العنصري/الدفاع العنصري لمدة <skl_turn_count> دورة
+REASON=Improved natural phrasing ('منح الذات' instead of 'منح تأثير... على الذات') and added 'دورة' (turn) to complete the duration phrase.
+
+id=153033
+JA=骨休め
+EN=Recuperate
+BEFORE=راحة العظام
+AFTER=استشفاء
+REASON=The literal translation 'راحة العظام' (rest of bones) is less natural for a skill name than 'استشفاء' (recuperation), which aligns with the English 'Recuperate'.
+
+id=153038
+JA=神秘の矢
+EN=Mystic Shot
+BEFORE=سهم الغموض
+AFTER=سهم غامض
+REASON=Changed 'سهم الغموض' (arrow of mystery) to 'سهم غامض' (mysterious arrow) for a more natural and direct translation of 'Mystic Shot'.
+
+id=153121
+JA=敵全体に氷属性のダメージを与える
+EN=Deal ice damage to all foes.
+BEFORE=يلحق ضررًا من عنصر الجليد بالعدو بأكمله
+AFTER=يلحق ضررًا من عنصر الجليد بجميع الأعداء.
+REASON=Improved phrasing for 'all foes' from 'العدو بأكمله' to 'بجميع الأعداء'.
+
+id=153186
+JA=ランダムなターゲットに
+光属性のダメージを３回与える
+EN=Deal light damage to random foes 3 time(s).
+BEFORE=إلحاق ضرر من عنصر الضوء 3 مرات بهدف عشوائي
+AFTER=يلحق ضررًا من عنصر الضوء 3 مرات بهدف عشوائي.
+REASON=Changed verbal noun 'إلحاق ضرر' to active verb 'يلحق ضررًا' for better flow and consistency.
+
+id=153187
+JA=自身に物攻/物防/属攻/属防アップの
+効果を<skl_turn_count>付与する
+EN=Raise own Phys. Atk./Phys. Def./Elem. Atk./Elem. Def. for <skl_turn_count> turn(s).
+BEFORE=منح تأثير زيادة الهجوم الفيزيائي/الدفاع الفيزيائي/الهجوم العنصري/الدفاع العنصري على الذات لمدة <skl_turn_count>
+AFTER=يزيد من الهجوم الفيزيائي والدفاع الفيزيائي والهجوم العنصري والدفاع العنصري للذات لمدة <skl_turn_count> دور.
+REASON=Improved phrasing for naturalness and added 'دور' for 'turn(s)'.
+
+id=153189
+JA=ランダムなターゲットに
+光属性のダメージを４回与える
+EN=Deal light damage to random foes 4 time(s).
+BEFORE=إلحاق ضرر من عنصر الضوء 4 مرات بهدف عشوائي
+AFTER=يلحق ضررًا من عنصر الضوء 4 مرات بهدف عشوائي.
+REASON=Changed verbal noun 'إلحاق ضرر' to active verb 'يلحق ضررًا' for better flow and consistency.
+
+id=153190
+JA=自身に物理攻撃で弱点に関係なく
+弱点を突ける効果を<skl_turn_count>付与する
+EN=Exploit weaknesses with physical attacks regardless of weak points for <skl_turn_count> turn(s).
+BEFORE=منح تأثير إمكانية ضرب نقاط الضعف بالهجوم الفيزيائي بغض النظر عن نقاط الضعف على الذات لمدة <skl_turn_count>
+AFTER=يمنح الذات تأثيرًا يسمح بضرب نقاط الضعف بالهجوم الفيزيائي بغض النظر عن نقاط الضعف لمدة <skl_turn_count> دور.
+REASON=Improved phrasing for naturalness and added 'دور' for 'turn(s)'.
+
+id=153270
+JA=たまにSP消費しない
+EN=SP Luck
+BEFORE=لا يستهلك نقاط المهارة أحيانًا
+AFTER=حظ نقاط المهارة
+REASON=Rephrased to be a concise skill name ('SP Luck') rather than a descriptive sentence, matching the English localization style.
+
+id=153278
+JA=ついでにたたかう
+EN=Incidental Attack
+BEFORE=القتال أثناء المرور
+AFTER=هجوم عرضي
+REASON=Made more concise and suitable as a skill name ('Incidental Attack') rather than a verbose description.
+
+id=153289
+JA=状態異常回避アップ
+EN=Resist Ailments
+BEFORE=زيادة تجنب الحالات غير الطبيعية
+AFTER=مقاومة الأمراض
+REASON=Made more concise and suitable as a skill name ('Resist Ailments') rather than a verbose description.
+
+id=153292
+JA=回復効果アップ
+EN=Heightened Healing
+BEFORE=زيادة تأثير الاستشفاء
+AFTER=شفاء معزز
+REASON=Made more concise and suitable as a skill name ('Heightened Healing') rather than a verbose description.
+
+id=153363
+JA=敵単体に闇属性のダメージを与える
+EN=Deal dark damage to a foe.
+BEFORE=إلحاق ضرر من عنصر الظلام بهدف واحد من الأعداء
+AFTER=إلحاق ضرر من عنصر الظلام على عدو واحد.
+REASON=Made the phrasing more concise by changing 'بهدف واحد من الأعداء' to 'على عدو واحد'.
+
+id=153454
+JA=装備者が最大HPを超える
+回復効果を受けたとき、
+最大HPを超えて回復する
+EN=Grants the equipped character the ability to be healed above their max. HP.
+BEFORE=عندما يتلقى المجهز تأثير علاج يتجاوز الحد الأقصى لنقاط الصحة، يتم العلاج بما يتجاوز الحد الأقصى لنقاط الصحة
+AFTER=عندما يتلقى المجهز تأثير شفاء يتجاوز الحد الأقصى لنقاط الصحة، يُشفى بما يتجاوزها
+REASON=Improved flow and conciseness, replaced 'علاج' with 'شفاء' for better gaming context, and clarified the pronoun reference.
+
+id=153491
+JA=装備者の行動後に50%の確率で
+HPが最も低い味方前衛単体のHPを
+回復する
+EN=After the equipped character acts, gain a 50% chance to restore the HP of an ally in the front row with the least HP.
+BEFORE=بعد فعل المجهز، هناك احتمال بنسبة 50٪ لعلاج نقاط الصحة لأقل عضو في مقدمة الحلفاء من حيث نقاط الصحة
+AFTER=بعد فعل المجهز، هناك احتمال بنسبة 50٪ لعلاج نقاط صحة الحليف الأمامي صاحب أقل نقاط صحة
+REASON=Improved conciseness and natural flow for 'ally in the front row with the least HP'.
+

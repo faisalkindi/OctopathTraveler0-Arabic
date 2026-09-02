@@ -1,0 +1,19 @@
+=== id 12428 ===
+JA: 品評会前に余計な話はしないよ
+八百長を疑われちまうからね
+EN: I can't talk to you before the competition.
+People might find it suspicious.
+BEFORE: لن نتحدث في أمور غير ضرورية قبل مسابقة التقييم
+GEMINI: لن نتحدث في أمور غير ضرورية قبل مسابقة التقييم، لئلا يُشتبه في التلاعب.
+REASON: Incomplete translation; missed the second part of the Japanese sentence '八百長を疑われちまうからね' (People might suspect foul play).
+
+=== id 12723 ===
+JA: へへん、俺に勝とうなんて
+百年早いぜ！
+EN: Hehe, did you really think you had
+a chance?
+BEFORE: هيه، محاولة الفوز عليّ
+GEMINI: هيه، محاولة الفوز عليّ
+سابقة لأوانها بمئة عام!
+REASON: Incomplete translation; the original Arabic was missing the idiomatic expression. Translated the full idiom and preserved line break.
+

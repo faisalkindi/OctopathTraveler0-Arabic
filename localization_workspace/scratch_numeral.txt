@@ -1,0 +1,25 @@
+========== 3361
+JA: '誇り高きエドラスの兵よ！'
+BEFORE: 'أيها الجندي الفخور من إيدوراس!'
+AR: 'أيها الجنود الفخورون من إيدوراس!'
+REASON: "Corrected number agreement from singular 'الجندي الفخور' to plural 'الجنود الفخورون' to match Japanese '兵' and English 'soldiers'."
+========== 4160
+JA: '貴国を併呑し\nオルステラを統べる礎とする'
+BEFORE: 'لابتلاع دولتكما\nوجعلها حجر الأساس لحكم أورستيلا'
+AR: 'لابتلاع دولتك\nوجعلها حجر الأساس لحكم أورستيلا'
+REASON: "Corrected number agreement from dual 'دولتكما' to singular 'دولتك' as '貴国' (your nation) is singular."
+========== 5008
+JA: '武器を下げよ、無礼者め！'
+BEFORE: 'اخفضوا أسلحتكم، أيها الوقح!'
+AR: 'اخفضوا أسلحتكم، أيها الوقحون!'
+REASON: "Number agreement error. The Japanese '無礼者め' is plural, so the Arabic adjective 'الوقح' should also be plural ('الوقحون')."
+========== 7176
+JA: '大陸の支配者たちを退け\n指輪を封印したあの……！'
+BEFORE: 'الذي أبعد حكام القارة\nوختم الخاتم……!'
+AR: 'الذي أبعد حكام القارة\nوختم الخواتم…!'
+REASON: "Number agreement: 'الخاتم' (singular ring) was incorrect; changed to 'الخواتم' (plural rings) to match the English and game context."
+========== 7206
+JA: '……町で起こっている\n事件の調査に……？'
+BEFORE: '……لتحقيق\nالجريمة التي حدثت في البلدة……؟'
+AR: '……لتحقيق\nالجرائم التي حدثت في البلدة……؟'
+REASON: "Number agreement: 'الجريمة' (singular crime) was incorrect; changed to 'الجرائم' (plural crimes) to match the English 'incidents'."

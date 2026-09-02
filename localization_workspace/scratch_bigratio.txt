@@ -1,0 +1,812 @@
+id=93776
+JA=ルージュ
+EN=Sanguine Sorcery
+BEFORE=روج
+AFTER=سحر الدم
+REASON=«روج» is a transliteration of «Rouge». The English `en_text` «Sanguine Sorcery» is a translation of the concept (red/blood magic). The Arabic should also translate the concept. «سحر الدم» (Blood Sorcery) is a suitable translation.
+
+id=94550
+JA=斬り落とし
+EN=Guillotine
+BEFORE=قطع
+AFTER=قطع حاسم
+REASON=Changed 'قطع' (cut) to 'قطع حاسم' (decisive cut) to better convey the impact and meaning of 'Guillotine' as a skill name.
+
+id=152152
+JA=……クールだ
+EN=...It's go time.
+BEFORE=……رائع
+AFTER=……حان وقت العمل.
+REASON=Changed to match the idiomatic English translation 'It's go time.' as per glossary, which is a better fit for the context than a literal 'Cool'.
+
+id=152245
+JA=敵単体に槍でダメージを与える
+さらに、次ターン早く行動可能
+EN=Deal polearm damage to a foe. Act faster next turn.
+BEFORE=إلحاق الضرر بهدف واحد بالرمح
+AFTER=إلحاق الضرر بهدف واحد بالرمح.
+بالإضافة إلى ذلك، يصبح التحرك أسرع في الدور التالي.
+REASON=Completed the translation, which was cut off, and preserved the line break.
+
+id=152246
+JA=敵単体に槍でダメージを与える
+さらに、次ターン早く行動可能
+EN=Deal polearm damage to a foe. Act faster next turn.
+BEFORE=إلحاق الضرر بهدف واحد بالرمح
+AFTER=إلحاق الضرر بهدف واحد بالرمح.
+بالإضافة إلى ذلك، يصبح التحرك أسرع في الدور التالي.
+REASON=Completed the translation, which was cut off, and preserved the line break.
+
+id=152280
+JA=敵単体に斧でダメージを与える
+後衛から出てきて攻撃すると
+自身のHPを回復する
+EN=Deal axe damage to a foe. Restore own HP if attacking from the back row.
+BEFORE=يلحق الضرر بهدف واحد بالفأس.
+AFTER=يلحق الضرر بهدف واحد باستخدام الفأس.
+إذا هاجم من الصف الخلفي، يستعيد نقاط صحته.
+REASON=Missing second part of the skill description and `
+` preservation. Used glossary term for HP.
+
+id=152319
+JA=敵全体に
+火属性のダメージを２回与える
+EN=Deal fire damage to all foes 2 time(s).
+BEFORE=يلحق جميع الأعداء
+AFTER=يلحق جميع الأعداء
+أضراراً من عنصر النار مرتين
+REASON=The original Arabic translation was incomplete, missing the damage type and the '2 times' part. Corrected to reflect the full meaning of the Japanese source and preserved the line break.
+
+id=152321
+JA=敵全体に
+氷属性のダメージを２回与える
+EN=Deal ice damage to all foes 2 time(s).
+BEFORE=يلحق جميع الأعداء
+AFTER=يلحق جميع الأعداء
+أضراراً من عنصر الجليد مرتين
+REASON=The original Arabic translation was incomplete, missing the damage type and the '2 times' part. Corrected to reflect the full meaning of the Japanese source and preserved the line break.
+
+id=152323
+JA=敵全体に
+雷属性のダメージを２回与える
+EN=Deal lightning damage to all foes 2 time(s).
+BEFORE=يلحق جميع الأعداء
+AFTER=يلحق جميع الأعداء
+أضراراً من عنصر الصاعقة مرتين
+REASON=The original Arabic translation was incomplete, missing the damage type and the '2 times' part. Corrected to reflect the full meaning of the Japanese source and preserved the line break.
+
+id=152325
+JA=敵全体に
+風属性のダメージを２回与える
+EN=Deal wind damage to all foes 2 time(s).
+BEFORE=يلحق جميع الأعداء
+AFTER=يُلحق ضررًا من عنصر الرياح بجميع الأعداء
+مرتين.
+REASON=Corrected grammatical structure and completed the translation to include '2 time(s)' as 'مرتين'. Preserved line break '\n'.
+
+id=152327
+JA=敵全体に
+光属性のダメージを２回与える
+EN=Deal light damage to all foes 2 time(s).
+BEFORE=يلحق جميع الأعداء
+AFTER=يُلحق ضررًا من عنصر الضياء بجميع الأعداء
+مرتين.
+REASON=Corrected grammatical structure and completed the translation to include '2 time(s)' as 'مرتين'. Preserved line break '\n'.
+
+id=152329
+JA=敵全体に
+闇属性のダメージを２回与える
+EN=Deal dark damage to all foes 2 time(s).
+BEFORE=يلحق جميع الأعداء
+AFTER=يُلحق ضررًا من عنصر الظلام بجميع الأعداء
+مرتين.
+REASON=Corrected grammatical structure and completed the translation to include '2 time(s)' as 'مرتين'. Preserved line break '\n'.
+
+id=152361
+JA=自身に属攻アップの効果を
+<skl_turn_count>付与する
+EN=Raise own Elem. Atk. for <skl_turn_count> turn(s).
+BEFORE=منح تأثير زيادة الهجوم
+AFTER=منح المستخدم تأثير زيادة الهجوم العنصري
+لمدة <skl_turn_count> دورة
+REASON=Incomplete translation: missing 'own', 'Elem. Atk.', and the duration placeholder.
+
+id=152364
+JA=敵単体に麻痺の効果を
+確率で<skl_turn_count>付与する
+EN=Gain a chance to inflict paralysis on a foe for <skl_turn_count> turn(s).
+BEFORE=منح تأثير الشلل لعدو واحد
+AFTER=منح تأثير الشلل لعدو واحد
+بنسبة معينة لمدة <skl_turn_count> دورة
+REASON=Incomplete translation: missing 'with a chance' and the duration placeholder.
+
+id=152367
+JA=敵全体に使用者を狙いやすくなる
+効果を<skl_turn_count>付与し、
+さらに敵全体に命中ダウンの
+効果を<skl_turn_count>付与する
+EN=Attempt to draw the attention of all foes to the caster for <skl_turn_count> turn(s), and lower Accuracy of all foes for <skl_turn_count> turn(s).
+BEFORE=منح تأثير تسهيل استهداف المستخدم
+AFTER=منح تأثير تسهيل استهداف المستخدم لجميع الأعداء
+لمدة <skl_turn_count> دورة،
+بالإضافة إلى تقليل دقة إصابة جميع الأعداء
+لمدة <skl_turn_count> دورة
+REASON=Severely incomplete translation: missing duration for the first effect, and the entire second effect.
+
+id=152380
+JA=「たたかう」で攻撃したとき
+ダメージ10%分のHPを回復する
+EN=Restore HP equal to 10% of damage dealt when using "Attack."
+BEFORE=عند الهجوم باستخدام "قتال"
+AFTER=عند الهجوم باستخدام "قتال"، تستعيد نقاط الصحة (HP) تعادل 10% من الضرر الذي أُلحِق.
+REASON=Incomplete translation; added the missing part about restoring HP.
+
+id=152387
+JA=ターン開始時、25%の確率で
+自身に物理攻撃を１回だけ
+必ず回避する効果を付与する
+EN=At the start of turn, grant self a 25% chance to dodge physical attacks 1 time(s).
+BEFORE=عند بداية الدور، بنسبة 20%
+AFTER=عند بداية الدور، بنسبة 25%، يمنح نفسه تأثير تفادي الهجمات الجسدية مرة واحدة فقط.
+REASON=Mistranslation of percentage (20% instead of 25%) and incomplete translation of the effect.
+
+id=152389
+JA=【理容室】主人公の「名前」と
+「好きな料理名」を
+変更できるようにする
+※同種の効果は重複しない
+EN=[Salon] Allows you to change the protagonist's name and favorite dish.
+*Effect is not cumulative.
+BEFORE=【صالون الحلاقة】 يسمح بتغيير "الاسم"
+AFTER=【صالون الحلاقة】 يسمح بتغيير "الاسم" و"اسم الطبق المفضل" للبطل. (لا تتراكم التأثيرات من نفس النوع.)
+REASON=Incomplete translation; added missing details about favorite dish and non-cumulative effect.
+
+id=152395
+JA=【商店】交易の入荷間隔を
+少し早める
+※同種の効果は重複しない
+EN=[Shop] Slightly shortens time between trade item deliveries.
+*Effect is not cumulative.
+BEFORE=【متجر】 تسريع فترات وصول
+AFTER=【متجر】 تسريع فترات وصول عناصر التجارة قليلاً. (لا تتراكم التأثيرات من نفس النوع.)
+REASON=Incomplete translation; added missing details about trade items, 'slightly', and non-cumulative effect.
+
+id=152396
+JA=【商店】交易で希少なアイテムを
+ほんの少し入荷しやすくする
+※同種の効果は重複しない
+EN=[Shop] Marginally raises the chance of stocking rare trade items.
+*Effect is not cumulative.
+BEFORE=【متجر】 تسهيل وصول
+AFTER=【متجر】 زيادة طفيفة في احتمالية وصول عناصر التجارة النادرة. (لا تتراكم التأثيرات من نفس النوع.)
+REASON=Incomplete translation; added missing details about rare trade items, chance increase, and non-cumulative effect.
+
+id=152401
+JA=フクロウ
+EN=Armor Corrosive
+BEFORE=بومة
+AFTER=تآكل الدروع
+REASON=Mistranslation: 'フクロウ' (fukurou) literally means 'owl', but in context of a skill (as per EN 'Armor Corrosive'), it refers to an effect. Changed to 'Armor Corrosion'.
+
+id=152438
+JA=武器をひとつ選択して
+敵単体にダメージを与え、
+物防ダウンの効果を2ターン付与する
+EN=Select a weapon and deal damage to a foe, and lower Phys. Def. for 2 turn(s).
+BEFORE=اختر سلاحًا واحدًا
+AFTER=اختر سلاحًا واحدًا وألحق ضررًا بهدف واحد من الأعداء، وخفّض دفاعه الفيزيائي لمدة دورين
+REASON=Corrected severe truncation; added missing parts of the sentence.
+
+id=152484
+JA=敵全体に速度と回避ダウンの効果を
+<skl_turn_count>付与する
+さらに、行動順が最後になる効果を
+2ターン付与する
+EN=Lower Speed/Evasion of all foes for <skl_turn_count> turn(s), and cause targets to act last for 2 turn(s). Dance skill.
+BEFORE=يمنح جميع الأعداء تأثير خفض السرعة والمراوغة
+AFTER=يمنح جميع الأعداء تأثير خفض السرعة والمراوغة لمدة <skl_turn_count> دورة، بالإضافة إلى تأثير يجعلهم يتصرفون أخيرًا لمدة دورتين.
+REASON=Mistranslation: The original Arabic was incomplete, missing the duration for speed/evasion debuff and the 'act last' effect with its duration.
+
+id=152510
+JA=敵単体に弓で大ダメージを与える
+与えたダメージに応じてJPを獲得する
+EN=Deal great bow damage to a foe, and obtain JP based on damage dealt.
+BEFORE=إلحاق ضرر كبير بهدف واحد بالسهام
+AFTER=إلحاق ضرر كبير بهدف واحد بالسهام.
+ويتم الحصول على نقاط JP بناءً على الضرر الذي تم إلحاقه.
+REASON=Incomplete translation; the second sentence was missing.
+
+id=152558
+JA=装備者が後衛にいるとき
+装備者の前衛の状態異常を無効化する
+EN=When the equipped character is in the back row, nullify status ailments of paired ally.
+BEFORE=عندما يكون المجهز في الصف الخلفي
+AFTER=عندما يكون المجهز في الصف الخلفي
+يتم إبطال تأثيرات الحالة السلبية للحليف الأمامي.
+REASON=Translation was incomplete; added missing text and line break to match Japanese source.
+
+id=152559
+JA=装備者が後衛にいるとき
+装備者の前衛は25%の確率で
+BPを消費しない
+EN=When the equipped character is in the back row, they will have a 25% chance to reduce paired ally's BP consumption to 0.
+BEFORE=عندما يكون المجهز في الصف الخلفي
+AFTER=عندما يكون المجهز في الصف الخلفي
+تكون هناك فرصة بنسبة 25% للحليف الأمامي
+لعدم استهلاك نقاط الطاقة.
+REASON=Translation was incomplete; added missing text and line breaks to match Japanese source.
+
+id=152560
+JA=ターン終了時に
+装備者が後衛にいるとき
+自身に属攻/属防アップの効果を
+<skl_turn_count>付与する
+EN=At the end of turn, raise the equipped character's Elem. Atk./Elem. Def. for <skl_turn_count> turn(s) when in the back row.
+BEFORE=عند نهاية الدور
+AFTER=عند نهاية الدور
+عندما يكون المجهز في الصف الخلفي
+يتم منحه تأثير زيادة الهجوم/الدفاع العنصري
+لمدة <skl_turn_count> دور.
+REASON=Translation was incomplete; added missing text and line breaks to match Japanese source.
+
+id=152561
+JA=属性攻撃を受けたとき
+50%の確率で攻撃する
+EN=Gain a 50% chance to counter elemental attacks.
+BEFORE=عند تلقي هجوم عنصري
+AFTER=عند تلقي هجوم عنصري
+تكون هناك فرصة بنسبة 50% للرد بالهجوم.
+REASON=Translation was incomplete; added missing text and line break to match Japanese source.
+
+id=152564
+JA=装備者が瀕死ではないとき
+HPが０になるダメージを
+受けてもHPが１残る
+EN=When the equipped character is not near death, they will survive an otherwise lethal attack with 1 HP remaining.
+BEFORE=عندما لا يكون المجهز في حالة احتضار
+AFTER=عندما لا يكون المجهز في حالة احتضار
+حتى لو تلقى ضرراً يؤدي إلى صفر نقاط صحة
+تبقى لديه نقطة صحة واحدة.
+REASON=Translation was incomplete; added missing text and line breaks to match Japanese source.
+
+id=152604
+JA=敵単体に槍でダメージを与え、
+敵がブレイク中ならブレイク復帰時の
+シールドを－１する効果を付与する
+EN=Deal polearm damage to a foe. If broken, lower Shield Points of target by 1 upon recovery.
+BEFORE=إلحاق الضرر بخصم واحد بالرمح،
+AFTER=إلحاق الضرر بخصم واحد بالرمح. إذا كان الخصم في حالة كسر التوازن، يمنح تأثيرًا يخفض درع الحماية الخاص به بمقدار 1 عند استعادة التوازن.
+REASON=Completed the translation; the original Arabic was incomplete and only covered the first clause of the Japanese sentence. Used glossary terms for 'Break' and 'Shield'.
+
+id=152605
+JA=味方全体に物攻アップの効果を
+<skl_turn_count>付与し、
+１回物理攻撃を回避する効果を付与
+EN=Raise Phys. Atk. of all allies for <skl_turn_count> turn(s), and grant them the ability to dodge physical attacks 1 time(s).
+BEFORE=إلحاق تأثير زيادة الهجوم المادي
+AFTER=يمنح جميع الحلفاء تأثير زيادة الهجوم المادي لمدة <skl_turn_count>، ويمنحهم تأثيرًا يسمح لهم بتفادي الهجمات الفيزيائية مرة واحدة.
+REASON=Completed the translation; the original Arabic was incomplete and only covered the first part of the Japanese sentence.
+
+id=152729
+JA=【拠点】関係性改善を
+ほんの少し値引きする
+※同種の効果は重複しない
+EN=[Hub] Marginally lowers cost to restore reputation.
+*Effect is not cumulative.
+BEFORE=【القاعدة】تحسين العلاقات
+AFTER=【القاعدة】تخفيض تكلفة تحسين العلاقات بشكل طفيف
+※لا تتراكم التأثيرات من النوع نفسه.
+REASON=Corrected mistranslation to include 'marginally lowers cost' and added the missing disclaimer and line break.
+
+id=152731
+JA=【拠点】料理個数を
+稀に増やす
+※同種の効果は重複しない
+EN=[Hub] Seldomly increases the number of dishes created.
+*Effect is not cumulative.
+BEFORE=【القاعدة】زيادة عدد الأطباق
+AFTER=【القاعدة】زيادة عدد الأطباق نادرًا
+※لا تتراكم التأثيرات من النوع نفسه.
+REASON=Corrected mistranslation to include 'seldomly' and added the missing disclaimer and line break.
+
+id=152732
+JA=【拠点】料理個数を
+たまに増やす
+※同種の効果は重複しない
+EN=[Hub] Occasionally increases the number of dishes created.
+*Effect is not cumulative.
+BEFORE=【القاعدة】زيادة عدد الأطباق
+AFTER=【القاعدة】زيادة عدد الأطباق أحيانًا
+※لا تتراكم التأثيرات من النوع نفسه.
+REASON=Corrected mistranslation to include 'occasionally' and added the missing disclaimer and line break.
+
+id=152735
+JA=【畑】生産速度を
+ほんの少し上げる
+※同種の効果は重複しない
+EN=[Fields] Marginally raises production speed.
+*Effect is not cumulative.
+BEFORE=【الحقل】زيادة سرعة الإنتاج
+AFTER=【الحقل】زيادة سرعة الإنتاج بشكل طفيف
+※لا تتراكم التأثيرات من النوع نفسه.
+REASON=Corrected mistranslation to include 'marginally' and added the missing disclaimer and line break.
+
+id=152741
+JA=【商店】売却額を上げる
+※同種の効果は重複しない
+EN=[Shop] Raises selling price.
+*Effect is not cumulative.
+BEFORE=【متجر】 زيادة مبلغ البيع
+AFTER=【المتجر】زيادة مبلغ البيع
+※لا تتراكم التأثيرات من النوع نفسه.
+REASON=Standardized 'متجر' to 'المتجر' and added the missing disclaimer and line break.
+
+id=152743
+JA=【商店】交易の入荷間隔を
+早める
+※同種の効果は重複しない
+EN=[Shop] Shortens time between trade item deliveries.
+*Effect is not cumulative.
+BEFORE=【متجر】 تسريع فترات
+AFTER=【المتجر】تسريع فترات توريد عناصر التجارة
+※لا تتراكم التأثيرات من النوع نفسه.
+REASON=Completed the incomplete sentence to include 'deliveries' and 'trade items', standardized 'متجر' to 'المتجر', and added the missing disclaimer and line break.
+
+id=152744
+JA=【教会】支援者を呼び出した時
+稀に回数が消費されないことがある
+※同種の効果は重複しない
+EN=[Church] Seldom chance to summon a helper without expending a use count.
+*Effect is not cumulative.
+BEFORE=【كنيسة】 عند استدعاء الداعم،
+AFTER=【الكنيسة】عند استدعاء الداعم، هناك فرصة نادرة لعدم استهلاك عدد مرات الاستخدام
+※لا تتراكم التأثيرات من النوع نفسه.
+REASON=Completed the incomplete sentence to include 'rare chance' and 'use count not consumed', standardized 'كنيسة' to 'الكنيسة', and added the missing disclaimer and line break.
+
+id=152745
+JA=【教会】支援者に誘った時の
+呼び出し回数を＋１する
+※同種の効果は重複しない
+EN=[Church] Adds 1 to the helper's original use count.
+*Effect is not cumulative.
+BEFORE=【كنيسة】 زيادة عدد مرات
+AFTER=【الكنيسة】زيادة عدد مرات استدعاء الداعم بمقدار +1 عند دعوته
+※لا تتراكم التأثيرات من النوع نفسه.
+REASON=Completed the incomplete sentence to include 'summon count' and 'when inviting a supporter', standardized 'كنيسة' to 'الكنيسة', and added the missing disclaimer and line break.
+
+id=152746
+JA=【教会】支援者に誘った時の
+呼び出し回数を＋２する
+※同種の効果は重複しない
+EN=[Church] Adds 2 to the helper's original use count.
+*Effect is not cumulative.
+BEFORE=【كنيسة】 زيادة عدد مرات
+AFTER=【الكنيسة】زيادة عدد مرات استدعاء الداعم بمقدار +2 عند دعوته
+※لا تتراكم التأثيرات من النوع نفسه.
+REASON=Completed the incomplete sentence to include 'summon count' and 'when inviting a supporter', standardized 'كنيسة' to 'الكنيسة', and added the missing disclaimer and line break.
+
+id=152747
+JA=【牧場】収獲量を
+増加しやすくする
+※同種の効果は重複しない
+EN=[Ranch] Raises the chance of a bigger yield.
+*Effect is not cumulative.
+BEFORE=【مزرعة】 تسهيل زيادة
+AFTER=【المزرعة】تسهيل زيادة كمية الحصاد
+※لا تتراكم التأثيرات من النوع نفسه.
+REASON=Completed the incomplete sentence to include 'yield', standardized 'مزرعة' to 'المزرعة', and added the missing disclaimer and line break.
+
+id=152748
+JA=【牧場】生産速度を
+ほんの少し上げる
+※同種の効果は重複しない
+EN=[Ranch] Marginally raises production speed.
+*Effect is not cumulative.
+BEFORE=【مزرعة】 زيادة سرعة الإنتاج
+AFTER=【المزرعة】زيادة سرعة الإنتاج بشكل طفيف
+※لا تتراكم التأثيرات من النوع نفسه.
+REASON=Corrected mistranslation to include 'marginally', standardized 'مزرعة' to 'المزرعة', and added the missing disclaimer and line break.
+
+id=152750
+JA=【牧場】ヒツジから
+「刈りたての羊毛」を収獲する
+※同種の効果は重複しない
+EN=[Ranch] Obtain freshly shorn fleece from sheep.
+*Effect is not cumulative.
+BEFORE=【مزرعة】 حصاد "صوف مقصوص حديثًا"
+AFTER=【المزرعة】حصاد "صوف مقصوص حديثًا" من الأغنام
+※لا تتراكم التأثيرات من النوع نفسه.
+REASON=Added 'من الأغنام' for 'from sheep', standardized 'مزرعة' to 'المزرعة', and added the missing disclaimer and line break.
+
+id=152751
+JA=【訓練所】EXP獲得量を
+ほんの少し増やす
+※同種の効果は重複しない
+EN=[Training Ground] Marginally increases EXP obtained.
+*Effect is not cumulative.
+BEFORE=【معسكر تدريب】 زيادة كمية
+AFTER=【معسكر التدريب】زيادة كمية الخبرة المكتسبة بشكل طفيف
+※لا تتراكم التأثيرات من النوع نفسه.
+REASON=Completed the incomplete sentence to include 'EXP obtained' and 'marginally', used glossary term 'الخبرة', standardized 'معسكر تدريب' to 'معسكر التدريب', and added the missing disclaimer and line break.
+
+id=152752
+JA=【訓練所】EXP獲得量を増やす
+※同種の効果は重複しない
+EN=[Training Ground] Increase EXP obtained.
+*Effect is not cumulative.
+BEFORE=【معسكر تدريب】 زيادة كمية
+AFTER=【معسكر التدريب】زيادة كمية الخبرة المكتسبة
+※لا تتراكم التأثيرات من النوع نفسه.
+REASON=Completed the incomplete sentence to include 'EXP obtained', used glossary term 'الخبرة', standardized 'معسكر تدريب' to 'معسكر التدريب', and added the missing disclaimer and line break.
+
+id=152753
+JA=【訓練所】JP獲得量を
+ほんの少し増やす
+※同種の効果は重複しない
+EN=[Training Ground] Marginally increases JP obtained.
+*Effect is not cumulative.
+BEFORE=【معسكر تدريب】 زيادة كمية
+AFTER=【معسكر التدريب】زيادة كمية نقاط المهنة المكتسبة بشكل طفيف
+※لا تتراكم التأثيرات من النوع نفسه.
+REASON=Completed the incomplete sentence to include 'JP obtained' and 'marginally', used 'نقاط المهنة' for JP, standardized 'معسكر تدريب' to 'معسكر التدريب', and added the missing disclaimer and line break.
+
+id=152754
+JA=【訓練所】JP獲得量を
+増やす
+※同種の効果は重複しない
+EN=[Training Ground] Increases JP obtained.
+*Effect is not cumulative.
+BEFORE=【معسكر تدريب】 زيادة كمية
+AFTER=【معسكر تدريب】 تزيد من نقاط الوظيفة المكتسبة.
+*لا تتراكم التأثيرات من النوع نفسه.
+REASON=The original Arabic was incomplete. Translated the full effect description and the non-cumulative note. Used 'نقاط الوظيفة' for JP (Job Points).
+
+id=152755
+JA=【魔物闘技場】EXP獲得量を増やす
+※同種の効果は重複しない
+EN=[Monster Arena] Increases EXP obtained.
+*Effect is not cumulative.
+BEFORE=【حلبة وحوش】 زيادة كمية
+AFTER=【حلبة وحوش】 تزيد من نقاط الخبرة المكتسبة.
+*لا تتراكم التأثيرات من النوع نفسه.
+REASON=The original Arabic was incomplete. Translated the full effect description and the non-cumulative note. Used 'نقاط الخبرة' for EXP (Experience Points).
+
+id=152756
+JA=【魔物闘技場】EXP獲得量を
+大きく増やす
+※同種の効果は重複しない
+EN=[Monster Arena] Greatly increases EXP obtained.
+*Effect is not cumulative.
+BEFORE=【حلبة وحوش】 زيادة كمية
+AFTER=【حلبة وحوش】 تزيد بشكل كبير من نقاط الخبرة المكتسبة.
+*لا تتراكم التأثيرات من النوع نفسه.
+REASON=The original Arabic was incomplete. Translated the full effect description including 'بشكل كبير' for 'greatly increase', and the non-cumulative note.
+
+id=152757
+JA=【畑】リーフで肥料を購入して
+畑の収穫量を増やすことができる
+※同種の効果は重複しない
+EN=[Fields] Use leaves to purchase fertilizer to increase the yield.
+*Effect is not cumulative.
+BEFORE=【حقل】 يمكن زيادة كمية
+AFTER=【حقل】 يمكن شراء السماد باستخدام الأوراق لزيادة محصول الحقل.
+*لا تتراكم التأثيرات من النوع نفسه.
+REASON=The original Arabic was incomplete. Translated the full effect description and the non-cumulative note. Used 'الأوراق' for 'leaves (currency)' as per glossary.
+
+id=152758
+JA=【牧場】リーフで飼料を購入して
+牧場の収獲量を増やすことができる
+※同種の効果は重複しない
+EN=[Ranch] Use leaves to purchase fodder to increase the yield.
+*Effect is not cumulative.
+BEFORE=【مزرعة】 يمكن زيادة كمية
+AFTER=【مزرعة】 يمكن شراء العلف باستخدام الأوراق لزيادة محصول المزرعة.
+*لا تتراكم التأثيرات من النوع نفسه.
+REASON=The original Arabic was incomplete. Translated the full effect description and the non-cumulative note. Used 'الأوراق' for 'leaves (currency)' as per glossary.
+
+id=152759
+JA=【商店】交易品の購入額を
+倍にする代わりに
+特殊なアイテムを入荷することがある
+※同種の効果は重複しない
+EN=[Shop] Doubles the purchase price of trade items for a chance to stock special items.
+*Effect is not cumulative.
+BEFORE=【متجر】 مضاعفة سعر شراء
+AFTER=【متجر】 مضاعفة سعر شراء السلع التجارية مقابل فرصة لتوفير عناصر خاصة.
+*لا تتراكم التأثيرات من النوع نفسه.
+REASON=The original Arabic was incomplete. Translated the full effect description and the non-cumulative note.
+
+id=152790
+JA=敵全体の弱点を全て発見し
+弱点ダメージがアップする
+効果を<skl_turn_count>付与する
+EN=Discover weak points of all foes, and raise weak point damage for <skl_turn_count> turn(s).
+BEFORE=اكتشاف جميع نقاط ضعف الأعداء
+AFTER=اكتشاف جميع نقاط ضعف الأعداء، وتطبيق تأثير زيادة الضرر على نقاط الضعف لمدة <skl_turn_count> دورة.
+REASON=Incomplete translation; added missing parts about increasing weak point damage and turn count.
+
+id=152791
+JA=自身に物攻/物防アップの効果と
+かばう効果を<skl_turn_count>付与
+HPが０になるダメージを受けても
+一度だけHPが１残る効果を付与する
+EN=Raise own Phys. Atk./Phys. Def., and take damage in place of allies for <skl_turn_count> turn(s). Survive an otherwise lethal attack with 1 HP remaining (one time only).
+BEFORE=تطبيق تأثير زيادة الهجوم/الدفاع المادي
+AFTER=تطبيق تأثير زيادة الهجوم/الدفاع المادي على الذات، وتأثير الحماية لمدة <skl_turn_count> دورة، وتأثير البقاء بنقطة صحة واحدة عند تلقي ضرر مميت لمرة واحدة.
+REASON=Incomplete translation; added missing parts about self-buffs, guarding, and surviving lethal damage.
+
+id=152792
+JA=ランダムなターゲットに
+扇でダメージを５回与える
+魅惑状態の敵に威力アップ
+EN=Deal fan damage to random foes 5 time(s). More potent if target is enchanted.
+BEFORE=إلحاق الضرر 5 مرات بمستهدف عشوائي
+AFTER=إلحاق الضرر بالمروحة 5 مرات بمستهدف عشوائي. يزداد التأثير إذا كان الهدف في حالة إغواء.
+REASON=Incomplete translation; added missing parts about fan damage and increased potency against enchanted targets.
+
+id=152793
+JA=敵全体に剣でダメージを２回与える
+自身に“神聖なる宿火”付与時
+さらにダメージを与える
+EN=Deal sword damage to all foes 2 time(s). Deal more damage if graced with Divine Flame.
+BEFORE=إلحاق الضرر مرتين بالعدو بأكمله
+AFTER=إلحاق الضرر بالسيف مرتين بالعدو بأكمله. يزداد الضرر إذا كان المستخدم تحت تأثير "الشعلة الإلهية".
+REASON=Incomplete translation; added missing parts about sword damage and increased damage with Divine Flame.
+
+id=152794
+JA=SPを全て消費して
+敵全体に無属性のダメージを与える
+消費SPが多いほど威力が増加する
+EN=Use all your SP, then deal non-elemental damage to all foes. More potent the more SP spent.
+BEFORE=استهلاك كل نقاط المهارة
+AFTER=استهلاك كل نقاط المهارة، ثم إلحاق ضرر غير عنصري بجميع الأعداء. يزداد التأثير كلما زادت نقاط المهارة المستهلكة.
+REASON=Incomplete translation; added missing parts about dealing non-elemental damage and potency based on SP spent.
+
+id=153110
+JA=武器をひとつ選択して
+敵単体にダメージを与え、
+物防ダウンの効果を2ターン付与する
+EN=Select a weapon and deal damage to a foe, and lower Phys. Def. for 2 turn(s).
+BEFORE=اختر سلاحاً واحداً
+AFTER=اختر سلاحًا واحدًا وألحق ضررًا بعدو واحد، ثم طبق تأثير خفض الدفاع الفيزيائي لمدة دورتين.
+REASON=Incomplete translation; added missing parts of the skill description.
+
+id=153114
+JA=敵単体に自身の良い効果を全て消して
+槍でダメージを与える
+消えた個数が多いほど威力が増加する
+EN=Nullify own positive status effects, then deal polearm damage to a foe. More potent the more status effects nullified.
+BEFORE=قم بإزالة جميع التأثيرات الإيجابية الخاصة بك
+AFTER=قم بإزالة جميع التأثيرات الإيجابية الخاصة بك، ثم ألحق ضررًا بالرمح بعدو واحد. تزداد القوة كلما زاد عدد التأثيرات التي أزلتها.
+REASON=Incomplete translation; added missing parts of the skill description.
+
+id=153120
+JA=自身のHPを回復し、
+物防アップの効果を<skl_turn_count>付与する
+EN=Restore own HP, and raise own Phys. Def. for <skl_turn_count> turn(s).
+BEFORE=يستعيد نقاط الصحة الخاصة به،
+AFTER=يستعيد نقاط الصحة الخاصة به، ويرفع دفاعه الفيزيائي لمدة <skl_turn_count> دورة.
+REASON=Incomplete translation; added missing parts of the skill description and preserved placeholder.
+
+id=153125
+JA=敵全体に弓でダメージを与える
+味方前衛全体に
+与えたダメージの２％分SP回復
+EN=Deal bow damage to all foes, and restore SP equal to 2% of damage dealt to the entire front row.
+BEFORE=يلحق ضررًا بالعدو بأكمله باستخدام القوس
+AFTER=يلحق ضررًا بجميع الأعداء باستخدام القوس، ويستعيد نقاط المهارة (SP) لجميع الحلفاء في الصف الأمامي بنسبة 2% من الضرر الذي ألحقه.
+REASON=Incomplete translation; added missing parts of the skill description and improved phrasing for 'all foes'.
+
+id=153136
+JA=味方単体に次に受けるダメージの
+<skl_boostcol>50</skl_boostcol>％分を軽減する効果を付与する
+EN=Grant a shield to an ally, reducing damage taken from the next hit by <skl_boostcol>50</skl_boostcol>%.
+BEFORE=يمنح هدفًا واحدًا من الحلفاء تأثيرًا يخفف
+AFTER=يمنح هدفًا واحدًا من الحلفاء تأثيرًا يخفف الضرر التالي الذي يتلقاه بنسبة <skl_boostcol>50</skl_boostcol>%.
+REASON=The original translation was incomplete, missing the specific effect details: 'reducing damage taken from the next hit by <skl_boostcol>50</skl_boostcol>%'.
+
+id=153137
+JA=装備者が後衛にいるとき
+装備者の前衛に
+HP自動回復の効果を付与する
+EN=When the equipped character is in the back row, grant HP restoration to paired ally.
+BEFORE=عندما يكون المجهز في الصف الخلفي،
+AFTER=عندما يكون المجهز في الصف الخلفي، يمنح الصف الأمامي للمجهز تأثير الاستعادة التلقائية لنقاط الصحة.
+REASON=The original translation was incomplete, missing the effect granted: 'grant HP restoration to paired ally'.
+
+id=153140
+JA=アビリティでHPを回復したとき
+対象の強化効果を１ターン延ばす
+EN=When using an HP recovery skill, extend duration of target's augmenting effects by 1 turn.
+BEFORE=عند استعادة نقاط الصحة بالقدرة،
+AFTER=عند استعادة نقاط الصحة بالقدرة، يمدد مدة التأثيرات المعززة للهدف لمدة دور واحد.
+REASON=The original translation was incomplete, missing the effect: 'extend duration of target's augmenting effects by 1 turn'.
+
+id=153151
+JA=装備者が後衛にいるとき
+装備者の前衛は25%の確率で
+BPを消費しない
+EN=When the equipped character is in the back row, they will have a 25% chance to reduce paired ally's BP consumption to 0.
+BEFORE=عندما يكون المجهز في الصف الخلفي،
+AFTER=عندما يكون المجهز في الصف الخلفي، يكون لدى الصف الأمامي للمجهز فرصة 25% لعدم استهلاك نقاط الطاقة.
+REASON=The original translation was incomplete, missing the effect: 'they will have a 25% chance to reduce paired ally's BP consumption to 0'. Used glossary term 'نقاط الطاقة' for BP.
+
+id=153162
+JA=ターン終了時に
+装備者が後衛にいるとき
+前衛全体の必殺ゲージが少し増加する
+EN=At the end of turn, slightly fill the ultimate technique gauge of the entire front row when the equipped character is in the back row.
+BEFORE=عند نهاية الدور،
+AFTER=عند نهاية الدور، عندما يكون المجهز في الصف الخلفي، يزداد مقياس التقنية القصوى للصف الأمامي بأكمله قليلًا.
+REASON=The original translation was incomplete, missing the effect: 'slightly fill the ultimate technique gauge of the entire front row when the equipped character is in the back row'.
+
+id=153182
+JA=装備者が瀕死ではないとき
+HPが０になるダメージを
+受けてもHPが１残る
+EN=When the equipped character is not near death, they will survive an otherwise lethal attack with 1 HP remaining.
+BEFORE=عندما لا يكون مرتدي العتاد على وشك الموت،
+AFTER=عندما لا يكون مرتدي العتاد على وشك الموت،
+فإنه ينجو من الهجوم الذي يودي بحياته ويبقى لديه نقطة صحة واحدة.
+REASON=Completed the translation for the second part of the sentence and added missing line breaks.
+
+id=153184
+JA=装備者は戦闘中の技の
+消費SPが半分になる
+EN=Halves SP required for the equipped character's skills.
+BEFORE=يقل استهلاك نقاط المهارة
+AFTER=يخفض استهلاك نقاط المهارة لمهارات مرتدي العتاد في المعركة إلى النصف.
+REASON=Completed the translation to specify 'equipped character' and 'halves SP', and improved flow.
+
+id=153357
+JA=「たたかう」で攻撃したとき
+ダメージ１%分のSPを回復する
+EN=Restore SP equal to 1% of damage dealt when using "Attack."
+BEFORE=عند الهجوم باستخدام "قتال"
+AFTER=عند الهجوم باستخدام "قتال"، تُستعاد نقاط المهارة بنسبة 1% من الضرر الذي أُلحق.
+REASON=The original Arabic was an incomplete translation, missing the 'restore SP equal to 1% of damage dealt' part. Used 'نقاط المهارة' for SP as per glossary.
+
+id=153359
+JA=ブレイク中の敵を攻撃するとき
+複数回攻撃アビリティの威力アップ
+EN=Raise the potency of multiple-hit attacks against broken foes.
+BEFORE=عند مهاجمة عدو في حالة كسر
+AFTER=عند مهاجمة عدو في حالة كسر التوازن، تزداد قوة قدرات الهجوم المتعدد.
+REASON=The original Arabic was an incomplete translation, missing the 'raise the potency of multiple-hit attacks' part. Used 'كسر التوازن' for 'Break' as per glossary.
+
+id=153365
+JA=武器をひとつ選択して
+敵単体にダメージを与え、
+弱点に関係なく
+シールドポイントを削る
+EN=Select a weapon and deal damage to a foe. Lower Shield Points regardless of target's weak points.
+BEFORE=اختر سلاحًا واحدًا
+AFTER=اختر سلاحًا واحدًا وألحق الضرر بعدو واحد، مع خفض نقاط الدرع بغض النظر عن نقاط ضعف الهدف.
+REASON=The original Arabic was an incomplete translation, missing the 'deal damage to a foe. Lower Shield Points regardless of target's weak points' part.
+
+id=153371
+JA=敵単体に斧でダメージを与える
+後衛から出てきて攻撃すると
+自身のHPを回復する
+EN=Deal axe damage to a foe. Restore own HP if attacking from the back row.
+BEFORE=يلحق الضرر بهدف واحد بالفأس
+AFTER=يلحق الضرر بهدف واحد بالفأس
+ويستعيد نقاط صحته إذا هاجم من الصف الخلفي.
+REASON=Arabic translation was incomplete; added the missing 'Restore own HP if attacking from the back row' part and preserved line breaks.
+
+id=153377
+JA=敵単体に弱点「毒」を
+<skl_turn_count>付与する
+EN=Make a foe weak to poison for <skl_turn_count> turn(s).
+BEFORE=إلحاق ضعف "السم"
+AFTER=إلحاق ضعف "السم" لعدو واحد
+لمدة <skl_turn_count> دور.
+REASON=Arabic translation was incomplete; added the missing 'to a foe' and 'for <skl_turn_count> turn(s)' parts and preserved the line break.
+
+id=153380
+JA=毒/出血/睡眠/麻痺/暗闇を
+付与されたとき
+その状態異常を相手に付与する
+EN=When inflicted with poison/bleeding/sleep/paralysis/blindness, inflict the same ailments back.
+BEFORE=عند التعرض لحالة
+AFTER=عند التعرض لحالات السم/النزيف/النوم/الشلل/العمى
+يتم إلحاق نفس الحالة بالخصم.
+REASON=Arabic translation was incomplete; added the list of ailments and the effect of inflicting them back, and preserved line breaks.
+
+id=153385
+JA=敵単体に行動順の最後に
+弓で特殊ダメージを３回与える
+ターン中、受けた攻撃回数が
+多いほど威力増加
+EN=At the end of turn, deal special bow damage to a foe 3 time(s). More potent the more hits taken that turn.
+BEFORE=إلحاق ضرر خاص 3 مرات
+AFTER=إلحاق ضرر خاص 3 مرات بقوس لعدو واحد
+في نهاية الدور. تزداد القوة كلما زاد عدد الهجمات التي تلقاها في ذلك الدور.
+REASON=Arabic translation was incomplete; added the missing details about target, weapon, timing, and potency increase, and preserved line breaks.
+
+id=153386
+JA=装備者はバトル勝利時に
+最大HP/SPの30%分を回復する
+EN=Restore 30% of the equipped character's max. HP and SP upon winning the battle.
+BEFORE=يستعيد المجهز 30% من
+AFTER=يستعيد المجهز 30% من نقاط الصحة القصوى ونقاط المهارة
+عند الفوز بالمعركة.
+REASON=Arabic translation was incomplete; added the missing 'max. HP and SP' and 'upon winning the battle' parts, and preserved the line break.
+
+id=153395
+JA=敵単体に
+氷属性のダメージを２回与える
+EN=Deal ice damage to a foe 2 time(s).
+BEFORE=إلحاق الضرر
+AFTER=إلحاق ضرر من عنصر الجليد لعدو واحد
+مرتين.
+REASON=Arabic translation was incomplete; added the missing 'to a foe', 'ice damage', and '2 time(s)' parts, and preserved the line break.
+
+id=153396
+JA=敵単体に
+弓で大ダメージを与える
+まれに対象を即死させる
+EN=Deal great bow damage to a foe, and gain a small chance to instantly kill target.
+BEFORE=إلحاق ضرر كبير
+AFTER=إلحاق ضرر كبير بقوس لعدو واحد
+مع فرصة ضئيلة لقتل الهدف فورًا.
+REASON=Arabic translation was incomplete; added the missing 'to a foe', 'bow damage', and 'small chance to instantly kill target' parts, and preserved line breaks.
+
+id=153399
+JA=後衛から交代時に攻撃した相手の
+ステータスダウン効果を
+１ターン延ばす
+EN=When switching from the back row, extend duration of attribute-reducing effects of target by 1 turn.
+BEFORE=تمديد تأثير خفض الإحصائيات
+AFTER=تمديد تأثير خفض الإحصائيات للخصم الذي تم الهجوم عليه
+عند التبديل من الصف الخلفي لمدة دور واحد.
+REASON=Arabic translation was incomplete; added the missing 'of target' and 'when switching from the back row' and 'by 1 turn' parts, and preserved line breaks.
+
+id=153414
+JA=敵単体に物攻ダウンの効果を
+<skl_turn_count>付与する
+EN=Lower Phys. Atk. of a foe for <skl_turn_count> turn(s).
+BEFORE=إلحاق تأثير خفض الهجوم الجسدي
+AFTER=يمنح هدفًا واحدًا من الأعداء تأثير خفض الهجوم الجسدي لـ <skl_turn_count> دور.
+REASON=Incomplete translation; missing the verb 'grant/apply' and the duration placeholder '<skl_turn_count>'.
+
+id=153415
+JA=敵単体に物防ダウンの効果を
+<skl_turn_count>付与する
+EN=Lower Phys. Def. of a foe for <skl_turn_count> turn(s).
+BEFORE=إلحاق تأثير خفض الدفاع الجسدي
+AFTER=يمنح هدفًا واحدًا من الأعداء تأثير خفض الدفاع الجسدي لـ <skl_turn_count> دور.
+REASON=Incomplete translation; missing the verb 'grant/apply' and the duration placeholder '<skl_turn_count>'.
+
+id=153432
+JA=装備者のHP/SPが回復するときの
+回復量が増加する
+EN=Raise the amount of HP/SP restored by the equipped character.
+BEFORE=تزداد كمية الاستشفاء
+AFTER=تزداد كمية نقاط الصحة/نقاط المهارة التي يستعيدها المرتدي.
+REASON=Incomplete translation; missed specifying HP/SP and 'by the equipped character'. Corrected SP term to 'نقاط المهارة' per glossary.
+
+id=153436
+JA=敵単体に弓で
+クリティカルダメージを与える
+EN=Deal critical bow damage to a foe.
+BEFORE=يلحق ضررًا حرجًا
+AFTER=يلحق ضررًا حرجًا بالقوس بهدف واحد من الأعداء.
+REASON=Incomplete translation; missed 'to a foe' and 'bow'.
+
+id=153438
+JA=敵全体に
+弓でダメージを５～８回与える
+EN=Deal bow damage to all foes 5 to 8 time(s).
+BEFORE=يلحق ضررًا بالجميع
+AFTER=يلحق ضررًا بالقوس بجميع الأعداء من 5 إلى 8 مرات.
+REASON=Incomplete translation; missed 'bow damage', '5 to 8 times', and specified 'جميع الأعداء' for 'all foes'.
+
+id=153444
+JA=味方前衛もしくは後衛全体の
+HPを回復する
+EN=Restore HP of the entire front row or entire back row.
+BEFORE=يستعيد نقاط حياة (HP)
+AFTER=يستعيد نقاط الصحة لجميع أفراد الخط الأمامي أو الخلفي من الحلفاء.
+REASON=Incomplete translation; missing the target ('entire front row or entire back row'). Used glossary term 'نقاط الصحة' for HP.
+

@@ -1,0 +1,242 @@
+=== id 20411 ===
+JA: 近寄らないで！
+汚れるわ！
+EN: Stay away from me!
+You'll soil my pristine fur!
+BEFORE: لا تقتربي!
+GEMINI: لا تقترب! 
+ستُلوّث فروي النظيف!
+REASON: The original Arabic translation was truncated, missing the second part of the dialogue. Changed 'لا تقتربي' to 'لا تقترب' to maintain player gender neutrality (generic masculine fallback for present tense verb). Added the second part 'ستُلوّث فروي النظيف!' and the line break as per the Japanese source.
+
+=== id 20413 ===
+JA: あげてもいいわよ
+EN: Sure, you can have it.
+BEFORE: يمكنني إعطاؤكِ إياه
+GEMINI: يمكنني إعطاؤكَ إياه
+REASON: Changed 'إعطاؤكِ' (feminine) to 'إعطاؤكَ' (masculine) to maintain player gender neutrality (generic masculine fallback for the pronoun).
+
+=== id 20419 ===
+JA: ジャマしないでよ
+EN: I'm a little busy.
+BEFORE: لا تعيقيني
+GEMINI: لا تعقني
+REASON: Changed 'لا تعيقيني' (feminine) to 'لا تعقني' (masculine) to maintain player gender neutrality (generic masculine fallback for present tense verb).
+
+=== id 20426 ===
+JA: 何かご用かしら？
+EN: Is there something you need?
+BEFORE: هل تحتاجين لشيء؟
+GEMINI: هل تحتاج لشيء؟
+REASON: Changed 'هل تحتاجين' (feminine) to 'هل تحتاج' (masculine) to maintain player gender neutrality (generic masculine fallback for present tense verb).
+
+=== id 20434 ===
+JA: ちょっと聞いてよ！
+EN: Won't someone listen to me!?
+BEFORE: اسمعيني قليلاً!
+GEMINI: اسمعني قليلاً!
+REASON: Changed 'اسمعيني' (feminine) to 'اسمعني' (masculine) to maintain player gender neutrality (generic masculine fallback for imperative verb).
+
+=== id 20443 ===
+JA: 知らない方がいいよ
+EN: You're better off not knowing.
+BEFORE: من الأفضل ألا تعرف
+GEMINI: من الأفضل ألا تعلم.
+REASON: Player-address gender-neutrality: 'تعرف' is masculine present tense. Changed to 'تعلم' (past tense) which is gender-neutral for the second person.
+
+=== id 20453 ===
+JA: これがほしいのか？
+ま、いいぜ
+EN: You want this? Then it's yours.
+BEFORE: هل تريد هذا؟
+GEMINI: هل أردت هذا؟
+حسناً، خذه.
+REASON: Mistranslation/Truncation: The original Arabic missed the second part of the dialogue. Re-translated fully, preserved line breaks, and used 'أردت' (past tense) for gender-neutrality when addressing the player.
+
+=== id 20458 ===
+JA: 何か聞きたそうだな
+EN: You look like you've got questions.
+BEFORE: يبدو أنك تريد أن تسأل عن شيء ما
+GEMINI: يبدو أنك أردت أن تسأل عن شيء ما.
+REASON: Player-address gender-neutrality: 'تريد' is masculine present tense. Changed to 'أردت' (past tense) which is gender-neutral for the second person.
+
+=== id 20466 ===
+JA: 話し相手になってくれるのか？
+EN: You want to baanter with me?
+BEFORE: هل ستكون رفيقي في الحديث؟
+GEMINI: هل أصبحت رفيقي في الحديث؟
+REASON: Player-address gender-neutrality: 'ستكون' is masculine present tense. Changed to 'أصبحت' (past tense) which is gender-neutral for the second person.
+
+=== id 20474 ===
+JA: ボクと遊んでくれるの？
+EN: You wanna hear my story?
+BEFORE: هل ستلعبين معي؟
+GEMINI: هل ستلعب معي؟
+REASON: Rephrased for gender-neutrality when addressing the player (changed 'ستلعبين' to generic masculine 'ستلعب').
+
+=== id 20501 ===
+JA: 躾けてほしいみたいね？
+EN: Shall I teach you some manners?
+BEFORE: يبدو أنكِ تريدين مني تأديبكِ؟
+GEMINI: يبدو أنك تريد مني تأديبك؟
+REASON: Corrected gender for player-address to generic masculine ('تريد' instead of 'تريدين') as per style guide.
+
+=== id 20503 ===
+JA: タコ殴りだーい！
+EN: This is gonna hurt—eight times
+more than usual!
+BEFORE: سأضربكِ ضرباً مبرحاً!
+GEMINI: سأضربك ضرباً مبرحاً!
+REASON: Corrected gender for player-address to generic masculine ('سأضربك' instead of 'سأضربكِ') as per style guide.
+
+=== id 20504 ===
+JA: <chara_name>という名の赤ん坊。
+満ち足りたような顔をして、
+幸せそうに眠っている。
+EN: A baby named <chara_name> who is fast asleep with a blissful look on their face.
+BEFORE: رضيع يدعى <chara_name>.
+GEMINI: طفل يدعى <chara_name>.
+بوجه يبدو عليه الرضا،
+وينام بسعادة.
+REASON: Provided full translation of the Japanese text, preserved line breaks, and used a more gender-neutral term for 'baby' ('طفل' instead of 'رضيع').
+
+=== id 20525 ===
+JA: 私の手が必要なのですね
+EN: I see you need my help.
+BEFORE: أنتِ بحاجة إلى يدي، أليس كذلك؟
+GEMINI: أنت بحاجة إلى مساعدتي، أليس كذلك؟
+REASON: Corrected gender for player-address to generic masculine ('أنت' instead of 'أنتِ') and used a more idiomatic translation ('مساعدتي' for 'my help' instead of 'يدي').
+
+=== id 20561 ===
+JA: 故郷を滅ぼされて
+復讐心に囚われた<chara_name>。
+黒き炎に身を焼かれている。
+EN: Their hometown destroyed, <chara_name> is consumed by the dark flame and instilled with a burning desire for vengeance.
+BEFORE: <chara_name> التي دُمر موطنها
+GEMINI: دُمر موطنه، و<chara_name> أسيرٌ لروح الانتقام، وجسده يحترق بلهيب أسود.
+REASON: The original Arabic translation was incomplete, missing the parts about being consumed by vengeance and burned by dark flames. Also, the original used a feminine relative pronoun 'التي', which was changed to a gender-neutral (default masculine) phrasing 'دُمر موطنه، و<chara_name> أسيرٌ لروح الانتقام، وجسده يحترق بلهيب أسود.' to align with the protagonist's customizable gender.
+
+=== id 20566 ===
+JA: ごめんなさい……
+EN: I'm sorry...
+BEFORE: أنا آسفة……
+GEMINI: أنا آسف……
+REASON: The original Arabic used the feminine form 'آسفة'. Changed to the default masculine 'آسف' as the speaker's gender is not specified and the protagonist is gender-customizable.
+
+=== id 20577 ===
+JA: 遥か東の国から来た剣士。
+東方では不敗を誇り、強者を求めオルステラを訪れた。
+剣の腕だけで貧民から這い上がってきたため、
+強さに絶対的な価値を置いている。
+<chara_name>を超える強さを身につけるため、
+より厳しい苦難の中で研鑽を積みたいと考えている。
+EN: A warrior who hails from the distant east, where she is undefeated. She has come to Orsterra in search of worthy opponents. Because she escaped poverty through her skill with the blade, she values strength above all else. Currently, she wants to pursue even more rigorous training so that she may one day surpass <chara_name>.
+BEFORE: سيافٌ جاء من بلادٍ بعيدة في الشرق.
+GEMINI: محاربة جاءت من بلاد بعيدة في الشرق.
+تفتخر بكونها لا تُقهر في الشرق، وقد زارت أورستيرا بحثًا عن الأقوياء.
+ولأنها شقت طريقها من الفقر بمهارتها في السيف، فإنها تولي القوة قيمة مطلقة.
+تطمح إلى صقل مهاراتها في مصاعب أشد قسوة لتكتسب قوة تفوق قوة <chara_name>.
+REASON: Incomplete translation; corrected gender to feminine (محاربة، جاءت، شقت، تولي، تطمح) as per EN source; preserved line breaks.
+
+=== id 20578 ===
+JA: 遥か東の国から来た剣士。
+東方では不敗を誇り、強者を求めオルステラを訪れた。
+剣の腕だけで貧民から這い上がり、
+いまやどんな魔物をも倒せる強さを身につけた。
+共に戦う中で<chara_name>の強さに感じ入り、
+いつか勝てる時が来る日を望んでいる。
+EN: A warrior who hails from the distant east, where she is undefeated. She has come to Orsterra in search of worthy opponents. She escaped from poverty through her skill with the blade, and is now strong enough to defeat any monster that stands before her. After fighting alongside <chara_name>, she has gotten a feel for their true strength and hopes to beat them someday.
+BEFORE: سيافٌ جاء من بلادٍ بعيدة في الشرق.
+GEMINI: محاربة جاءت من بلاد بعيدة في الشرق.
+تفتخر بكونها لا تُقهر في الشرق، وقد زارت أورستيرا بحثًا عن الأقوياء.
+شقت طريقها من الفقر بمهارتها في السيف، وأصبحت الآن قوية بما يكفي لهزيمة أي وحش.
+بعد قتالها إلى جانب <chara_name>، أدركت قوتهم الحقيقية وتأمل أن يأتي اليوم الذي تتمكن فيه من هزيمتهم.
+REASON: Incomplete translation; corrected gender to feminine (محاربة، جاءت، شقت، أصبحت، أدركت، تتمكن) as per EN source; preserved line breaks.
+
+=== id 20581 ===
+JA: リバーランドのはずれの小さな村出身の商人。
+おっとりしているように見えるが、商売勘は良い。
+ドニエスクに薬師の叔父が住んでおり、
+町の復興を気にかけている。
+EN: A merchant who grew up in a small village on the outskirts of the Riverlands. Though she seems like a gentle, simple sort, she has great business sense. She has an uncle who works as an apothecary in Donescu, and is concerned about their reconstruction efforts.
+BEFORE: تاجر من قرية صغيرة على أطراف ريفرلاند.
+GEMINI: تاجرة من قرية صغيرة على أطراف ريفرلاند.
+على الرغم من أنها تبدو هادئة وبسيطة، إلا أن لديها حسًا تجاريًا رائعًا.
+يعيش عمها الصيدلاني في دونيسكو، وهي قلقة بشأن جهود إعادة الإعمار هناك.
+REASON: Incomplete translation; corrected gender to feminine (تاجرة، تبدو، لديها، قلقة) as per EN source; preserved line breaks.
+
+=== id 20582 ===
+JA: リバーランドのはずれの小さな村出身の商人。
+おっとりしているように見えるが、商売勘は良い。
+ドニエスクの復興も心配なくなったので、
+これからはウィッシュベールを拠点にして
+商売の手を広げようと思っている。
+EN: A merchant who grew up in a small village on the outskirts of the Riverlands. Though she seems like a gentle, simple sort, she has great business sense. Now that the situation in Donescu has been resolved, she has decided to base herself in Wishvale and expand her business.
+BEFORE: تاجر من قرية صغيرة على أطراف ريفرلاند.
+GEMINI: تاجرة من قرية صغيرة على أطراف ريفرلاند.
+على الرغم من أنها تبدو هادئة وبسيطة، إلا أن لديها حسًا تجاريًا رائعًا.
+بعد أن زال القلق بشأن إعادة إعمار دونيسكو، قررت أن تتخذ ويشفيل قاعدة لها وتوسع نطاق تجارتها.
+REASON: Incomplete translation; corrected gender to feminine (تاجرة، تبدو، لديها، قررت، تتخذ، توسع) as per EN source; preserved line breaks.
+
+=== id 20585 ===
+JA: 子供の頃、実の父によって人買いに指輪と交換され、
+指輪に強い執着を持つようになった。
+今は指輪より<chara_name>に執着している。
+ウィッシュベールで暮らすうちに、
+幼い頃好きだった絵本のことを思い出した。
+EN: When she was a child, her birth father sold her off in exchange for a ring, causing her to develop a deep obsession with rings. Now she's more obsessed with <chara_name>. Living in Wishvale has reminded her of a picture book she loved when she was a little girl.
+BEFORE: في طفولته، تم بيعه من قبل والده الحقيقي مقابل خاتم، مما جعله يطور هوساً شديداً بالخاتم.
+GEMINI: في طفولتها، تم مبادلتها بخاتم من قبل والدها الحقيقي مع تاجر بشر، مما جعلها تطور هوسًا شديدًا بالخواتم.
+الآن، هي مهووسة بـ <chara_name> أكثر من الخواتم.
+أثناء إقامتها في ويشفيل، تذكرت كتاب صور كانت تحبه عندما كانت طفلة صغيرة.
+REASON: Incomplete translation; corrected gender to feminine (طفولتها، مبادلتها، جعلها، تطور، مهووسة، إقامتها، تذكرت، تحبه) as per EN source; preserved line breaks.
+
+=== id 20586 ===
+JA: 子供の頃、実の父によって人買いに指輪と交換され、
+指輪に強い執着を持つようになった。
+今は指輪より<chara_name>に執着している。
+ウィッシュベールは平和すぎて退屈だと言いながら、
+意外と気に入っているようだ。
+EN: When she was a child, her birth father sold her off in exchange for a ring, causing her to develop a deep obsession with rings. Now she's more obsessed with <chara_name>. Despite her claims that Wishvale is too peaceful for her tastes, she seems to have taken a liking to the town.
+BEFORE: في طفولته، تم بيعه من قبل والده الحقيقي مقابل خاتم، مما جعله يطور هوساً شديداً بالخاتم.
+GEMINI: في طفولتها، تم مبادلتها بخاتم من قبل والدها الحقيقي مع تاجر بشر، مما جعلها تطور هوسًا شديدًا بالخواتم.
+الآن، هي مهووسة بـ <chara_name> أكثر من الخواتم.
+على الرغم من ادعائها أن ويشفيل هادئة جدًا ومملة بالنسبة لذوقها، إلا أنها تبدو قد أحبت المدينة بشكل غير متوقع.
+REASON: Incomplete translation; corrected gender to feminine (طفولتها، مبادلتها، جعلها، تطور، مهووسة، ادعائها، تبدو، أحبت) as per EN source; preserved line breaks.
+
+=== id 20590 ===
+JA: 弟の治療薬を作るために各地を旅していた薬師。
+<chara_name>が手に入れてくれた薬草と書物のおかげで
+無事に弟を治療する薬を完成させることができた。
+今後はウィッシュベールの発展に尽くし、
+恩返しをしてくれるようだ。
+EN: An apothecary who was traveling around in order to craft a cure for her younger brother. Thanks to the medicinal herb and book provided by <chara_name>, she was able to do just that, and has now resolved to pay them back by devoting herself to Wishvale's development.
+BEFORE: صيدلاني كان يسافر إلى أماكن مختلفة لصنع دواء لأخيه.
+GEMINI: صيدلانية كانت تسافر إلى أماكن مختلفة لصنع دواء لأخيها.
+بفضل الأعشاب الطبية والكتاب اللذين وفرهما <chara_name>، تمكنت من إكمال دواء علاج أخيها بنجاح.
+يبدو أنها ستكرس نفسها لتطوير ويشفيل لرد الجميل.
+REASON: Incomplete translation; corrected gender to feminine (صيدلانية، كانت، أخيها، تمكنت، أخيها، تكرس) as per EN source; ensured gender-neutral phrasing for <chara_name> (وفرهما); preserved line breaks.
+
+=== id 20595 ===
+JA: ウィッシュベールの助祭。
+自分の犯した罪を償うため、
+町のためなら何でもするつもり。
+祖母なら何と言うだろう、と常に自分に問うている。
+EN: A deacon who serves Wishvale's church. She intends to do whatever she can for the town in order to make up for her past mistakes. Her grandmother is ever on her mind, and she constantly asks herself what Yaya would say in any given situation.
+BEFORE: مساعد في ويشفيل.
+GEMINI: مساعدة في ويشفيل.
+تنوي فعل أي شيء من أجل المدينة لتعويض الذنوب التي ارتكبتها.
+تسأل نفسها دائمًا: ماذا ستقول جدتي؟
+REASON: Incomplete translation; corrected gender to feminine (مساعدة، تنوي، ارتكبتها، تسأل) as per EN source; preserved line breaks.
+
+=== id 20596 ===
+JA: ウィッシュベールの助祭。
+自分の犯した罪を償うため、
+町のためなら何でもするつもり。
+祖母に代わって聖火を守ると誓う。
+EN: A deacon who serves Wishvale's church. She intends to do whatever she can for the town in order to make up for her past mistakes. Her grandmother once guarded the Sacred Flame, and she has vowed to do the same.
+BEFORE: مساعد في ويشفيل.
+GEMINI: مساعدة في ويشفيل.
+تنوي فعل أي شيء من أجل المدينة لتعويض الذنوب التي ارتكبتها.
+وتقسم على حماية الشعلة المقدسة نيابة عن جدتها.
+REASON: Incomplete translation; corrected gender to feminine (مساعدة، تنوي، ارتكبتها، تقسم) as per EN source; preserved line breaks.
+

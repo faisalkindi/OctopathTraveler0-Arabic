@@ -1,0 +1,365 @@
+========== 3520
+JA: 'その毒牙、獅子が\nへし折ってくれよう'
+BEFORE: 'سأقوم بكسر\nأنيابها السامة كأنه أسد'
+AR: 'سيكسر الأسد أنيابها السامة'
+REASON: "The original Arabic 'كأنه أسد' (as if he were a lion) implies the speaker is not actually a lion, which contradicts the established context where Mahrez is referred to as 'the Lion'. The Japanese '獅子がへし折ってくれよう' means 'The lion will break them'. The corrected Arabic 'سيكسر الأسد أنيابها السامة' (The lion will break its poisonous fangs) correctly reflects the speaker (Mahrez) referring to himself as the lion."
+========== 3597
+JA: 'そなたは我が国の誇る\n獅子だ'
+BEFORE: 'أنت أسدُ بلادي الفخور'
+AR: 'أنت الأسد الذي تفخر به بلادنا'
+REASON: "Rephrased for clearer meaning and better alignment with the Japanese '我が国の誇る獅子' (the lion our country is proud of), avoiding ambiguity of 'الفخور' modifying 'بلادي'."
+========== 3628
+JA: '父上が亡きいま\n私が王位を継承する'
+BEFORE: 'الآن بعد وفاة والدي'
+AR: 'الآن بعد وفاة والدي، سأخلفه في العرش.'
+REASON: "The original Arabic translation was incomplete; it only translated the first clause of the Japanese sentence. Added the second clause 'سأخلفه في العرش' (I will succeed him on the throne) to complete the meaning."
+========== 3629
+JA: 'お前は、リーヴェン王国に\n大使として赴いてもらう'
+BEFORE: 'سأرسلك إلى مملكة ليفين'
+AR: 'سأرسلك إلى مملكة ريڤن سفيرًا.'
+REASON: "The original Arabic translation was incomplete; it missed 'as ambassador'. Added 'سفيرًا' (as ambassador) to complete the meaning. Also updated 'ليفين' to 'ريڤن' for consistent transliteration of 'Riven'."
+========== 3667
+JA: 'どうか落ち着いてください\nエリカ様'
+BEFORE: 'أرجو أن تهدئي يا سمو الإيريكا'
+AR: 'أرجو أن تهدئي يا سمو الأميرة إريكا'
+REASON: "Improved honorific for 'Elrica-sama' to 'Princess Elrica' for consistency."
+========== 3668
+JA: 'この方がマフレズ様を殺し\n何になりましょう？'
+BEFORE: 'فماذا سيحدث لو قتل هذا الشخص سمو المافريز؟'
+AR: 'فماذا سيجني هذا الشخص من قتل سمو المافريز؟'
+REASON: "Changed 'what would happen' to 'what would he gain' to better reflect the nuance of '何になりましょう？' in context."
+========== 3681
+JA: '陛下は、玉座を守るために\n手を選ばぬおつもりです'
+BEFORE: 'جلالتكم، من أجل حماية العرش\nتنوي فعل أي شيء دون انتقاء'
+AR: 'جلالة الملك، من أجل حماية العرش، لا يتورع عن فعل أي شيء.'
+REASON: 'Corrected address from second person (جلالتكم) to third person (جلالة الملك) to match the Japanese source, and rephrased for naturalness.'
+========== 3768
+JA: '下層は遊びやすい\nって聞いたが……'
+BEFORE: 'سمعتُ أن الطابق السفلي سهل للعب……'
+AR: 'سمعتُ أن الأحياء الفقيرة مكانٌ جيدٌ للمتعة……'
+REASON: "Improved translation of '下層は遊びやすい' (slums are easy to enjoy) from 'الطابق السفلي سهل للعب' (lower floor is easy to play) to 'الأحياء الفقيرة مكانٌ جيدٌ للمتعة' (slums are a good place for entertainment) for better register and meaning."
+========== 3844
+JA: '私たちは、この村に\n立ち寄っただけだ'
+BEFORE: 'لقد مررنا\nبمجرد التوقف في هذه القرية'
+AR: 'لقد توقفنا في هذه القرية فحسب'
+REASON: "Rephrased for more natural flow and closer meaning to 'just stopped by'/'nothing more'."
+========== 3853
+JA: '僕らの問題ですから\n無理に巻き込むわけには……'
+BEFORE: 'إنها مشكلتنا نحن'
+AR: 'إنها مشكلتنا نحن، ولا يمكننا أن نُقحم الآخرين فيها قسراً……'
+REASON: 'The original Arabic was incomplete, missing the second part of the Japanese sentence about not involving others. Added the missing meaning and corrected ellipsis count.'
+========== 3854
+JA: 'そっちの強そうな人も\n同じ意見かい？'
+BEFORE: 'هل الشخص القوي الذي يقف هناك'
+AR: 'هل الشخص القوي الذي يقف هناك يوافق الرأي؟'
+REASON: "The original Arabic was incomplete, missing the question 'do they have the same opinion?'. Completed the sentence to match the Japanese meaning."
+========== 3856
+JA: '取り消せ\nさもなくば……'
+BEFORE: 'ألغِ الأمر'
+AR: 'تراجع عن قولك، وإلا……'
+REASON: "The original Arabic 'ألغِ الأمر' was too literal and missed the 'or else' part. Changed to a more natural 'تراجع عن قولك' and added the missing 'وإلا……' with correct ellipsis count."
+========== 3857
+JA: '言ったろ？\n腕には自信ありだって'
+BEFORE: 'ألم أقل لك؟'
+AR: 'ألم أقل لك؟ أنا واثق من قوتي.'
+REASON: "The original Arabic was incomplete, missing the second part of the Japanese sentence about being confident in one's strength."
+========== 3900
+JA: 'おいおい……せっかく\nこの堅物もやる気になったのに'
+BEFORE: 'مهلاً…… لقد تحمس هذا الرجل الجاد أخيراً.'
+AR: 'مهلاً…… لقد تحمس هذا الرجل الجاد أخيراً، فماذا تنتظر؟'
+REASON: "The original Arabic `مهلاً…… لقد تحمس هذا الرجل الجاد أخيراً.` lost the implied rhetorical question/contrast present in the Japanese `せっかくこの堅物もやる気になったのに` and English `C'mon, even this stubborn swordsman is on board!`. Added `فماذا تنتظر؟` to convey this nuance."
+========== 3984
+JA: 'ここはひとつ\n手を組まないかい？'
+BEFORE: 'هناك خيار واحد.\nألا نتشارك العمل؟'
+AR: 'ما رأيك أن نتعاون؟'
+REASON: "Rephrased for more natural and warm everyday MSA, closer to the nuance of 'What say we work together?' instead of 'There is one option. Shouldn't we share the work?'"
+========== 4108
+JA: '私とて、この会談を\n疑わなかった訳ではない'
+BEFORE: 'ليس الأمر أنني لم أشك في هذا الاجتماع.'
+AR: 'ليس الأمر أنني لم أشك في هذا الاجتماع.'
+REASON: 'Preserved line break from JA source.'
+========== 4248
+JA: 'そして、このソロンも\n刺客に消させようとした'
+BEFORE: 'وحاول أيضاً\nالتخلص من سولون هذا\nعن طريق القتلة'
+AR: 'وحاول أيضاً اغتيال سولون هذا'
+REASON: "Rephrased 'التخلص من سولون هذا عن طريق القتلة' to 'اغتيال سولون هذا' for conciseness and natural flow, while retaining the meaning of assassination."
+========== 4263
+JA: '微力ながら、私も\n戦に加わりましょう'
+BEFORE: 'رغم ضآلة جهدي، سأشاركُ'
+AR: 'رغم ضآلة جهدي، سأشارك'
+REASON: "Removed unnecessary damma from 'سأشاركُ' to adhere to light harakat policy."
+========== 4267
+JA: 'アルティニア王国へ帰還し\n敵の進軍に備えよう'
+BEFORE: 'لنعد إلى مملكة أرتينيا'
+AR: 'لنعد إلى مملكة ألتينيا ونستعد لزحف العدو.'
+REASON: "Corrected transliteration of 'Altinia' from 'أرتينيا' to 'ألتينيا' and added the missing translation for '敵の進軍に備えよう' (prepare for the enemy's advance)."
+========== 4270
+JA: '我がアルティニアが落ちれば\nもはや……'
+BEFORE: 'إذا سقطت أرتينيا الخاصة بنا'
+AR: 'إذا سقطت ألتينيا الخاصة بنا……'
+REASON: "Corrected transliteration of 'Altinia' from 'أرتينيا' to 'ألتينيا' and added missing ellipsis '……' to match the Japanese source."
+========== 4356
+JA: 'マフレズにも劣らぬ武と知を\n見込み後釜にしたのだ'
+BEFORE: 'لقد وضعتك في الخطوط الخلفية\nلأنني رأيت فيك شجاعة ومعرفة لا تقل عن مفرز'
+AR: 'لقد جعلتك خليفة له، لأنني رأيت فيك شجاعة ومعرفة لا تقل عن مافريز'
+REASON: "Mistranslation: 'وضعتك في الخطوط الخلفية' (placed you in the back lines) changed to 'جعلتك خليفة له' (made you his successor). Name 'مفرز' transliterated to 'مافريز'."
+========== 4359
+JA: 'マフレズは強くとも\n……甘い男でした'
+BEFORE: 'مفرز كان قوياً، لكنه\n……رجلٌ ضعيف'
+AR: 'مافريز كان قوياً، لكنه……رجلٌ ساذج'
+REASON: "Mistranslation: 'رجلٌ ضعيف' (weak man) changed to 'رجلٌ ساذج' (naive man) to better reflect '甘い男'. Name 'مفرز' transliterated to 'مافريز'."
+========== 4408
+JA: '百の兵法を知るという\n“賢王”ソロンの力だ'
+BEFORE: 'إنها قوة "الملك الحكيم" سورون، الذي يُقال إنه يعرف مئات أساليب الحرب'
+AR: 'إنها قوة "الملك الحكيم" سولون، الذي يُقال إنه يعرف مئات أساليب الحرب'
+REASON: "Ensured consistent transliteration of 'Solon' as 'سولون' instead of 'سورون'."
+========== 4426
+JA: '子鼠かどうか……\n試してみるといい'
+BEFORE: 'هل أنت مجرد فأر صغير……\nمن الأفضل أن تجرب'
+AR: 'فأر صغير أم لا…… جرب بنفسك'
+REASON: "The original Arabic 'هل أنت مجرد فأر صغير' (Are you just a little mouse?) was a mistranslation of the Japanese '子鼠かどうか……試してみるといい' (Whether [I am] a little mouse or not... you'd do well to try [to find out]). The corrected Arabic 'فأر صغير أم لا…… جرب بنفسك' (Little mouse or not... try it yourself) accurately reflects the speaker's challenge to the opponent to test them."
+========== 4450
+JA: '君には、これまで何度も\n助けてもらったな'
+BEFORE: 'لقد تلقيتُ المساعدة\nمنكِ مرات عديدة حتى الآن'
+AR: 'لقد ساعدتني مرات عديدة حتى الآن'
+REASON: 'Changed to gender-neutral phrasing for the player character (protagonist) by using a past-tense verb that is identical for both genders.'
+========== 4458
+JA: '俺は、“死の谷”を任せたと\n言ったはずだ'
+BEFORE: 'لقد قلتُ إنني وكلتُ إليكم "وادي الموت"\nأليس كذلك؟'
+AR: 'لقد قلتُ إنني وكلتُ إليك "وادي الموت"'
+REASON: 'Removed an added rhetorical question (`أليس كذلك؟`) not present in the Japanese source. Changed `إليكم` (plural/formal) to `إليك` (singular) assuming Krauser is addressing a single subordinate.'
+========== 4464
+JA: 'ゴンザレスを退け\n死の谷を越えたか……'
+BEFORE: 'أبعدوا غونزاليس\nهل عبر وادي الموت……'
+AR: 'أبعدت غونزاليس وعبرت وادي الموت……'
+REASON: 'Mistranslation of person and number. Changed from plural/3rd person to gender-neutral 2nd person singular (addressing the protagonist) and corrected the verb forms.'
+========== 4479
+JA: '何処とも知らぬ\n国の剣士め……'
+BEFORE: 'أيها السيف القادم من بلد مجهول……'
+AR: 'أيها المبارز القادم من بلد مجهول……'
+REASON: "Corrected 'السيف' (sword) to 'المبارز' (swordsman) to accurately reflect '剣士' in the Japanese source."
+========== 4568
+JA: '共に戦え……光栄だったのは\nわしの方です……'
+BEFORE: 'لنقاتل معاً…… لقد كان الشرف لي\nأنا من ناله……'
+AR: 'لقد قاتلنا معاً…… الشرف كان لي أنا……'
+REASON: "The original 'لنقاتل معاً…… لقد كان الشرف لي\nأنا من ناله……' (Let us fight together... the honor was mine, I am the one who attained it...) misinterpreted the context. The dying soldier is reflecting on past shared battles, not inviting the fleeing king to fight now. '共に戦え' (tomo ni tatakae) can be interpreted as a past reflection. Changed to 'لقد قاتلنا معاً…… الشرف كان لي أنا……' (We fought together... the honor was mine...) for better contextual fit and more natural phrasing."
+========== 4673
+JA: '事の危険さを分からぬ\n君ではあるまい'
+BEFORE: 'لا بد أنك لا تدرك خطورة الأمر\nأليس كذلك؟'
+AR: 'لا بد أنك تدركين خطورة الأمر'
+REASON: "Corrected meaning from 'You must not realize' to 'You must realize' to match the Japanese rhetorical question. Also corrected verb gender agreement from masculine (تدرك) to feminine (تدركين) for Alaune, and removed the extra 'أليس كذلك؟'."
+========== 4678
+JA: '首長様……どうか\n姉をお救いください'
+BEFORE: 'سموكم…… أرجوكم'
+AR: 'سموكم…… أرجوكم، أنقذوا أختي.'
+REASON: "Added the missing part of the sentence 'أنقذوا أختي' (save my sister) which was present in the Japanese source."
+========== 4681
+JA: '母君が亡くなったときは\n私も共に心を痛めた'
+BEFORE: 'عندما توفيت والدتكِ'
+AR: 'عندما توفيت والدتكِ، تألمتُ أنا أيضاً.'
+REASON: "Added the missing part 'تألمتُ أنا أيضاً' (I, too, grieved) to complete the sentence as per the Japanese source."
+========== 4682
+JA: '姉君のために力を尽くすと\n約束しよう'
+BEFORE: 'أعدك بأن أبذل قصارى جهدي من أجلك.'
+AR: 'أعدك بأن أبذل قصارى جهدي من أجل أختكِ.'
+REASON: "Corrected 'من أجلك' (for you) to 'من أجل أختكِ' (for your sister) as the promise is to help the sister, not the addressee."
+========== 4684
+JA: '私にも、エリカ王女と\n同じ歳の娘がいる'
+BEFORE: 'لديّ ابنة في نفس عمر الأميرة إريكا'
+AR: 'لديّ أنا أيضاً ابنة في نفس عمر الأميرة إريكا'
+REASON: "Added 'أنا أيضاً' (I, too) to reflect the 'も' particle in the Japanese source, meaning 'also' or 'too'."
+========== 4688
+JA: 'レブラントから\n使いガラスが来たの'
+BEFORE: 'وصلت زجاجة الاستخدام\nمن ريبرانت'
+AR: 'وصل طائر رسول من ليبرانت.'
+REASON: "Corrected the mistranslation of '使いガラス' (messenger bird) from 'زجاجة الاستخدام' (utility bottle) to 'طائر رسول'. Also, corrected the transliteration of 'レブラント' to 'ليبرانت' as per the glossary."
+========== 4695
+JA: 'あなた、いつの間に\nそんなに逞しくなったの？'
+BEFORE: 'متى أصبحتَ بهذه القوة؟'
+AR: 'متى أصبحتِ بهذه القوة؟'
+REASON: "Corrected the gender of the verb 'أصبحتَ' (you [masc.] became) to 'أصبحتِ' (you [fem.] became) as the addressee, Alaune, is female."
+========== 4697
+JA: '生きておられたか\nソロン王……'
+BEFORE: 'هل بقيت على قيد الحياة'
+AR: 'أنتَ حيٌّ، أيها الملك سولون……'
+REASON: "Rephrased for more natural expression 'أنتَ حيٌّ' (You are alive) instead of 'هل بقيت على قيد الحياة' (Did you remain alive?). Added the missing name 'أيها الملك سولون' (King Solon) and corrected the ellipsis count to match the Japanese source."
+========== 4701
+JA: 'パーディス王はもはや、暴君\n裁きが下されるであろう'
+BEFORE: 'الملك بارديس لم يعد سوى طاغية'
+AR: 'الملك بارديس لم يعد سوى طاغية، وسيُحكم عليه.'
+REASON: "The original Arabic was an incomplete translation of the Japanese. It missed the 'will be judged' part. Added 'وسيُحكم عليه' (and he will be judged) to complete the meaning."
+========== 4746
+JA: '……愚かにも\n祖国を捨て寝返ったがな'
+BEFORE: '……بغباءٍ،'
+AR: '……بغباءٍ، تخلت عن وطنها وانقلبت علينا.'
+REASON: "Completed the translation; the original Arabic omitted the second part of the Japanese sentence '祖国を捨て寝返ったがな' (she abandoned her homeland and defected/betrayed)."
+========== 4812
+JA: 'どちらが大切かを\n各国の王に問うたのですよ'
+BEFORE: 'لقد سألهم عن أيهما أهم'
+AR: 'لقد سأل ملوك الدول عن أيهما أهم'
+REASON: "Expanded 'سألهم' to 'سأل ملوك الدول' to be more specific and complete, matching the Japanese source '各国の王に問うた'."
+========== 4990
+JA: 'エル……エリカ王女と\n一緒に旅をしたとき……'
+BEFORE: 'في رحلة معاً……'
+AR: 'عندما سافرتُ مع إل…… الأميرة إيركا……'
+REASON: "Incomplete translation. The original Japanese includes the names 'El... Princess Elrica' which were missing from the draft."
+========== 5127
+JA: '俺が導いてみる\n親父に代わってな'
+BEFORE: 'سأفعل ذلك بدلاً من والدي'
+AR: 'سأقودها بدلاً من والدي'
+REASON: "More accurately reflects 'lead' from ja_text and en_text."
+========== 5185
+JA: '王女様が受けた矢は\n幸い急所を逸れました'
+BEFORE: 'السهم الذي تلقته سمو الأميرة'
+AR: 'السهم الذي تلقته سمو الأميرة، لحسن الحظ، أخطأ نقاطها الحيوية.'
+REASON: 'Completed the translation; the original was incomplete and missing the second half of the sentence.'
+========== 5186
+JA: 'しかし、未だ\n危険な状態にあります'
+BEFORE: 'ولكن، لا يزال'
+AR: 'ولكن، لا تزال في حالة خطيرة.'
+REASON: "Completed the translation; the original was incomplete and missing the second half of the sentence. Ensured feminine agreement for 'تزال'."
+========== 5258
+JA: 'この戦は\n兵の士気にかかっています'
+BEFORE: 'هذه المعركة'
+AR: 'هذه المعركة تعتمد على معنويات الجنود.'
+REASON: "The original Arabic only translated the first part of the Japanese sentence ('This battle'). Added the missing clause 'تعتمد على معنويات الجنود' (depends on the morale of the soldiers) to complete the meaning."
+========== 5259
+JA: 'わたしも戦地に赴きます\n行きましょう'
+BEFORE: 'سأذهب إلى ساحة المعركة أيضًا'
+AR: 'سأذهب إلى ساحة المعركة أيضًا. هيا بنا.'
+REASON: "The original Arabic only translated the first part of the Japanese sentence ('I too will go to the battlefield'). Added 'هيا بنا.' (Let's go.) to translate the second part '行きましょう'."
+========== 5263
+JA: '戦場で貴方様を見たなら\n殺せと'
+BEFORE: 'إذا رأيتَ سموَّك في ساحة المعركة'
+AR: 'إذا رأيتُ سموَّكِ في ساحة المعركة، فالأمر هو أن أقتلكِ.'
+REASON: "The original Arabic was an incomplete sentence and had incorrect subject/gender agreement. Completed the sentence by adding 'فالأمر هو أن أقتلكِ' (the order is to kill you). Corrected the verb from 'رأيتَ' (you saw/see, masc.) to 'رأيتُ' (I saw/see) to match the speaker (Krauser). Corrected the addressee's gender from 'سموَّك' (Your Highness, masc.) to 'سموَّكِ' (Your Highness, fem.) and the verb 'أقتلك' to 'أقتلكِ' to match Alaune's gender."
+========== 5330
+JA: '一緒にぶちかまそうぜ\nアラウネ様よ'
+BEFORE: 'لنقم بذلك معاً'
+AR: 'لننطلق معاً بقوة، يا أميرة ألاون!'
+REASON: "Corrected the generic 'لنقم بذلك معاً' to a more forceful and complete phrase 'لننطلق معاً بقوة، يا أميرة ألاون!' to capture the aggressive tone of 'ぶちかまそうぜ' and include the address."
+========== 5337
+JA: 'よもや、お前が\n余の前に立とうとはな……'
+BEFORE: 'لم أتوقع أبداً أنك'
+AR: 'لم أتوقع أبداً أن تقفي أمامي……'
+REASON: 'Completed the translation, which was incomplete, and added the missing ellipsis to match the Japanese source.'
+========== 5339
+JA: '其処に立つ者は\n何人たりとも容赦せん'
+BEFORE: 'من يقف هناك'
+AR: 'من يقف هناك، لن أرحمه أياً كان.'
+REASON: "Completed the translation, which was incomplete, to convey the full meaning of 'I will show no mercy to anyone who stands there'."
+========== 7044
+JA: 'しかし、光栄です\nあなたにお会いできるとは……'
+BEFORE: 'ولكن، إنه لشرفٌ لي'
+AR: 'ولكن، إنه لشرفٌ لي أن ألتقي بك……'
+REASON: "Incomplete translation and missing ellipsis; added 'أن ألتقي بك' (to meet you) to complete the sentence and restored the ellipsis '……' to match the Japanese source."
+========== 7048
+JA: '緋翼にも、タイタスに\n反発する者がおりました'
+BEFORE: 'كان هناك من يعارض رينيو وتايتوس'
+AR: 'كان هناك من يعارض تايتوس في الجناح القرمزي أيضاً.'
+REASON: "Mistranslation; the original Arabic incorrectly added 'رينيو' (Rinyuu) which is not present in the Japanese source. Corrected to reflect 'those who rebelled against Tytos in the Scarlet Wings'."
+========== 7082
+JA: '集まってもらったのは\n他でもない……'
+BEFORE: 'لقد جمعتكم هنا'
+AR: 'لقد جمعتكم هنا لسبب مهم……'
+REASON: "Mistranslation/Omission: '他でもない' implies 'for a very important reason'. The original Arabic 'لقد جمعتكم هنا' was incomplete. Added 'لسبب مهم' (for an important reason) and the missing ellipsis."
+========== 7083
+JA: '教会の権威者が\n相次いで殺されている件じゃ'
+BEFORE: 'إنها مسألة مقتلُ'
+AR: 'إنها قضية قتل متتالٍ لشخصيات الكنيسة المرموقة.'
+REASON: "Incomplete translation and grammatical issue. Rephrased to capture 'leaders of the church' and 'one after another'."
+========== 7085
+JA: 'きやつらの狙いはおそらく\n……粛清じゃ'
+BEFORE: 'هدفهم على الأرجح'
+AR: 'هدفهم على الأرجح…… التطهير.'
+REASON: "Incomplete translation. Added 'التطهير' (the purge) and preserved the ellipsis count."
+========== 7087
+JA: '高位の者を消していき\n教会を乗っ取る気であろう'
+BEFORE: 'يبدو أنه يخطط للقضاء على ذوي المكانة العالية'
+AR: 'يبدو أنهم يخططون للقضاء على ذوي المكانة العالية والاستيلاء على الكنيسة.'
+REASON: "Corrected subject-verb agreement from singular ('يبدو أنه يخطط') to plural ('يبدو أنهم يخططون') and completed the translation by adding 'والاستيلاء على الكنيسة' (and seize control of the church)."
+========== 7092
+JA: '“選ばれし者”よ\nよくぞ来てくれた'
+BEFORE: '"أيها المختار"'
+AR: 'أيها "المختار"، أشكرك على قدومك.'
+REASON: "Incomplete translation. Added 'أشكرك على قدومك' (I thank you for coming)."
+========== 7093
+JA: 'ここからの話は\n内密に頼む……'
+BEFORE: 'ما سأقوله من الآن'
+AR: 'ما سأقوله من الآن، أرجو أن تحتفظ به سرًا……'
+REASON: "Incomplete translation. Added 'أرجو أن تحتفظ به سرًا' (pray keep in close confidence) and preserved the ellipsis count."
+========== 7094
+JA: '黒緋を\n裏で操っている者がいる'
+BEFORE: 'هناك من يحرك خيوط السواد القاني من وراء الكواليس'
+AR: 'هناك من يحرك خيوط "بلاك سكارلت" من وراء الكواليس'
+REASON: "Transliterated 'Black Scarlet' as a proper noun ('بلاك سكارلت') instead of a descriptive translation ('السواد القاني') for consistency with group names."
+========== 7095
+JA: '何者かは不明じゃ\nが、主なき翼ははためかぬ'
+BEFORE: 'لا أعلم من هو، ولكن الأجنحة الرئيسية لا ترفرف.'
+AR: 'لا أعلم من هو، ولكن الأجنحة بلا سيد لا ترفرف.'
+REASON: "Mistranslation of '主なき翼' (masterless wings) as 'الأجنحة الرئيسية' (main wings). Corrected to 'الأجنحة بلا سيد'."
+========== 7166
+JA: '流石ですね\n今度は無言でやったのに'
+BEFORE: 'كما هو متوقع منك'
+AR: 'كما هو متوقع منك. فعلت ذلك بصمت هذه المرة.'
+REASON: "The original Arabic omitted the second part of the Japanese sentence '今度は無言でやったのに' (even though you did it silently this time). Added the missing meaning."
+========== 7167
+JA: '不意を突かねば\n不意打ちとは言わん'
+BEFORE: 'يجب أن نباغتهم'
+AR: 'إن لم تباغتهم، فلن يُسمى ذلك هجومًا مباغتًا.'
+REASON: "The original Arabic 'يجب أن نباغتهم' was a simplification that changed the meaning from a conditional statement about the definition of a surprise attack to a direct command. Rephrased to reflect the original conditional meaning."
+========== 7169
+JA: '余分な荷を抱え\n任に就かねばならぬとはな'
+BEFORE: 'إن حمل أعباء إضافية'
+AR: 'أن أحمل عبئًا إضافيًا وأضطر لأداء مهمتي.'
+REASON: "The original Arabic 'إن حمل أعباء إضافية' was incomplete, only translating the first part of the sentence. Rephrased to convey the full meaning of having to undertake a mission with an extra burden."
+========== 7170
+JA: '申し訳ありません\nサザントスさん……'
+BEFORE: 'أعتذر'
+AR: 'أعتذر، يا سازانتوس……'
+REASON: "The original Arabic omitted the direct address 'يا سازانتوس' and the ellipsis '……' from the Japanese 'サザントスさん……'. Added them for completeness and politeness."
+========== 7171
+JA: '不束者ですが\n何卒ご鞭撻の程……'
+BEFORE: 'رغم قلة خبرتي،'
+AR: 'رغم قلة خبرتي، أرجو توجيهك……'
+REASON: "The original Arabic only translated the first part '不束者ですが' (despite my incompetence) and omitted the second part '何卒ご鞭撻の程……' (please, I humbly ask for your guidance). Added the missing request for guidance and the ellipsis."
+========== 7172
+JA: 'それは\nそちらの者に言うのだな'
+BEFORE: 'ذلك'
+AR: 'عليك أن تقول ذلك لهم'
+REASON: "Mistranslation: The original Arabic was incomplete. Changed to convey the full meaning 'You should be saying that to them'."
+========== 7250
+JA: '有難うございます\n聖火守指長殿'
+BEFORE: 'شكراً لك'
+AR: 'شكراً لك يا سيد حارس الشعلة المقدسة'
+REASON: "Added the address 'يا سيد حارس الشعلة المقدسة' which was present in the Japanese source '聖火守指長殿'."
+========== 7322
+JA: '先ほどの凶人は、レゴス\n……私の古い友人でした'
+BEFORE: 'ذلك المجرم الذي كان قبل قليل، ليغوس\n……كان صديقي القديم'
+AR: 'المجرم الذي قابلته قبل قليل، ليغوس…… كان صديقي القديم'
+REASON: "Improved phrasing for 'the criminal from earlier' (先ほどの凶人). 'الذي كان قبل قليل' was a bit clunky; 'الذي قابلته قبل قليل' is more natural and aligns with 'came across' in EN."
+========== 7538
+JA: '忌まわしき聖火を覆う\n我が闇のな……'
+BEFORE: 'غطي الشعلة المقدسة اللعينة\nفي ظلامي……'
+AR: 'في ظلامي الذي يخمد الشعلة المقدسة اللعينة……'
+REASON: "The original Arabic used an imperative verb 'غطي' (cover!), which changes the meaning from a descriptive statement to a command. Rephrased to 'في ظلامي الذي يخمد' (in my darkness that snuffs out) to match the Japanese and English intent of the darkness being the agent."
+========== 7614
+JA: '声に出てますよ～\n学長'
+BEFORE: 'صوتك مسموع يا رئيس'
+AR: 'صوتك مسموع يا عميد'
+REASON: "Changed 'رئيس' to 'عميد' for better specificity in an academic context (Headmaster/Dean)."
+========== 7641
+JA: 'メアリー王女でしたら\n学習室にいらっしゃいます'
+BEFORE: 'إذا كانت الأميرة ماري\nفهي في غرفة الدراسة'
+AR: 'الأميرة ماري موجودة في غرفة الدراسة.'
+REASON: 'Rephrased for more direct and natural phrasing, matching the English intent of stating her location rather than a conditional.'
+========== 7654
+JA: 'それがウォルド王家の務めだと\n教わっております'
+BEFORE: 'علمتُ أن هذه هي مسؤولية عائلة الملك ورد'
+AR: 'هذا ما تعلمناه في الأسرة الملكية والد.'
+REASON: "Changed 'علمتُ' (I learned, active) to 'هذا ما تعلمناه' (this is what we learned, passive) to match the source. Transliterated 'ウォルド王家' (Wald Royal Family) as 'الأسرة الملكية والد' for clarity and consistency."
+========== 7663
+JA: '聖火教会の初代教皇となるまでの\n壮大な人生が描かれています'
+BEFORE: 'وصولاً إلى كونه البابا الأول لكنيسة الشعلة المقدسة.'
+AR: 'يصف حياته العظيمة وصولاً إلى كونه البابا الأول لكنيسة الشعلة المقدسة.'
+REASON: "Added the missing part about 'magnificent life' ('壮大な人生が描かれています') which was present in the Japanese source but omitted in the draft Arabic."

@@ -1,0 +1,153 @@
+=== id 12273 ===
+JA: うーん、まあ
+その辺はあんまりな……
+BEFORE: همم، حسناً
+GEMINI: همم... لا، لا أرغب في ذلك.
+REASON: The original Arabic 'حسناً' (okay) did not match the Japanese 'I'd rather not' or English 'No, I'd rather not'. Corrected the meaning and fixed ellipsis format from ASCII '...' to Unicode '…'.
+
+=== id 12325 ===
+JA: “わたくしの富は渡しませんわ”
+……なんてね！
+BEFORE: "لن أسمح لأحد بأخذ ثروتي"
+GEMINI: "لن أسمح لأحد بأخذ ثروتي"… ههه، كيف كان ذلك؟
+REASON: The original Arabic was incomplete, missing the playful ending 'Hehe, how was that?' from the English and Japanese. Also fixed ellipsis format from ASCII '...' to Unicode '…'.
+
+=== id 12808 ===
+JA: ありがとう
+ついに帰るのね……
+BEFORE: شكراً
+GEMINI: شكراً. حان وقت العودة إلى المنزل أخيراً…
+REASON: Missing translation of the second sentence and corrected ellipsis count.
+
+=== id 12812 ===
+JA: ふぅ……
+この次は危ないかもな
+BEFORE: هفف……
+GEMINI: هفف… قد يكون الأمر خطيراً في المرة القادمة.
+REASON: Missing translation of the second sentence and corrected ellipsis count.
+
+=== id 12819 ===
+JA: そうだ……
+ウィッシュベールこそ、私の故郷なんだ
+BEFORE: صحيح……
+GEMINI: صحيح… ويشفيل هي وطني حقاً.
+REASON: Missing translation of the second sentence and corrected ellipsis count.
+
+=== id 13177 ===
+JA: ごめんねぇ
+そのお代じゃちょっと……
+BEFORE: أنا آسفة،
+GEMINI: أنا آسفة، هذا المبلغ ليس كافيًا بعض الشيء...
+REASON: The original Arabic was incomplete, missing the core meaning about the price not being enough.
+
+=== id 13178 ===
+JA: ごめんねぇ
+そのお代じゃちょっと……
+BEFORE: أنا آسفة،
+GEMINI: أنا آسفة، هذا المبلغ ليس كافيًا بعض الشيء...
+REASON: The original Arabic was incomplete, missing the core meaning about the price not being enough.
+
+=== id 13292 ===
+JA: 人には言えぬ暗い過去を持つため、
+特定の言葉しか話さず、心を閉ざしてしまった男。
+……のような扱いを受けることがよくあるが、
+本人はその言葉が気に入っているだけなのかもしれない。
+BEFORE: رجلٌ يملك ماضياً مظلماً لا يمكنه البوح به للآخرين،
+GEMINI: رجل يملك ماضياً مظلماً لا يمكن البوح به للآخرين،
+لا يتحدث إلا بكلمات معينة، وقد أغلق قلبه.
+...أو هكذا يعتقد الناس. في الحقيقة، ربما هو فقط يردد عبارته المفضلة.
+REASON: Incomplete translation; the original Arabic only covered the first clause. Completed the translation based on Japanese and English source, preserving line breaks.
+
+=== id 13309 ===
+JA: 人には言えぬ暗い過去を持つため、
+特定の言葉しか話さず、心を閉ざしてしまった男。
+……のような扱いを受けることがよくあるが、
+本人はその言葉が気に入っているだけなのかもしれない。
+口数こそ少ないが、ファミリーへの忠誠心は厚く、
+バルジェロを助けた<chara_name>にも信頼を寄せている。
+BEFORE: رجلٌ يملك ماضياً مظلماً لا يمكنه البوح به للآخرين،
+GEMINI: رجل يملك ماضياً مظلماً لا يمكن البوح به للآخرين،
+لا يتحدث إلا بكلمات معينة، وقد أغلق قلبه.
+...أو هكذا يعتقد الناس. في الحقيقة، ربما هو فقط يردد عبارته المفضلة.
+على الرغم من قلة كلامه، إلا أن ولاءه للعائلة كبير، ويثق ثقة عميقة بـ<chara_name> الذي أنقذ بارجيلو.
+REASON: Incomplete translation; the original Arabic only covered the first clause. Completed the translation based on Japanese and English source, preserving line breaks and glossary terms.
+
+=== id 13451 ===
+JA: うふふ……初めて？
+BEFORE: أوهو... هل هذه مرتك الأولى؟
+GEMINI: أوهو… هل هذه مرتك الأولى؟
+REASON: Corrected ellipsis from three ASCII dots to two Unicode U+2026 characters to match the Japanese source (……).
+
+=== id 13487 ===
+JA: 不覚……
+腕が鈍ったか……
+BEFORE: يا للخذلان……
+GEMINI: يا للخذلان…… هل ضعفت مهاراتي؟
+REASON: Incomplete translation; the original Arabic only translated '不覚' (regret/disappointment) and missed '腕が鈍ったか' (My skills have dulled). Completed the translation.
+
+=== id 13488 ===
+JA: 不覚……
+腕が鈍ったか……
+BEFORE: يا للخذلان……
+GEMINI: يا للخذلان…… هل ضعفت مهاراتي؟
+REASON: Incomplete translation; the original Arabic only translated '不覚' (regret/disappointment) and missed '腕が鈍ったか' (My skills have dulled). Completed the translation.
+
+=== id 14068 ===
+JA: 神よ、新たな町に赴く私に
+祝福と加護を……
+BEFORE: يا إلهي، امنحني البركة والحماية
+GEMINI: يا إلهي، امنحني البركة والحماية في طريقي الجديد...
+REASON: The original Arabic was a truncation, missing the context 'on this new path' from the Japanese and English. Corrected to include the full meaning and preserve ellipsis.
+
+=== id 14414 ===
+JA: 雪山に行く者に注意を促してくる老人。
+吹雪、雪崩、滑落……
+彼はこの雪山で、多くの人間が
+命を落としたことを知っている。
+これ以上の惨劇を繰り返したくないのだ。
+BEFORE: رجل عجوز يحذر من يذهب إلى الجبال الثلجية.
+GEMINI: رجل عجوز يحذر من يذهب إلى الجبال الثلجية. عواصف ثلجية، انهيارات جليدية، انزلاقات... إنه يعلم أن الكثيرين فقدوا حياتهم في هذه الجبال الثلجية. ولا يريد تكرار المزيد من المآسي.
+REASON: Completed the translation of the full Japanese text, which was incomplete, and added the correct ellipsis count.
+
+=== id 14494 ===
+JA: いや……
+もう少しこの町にいるよ
+BEFORE: لا...
+GEMINI: لا… سأبقى في هذه البلدة لبعض الوقت.
+REASON: Mistranslation (missing part of the sentence), incorrect ellipsis count and character.
+
+=== id 14557 ===
+JA: 申し訳ありません
+今は忙しくて……
+BEFORE: أعتذر
+GEMINI: أعتذر.
+أنا مشغول الآن…
+REASON: Mistranslation (missing part of the sentence), `\n` not preserved, ellipsis missing and count incorrect.
+
+=== id 14561 ===
+JA: あなたの町ですか……
+わかりました、参りましょう
+BEFORE: هل هي في بلدتكِ……
+GEMINI: بلدتك…؟
+فهمت، سأنضم إليك في بلدتك.
+REASON: Mistranslation (missing second part of the sentence, incorrect gender for 'your town'), player-address gender-neutrality issue (original was feminine), `\n` not preserved.
+
+=== id 14562 ===
+JA: この町での布教が
+終わっておりませんので……
+BEFORE: لأن عملية التبشير في هذه البلدة
+GEMINI: لأن عملية التبشير في هذه البلدة لم تنتهِ بعد…
+REASON: Mistranslation (incomplete sentence), `\n` not preserved, ellipsis missing and count incorrect.
+
+=== id 14737 ===
+JA: 駐屯地から資材の買い出しに来た聖火騎士。
+厳しい訓練を経たことで、鋼の肉体と強靭な精神を
+手に入れた……はずだったが、演劇を見て
+生まれて初めて人前で涙を流してしまった。
+今はこの感動を誰かに伝えたくてたまらない。
+BEFORE: فارس الشعلة المقدسة القادم من المعسكر لشراء الإمدادات.
+GEMINI: فارس اللهب المقدس القادم من المعسكر لشراء الإمدادات.
+لقد منحته التدريبات الصارمة والانضباط جسدًا فولاذيًا وإرادة لا تقهر... لكنه عندما شاهد مسرحية في المسرح، بكى علنًا لأول مرة في حياته.
+والآن، يتوق بشدة لمشاركة هذه المشاعر مع شخص آخر.
+REASON: The original `ar_text` was severely truncated, translating only the first clause. The corrected version provides the full translation, adheres to the glossary for 'Knight Ardante', and correctly handles the internal ellipsis/pause as a transition, adding line breaks as per `ja_text`.
+

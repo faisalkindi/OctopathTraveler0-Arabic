@@ -1,0 +1,379 @@
+=== id 17826 ===
+JA: 人を扱うというのは
+そんなに簡単ではないよ
+EN: Hmph. Offering employment is no
+casual matter. Keep that in mind.
+BEFORE: التعامل مع البشر
+GEMINI: توفير فرص العمل
+ليس بالأمر الهين. تذكر ذلك.
+REASON: The original Arabic was incomplete and missed the full meaning of the Japanese sentence. Adopted the English interpretation for better context.
+
+=== id 17877 ===
+JA: ……私の戦場は
+どうやら別の場所にあるようだ
+EN: My war is not by your side.
+BEFORE: ……يبدو أن ساحة معركتي
+GEMINI: ……يبدو أن ساحة معركتي في مكان آخر.
+REASON: Truncation: The original Arabic missed 'is in a different place' (別の場所にあるようだ). Added the missing part.
+
+=== id 17930 ===
+JA: あなたの考えを
+お聞かせくださる？
+EN: May I hear your thoughts on
+the matter?
+BEFORE: هل يمكنك
+GEMINI: هل يمكنني أن أسمع أفكارك في هذا الشأن؟
+REASON: Incomplete translation; completed the sentence.
+
+=== id 18302 ===
+JA: すみません！
+持ち場は離れられませんので……
+EN: I'm sorry, but I cannot leave my post.
+BEFORE: عذراً!
+GEMINI: عذراً!
+لا أستطيع مغادرة موقعي……
+REASON: Completed the translation of the sentence. Preserved line break and ellipsis count.
+
+=== id 18336 ===
+JA: 私なんて連れて行っても……
+EN: I couldn't possibly be of benefit to you.
+BEFORE: حتى لو أخذتني معي……
+GEMINI: حتى لو أخذتني معي، فلن أكون ذا فائدة……
+REASON: Completed the implied meaning of the sentence. Preserved ellipsis count.
+
+=== id 18374 ===
+JA: よいじゃろう
+野菜の力を見せてやる
+EN: Very well. I will show you the
+hidden power of vegetables.
+BEFORE: حسنًا
+GEMINI: حسنًا.
+سأريك قوة الخضروات.
+REASON: Translation was incomplete; added the missing part 'I will show you the power of vegetables'. Preserved line breaks.
+
+=== id 18404 ===
+JA: そんな腕前じゃ
+面白い話も集まらないだろう？
+EN: How can you get any juicy tidbits
+with that sorry display of strength?
+BEFORE: بمهارتك هذه
+GEMINI: بمهارتك هذه،
+لن تتمكن حتى من جمع قصص شيقة، أليس كذلك؟
+REASON: The original Arabic translation was incomplete, missing the question about gathering interesting stories. Line break (`\n`) added to match the Japanese source.
+
+=== id 18459 ===
+JA: ふぅ、いい気分転換さなったね
+これからも、よろしゅうね
+EN: Ha, that was a good change of pace!
+Lookin' forward to working with you.
+BEFORE: هاه، لقد كان تغييراً جيداً للمزاج
+GEMINI: هاه، لقد كان تغييراً جيداً للمزاج!
+أتطلع للعمل معك مستقبلاً.
+REASON: Missing the second line of dialogue and the line break from the source.
+
+=== id 18529 ===
+JA: 大丈夫
+みんなの誤解は解けたよ
+EN: It's all right.
+I've cleared up any
+misunderstandings.
+BEFORE: لا بأس.
+GEMINI: لا بأس.
+لقد أزلت سوء الفهم للجميع.
+REASON: Added the missing second part of the sentence, preserving line break.
+
+=== id 18616 ===
+JA: すみません
+仕事がありますので……
+EN: I'm very sorry, but I have work to do...
+BEFORE: عذرًا
+GEMINI: عذرًا،
+لدي عمل لأقوم به……
+REASON: Added the missing second part of the sentence, preserving line break and ellipsis count.
+
+=== id 18675 ===
+JA: 死の舞踏でよければ
+お付き合いしましょう！
+EN: If it's a dance of death you want,
+I'll certainly oblige!
+BEFORE: إذا كنت لا تمانع رقصة الموت
+GEMINI: إذا كانت رقصة الموت هي مرادك،
+فسألبّي طلبك بكل سرور!
+REASON: Incomplete translation; the original Arabic missed the second part of the sentence ('I'll certainly oblige!').
+
+=== id 18710 ===
+JA: 敗北を憂い立ち上がれるなら、
+貴方がたとはまた交わるでしょう
+EN: If you can overcome this bitter loss,
+I would gladly cross blades with you
+again.
+BEFORE: إذا استطعتم النهوض بعد الشعور بالهزيمة،
+GEMINI: إذا استطعتم النهوض بعد الشعور بالهزيمة،
+فسأواجهكم مرة أخرى بكل سرور.
+REASON: Incomplete translation; the original Arabic missed the second part of the sentence ('I would gladly cross blades with you again.').
+
+=== id 18740 ===
+JA: 狩人として訓練を続けていたが、
+耳を悪くしたのをきっかけに足を洗い、今の仕事に就いた。
+今は狩人の頃の経験を活かして大工をしている。
+EN: A young man who had been training to be a hunter, but washed his hands of that after his hearing deteriorated, settling on his current profession. His experience as a hunter has helped him greatly as a carpenter.
+BEFORE: استمر في التدريب كصياد، ولكن بعد أن فقد سمعه، ترك تلك الحياة وعمله الحالي.
+GEMINI: استمر في التدريب كصياد، ولكن بعد أن فقد سمعه، ترك تلك الحياة وتولى عمله الحالي.
+الآن، يستفيد من خبرته كصياد في عمله كبنّاء.
+REASON: The original translation was incomplete, only covering the first part of the Japanese source. The corrected version translates the full description, including how the character now utilizes his past experience as a hunter in his current profession as a carpenter, and preserves the line break.
+
+=== id 18765 ===
+JA: 誰かの下につくのも
+久しぶりじゃわい！
+EN: It's been quite some time since
+I last served under someone!
+BEFORE: لم أعمل تحت إمرة أحد
+GEMINI: لقد مضى وقت طويل منذ أن عملت تحت إمرة أحد!
+REASON: The original translation used a negative statement ('I haven't worked under anyone') which changed the nuance of the Japanese source, which expresses the duration since the last time ('It's been a long time since I served under someone!'). The corrected version accurately reflects the original meaning.
+
+=== id 18808 ===
+JA: アルティニアの“賢王”ソロンに憧れる商人。
+憧れるあまり、ソロンがお忍びの際に使っている
+というターバンを身に着け、
+日夜新しい羊のことわざを考えている。
+言行こそ怪しいが、仕入れの腕は確か。
+EN: A merchant who greatly admires Wise King Solon. He wears the same turban the king uses to disguise himself and spends his time coming up with proverbs about sheep. Though he may seem odd, his skills as a merchant are second to none.
+BEFORE: تاجر يتطلع إلى "الملك الحكيم" سورون في ألتينيا.
+GEMINI: تاجر يتطلع إلى "الملك الحكيم" سولون في ألتينيا.
+لشدة إعجابه به، يرتدي العمامة التي يستخدمها سولون عندما يتنكر، ويقضي ليله ونهاره في ابتكار أمثال جديدة عن الخراف.
+على الرغم من أن أقواله وأفعاله قد تبدو مريبة، إلا أن مهاراته في الشراء لا يعلى عليها.
+REASON: Incomplete translation; added missing parts and preserved line breaks. Used 'سولون' for Solon.
+
+=== id 18854 ===
+JA: まだこの土地で
+栽培したい野菜があるの
+EN: There are still things I'd like to grow
+in the soil here.
+BEFORE: لا تزال هناك خضروات
+GEMINI: لا تزال هناك خضروات
+أرغب في زراعتها في هذه الأرض.
+REASON: Corrected mistranslation (omission of key details) and added missing line break.
+
+=== id 19328 ===
+JA: ウィッシュベールの酒場を任されている狩人。
+<chara_name>やスティアの兄貴分。
+今度こそ町を守り抜くと誓い、
+自警団として毎日の見回りを欠かさない。
+EN: A hunter who runs Wishvale's tavern, and is like an older brother to <chara_name> and Stia. He has vowed to protect the town no matter what, and never fails to perform his daily patrol as a member of the watch.
+BEFORE: صياد مكلف بإدارة حانة ويشفيل.
+GEMINI: صياد مكلف بإدارة حانة ويشفيل. وهو بمثابة الأخ الأكبر لـ<chara_name> وستيا. وقد أقسم على حماية البلدة هذه المرة مهما كلف الأمر، ولا يتخلف عن دورياته اليومية كعضو في الحرس الأهلي.
+REASON: Completed the translation of the full Japanese text.
+
+=== id 19394 ===
+JA: いいとも！
+使ってくれたまえ！
+EN: Very well! Use it as you see fit.
+BEFORE: بكل سرور!
+GEMINI: بكل سرور! استخدمه كما تشاء!
+REASON: Missing part of the translation, specifically the imperative to 'use it'.
+
+=== id 19480 ===
+JA: サンシェイドで一番人気の踊子。
+自分のことはあまり語らず、謎が多い。
+<chara_name>の旅に同行することになったが、
+何かを探しているようだ。
+EN: The most popular dancer in Sunshade. She hardly ever talks about herself, so not much is known about her. What is apparent is that she is searching for something and hopes to find it through her travels with <chara_name>.
+BEFORE: الراقصة الأكثر شعبية في سان شيد.
+GEMINI: الراقصة الأكثر شعبية في سان شيد.
+لا تتحدث كثيرًا عن نفسها، لذا يكتنفها الكثير من الغموض.
+وقد انضمت إلى رحلة <chara_name>، لكن يبدو أنها تبحث عن شيء ما.
+REASON: Incomplete translation; added missing sentences from the character description.
+
+=== id 19574 ===
+JA: 外海の孤島で神の指輪の研究をしていた学者猫。
+猫たちには“賢者様”と呼ばれている。
+“選ばれし者”と旅をすることは、
+まぐろ節を食べることと同じくらい嬉しい。
+EN: A cait scholar who was researching the divine rings on an island in the Outersea. Other caits call him the Great Sage. Traveling alongside the Chosen One fills him with the same kind of joy he gets from eating tuna.
+BEFORE: قطة عالمة كانت تبحث في خاتم الإله على جزيرة معزولة في البحر الخارجي.
+GEMINI: قط عالم كان يبحث في الخواتم الإلهية على جزيرة معزولة في البحر الخارجي. وتدعوه القطط الأخرى "الحكيم العظيم". والسفر برفقة "المختار" يملؤه بنفس الفرح الذي يشعر به عند أكل سمك التونة.
+REASON: The original translation was severely truncated, missing most of the Japanese source text. Changed 'قطة عالمة' (female scholar cat) to 'قط عالم' (male scholar cat) to match the English reference ('him') and glossary term 'قط العالم'. Changed 'خاتم الإله' (singular ring of the god) to 'الخواتم الإلهية' (divine rings) to match the English plural and context.
+
+=== id 19669 ===
+JA: 聖火教会の序列は教皇、大司教、
+司教、司祭、助祭の順に並んでおる。
+わしはこの年になるまであらゆることを黙認し
+やっと司教の座にまでたどり着いたんじゃ。
+こんなことで地位を失ってたまるか！？
+EN: The Order's hierarchy of power is this: pontiff, archbishops, bishops, priests, and then deacons. I tolerated much to finally attain the status of bishop. I will not lose my position over something like this!
+BEFORE: تترتب رتب كنيسة الشعلة المقدسة كالتالي: البابا، والأسقف الأكبر،
+GEMINI: تترتب رتب كنيسة الشعلة المقدسة كالتالي: البابا، رئيس الأساقفة،
+الأسقف، الكاهن، ثم الشماس.
+لقد تغاضيت عن الكثير حتى بلغت هذا العمر،
+ووصلت أخيرًا إلى منصب الأسقف.
+لن أفقد منصبي بسبب شيء كهذا!
+REASON: The original Arabic translation was incomplete. Completed the hierarchy list (adding 'الكاهن' and 'الشماس'), corrected 'الأسقف الأكبر' to 'رئيس الأساقفة', and added the character's personal statement about his position, preserving line breaks.
+
+=== id 19727 ===
+JA: 仕事中なの
+後にして
+EN: I'm working right now.
+Talk to me later.
+BEFORE: أنا في وسط العمل
+GEMINI: أنا في وسط العمل الآن.
+تحدث معي لاحقًا.
+REASON: Full translation of the Japanese source, preserving line break.
+
+=== id 19793 ===
+JA: 小劇団の劇作家。
+元女優である妻と、その息子の３人で
+つつましく暮らしている。
+“名声”に頓着せず、小規模な公演を行っているが、
+観客からの評判は高い。
+EN: A playwright for a small theatre troupe. He lives a modest life with his wife—a former actress—and his son. Uninterested in achieving great fame, he's content to put on smaller productions, which are highly regarded by his audience.
+BEFORE: كاتب مسرحي لفرقة مسرحية صغيرة.
+GEMINI: كاتب مسرحي لفرقة مسرحية صغيرة.
+يعيش حياة متواضعة مع زوجته، الممثلة السابقة، وابنهما.
+لا يبالي بـ"الشهرة"، ويقدم عروضًا صغيرة النطاق،
+لكنها تحظى بتقدير كبير من الجمهور.
+REASON: Full translation of the Japanese source, preserving line breaks and quotation marks for 'fame'.
+
+=== id 19999 ===
+JA: その正体はリーヴェン王国の王子リシャール。
+父王の命でオルステラを旅し、
+見聞を広めている。
+EN: In truth, he is Prince Richard of the Kingdom of Riven. He travels Orsterra on his father's orders, so that he may broaden his horizons.
+BEFORE: هويته الحقيقية هي الأمير ريتشار من مملكة ليفين.
+GEMINI: هويته الحقيقية هي الأمير ريتشار من مملكة ليفين.
+يسافر في أورستيرا بأمر من والده الملك،
+ليوسع آفاقه.
+REASON: The original translation was incomplete, missing the second sentence. Preserved line breaks.
+
+=== id 20065 ===
+JA: 父の背を追い薬師の修行をしていた少年。
+ウィッシュベールを訪れた際、町の子供たちと仲よくなり、
+遊び相手になるうちに、いつしか薬師になるのをやめた。
+EN: A young apothecary-in-training who is trying to follow in his father's footsteps. Upon visiting Wishvale, he became friends with the children in town and has since prioritized play over work.
+BEFORE: صبي كان يتدرب كصيدلاني ليتبع خطى والده.
+GEMINI: صبي كان يتدرب كصيدلاني ليتبع خطى والده. عند زيارته لويشفيل، أصبح صديقًا لأطفال البلدة، ومع مرور الوقت وهو يلعب معهم، تخلى عن فكرة أن يصبح صيدلانيًا.
+REASON: The original Arabic translation was incomplete, missing the second and third sentences of the Japanese source. Added the missing information about befriending children in Wishvale and giving up on being an apothecary.
+
+=== id 20105 ===
+JA: 博物館を管理するキャットリンの賢者。
+筆まめで、ウィッシュベールの良さを説いた手紙を
+各地の旅人に送っている。
+EN: A cait sage who manages the museum. He likes to write letters to all the lands' travelers, extolling the virtues of Wishvale.
+BEFORE: عالمة قط العالم التي تدير المتحف.
+GEMINI: عالم قط العالم الذي يدير المتحف. وهو كثير الكتابة، ويرسل رسائل تصف مزايا ويشفيل إلى المسافرين في كل مكان.
+REASON: The original Arabic translation used 'عالمة' (female scholar) while the English source indicates a male character ('He likes to write'). Corrected to 'عالم' (male scholar/sage) and added the missing information about writing letters extolling Wishvale's virtues.
+
+=== id 20140 ===
+JA: アトラスダム王立学院の教授。
+見識を広めるためウィッシュベールを訪れたところ、
+深い歴史や文化を持ちながらも、
+その過去に拘泥しない人々の姿に感銘を受け、
+彼も今、ありのままを受け入れようとしている。
+EN: A professor at the Royal Academy of Atlasdam who came to Wishvale to broaden his knowledge. Despite the town's deep history and culture, he found that the people look to the future without dwelling on the past, a notion that has encouraged him to try to accept things as they are.
+BEFORE: أستاذ في أكاديمية أطلسدام الملكية.
+GEMINI: أستاذ في أكاديمية أطلسدام الملكية، زار ويشفيل لتوسيع معارفه. على الرغم من تاريخ البلدة وثقافتها العميقة، تأثر برؤية أهلها الذين لا يتمسكون بالماضي، بل يتطلعون إلى المستقبل، وهذا ما شجعه على محاولة تقبل الأمور كما هي الآن.
+REASON: The original translation was incomplete, only translating the first part of the first sentence. The corrected translation provides the full context of Cyrus's visit to Wishvale, what impressed him, and his current thoughts, using natural MSA phrasing and the glossary term 'ويشفيل'.
+
+=== id 20183 ===
+JA: 悪ィが、ここで腹すかしてる
+連中がいるんだよォ！
+EN: Sorry, but there are folks here
+who need me!
+BEFORE: عذراً، ولكن هناك
+GEMINI: عذراً، ولكن هناك رفاق هنا
+يحتاجونني!
+REASON: Incomplete translation; completed the sentence and preserved line break.
+
+=== id 20235 ===
+JA: 俺の力を借りたいってか
+よし来た！
+EN: You need my help?
+All right!
+BEFORE: هل تريد استعارة قوتي؟
+GEMINI: هل تريد استعارة قوتي؟
+حسنًا، أنا جاهز!
+REASON: Missing second part of dialogue ('All right!') and line break.
+
+=== id 20314 ===
+JA: 思い切って
+その町でやってみるか
+EN: I'm going to put everything into
+practice once we get there!
+BEFORE: هل أجرب القيام بذلك
+GEMINI: سأقدم على تجربة ذلك في تلك البلدة.
+REASON: The original 'هل أجرب القيام بذلك' (Shall I try doing that?) was too weak and missed the nuance of '思い切って' (decisively/boldly) and 'その町で' (in that town). The revised translation 'سأقدم على تجربة ذلك في تلك البلدة.' (I will proceed to try that in that town.) better captures the decisive self-reflection and includes the location.
+
+=== id 20353 ===
+JA: 雑草を片付けるため放し飼いにされている山羊。
+とても食いしん坊で、紙も食べてしまう。
+EN: A goat that is left to roam freely out in the pasture to graze on the weeds. This gluttonous animal will eat just about anything, including paper.
+BEFORE: ماعز يُترك حراً لتنظيف الأعشاب الضارة.
+GEMINI: ماعز يُترك حراً في المرعى لتنظيف الأعشاب الضارة. إنه نهم للغاية، ويأكل الورق أيضاً.
+REASON: The original Arabic only translated the first clause of the Japanese source, omitting the description of the goat being gluttonous and eating paper. Provided a complete translation.
+
+=== id 20401 ===
+JA: 元は群れのボスだった羊。
+だが、牧羊犬との戦いに敗れ、群れの信頼を失った。
+今は群れの一員としておとなしく従っている。
+EN: A sheep who once led the herd, but lost their trust after failing to beat the sheepdog in battle. Now it is nothing more than a fellow member of the herd, meekly falling in line.
+BEFORE: خروف كان في الأصل قائد القطيع.
+GEMINI: خروف كان في الأصل قائد القطيع.
+لكنه خسر ثقة القطيع بعد هزيمته في معركة مع كلب الرعي.
+الآن يتبع القطيع بانصياع كعضو عادي.
+REASON: Missing the second and third sentences from the Japanese source, and missing line breaks.
+
+=== id 20441 ===
+JA: かわいらしい見た目と裏腹に、凶悪な本性を
+その内に秘めるウサギ。
+周辺の魔物程度ならその首を切り裂いてみせ、
+彼を愛でようとして逆襲される者が後を絶たない。
+EN: Behind its adorable little eyes, this rabbit hides a vicious streak a league wide. It rips local monsters apart with its big, pointy teeth, and all who attempt to cuddle it quickly find themselves fleeing in terror instead.
+BEFORE: أرنب يخفي طبيعته الشرسة
+GEMINI: أرنب يخفي طبيعة شرسة بداخله، على عكس مظهره اللطيف.
+يمزق رقاب الوحوش المحلية، ولا ينقطع الذين يحاولون مداعبته عن التعرض لهجوم مضاد.
+REASON: Mistranslation/Truncation: The original Arabic was severely truncated, only translating the first part of the description. Re-translated the full description and preserved line breaks.
+
+=== id 20489 ===
+JA: 心が……胃が……震えている……
+湧き上がる……魂の奥底より……情熱が！！
+EN: My heart and belly... How they quake...
+As passion from deep within...awakes!
+BEFORE: قلبي…… معدتي…… يرتجفان……
+GEMINI: قلبي…… معدتي…… يرتجفان……
+تتصاعد…… من أعماق الروح…… العاطفة!!
+REASON: Translated the missing second sentence from the Japanese source and preserved the line break.
+
+=== id 20529 ===
+JA: 動物たちのために
+私は生きるわ
+EN: I'll keep living...for the sake of
+all animals.
+BEFORE: من أجل الحيوانات،
+GEMINI: من أجل الحيوانات،
+سأستمر في العيش.
+REASON: The original Arabic translation was incomplete, missing the second part of the sentence and the line break. Corrected to include 'سأستمر في العيش.' and the newline.
+
+=== id 20579 ===
+JA: 主にサンランド地方で活躍していたやり手の商人。
+少年のような外見に侮られがちだが、その商才は本物。
+ウィッシュベールの住民たちともすっかり打ち解け、
+最近では情報収集も兼ねて酒場に入り浸っている。
+EN: A renowned merchant who largely operated in the Sunlands. Though many make light of him due to his youthful appearance, his business acumen is not to be underestimated. He has become friendly with the people of Wishvale and has lately taken to hanging around the tavern to gather information.
+BEFORE: تاجر ماكر كان ينشط بشكل أساسي في منطقة سانلاند.
+GEMINI: تاجر ماكر كان ينشط بشكل أساسي في منطقة سانلاند.
+على الرغم من أن مظهره الشبيه بالصبي يجعله عرضة للاستخفاف، إلا أن فطنته التجارية حقيقية.
+لقد أصبح ودودًا تمامًا مع سكان ويشفيل، ومؤخرًا أصبح يتردد على الحانة لجمع المعلومات أيضًا.
+REASON: Incomplete translation; used 'منطقة سانلاند' for Sunlands; preserved line breaks.
+
+=== id 20592 ===
+JA: ウィッシュベールの自警団員で酒場を任されている。
+<chara_name>やスティアの兄貴分。
+町を守るため毎日見回りをしているほか、
+酒場の運営もしっかり考え、ウィッシュベールを
+昔のようににぎやかな町にするべく力を注いでいる。
+EN: A member of Wishvale's watch and the one responsible for running the tavern. <chara_name> and Stia see him as an older brother. In addition to patrolling the town every day to maintain the peace, he is also devoted to his job at the tavern, and is doing everything in his power to turn Wishvale back into the bustling town it once was.
+BEFORE: عضو في ميليشيا ويشفيل ومسؤول عن الحانة.
+GEMINI: عضو في ميليشيا ويشفيل ومسؤول عن إدارة الحانة.
+يعتبره <chara_name> وستيا أخًا أكبر.
+بالإضافة إلى قيامه بدوريات يومية لحماية المدينة، فإنه يفكر جيدًا في إدارة الحانة، ويبذل قصارى جهده لإعادة ويشفيل إلى مدينة صاخبة كما كانت في السابق.
+REASON: Incomplete translation; preserved line breaks.
+

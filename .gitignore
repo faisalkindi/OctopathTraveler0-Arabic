@@ -1,0 +1,45 @@
+# game-derived / built artifacts
+localization_workspace/*_P.pak
+localization_workspace/*.pak
+localization_workspace/recon/
+localization_workspace/mod_pak_input/
+localization_workspace/inject_ready/
+localization_workspace/injected_output/
+localization_workspace/corpus/
+localization_workspace/translated_chunks/
+localization_workspace/standalone_translated/
+localization_workspace/chunks/
+localization_workspace/msvc_build/
+localization_workspace/skill_test_input/
+localization_workspace/control_test_input/
+localization_workspace/Octopath0Fix_src/
+localization_workspace/scripts/__pycache__/
+localization_workspace/scripts/WidgetEdit/
+
+# intermediate pipeline outputs (regenerable; finals are committed)
+localization_workspace/verify_part*.csv
+localization_workspace/verify1b_part*.csv
+localization_workspace/*_translated_all.csv
+localization_workspace/*_postprocessed_all.csv
+localization_workspace/*_proofread_all.csv
+localization_workspace/gapfill_translated.csv
+localization_workspace/gapfill_proofread.csv
+localization_workspace/gapfill_input.csv
+localization_workspace/scratch_condensed.txt
+localization_workspace/big_detail.txt
+
+# installer build outputs (exe ships via GitHub Releases / Nexus)
+localization_workspace/installer/bin/
+localization_workspace/installer/obj/
+localization_workspace/installer/publish/
+localization_workspace/installer/payload/
+localization_workspace/installer/payload.zip
+localization_workspace/installer/Octopath Arabic Installer/
+
+# local
+__pycache__/
+*.log
+localization_workspace/minimal_test_input/
+localization_workspace/control2_input/
+localization_workspace/remaining_dump.txt
+release_assets/

@@ -1,0 +1,3 @@
+……مهلاً، لقد سئمتَ من سماع هذا يا <chara_name>
+فأنت طفل قائد الفصيل، أليس كذلك؟
+ً:ARABIC FATHATAN َ:ARABIC FATHA

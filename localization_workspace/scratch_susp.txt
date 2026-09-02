@@ -1,0 +1,163 @@
+id=93635
+JA=<skl_user_name>は大きく身構えた！
+EN=<skl_user_name> stands ready!
+BEFORE=اتخذ <skl_user_name> وضعية الدفاع بقوة!
+AFTER=تأهب <skl_user_name> بقوة!
+REASON=«اتخذ وضعية الدفاع بقوة» is a bit verbose and specific. «تأهب بقوة» (braced strongly/stood ready strongly) is more concise and closer to the nuance of «身構えた» and «stands ready».
+
+id=93903
+JA=剛絶剣
+EN=Stalwart Strike
+BEFORE=سيف الصلابة المطلقة
+AFTER=ضربة صلبة مطلقة
+REASON=The original Arabic translated '剣' (blade/sword) as 'سيف', but the English 'Stalwart Strike' implies an action. Changed to 'ضربة' (strike) to align with the English interpretation of the skill name, while retaining 'مطلقة' for '剛絶'.
+
+id=93959
+JA=闇の浸食
+EN=Encroaching Darkness
+BEFORE=تآكل الظلام
+AFTER=تغلغل الظلام
+REASON=The original 'تآكل الظلام' implies erosion, while 'تغلغل الظلام' (penetration/infiltration of darkness) better conveys the meaning of 'Encroaching Darkness' from the Japanese '闇の浸食'.
+
+id=93966
+JA=殴りつける
+EN=Overpower
+BEFORE=ضربة قوية
+AFTER=ضربة ساحقة
+REASON=The original 'ضربة قوية' (strong strike) is a bit generic. 'ضربة ساحقة' (overwhelming strike) better captures the nuance of 'Overpower' and the force implied by the Japanese '殴りつける'.
+
+id=94209
+JA=さらに、物理回避の構えをとった！
+EN=She stands ready to avoid physical attacks!
+BEFORE=علاوة على ذلك، اتخذ وضعية تفادي الهجمات الفيزيائية!
+AFTER=علاوة على ذلك، اتخذت وضعية تفادي الهجمات الفيزيائية!
+REASON=Corrected verb gender agreement from masculine 'اتخذ' to feminine 'اتخذت' to match the implied female subject 'She' from the English source and game context.
+
+id=94666
+JA=雷公烈風
+EN=Thundersquall
+BEFORE=رعد إله الريح العاتية
+AFTER=الرعد الإلهي والريح العاتية
+REASON=The original Arabic `رعد إله الريح العاتية` implies 'thunder of the god of fierce wind', which misinterprets `雷公` (Thunder God) as 'god of thunder' and then combines it with 'fierce wind' in a possessive structure. The Japanese `雷公烈風` is more like 'Thunder God and Fierce Wind' or 'Thunder God's Fierce Wind'. `الرعد الإلهي والريح العاتية` (Divine Thunder and the Fierce Wind) better captures both elements without the awkward possessive chain.
+
+id=95066
+JA=激情の叫奏
+EN=Dramatic Roar
+BEFORE=معزوفة العاطفة
+AFTER=صيحة العاطفة
+REASON=Changed `معزوفة` (melody) to `صيحة` (roar/cry) to better reflect 'Roar' in 'Dramatic Roar'.
+
+id=95071
+JA=黒呪・激情の叫奏
+EN=Cursed Dramatic Roar
+BEFORE=اللعنة السوداء·معزوفة العاطفة
+AFTER=اللعنة السوداء·صيحة العاطفة
+REASON=Changed `معزوفة` (melody) to `صيحة` (roar/cry) to better reflect 'Roar' in 'Cursed Dramatic Roar'.
+
+id=95104
+JA=ブラインドウェーブ
+EN=Blinding Wave
+BEFORE=الموجة العمياء
+AFTER=موجة الإعماء
+REASON=Mistranslation of 'Blinding Wave' as 'الموجة العمياء' (The Blind Wave), which implies the wave itself is blind, not that it causes blindness. 'موجة الإعماء' (Wave of Blinding) is correct.
+
+id=95105
+JA=黒炎の断壁
+EN=Demolishing Black Flame
+BEFORE=جرف اللهب الأسود
+AFTER=اللهب الأسود الهادم
+REASON=The original Arabic 'جرف اللهب الأسود' (Cliff/Erosion of the Black Flame) did not convey the active 'Demolishing' meaning from the English reference and the implied action of '断壁' (breaking wall/cliff). 'اللهب الأسود الهادم' (The Demolishing Black Flame) is more accurate.
+
+id=95135
+JA=麻痺の大顎
+EN=Paralyzing Jaws
+BEFORE=الفك السفلي المشل
+AFTER=الفك المشل
+REASON=Mistranslation of 'Paralyzing Jaws' as 'الفك السفلي المشل' (The Paralyzed Lower Jaw). This implied the jaw itself was paralyzed, not that it causes paralysis, and '大顎' means 'large jaw', not specifically 'lower jaw'. 'الفك المشل' (The Paralyzing Jaw) is accurate.
+
+id=95887
+JA=欲の試練・支配
+EN=Trials of Greed: Domination
+BEFORE=اختبار الطمع·السيطرة
+AFTER=تجارب الطمع·السيطرة
+REASON=Changed 'اختبار' (singular) to 'تجارب' (plural) to match 'Trials' in English and the implied plural in Japanese '試練'.
+
+id=95889
+JA=欲の試練・承認
+EN=Trials of Greed: Validation
+BEFORE=اختبار الطمع·الاعتراف
+AFTER=تجارب الطمع·الاعتراف
+REASON=Changed 'اختبار' (singular) to 'تجارب' (plural) to match 'Trials' in English and the implied plural in Japanese '試練'.
+
+id=95890
+JA=欲の試練・所有
+EN=Trials of Greed: Possession
+BEFORE=اختبار الطمع·الملكية
+AFTER=تجارب الطمع·الملكية
+REASON=Changed 'اختبار' (singular) to 'تجارب' (plural) to match 'Trials' in English and the implied plural in Japanese '試練'.
+
+id=96071
+JA=足止め矢
+EN=Hindering Arrows
+BEFORE=سهم الإعاقة
+AFTER=سهام الإعاقة
+REASON=Changed 'سهم' (singular) to 'سهام' (plural) to match 'Arrows' in English and the implied plural for 'Hindering Arrows'.
+
+id=152172
+JA=幻影剣
+EN=Phantom Strike
+BEFORE=سيف الوهم
+AFTER=ضربة الوهم
+REASON=`سيف الوهم` translates to 'Illusion Sword', but 'Phantom Strike' implies an action. `ضربة الوهم` (Illusion Strike) is more appropriate for a skill name.
+
+id=152182
+JA=両手突き
+EN=Arm-Crippling Thrust
+BEFORE=طعنة بكلتا اليدين
+AFTER=طعنة تشل الذراع
+REASON=`طعنة بكلتا اليدين` is a literal translation of the Japanese. The English 'Arm-Crippling Thrust' implies the *effect* of the skill, which the Arabic should reflect. `طعنة تشل الذراع` (Arm-Crippling Thrust) is more accurate to the English.
+
+id=152183
+JA=両足突き
+EN=Leg-Crippling Thrust
+BEFORE=طعنة بكلتا القدمين
+AFTER=طعنة تشل الساق
+REASON=`طعنة بكلتا القدمين` is a literal translation of the Japanese. The English 'Leg-Crippling Thrust' implies the *effect* of the skill, which the Arabic should reflect. `طعنة تشل الساق` (Leg-Crippling Thrust) is more accurate to the English.
+
+id=152216
+JA=死中活撃断
+EN=Last Stand
+BEFORE=قطع الهجوم القاتل
+AFTER=قطع الهجوم اليائس
+REASON=Changed to better reflect the nuance of 'Last Stand' (desperate situation) from the English reference and Japanese source, rather than just 'deadly attack'.
+
+id=152608
+JA=味方全体のステータスダウン効果を
+解除し、状態異常無効の効果を
+<skl_turn_count>付与する
+EN=Remove attribute-reducing effects of all allies, and grant an ally immunity to status ailments for <skl_turn_count> turn(s).
+BEFORE=يزيل تأثيرات خفض إحصائيات جميع الحلفاء، ويمنح تأثيرًا يمنع الحالات غير الطبيعية لمدة <skl_turn_count>
+AFTER=يزيل تأثيرات خفض إحصائيات جميع الحلفاء، ويمنحهم تأثيرًا يمنع الحالات غير الطبيعية لمدة <skl_turn_count>.
+REASON=Clarified the target of the second effect to 'all allies' (يمنحهم - grants them) to match the implied scope from the Japanese source.
+
+id=152645
+JA=一閃
+EN=Stunning Strike
+BEFORE=ومضة
+AFTER=ضربة خاطفة
+REASON=Improved accuracy to convey 'strike' aspect of the Japanese term, which implies a quick, decisive attack, rather than just 'flash'.
+
+id=152888
+JA=往復ビンタ
+EN=Double Slap
+BEFORE=صفعة متبادلة
+AFTER=صفعة مزدوجة
+REASON=Changed 'صفعة متبادلة' to 'صفعة مزدوجة'. 'متبادلة' implies reciprocity, which is incorrect for a single character's 'Double Slap' ('往復ビンタ'). 'صفعة مزدوجة' is more accurate.
+
+id=153284
+JA=健全化
+EN=Rehabilitate
+BEFORE=تعزيز الصحة
+AFTER=إعادة تأهيل
+REASON=More accurately translates 'Rehabilitate' and the Japanese '健全化' (making healthy/rehabilitation), which implies restoring to a healthy state rather than just 'health enhancement'.
+

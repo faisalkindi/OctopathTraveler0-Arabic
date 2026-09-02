@@ -1,0 +1,1340 @@
+ID=38294
+JA: ねぇねぇ、やさしいたびびとさん
+ごはんちょうだい？
+EN:'Scuse me, kind traveler, but do you
+have any food?
+BEFORE:مهلاً، مهلاً، يا سيد ياساشيتا
+هل تعطيني طعاماً؟
+AFTER:مهلاً، مهلاً، أيها المسافر اللطيف، هل تعطيني طعاماً؟
+REASON:Corrected mistranslation of 'やさしいたびびとさん' (kind traveler) which was incorrectly transliterated as a name 'يا سيد ياساشيتا'.
+----
+ID=38448
+JA: 俺は、このグランポートで
+一番の公平な商人だ
+EN:I'll have you know I'm the most
+fair merchant in all of Grandport!
+BEFORE:أنا أعدلُ أكثر تجار
+جرانبورت
+AFTER:أنا التاجر الأكثر عدلاً في جراندبورت.
+REASON:Corrected grammatical structure and included the location 'في جراندبورت' (in Grandport) for completeness and natural flow. Transliterated 'Grandport' as 'جراندبورت'.
+----
+ID=38878
+JA: “選ばれし者”よ
+セラフィナを追え
+EN:Chosen One, you must follow
+Ceraphina.
+BEFORE:أيها "المختار"
+طارد سيرينا
+AFTER:أيها "المختار"
+طارد سيرافينا
+REASON:Corrected transliteration of 'Ceraphina' from 'سيرينا' to 'سيرافينا'.
+----
+ID=39045
+JA: この町もずいぶんマシになったもんだね
+ドンが生きてたら、どんなに喜んだことか
+EN:Valore is finally on the road to recovery...
+I'm sure Taviani would have rejoiced to
+see it.
+BEFORE:لقد أصبحت هذه البلدة أفضل بكثير
+لو كان دون حياً، كم كان سيفرح بذلك
+AFTER:لقد أصبحت هذه البلدة أفضل بكثير
+لو كان تافياني حياً، كم كان سيفرح بذلك
+REASON:Glossary compliance: 'دون' changed to 'تافياني' to match the official English name 'Taviani' for 'ドン'.
+----
+ID=39046
+JA: ヴァローレが……
+ドンの愛した町が、燃えてる……
+EN:Taviani's beloved Valore...is aflame...
+BEFORE:فالوري……
+البلدة التي أحبها دون، تحترق……
+AFTER:فالوري……
+البلدة التي أحبها تافياني، تحترق……
+REASON:Glossary compliance: 'دون' changed to 'تافياني' to match the official English name 'Taviani' for 'ドン'.
+----
+ID=39055
+JA: ドンの遺した店はあたしが守る
+頼む、騒ぎを止めてきてくれ！
+EN:I'll protect the shop Taviani left behind,
+so put an end to this madness, will ya?
+BEFORE:سأحمي المتجر الذي تركه دون
+أرجوك، أوقف الشغب!
+AFTER:سأحمي المتجر الذي تركه تافياني
+أرجوك، أوقف الشغب!
+REASON:Glossary compliance: 'دون' changed to 'تافياني' to match the official English name 'Taviani' for 'ドン'.
+----
+ID=39144
+JA: “久遠の流砂”なら
+スフラタルジャの西よ
+EN:The Eternal Quicksand is to the west
+of Sufrataljah.
+BEFORE:إذا كانت "رمال الزمن الأبدي"
+فهي تقع غرب سفلارالجا
+AFTER:إذا كانت "رمال الزمن الأبدي"
+فهي تقع غرب سوفرا تالجا
+REASON:Transliteration correction for proper noun 'Sufrataljah'. Changed 'سفلارالجا' to 'سوفرا تالجا'.
+----
+ID=39162
+JA: あなたがいてくれて
+心強いです
+EN:I must say, your presence is
+most reassuring.
+BEFORE:وجودكِ بجانبي
+يمنحني الطمأنينة
+AFTER:وجودك بجانبي
+يمنحني الطمأنينة
+REASON:Player-address gender neutrality: 'وجودكِ' (feminine) was used. Changed to 'وجودك' (gender-neutral spelling) as the addressee is the player character.
+----
+ID=39163
+JA: よう、あんたも来たのか
+EN:Ah, you're here as well.
+BEFORE:أهلاً، هل أتيتَ أنتَ أيضاً؟
+AFTER:أهلاً، هل أتيتَ أيضاً؟
+REASON:Player-address gender neutrality: 'أنتَ' (explicit masculine pronoun) was used. Removed 'أنتَ' as 'أتيتَ' (past tense) is already gender-neutral in spelling and the pronoun is redundant.
+----
+ID=39164
+JA: あんな手紙もらったら
+行くしかないよな？
+EN:Who could ignore such a letter?
+BEFORE:عندما نتلقى رسالة كهذه،
+فليس أمامنا سوى الذهاب، أليس كذلك؟
+AFTER:إذا تلقيتَ رسالة كهذه،
+فليس أمامك سوى الذهاب، أليس كذلك؟
+REASON:Number and player-address gender neutrality: 'نتلقى' (we receive) and 'أمامنا' (before us) were plural. Changed to 'إذا تلقيتَ' (if you received, past tense, neutral spelling) and 'أمامك' (before you, singular) to address the player character neutrally and singularly.
+----
+ID=40442
+JA: フェリエンの昔より……
+親と子で……兄と弟で……
+EN:From Ferian's days of yore...
+Parent against child, kin against kin...
+BEFORE:منذ قديم الزمان في فيلينورت……
+بين الآباء والأبناء…… وبين الإخوة……
+AFTER:منذ قديم الزمان في فاريان……
+بين الآباء والأبناء…… وبين الإخوة……
+REASON:Corrected transliteration of 'Ferian' from 'فيلينورت' to 'فاريان' based on en_text.
+----
+ID=40585
+JA: ミザの手記
+
+
+私は、生まれてすぐに
+孤児となりました。
+修道院で育ち
+本当の父と母の顔は知りません。
+修道院の手伝いをしながら
+いつも、その顔を想像していました。
+
+「どんな風に笑うのかな？」
+「優しい笑顔だったらいいな」
+
+つらい時もそうしていると
+乗り越えられました。
+でも……
+ときどき、急に胸が苦しくなって
+泣いてしまうことがありました。
+
+１１歳になった頃
+私を迎えたいと言う夫婦が現れました。
+エンバーグロウのモナリス司祭夫婦でした。
+
+“あの人”が娘を欲しがっていたモナリス司祭に
+私を紹介してくれたのです。
+モナリス司祭は、私を気に入ってくれました。
+私は、初め戸惑いましたが
+彼の優しそうな笑顔に想像の父が重なりました。
+
+そうして、モナリス司祭は私の“父さん”に
+私は、“娘”になったのです。
+
+私の誕生日に
+父さんはいつも、花を贈ってくれました。
+１２歳の誕生日は
+ユキセンカ
+１３歳の誕生日は
+ウスベニソウ
+・
+・
+・
+１７歳の誕生日は
+ヒイロバナ
+
+だけど、１８歳の誕生日
+父さんの手に花はありませんでした。
+代わりに、父さんはこう言いました。
+「ようやく花が染まったね……ミザ」
+
+ちょうどその頃、母が死にました。
+道で暴漢に襲われたのです。
+しかし、私にはわかりました。
+母を襲ったのは暴漢ではなく、父さんなのだと。
+母の手は摘まれた花のように、冷たかったです。
+そうして私は誰にも邪魔されることなく
+父さんの花として、咲き続けることになりました。
+
+来る日も……来る日も……。
+
+ああ、神よ……。
+もし、この世に
+本当にいらっしゃるのなら
+どうか、お願いです。
+モナリスを殺してください。
+
+できる限りの苦痛を伴って。
+神よ、この願いが聞こえますか。
+モナリスを殺してください。
+モナリスを殺してください。
+モナリスを殺してください。
+モナリスを殺してください。
+モナリスを殺してください。
+モナリスを殺してください。
+モナリスを殺してください。
+モナリスを殺してください。
+神よ、どうかお願いです。
+どうか……。
+EN:Miza's Journal
+
+I was an orphan from the moment I was born. I grew up in the monastery, never knowing my true parents' faces. Though I would always try to imagine them as I did my chores.
+
+"What did their laughter sound like?"
+"I hope their smiles were kind."
+
+Picturing them helped me get through even the most difficult of times. But...every once in a while, my heart would hurt and I'd end up crying.
+
+When I turned eleven, a couple came and said they wanted to adopt me. That was Father Monaris of Emberglow and his wife.
+
+A certain person introduced me to Father Monaris, who wanted a daughter. Father Monaris liked me. I wasn't sure about him at first, but then his smile started to look like what I imagined my father to have.
+
+And that's how Father Monaris became my father, and I his daughter.
+
+Father would always give me flowers on my birthday.
+
+On my twelfth birthday, I got marisnows. On my thirteenth birthday, I got rosettes. And on my seventeenth birthday, I got scarletseeds.
+
+But on my eighteenth birthday, my father didn't have any flowers in his hand. Instead, he said, "You've finally bloomed, Miza."
+
+That was around the time my mother had died, attacked by bandits on the road. But I knew. I knew it was my father who attacked her, not bandits. I remember my mother's hands, cold as picked flowers.
+
+And so I continued to bloom as my father's flower, without anyone the wiser.
+
+Day after day after day...
+
+O gods... If you truly do exist, then please, hear my cry: kill Monaris.
+
+Make his death as painful as possible. Please, gods. Can you hear me?
+
+Kill Monaris.
+Kill Monaris.
+Kill Monaris.
+Kill Monaris.
+Kill Monaris.
+Kill Monaris.
+Kill Monaris.
+Kill Monaris.
+
+O gods, please hear me.
+Please...
+BEFORE:مذكرات ميزا
+AFTER:مذكرات ميزا
+
+أصبحت يتيمة فور ولادتي. ترعرعت في الدير ولم أعرف وجه والديّ الحقيقيين قط. كنت دائمًا أتخيل وجهيهما بينما أقوم بأعمال الدير.
+
+«كيف كانا يضحكان؟»
+«أتمنى لو كانت ابتسامتهما لطيفة.»
+
+كان تخيلهما يساعدني على تجاوز أصعب الأوقات. لكن…… بين الحين والآخر، كان قلبي يؤلمني فأبكي.
+
+عندما بلغت الحادية عشرة، جاء زوجان وقالا إنهما يريدان تبنيي. كانا القس موناريس وزوجته من إمبرغلو.
+
+لقد قدمني "شخص ما" إلى القس موناريس الذي كان يرغب في ابنة. أعجبني القس موناريس. ترددت في البداية، لكن ابتسامته اللطيفة بدأت تتطابق مع ما تخيلته لوالدي.
+
+وهكذا، أصبح القس موناريس "أبي"، وأصبحت أنا "ابنته".
+
+كان أبي دائمًا يهديني الزهور في عيد ميلادي.
+في عيد ميلادي الثاني عشر، تلقيت زهور الماري-سنوز.
+في عيد ميلادي الثالث عشر، تلقيت زهور الروزيتس.
+...
+في عيد ميلادي السابع عشر، تلقيت زهور السكارليت-سيدز.
+
+لكن في عيد ميلادي الثامن عشر، لم يكن أبي يحمل أي زهور. بدلًا من ذلك، قال: «لقد تفتحت الزهرة أخيرًا يا ميزا……»
+
+في ذلك الوقت تقريبًا، توفيت أمي، بعد أن هاجمها قطاع طرق على الطريق. لكنني عرفت. عرفت أن أبي هو من هاجمها، وليس قطاع الطرق. أتذكر يدي أمي، كانت باردة كزهور مقطوفة.
+
+وهكذا استمررت في التفتح كزهرة أبي، دون أن يعلم أحد.
+
+يومًا بعد يوم…… يومًا بعد يوم…….
+
+آه، أيها الآلهة…… إن كنتم موجودين حقًا في هذا العالم، فأتوسل إليكم: اقتلوا موناريس.
+
+اجعلوا موته مؤلمًا قدر الإمكان. أيها الآلهة، هل تسمعون ندائي؟
+
+اقتلوا موناريس.
+اقتلوا موناريس.
+اقتلوا موناريس.
+اقتلوا موناريس.
+اقتلوا موناريس.
+اقتلوا موناريس.
+اقتلوا موناريس.
+اقتلوا موناريس.
+
+أيها الآلهة، أرجوكم.
+أرجوكم……
+REASON:The original `ar_text` only contained the title; the entire journal entry was missing. Provided a full translation, ensuring correct line breaks, ellipsis counts, and character names.
+----
+ID=40586
+JA: ヴェルノートの手記
+
+
+あれはまだ私がアトラスダムの学院にいた頃――
+
+修道女見習いだったリンユウと出会い
+私は初めて神というものに祈りを捧げた。
+
+誰に対しても分け隔てのない優しさを注ぎ
+人々に希望を与える彼女――
+光が見えない彼女は、私にとっては光そのものだった。
+
+私は彼女に惹かれ、教会に通った。
+彼女は足音だけで私を見つけるようになり、
+その微笑みは分け隔てのないものから、
+私だけに向けられるものになっていった。
+
+愛する彼女の目に、光を宿したい。
+その思いから、私は学院の友人と共に
+万能薬の研究に没頭した。
+
+ある日、友人は天啓を得たと告げてきた。
+ある銀髪の女性から助言を受けたという。
+助言により、私たちの研究は飛躍的に進んだ。
+そして、薬が完成した――
+
+私は薬の効果を試すため、患者への投与を急いだ。
+これでリンユウの目に光を宿すことができる――
+友人はまだ早いと諌めたが
+私たちの薬を待つ間に命を失う人々もいたのだ。
+
+薬は完璧だった。
+理論通り肉体は活性化し、患者たちの病は完治した。
+
+しかし――
+強すぎる力は時をおいて
+肉体に暴力的な破滅をもたらした。
+結果として、私たちの薬は多くの人を殺めてしまったのだ。
+
+私は罪を償うため、静かに友人とリンユウの元を去り
+遠い雪の地に投獄された。
+
+
+投獄からどれほどの月日が経っただろう。
+私の前にあの男――タイタスが現れた。
+別れたはずのリンユウを連れて。
+
+タイタスは眠ったままのリンユウを見つめると
+下卑た笑みを浮かべながら、私に薬の研究を命じた。
+肉体を暴力的に強化する薬――“緋晶薬”を作れと。
+
+奴は卑劣だった。
+私だけでなく、多くの研究者が
+家族や愛する者を盾に薬の研究を強いられていた。
+そして、成果を出せない者は薬を投与され
+二度と帰ってこなかった。
+
+
+長く、二重生活を続けてきた。
+いつ果てるかも知れぬ命。
+それでもリンユウと共に過ごすことができる
+その瞬間だけは幸せだった――
+
+深い雪の地でも音が届くように、
+私の居場所がわかるように、互いに鈴を贈りあった。
+私は青の紐、君は赤の紐がついた鈴のお守りだ。
+二人の名前に、鈴の意味を持つ異国語の響きが
+含まれていたこともある。
+
+鈴の音は私にとっての平穏だった。
+その響きを守るために、
+タイタスの奴隷としての日々を過ごしてきた。
+
+
+しかし――リンユウが死んでしまった。
+
+私はタイタスへの復讐を決意した。
+数え切れぬ研究者やその家族の命と、彼女のために。
+
+私の誤った選択は緋色の雪へと変わり
+多くの人々の命を奪った。
+必要悪だと考えたのだ。
+奴を止めなければ、下劣な権力欲のもとに
+これからも魂は凌辱され続ける――
+
+
+リンユウの生存を知り、冷静さを取り戻した時
+私は理解した。
+またも罪を重ねてしまったと。
+今度こそ私は、償い切れない罪を背負ってしまった。
+
+罪には罰が必要だ。
+
+
+私は最後に、自らの命を絶つことで
+リンユウを自由にすることにした。
+
+
+
+今、私は光のない暗闇を歩いている。
+背負い切れぬ罪と共に
+身を焼くような憎悪に飲まれながら。
+
+歩を進める度に、自責と憎悪の感情が
+私の中で燃え上がっていく――
+
+
+タイタス……タイタス……
+奴が全てを壊した……
+
+あの罪人は罪を償うべきだ……
+奪った命の数だけ刃を身に浴び
+鮮血で自らを緋く染め上げるべきだ……
+
+粛清を……
+粛清を……
+罪人に……緋き粛清を！！
+
+
+――私にはもう、それしかない。
+EN:Velnorte's Journal
+
+It was back when I was still at Atlasdam's academy.
+
+That's where I met Rinyuu, a nun-in-training, and offered up my first prayer to the gods.
+
+She was equally kind to everyone she met—a source of hope. And to me she was light itself, though light was foreign to her eyes.
+
+I became enamored with her and started going to church. She learned to pick me out just from the sound of my footsteps, giving me a great big smile anytime she heard my approach.
+
+I loved her dearly and wanted to do something for her. I wanted to give her sight. So I devoted myself to finding a cure along with a friend of mine from the academy.
+
+Then one day, my friend told me he had a revelation—that a silver-haired woman had given him some advice. Our research progressed rapidly until it was finally complete.
+
+I hurried to give it to a patient to test its effects. If I could use this to restore Rinyuu's sight... My friend warned me that it was too early to move on to tests, but I ignored him. There were so many people dying as they waited for this medicine.
+
+And the drug was indeed complete. It revitalized the body and cured the patients' illnesses just as we had theorized.
+
+But there was one issue... After a while, the drug would prove too strong and end up destroying the patients' bodies. As a result, it claimed more lives than it saved.
+
+In an attempt to make up for what I'd done, I left Rinyuu and my friend and was imprisoned in a distant, snowy land.
+
+It's hard to say how long I spent there. Eventually, a man appeared before me—Tytos. And he brought Rinyuu with him.
+
+He gazed at her sleeping body with a wicked grin on his face and ordered me to continue my research. To create a scarlet elixir that would strengthen people's bodies and cause them to go out of control.
+
+He was a coward, using the family and loved ones of other researchers to force them to work. Any who didn't produce results were given the drug and never seen again.
+
+I continued this double life for a long, long time, having no idea when I might meet my end. Even so, I was able to stay with Rinyuu and for those brief moments at least, I was happy.
+
+We gave each other bells so that we might always know where the other is. Mine had a blue cord, and hers red. After all, both of our names were related to bells in some way.
+
+The sound of those bells gave me peace. I continued to slave away for Tytos just to protect their ringing.
+
+But then...Rinyuu died.
+
+That's when I decided to get revenge on Tytos. For her, and for the sake of all the countless researchers and their families whose lives he had taken.
+
+That one terrible choice turned to scarlet snow and led to even more deaths, though. I tried to tell myself it was a necessary evil. That if I didn't stop him, even more souls would suffer under his iron grip...
+
+When I learned that Rinyuu was alive, I came back to my senses. Then I understood what I'd done. What a terrible crime I'd committed... One I could never make up for.
+
+And crimes need to be punished. So I resolved to end my life and set Rinyuu free.
+
+Now I walk in utter darkness as my misdeeds and hatred eat away at my soul.
+
+Every step I take is filled with loathing and self-condemnation. It burns inside me...
+
+Tytos... Tytos... He destroyed everything.
+
+He must pay for what he did.
+
+May he be stabbed for every life he took until he becomes drenched in scarlet.
+
+Purged...
+Purged...
+Sinners...are to be purged!
+
+That is all I can think of anymore.
+BEFORE:مذكرات فيلنورت
+AFTER:مذكرات فيلنورت
+
+كان ذلك عندما كنت لا أزال في أكاديمية أطلسدام――
+
+هناك، التقيت رينيو، الراهبة المتدربة، وقدمت أول صلاة لي للآلهة.
+
+كانت لطيفة مع كل من تقابله دون تمييز، مصدر أمل. وبالنسبة لي، كانت هي الضوء بذاته، رغم أن الضوء كان غريبًا عن عينيها.
+
+انجذبت إليها وبدأت أرتاد الكنيسة. تعلمت أن تميزني من صوت خطواتي فقط، وكانت تبتسم لي ابتسامة عريضة كلما سمعت اقترابي.
+
+أحببتها كثيرًا وأردت أن أفعل شيئًا من أجلها. أردت أن أمنحها البصر. لذلك كرست نفسي لإيجاد علاج مع صديق لي من الأكاديمية.
+
+ثم في أحد الأيام، أخبرني صديقي أنه تلقى وحيًا، وأن امرأة ذات شعر فضي قدمت له بعض النصائح. تقدم بحثنا بسرعة حتى اكتمل أخيرًا.
+
+سارعت لإعطائه لمريض لاختبار آثاره. لو تمكنت من استخدام هذا لاستعادة بصر رينيو... حذرني صديقي من أنه من السابق لأوانه الانتقال إلى الاختبارات، لكنني تجاهلته. كان هناك الكثير من الناس يموتون وهم ينتظرون هذا الدواء.
+
+وكان الدواء بالفعل كاملاً. لقد نشط الجسم وعالج أمراض المرضى تمامًا كما افترضنا.
+
+لكن―― كانت هناك مشكلة واحدة... بعد فترة، ثبت أن الدواء قوي جدًا وأدى إلى تدمير أجساد المرضى. ونتيجة لذلك، أودى بحياة عدد أكبر مما أنقذ.
+
+في محاولة للتعويض عما فعلته، تركت رينيو وصديقي وسُجنت في أرض ثلجية بعيدة.
+
+من الصعب تحديد المدة التي قضيتها هناك. في النهاية، ظهر رجل أمامي―― تايتوس. وأحضر رينيو معه.
+
+حدق في جسدها النائم بابتسامة خبيثة على وجهه وأمرني بمواصلة بحثي. أن أصنع إكسيرًا قرمزيًا يقوي أجساد الناس ويجعلهم يخرجون عن السيطرة.
+
+كان جبانًا، يستخدم عائلات وأحباء الباحثين الآخرين لإجبارهم على العمل. أي شخص لم يحقق نتائج كان يُعطى الدواء ولم يُرَ مرة أخرى.
+
+واصلت هذه الحياة المزدوجة لفترة طويلة جدًا، دون أن أعرف متى قد ألقى حتفي. ومع ذلك، تمكنت من البقاء مع رينيو، ولهذه اللحظات القصيرة على الأقل، كنت سعيدًا――
+
+تبادلنا الأجراس حتى نتمكن دائمًا من معرفة مكان الآخر، حتى في أرض الثلج العميقة. كان جرسي يحمل خيطًا أزرق، وجرسها أحمر. ففي النهاية، كانت أسماؤنا مرتبطة بالأجراس بطريقة ما.
+
+كان صوت تلك الأجراس يمنحني السلام. واصلت العبودية لتايتوس فقط لحماية رنينها.
+
+لكن بعد ذلك... ماتت رينيو.
+
+عندئذٍ قررت الانتقام من تايتوس. من أجلها، ومن أجل جميع الباحثين وعائلاتهم الذين لا يحصى عددهم والذين أزهق أرواحهم.
+
+لكن ذلك الاختيار الرهيب تحول إلى ثلج قرمزي وأدى إلى المزيد من الوفيات. حاولت أن أقول لنفسي إنه شر لا بد منه. وأنه إذا لم أوقفه، فإن المزيد من الأرواح ستعاني تحت قبضته الحديدية――
+
+عندما علمت أن رينيو على قيد الحياة، استعدت وعيي. ثم فهمت ما فعلته. يا لها من جريمة فظيعة ارتكبتها... جريمة لا يمكنني أبدًا التعويض عنها.
+
+والجرائم تحتاج إلى عقاب. لذلك قررت إنهاء حياتي وتحرير رينيو.
+
+الآن أسير في ظلام دامس بينما تأكلني أخطائي وكراهيتي.
+
+كل خطوة أخطوها تملؤها الكراهية ولوم الذات. إنها تحترق بداخلي――
+
+تايتوس…… تايتوس…… لقد دمر كل شيء……
+
+يجب أن يدفع هذا المذنب ثمن ما فعله…… فليطعن بعدد الأرواح التي أزهقها حتى يغرق في القرمزي……
+
+تطهيرًا……
+تطهيرًا……
+للمذنبين…… تطهيرًا قرمزيًا!!
+
+――هذا كل ما يمكنني التفكير فيه بعد الآن.
+REASON:The original `ar_text` only contained the title; the entire journal entry was missing. Provided a full translation, ensuring correct line breaks, ellipsis counts, and character names.
+----
+ID=40587
+JA: レブラントの手記
+
+
+私はエドラスの“盾”となりたかった――
+
+ウルリカ王妃様が命を懸け
+エリカ様とアラウネ様をお守りしたあの時
+王妃様に代わり、お２人を守ると私は誓った。
+
+
+ある者はパーディス三世を暴君だと呼ぶ。
+またある者は、軍神という二つ名で呼ぶ。
+
+かつて、私にとってパーディス三世は“王”だった。
+いかに暴君であろうと、そんなことは関係ない。
+王とは、エドラスそのものなのだ。
+王が剣を振るい、民を殺めたとてそれがなんであろう。
+落雷によって命を落とすことと、どう違うというのか。
+
+しかし、ウルリカ様は違った。
+
+あの方は、自らの命を以て“災厄”を退けた。
+自らの強い心で“光”をもたらしたのだ。
+
+幼い２人の王女に。
+エドラスの未来に。
+そして
+災厄に目を閉じ日々を過ごしていたこの私に。
+
+私はその光を守ると決めた。
+２人の王女が決して絶望せず、前に進み続けるために。
+その盾として生きることを決意したのだ。
+
+王妃様亡き後、それが私の生きる全てだった。
+
+エリカ様がマフレズ将軍と結婚された時には
+希望が見えた思いだった。
+私が守ってきた光は、きっと受け継がれる。
+エドラスの未来は開かれるだろうと
+そう信じることができた。
+
+
+だが――希望の蕾はあっという間に踏み散らされた。
+
+マフレズ将軍を失ったエリカ様は
+自らが“剣”となることを決意なされたようだ。
+ならば、“盾”である私は何を成すべきか。
+
+城を出たエリカ様に代わって、
+私がアラウネ様をお守りしなくてはならない。
+エリカ様が望んだように、
+アラウネ様が戦に飲み込まれぬように。
+
+
+――それが間違いだったのだろうか。
+
+それとも、まだ期待をしていたのだろうか。
+いかに暴君といえど、実の娘を
+手にかけはしないだろう、などと――
+
+
+王妃様の形見の青いリボンを、
+今度はエリカ様の形見としてアラウネ様に渡した時
+私は後悔した。
+
+ウルリカ様が守った命を、光を――
+私は守れなかった。
+
+アラウネ様がパーディス三世を討ち
+女王となってからも、その後悔は消えなかった。
+
+だから、誓った。
+
+
+今度こそ。
+
+今度こそは――
+
+私は決して間違えはしない。
+
+
+私は最期に盾となり、アラウネ様をお守りできた。
+
+
+
+
+暗く冷たい道を歩く。
+かつて守れなかったもう一つの光を探すために。
+
+亡者と共に闇の中をさまよい、ついに私は見つけた。
+あれは――
+EN:Lebrandt's Journal
+
+I wanted to be the Shield of Edoras.
+
+When Queen Ulrica gave her life for Princess Elrica and Princess Alaune, I vowed that I would protect them in her stead.
+
+Some people call King Pardis III a tyrant. Others hail him as the God of War.
+
+Before, I thought of Pardis as my king. Whether he was a tyrant or not made no difference. The king was Edoras itself. If he swung his sword and killed his people, what did that matter? How was it any different from being struck by lightning?
+
+But Ulrica did not agree.
+
+She staked her life on opposing the calamity that was Pardis. The strength of her heart brought light.
+
+To the two young princesses. To the future of Edoras. And to me, who had closed his eyes to the dangers.
+
+And so I decided to protect that light, so that the princesses would forge ever forward, never losing hope. I vowed to live as their shield.
+
+After the queen died, that was my entire life.
+
+When Princess Elrica married General Mahrez, I saw a ray of hope. I was sure the light I had protected would continue to shine. I believed it would open the way to Edoras's future.
+
+And yet, that bud of hope was crushed so easily.
+
+After General Mahrez's passing, it seems Princess Elrica decided to make herself into a sword. What then am I to do as a shield?
+
+I must protect Princess Alaune in her stead, so that Princess Alaune isn't swept into war. For that was Princess Elrica's wish.
+
+Or was that a mistake?
+
+Perhaps I was continuing to hold out hope, convinced that even an evil tyrant wouldn't dare lay a hand on his daughter.
+
+When the queen's blue ribbon, which had been passed on to Princess Elrica, was passed on to Princess Alaune in turn, I regretted everything.
+
+I couldn't do anything to save the lives—the lights—that Queen Ulrica had guarded.
+
+Even after Princess Alaune slayed King Pardis III and ascended as queen, my regrets stayed.
+
+That is why I swore...
+
+Next time...
+
+Next time I will not make another mistake.
+
+I became the final shield and kept Queen Alaune safe.
+
+Now I walk along a cold, dark road in search of a light I was once unable to protect.
+
+It was as I wandered the depths alongside the dead that I finally found it.
+
+It was...
+BEFORE:مذكرات ريبرانت
+AFTER:مذكرات ليبرانت
+
+أردت أن أكون "درع" إيدوراس――
+
+عندما ضحت الملكة أولريكا بحياتها من أجل الأميرة إيلريكا والأميرة ألاون، أقسمت أنني سأحميهما بدلاً منها.
+
+يصف بعض الناس الملك بارديس الثالث بالطاغية. بينما يلقبه آخرون بـ"إله الحرب".
+
+في السابق، كنت أعتبر بارديس الثالث ملكي. لم يكن يهم إن كان طاغية أم لا. فالملك هو إيدوراس نفسها. إذا لوح الملك بسيفه وقتل شعبه، فماذا يهم ذلك؟ كيف يختلف الأمر عن الموت بضربة صاعقة؟
+
+لكن أولريكا لم توافق.
+
+لقد ضحت بحياتها لمواجهة "الكارثة" التي كان يمثلها بارديس. جلبت "النور" بقوة قلبها.
+
+للأميرتين الشابتين. لمستقبل إيدوراس. ولي أنا، الذي كنت أغمض عيني عن الأخطار وأقضي أيامي.
+
+وهكذا قررت حماية ذلك النور، حتى تمضي الأميرتان قدمًا دائمًا، ولا تفقدان الأمل أبدًا. أقسمت أن أعيش كدرعهما.
+
+بعد وفاة الملكة، كان ذلك كل حياتي.
+
+عندما تزوجت الأميرة إيلريكا الجنرال ماهرز، رأيت بصيص أمل. كنت متأكدًا أن النور الذي حميته سيستمر في السطوع. اعتقدت أنه سيفتح الطريق لمستقبل إيدوراس.
+
+ومع ذلك―― سُحقت برعم الأمل هذا بسهولة تامة.
+
+بعد وفاة الجنرال ماهرز، يبدو أن الأميرة إيلريكا قررت أن تصبح "سيفًا". فماذا علي أن أفعل أنا كـ"درع"؟
+
+يجب أن أحمي الأميرة ألاون بدلاً منها، حتى لا تنجرف الأميرة ألاون إلى الحرب. فهذه كانت رغبة الأميرة إيلريكا.
+
+――هل كان ذلك خطأ؟
+
+ربما كنت أواصل التمسك بالأمل، مقتنعًا بأن طاغية شريرًا لن يجرؤ على مد يده لابنته، وما إلى ذلك――
+
+عندما تم تمرير شريط الملكة الأزرق، الذي كان قد انتقل إلى الأميرة إيلريكا، إلى الأميرة ألاون بدوره، ندمت على كل شيء.
+
+لم أستطع فعل أي شيء لإنقاذ الأرواح―― الأنوار―― التي حمتها الملكة أولريكا.
+
+حتى بعد أن قتلت الأميرة ألاون الملك بارديس الثالث وتولت العرش كملكة، ظل ندمي.
+
+لهذا السبب أقسمت...
+
+في المرة القادمة...
+
+في المرة القادمة لن أرتكب خطأ آخر أبدًا――
+
+أصبحت الدرع الأخير وحافظت على سلامة الملكة ألاون.
+
+الآن أسير على طريق بارد ومظلم بحثًا عن نور لم أتمكن من حمايته من قبل.
+
+بينما كنت أتجول في الأعماق بجانب الموتى، وجدته أخيرًا.
+كان ذلك――
+REASON:The original `ar_text` only contained the title; the entire journal entry was missing. Provided a full translation, ensuring correct line breaks, ellipsis counts, and character names. Corrected transliteration of 'Lebrandt'.
+----
+ID=40588
+JA: ジェンニッシュ王の手記
+
+
+この国は、領主どもが各地で権勢を振るっている。
+王国への忠誠心など欠片もない。
+それどころか、威厳を示さねば寝首を掻かれることになる。
+
+だから、代々ベルンシュタインの王は、“演じて”きた。
+
+暴君を。
+狂王を。
+逆らった者には――逆らわずとも、重罪を課す。
+
+玉座は戦車の御者席だ。
+政治という終わらない戦争からは、退くこともできない。
+
+幸いにして、我々王族には、力があった。
+――魔法という力が。
+
+長い時の流れにより、失われた奇跡の力。
+しかし、ここベルンシュタインは違った。
+
+初代教皇――愚かなオディプスが儀式を行い、
+聖火を我が物にせんとしたおかげだ。
+研究の記録が克明に残っていたのだ。
+
+ベルンシュタイン王家は失われた魔法の力を手に入れた。
+そして、その力を内側に向け、領主を抑圧していった。
+
+それが、代々国王が“演じてきた”姿だ。
+私もただ、粛々と倣えばよかったはずなのだ。
+
+――知らぬうちに、終わりの時は近づいていた。
+
+
+発端は、強国グランポートによる
+フラットランドの侵略だ。
+
+結果はグランポートの惨敗。
+王国は解体された上に、
+フラットランド八部族の団結を招いた。
+グランポート以上の強国が誕生したのだ。
+
+気づけば、ベルンシュタインは囲まれていた。
+北からはフラットランド。
+西からはフェリエン王国と、サンランドの属州群。
+そして南には、得体の知れぬ蛮族ども――
+
+私は、さらなる力を手に入れねばならなかった。
+
+都合のいいことに、数十年前、
+ザロモンという学者が“力”の在り処を見つけていた。
+
+
+“フィニスの門”――
+そこには、死界に通じ、
+死せる者を呼び出す力があるという。
+
+私は“演じた”。
+暴君として、ザロモンの妻と子を殺し、
+孫娘を人質に取ったのだ。
+
+“演じた”？
+
+そうだ。
+私は“演じていた”のだ。
+
+ザロモンの妻子の四肢の骨を砕き、
+首を刎ねた王を――
+その快楽が伴う“役”を！
+
+そして、私は知っている。
+
+ザロモンよ。
+貴様も“演じていた”のだろう？
+暴君の命に従う悲劇の学者を。
+
+本当は嬉しくてたまらなかったのだろう？
+埋没させるはずだった研究が
+私の力により、甦ったのだから。
+
+
+ザロモンよ。
+空虚な道化、我が同志よ。
+我が罪を背負い、処刑台に吊るされる顔を
+私は見届けよう。
+
+
+
+……なぜだ。
+なぜ涙を流している？
+なぜ死にゆく貴様が、孫娘の行く先を案じている？
+
+もしや道化は私だけだったのか。
+演じていたのは――
+
+それならば、これは私だけの罪。
+
+
+この死地にたどり着き、
+私は初めて真の孤独を知った。
+EN:King Jennish's Journal
+
+In this country, the lords command each of the regions and none show even a shred of loyalty to the kingdom at large. In fact, if I were to fail to assert my authority, they would surely assassinate me.
+
+This is why the kings of Bernstein took on certain "roles."
+
+They became tyrants or were driven mad, severely punishing any who would dare oppose them, and even those who did not.
+
+The throne is but a chariot seat. It is impossible to escape the endless war known as politics.
+
+Thankfully, we of the royal family were gifted with a mysterious power: magic.
+
+It is a miraculous power that was lost over the ages, though not in Bernstein.
+
+The first pontiff—Saint Odypus—performed a ritual that made the Sacred Flame ours. And he left detailed records of his research.
+
+And so, Bernstein royalty came to possess the lost art of magic and used that power to force the lords to submit.
+
+That was the "role" our kings played for generations. If only I, too, had quietly followed in their footsteps...
+
+Before I knew it, the end was upon me.
+
+It all began when the powerful kingdom of Grandport invaded the Flatlands.
+
+Grandport was easily defeated, reducing their kingdom to ash. And what's more, the eight clans of the Flatlands banded together to create an alliance even more powerful than Grandport had been.
+
+The next thing I knew, Bernstein was surrounded by the Flatlands to the north, the kingdom of Ferian and the provinces of the Sunlands to the west, and unknown barbarians to the south.
+
+I knew then that I had to attain greater power.
+
+Fortunately, a scholar named Salomon had discovered the location of just such a power some decades prior.
+
+The Gate of Finis...
+
+There, one could cross over into the realm of the dead and call upon their strength.
+
+And so I stepped into the "role" of tyrant, killing Salomon's wife and child, and taking his granddaughter hostage.
+
+"Role"?
+
+Yes, it was all a role.
+
+I played the part of the king who crushed his family's limbs and tore off their heads. And what a delightful part it was!
+
+And I know, Salomon...
+
+I know you took on a role, too. The part of the poor, tragic scholar who had no choice but to bend his knee to the tyrant.
+
+In truth, you enjoyed it, didn't you? After all, it was because of me that you were able to see your research come to fruition when it otherwise would have sunk into obscurity.
+
+Salomon...
+
+You were but a hollow jester, like me. Therefore, I will bear my crimes and stare into your face as you hang.
+
+...Why? Why are tears falling from my eyes? Why do you worry for your granddaughter's whereabouts
+as you die?
+
+Perhaps I alone was the fool. And the role I played was...
+
+If so, this is my crime, and mine alone.
+
+Upon arriving in the land of the dead, I knew true loneliness for the first time.
+BEFORE:مذكرات ملك جينيش
+AFTER:مذكرات الملك جينيش
+
+في هذا البلد، يسيطر اللوردات على كل منطقة، ولا يظهر أي منهم ذرة ولاء للمملكة ككل. في الواقع، إذا فشلت في تأكيد سلطتي، فسيقومون باغتيالي بالتأكيد.
+
+لهذا السبب، لعب ملوك بيرنشتاين أدوارًا معينة عبر الأجيال.
+
+أصبحوا طغاة. أو ملوكًا مجانين. فرضوا عقوبات شديدة على كل من يجرؤ على معارضتهم، وحتى على من لم يفعلوا ذلك――
+
+العرش ليس سوى مقعد عربة. من المستحيل الهروب من الحرب التي لا تنتهي والتي تُعرف بالسياسة.
+
+لحسن الحظ، نحن أفراد العائلة المالكة، وهبنا قوة غامضة: السحر――
+
+إنها قوة معجزة فُقدت عبر العصور، لكن ليس في بيرنشتاين.
+
+بفضل البابا الأول―― أوديبوس الغبي―― الذي أجرى طقوسًا وحاول الاستيلاء على الشعلة المقدسة. فقد بقيت سجلات بحثه مفصلة.
+
+وهكذا، امتلكت عائلة بيرنشتاين الملكية فن السحر المفقود واستخدمت تلك القوة لإخضاع اللوردات.
+
+كان هذا هو "الدور" الذي لعبه ملوكنا لأجيال. لو أنني، أنا أيضًا، اتبعت خطاهم بهدوء فحسب...
+
+――قبل أن أعرف، كانت النهاية وشيكة.
+
+بدأ كل شيء عندما غزت مملكة غراندبورت القوية أراضي فلاتلاندز.
+
+هزمت غراندبورت بسهولة، وتحولت مملكتهم إلى رماد. والأكثر من ذلك، اتحدت القبائل الثماني في فلاتلاندز لتشكيل تحالف أقوى مما كانت عليه غراندبورت.
+
+في اللحظة التالية، وجدت بيرنشتاين محاطة بفلاتلاندز من الشمال، ومملكة فيريان ومقاطعات سانلاندز من الغرب، وبرابرة مجهولين من الجنوب――
+
+عرفت حينها أنه يجب علي الحصول على قوة أكبر.
+
+لحسن الحظ، كان عالم يدعى سالومون قد اكتشف موقع هذه القوة قبل عدة عقود.
+
+"بوابة فينيس"―― هناك، يمكن للمرء أن يعبر إلى عالم الموتى ويستدعي قوتهم.
+
+وهكذا، دخلت في "دور" الطاغية، فقتلت زوجة سالومون وطفله، وأخذت حفيدته رهينة.
+
+"دور"؟
+
+نعم، كان كله دورًا.
+
+كنت "أمثل" الدور.
+
+لعبت دور الملك الذي سحق أطراف عائلة سالومون وقطع رؤوسهم. ويا له من دور ممتع كان!
+
+وأنا أعلم يا سالومون...
+
+أعلم أنك لعبت دورًا أيضًا. دور العالم المسكين المأساوي الذي لم يكن أمامه خيار سوى الانحناء للطاغية.
+
+في الحقيقة، لقد استمتعت بذلك، أليس كذلك؟ ففي النهاية، بسببي تمكنت من رؤية بحثك يؤتي ثماره بينما كان من الممكن أن يغرق في النسيان.
+
+سالومون...
+
+كنت مجرد مهرج أجوف، مثلي. لذلك، سأتحمل جرائمي وأحدق في وجهك وأنت تُشنق.
+
+……لماذا؟ لماذا تتساقط الدموع من عيني؟ لماذا تقلق بشأن مصير حفيدتك وأنت تموت؟
+
+ربما كنت أنا وحدي الأحمق. والدور الذي لعبته كان――
+
+إذا كان الأمر كذلك، فهذه جريمتي، وجريمتي وحدي.
+
+عند وصولي إلى أرض الموتى، عرفت الوحدة الحقيقية لأول مرة.
+REASON:The original `ar_text` only contained the title; the entire journal entry was missing. Provided a full translation, ensuring correct line breaks, ellipsis counts, and character names. Corrected title to include 'الملك'.
+----
+ID=40589
+JA: リンユウの手記
+
+
+大切な皆さんを裏切ってまで、この地に来ました。
+
+辺獄の地――
+光の届かない海の底のような場所で彼が彷徨っている。
+そう考えると、じっとしては居られませんでした。
+
+
+マフレズ将軍のことをお聞きしました。
+勇敢で愛の溢れる、エドラスという大国を支えた方。
+そんな強い方でも、黒い炎に飲まれれば心を蝕まれてしまう。
+
+
+ヴェルノート……。
+異国の地で一人暮らしていた私に、光をくれた人。
+いつも優しく、懸命で、誰かを救うための研究を続けていた人。
+
+彼の、揺れ続けてしまう弱さも、私は愛していました。
+そんな貴方を支えられることが嬉しかった。
+
+私たちは二人で一つ――
+そう思っていたのです。
+
+
+彼は過ちを犯しました。
+エンバーグロウに降った赤い雪は、
+人々の血へと代わり、たくさんの罪なき命を奪いました。
+それは決して、許されることではありません。
+
+
+だけど、だからこそ。
+
+この暗い場所で、自らの贖罪を求めて
+彷徨っているであろう貴方を私は支えたいのです。
+
+
+この身に流れる父の血のおかげか、
+私はまだ幾許かの時間
+この地で動くことができそうです。
+
+ヴェルノート、優しくて、弱い、私の最愛の人。
+貴方がもし罪の呪いに囚われ、
+闇に堕ちてしまうのなら、私も共に逝きましょう。
+
+貴方が自らの贖罪を願うなら
+私の手で貴方を罰しましょう。
+
+
+死が二人を分かつとも――
+EN:Rinyuu's Journal
+
+I came here, even though I had to betray everyone important to me to do it.
+
+The far reaches of Hell...
+
+He's here somewhere, wandering the lightless depths. Knowing that, I couldn't just sit around and do nothing.
+
+I heard about General Mahrez. He was once a brave man, overflowing with love, and did everything for the sake of his kingdom. But even as strong as he was, the dark flame still consumed his heart.
+
+Velnorte... My light when I was living alone in a foreign country. He was so kind and gentle, eagerly continuing his research so that he could save people.
+
+I loved him even when he wavered. I was happy to be able to support him.
+
+I thought of us as one person.
+
+But he made a mistake. The scarlet snow that descended on Emberglow turned to blood, claiming many innocent lives. I know that's something that cannot be overlooked.
+
+And yet, that's exactly why...
+
+I want to be there for you as you wander this dark place, seeking atonement.
+
+It seems I can move in this place for a little while yet, perhaps thanks to my father's blood.
+
+Velnorte, gentle and weak... My beloved. Even if you've been plummeted into darkness and imprisoned by the curse of your crimes, I will walk with you.
+
+If it's atonement you wish for, then I will deliver it with my own hands.
+
+Even if death should separate us...
+BEFORE:مذكرات رينيو
+AFTER:مذكرات رينيو
+
+لقد جئت إلى هنا، حتى لو اضطررت إلى خيانة كل شخص مهم بالنسبة لي للقيام بذلك.
+
+أقاصي الجحيم... إنه هنا في مكان ما، يتجول في الأعماق المظلمة. بمعرفة ذلك، لم أستطع الجلوس مكتوفة الأيدي.
+
+سمعت عن الجنرال ماهرز. كان رجلاً شجاعًا، يفيض حبًا، وفعل كل شيء من أجل مملكته. لكن حتى مع قوته، استهلكت النيران السوداء قلبه.
+
+فيلنورت…… نوري عندما كنت أعيش وحدي في بلد أجنبي. كان لطيفًا وودودًا للغاية، ويواصل بحثه بحماس لإنقاذ الناس.
+
+أحببته حتى عندما كان يتردد. كنت سعيدة بقدرتي على دعمه.
+
+اعتقدت أننا شخص واحد――
+
+لكنه ارتكب خطأ. تحول الثلج القرمزي الذي سقط على إمبرغلو إلى دماء، وأزهق أرواح العديد من الأبرياء. أعلم أن هذا لا يمكن التغاضي عنه أبدًا.
+
+ومع ذلك، هذا هو السبب بالضبط...
+
+أريد أن أكون بجانبك وأنت تتجول في هذا المكان المظلم، باحثًا عن التكفير عن الذنب.
+
+يبدو أنني أستطيع التحرك في هذا المكان لبعض الوقت بعد، ربما بفضل دماء والدي التي تجري في عروقي.
+
+فيلنورت، اللطيف والضعيف... حبيبي. حتى لو سقطت في الظلام وسُجنت بلعنة جرائمك، سأسير معك.
+
+إذا كنت ترغب في التكفير عن الذنب، فسأقوم بتنفيذه بيدي.
+
+حتى لو فرقنا الموت――
+REASON:The original `ar_text` only contained the title; the entire journal entry was missing. Provided a full translation, ensuring correct line breaks, ellipsis counts, and character names.
+----
+ID=411326
+JA: はしゃぎ過ぎたら、その場で
+しょっ引いていいからな！　ハッハッハ
+EN:If she gets too rowdy, just arrest her
+on the spot! Hahaha!
+BEFORE:إذا أفرطت في الحماس، يمكنك توبيخها في مكانها! هاه هاه هاه
+AFTER:إذا أفرطت في الحماس، يمكنك اقتيادها في مكانها! هاهاها
+REASON:Mistranslation of 'arrest' (しょっ引く) as 'scold' (توبيخها); incorrect laughter transliteration.
+----
+ID=411409
+JA: ……って、<chara_name>には耳タコか
+団長の子供だものね
+EN:...Though I'm sure you're sick of
+hearing that, considering your
+father's captain of the watch.
+BEFORE:……مهلاً، لقد سئمتِ من سماع هذا يا <chara_name>
+فأنتِ ابنة قائد الفصيل، أليس كذلك؟
+AFTER:……مهلاً، لقد سئمتَ من سماع هذا يا <chara_name>
+فأنت طفل قائد الفصيل، أليس كذلك؟
+REASON:Corrected gender-specific phrasing for the player character: 'سئمتِ' to gender-neutral 'سئمتَ' (past tense is spelling-neutral) and 'أنتِ ابنة' to generic masculine 'أنت طفل' as per style guide.
+----
+ID=411498
+JA: <chara_name>、また明日ね！
+EN:See you tomorrow,
+<chara_name>!
+BEFORE:<chara_name>، أراكِ غداً!
+AFTER:إلى اللقاء غداً يا <chara_name>!
+REASON:Changed gendered 'أراكِ غداً!' (feminine) to gender-neutral 'إلى اللقاء غداً يا <chara_name>!' for the player character.
+----
+ID=411578
+JA: リーヴェンからの救援隊が
+来てくれるはずなんだが……
+EN:There's supposed to be a relief
+mission coming from Riven, but...
+BEFORE:من المفترض أن تصل فرقة الإنقاذ من فيلنورت……
+AFTER:من المفترض أن تصل فرقة الإنقاذ من ريفن……
+REASON:Corrected 'فيلنورت' to 'ريفن' to match 'Riven' in the English and 'リーヴェン' in Japanese, as 'Riven' is a nation and 'Velnorte' is a character name per glossary/context.
+----
+ID=411582
+JA: ……ねぇ、覚えてる？
+EN:...Hey, do you remember?
+BEFORE:……هل تتذكر؟
+AFTER:……هل تذكرت؟
+REASON:Changed present-tense 'تتذكر' to past-tense 'تذكرت' to achieve gender-neutrality in spelling for the player character, as per style guide.
+----
+ID=411620
+JA: そなたにはまだ資格がない
+EN:You have yet to prove your resolve.
+BEFORE:أنت لا تملك الأهلية بعد
+AFTER:لم تكتسب الأهلية بعد
+REASON:Changed 'أنت لا تملك الأهلية بعد' to 'لم تكتسب الأهلية بعد' to use a past-tense verb ('اكتسبت') which is gender-neutral in spelling for the player character, as per style guide.
+----
+ID=411623
+JA: 見とくれ、豊作じゃ！
+バジルが愛情を込めたおかげじゃよ
+EN:Look at this bountiful harvest!
+Every last stalk and leaf is filled
+with Basil's love.
+BEFORE:انظر، إنه محصول وفير!
+هذا بفضل العناية التي أوليتها للريحان
+AFTER:انظر، إنه محصول وفير!
+هذا بفضل اهتمام باسل به.
+REASON:Mistranslation: 'الريحان' (basil herb) instead of transliterating 'Basil' (character name). Rephrased for clarity and correct attribution.
+----
+ID=411757
+JA: これに勝てばレイメだ
+頼んだぜ……
+EN:If you win this match, you'll finally
+get to face Reime.
+BEFORE:إذا فزت في هذه، فستكون ليم
+أعتمد عليك……
+AFTER:إذا فزت في هذه، فستواجه ريمي
+أعتمد عليك……
+REASON:Corrected mistranslation of 'レイメだ' (it's Reime) to 'ستواجه ريمي' (you will face Reime), and transliterated 'Reime' to 'ريمي'.
+----
+ID=411758
+JA: いよいよ決勝、相手はあのレイメだ…… 
+まさかあれほど強いやつだとはな……
+EN:I knew you'd make it to the finals,
+but Reime's a lot tougher than
+I thought...
+BEFORE:أخيراً النهائي، الخصم هو ليم ذلك……
+لم أتوقع أنه قوي إلى هذا الحد……
+AFTER:أخيراً النهائي، الخصم هو ريمي ذلك……
+لم أتوقع أنه قوي إلى هذا الحد……
+REASON:Transliterated 'Reime' to 'ريمي' for consistency.
+----
+ID=411773
+JA: 十二天の書　５巻　ウィンヒルドの章
+
+
+人々は、魔物に対し用いていた狩りの技が
+他者に対して行使できることに気づいた。
+
+豪武匠ウィンヒルドは間違いが起きないように、
+身を守るための“力”――８種の神器を人々に授けた。
+
+後にそれらの神器はとある島に封印されることとなる。
+EN:The Twelve Heavenly Scriptures: Book 5 - Winnehild
+
+People realized that the hunting skills they used against monsters could be used against their fellow man.
+
+And so Winnehild the Warbringer, hoping to prevent tragedy, bestowed them with the "strength" to defend themselves in the form of eight sacred treasures.
+
+These treasures were later sealed upon a certain isle.
+BEFORE:كتاب الأبراج الاثني عشر، المجلد 5، فصل وينهيرد
+أدرك الناس أن مهارات الصيد التي كانوا يستخدمونها ضد الوحوش
+يمكن ممارستها ضد الآخرين.
+ولكي يضمن هاومو شو وينهيرد عدم وقوع أخطاء،
+منح الناس "القوة" لحماية أنفسهم ―― وهي الآلهة الثمانية المقدسة.
+لاحقًا، تم ختم تلك الآلهة المقدسة في جزيرة ما.
+AFTER:كتاب الأبراج الاثني عشر، المجلد 5، فصل وينهيرد
+
+أدرك الناس أن مهارات الصيد التي كانوا يستخدمونها ضد الوحوش
+يمكن ممارستها ضد الآخرين.
+
+ولكي يضمن سيد الفنون القتالية وينهيرد عدم وقوع أخطاء،
+منح الناس "القوة" لحماية أنفسهم ―― وهي الكنوز الثمانية المقدسة.
+
+لاحقًا، تم ختم تلك الكنوز المقدسة في جزيرة ما.
+REASON:Corrected translation of '豪武匠' from transliteration 'هاومو شو' to 'سيد الفنون القتالية'. Corrected 'الآلهة الثمانية المقدسة' (sacred gods) to 'الكنوز الثمانية المقدسة' (sacred treasures) for '神器'. Added missing line breaks.
+----
+ID=411783
+JA: 豪武匠ウィンヒルドの書の
+内容を確認しますか？
+EN:Read <i>Script of the Warbringer</>?
+BEFORE:هل تريد التحقق من محتوى كتاب غاووو بو شونغ وينهيرلد؟
+AFTER:هل تريد التحقق من محتوى كتاب سيد الفنون القتالية وينهيرد؟
+REASON:Corrected translation of '豪武匠' from transliteration 'غاووو بو شونغ' to 'سيد الفنون القتالية' for consistency with 411773.
+----
+ID=411784
+JA: 星占師ステオーラの書の
+内容を確認しますか？
+EN:Read <i>Script of the Starseer</>?
+BEFORE:هل تريد التحقق من محتوى كتاب المنجم ستيولا؟
+AFTER:هل تريد التحقق من محتوى كتاب المنجمة ستيورا؟
+REASON:Corrected transliteration of 'Steorra' from 'ستيولا' to 'ستيورا' and used feminine 'المنجمة' for 'Starseer' as Steorra is female.
+----
+ID=411922
+JA: “流れ星に願いを”、“ピュリッティの妻”
+“白馬の騎士”……私は全てに出演してるの！
+EN:<i>Wish Upon the Shooting Star</>,
+<i>The Chaste Wife</>, <i>The White Knight</>—
+I've been in them all!
+BEFORE:"أمنية على شهاب"، "زوجة بورييتي"
+"فارس الحصان الأبيض"…… لقد مثلت في كل هذه الأدوار!
+AFTER:"أمنية على شهاب"، "الزوجة العفيفة"
+"فارس الحصان الأبيض"…… لقد مثلت في كل هذه الأدوار!
+REASON:`ピュリッティ` (Pyuritti) is likely a transliteration of "Purity". The English translation "The Chaste Wife" interprets this meaning. `زوجة بورييتي` is a transliteration that loses this meaning. `الزوجة العفيفة` (The Chaste Wife) better conveys the likely intended meaning and aligns with the English.
+----
+ID=412125
+JA: あなたはいつも
+揺るがないように見えます
+EN:You never seem shaken no matter
+what happens.
+BEFORE:تبدو دائماً
+ثابتاً لا يتزعزع
+AFTER:بدوتَ دائماً
+ثابتاً لا يتزعزع
+REASON:Used past tense `بدوتَ` for gender neutrality (spelling is neutral). `ثابتاً` defaults to generic masculine as per style guide.
+----
+ID=412477
+JA: バッキャロー！
+あれは俺のつまみだ！
+EN:Hey! Get your own snacks!
+BEFORE:بارجيلو!
+هذا هو طعامي!
+AFTER:هيه!
+هذا هو طعامي!
+REASON:Corrected 'بارجيلو!' which was a mistranslation of the Japanese exclamation 'バッキャロー!' (Hey!) as a proper name.
+----
+ID=412484
+JA: “選ばれし者”よ
+……指輪を失ったのですね
+EN:Ringbearer chosen, I see you no
+longer possess the ring...
+BEFORE:"أيها المختار"
+……لقد فقدتَ الخاتم، أليس كذلك؟
+AFTER:أيها "المختار"
+……لقد فقدت الخاتم، أليس كذلك؟
+REASON:Removed the explicit fatha from 'فقدتَ' to ensure the past-tense verb is gender-neutral in spelling for player address, as per style guide.
+----
+ID=412486
+JA: おぉ、捕獲してきてくれたか！
+ありがとう、ありがとう！
+EN:Oh! You caught one?
+Thank you!
+BEFORE:أوه، لقد قمتَ باصطياده!
+شكراً، شكراً!
+AFTER:أوه، لقد قمت باصطياده!
+شكراً، شكراً!
+REASON:Removed the explicit fatha from 'قمتَ' to ensure the past-tense verb is gender-neutral in spelling for player address, as per style guide.
+----
+ID=412495
+JA: マージムのこと
+よろしく頼むわね
+EN:Please take good care of Marjim.
+BEFORE:أرجو منك
+الاهتمام بـ "ماجيم"
+AFTER:أرجو منك
+الاهتمام بـ "مارجيم"
+REASON:Corrected the transliteration of 'Marjim' from 'ماجيم' to 'مارجيم'.
+----
+ID=412548
+JA: 北シアトポリス平原にある小屋に
+誰か住んでいるみたいなんだ
+EN:I think there's someone living in that
+shack in the North Theatropolis Plains.
+BEFORE:يبدو أن شخصاً ما يسكن في الكوخ الموجود في سهول شمال سياتوبوليس
+AFTER:يبدو أن شخصاً ما يسكن في الكوخ الموجود في سهول ثياتروبوليس الشمالية.
+REASON:Corrected transliteration of 'Theatropolis' to 'ثياتروبوليس' and rephrased 'شمال سياتوبوليس' to 'ثياتروبوليس الشمالية' for better flow and accuracy. Added missing line break '\n' as per source.
+----
+ID=412642
+JA: フレイムグレースには
+ヨーセフ大司教様とリアナがいる……
+EN:The people of Flamesgrace are in
+good hands with Archbishop Josef
+and Lianna.
+BEFORE:في فليم غريس
+يوجد الأرشيوسكوب يوسف وليانا……
+AFTER:في فليم غريس
+يوجد رئيس الأساقفة يوسف وليانا……
+REASON:Replaced the less common transliteration 'الأرشيوسكوب' with the standard Arabic term 'رئيس الأساقفة' for 'Archbishop'.
+----
+ID=412671
+JA: だが鮫よ、終わりではあるまい
+心ゆくまで愉しませてもらおう……
+EN:This is not the end, Shark.
+I will have my fill.
+BEFORE:ولكن يا سامي، هذه ليست النهاية
+سأستمتع بكل لحظة حتى أشبع……
+AFTER:ولكن يا قرش، هذه ليست النهاية
+سأستمتع بكل لحظة حتى أشبع……
+REASON:Corrected the transliteration 'يا سامي' to the direct translation 'يا قرش' for 'Shark', matching the English and Japanese intent.
+----
+ID=412680
+JA: もし引退されても
+私はずっとついてますから……
+EN:Don't worry. Even if you retire,
+I'll still be here for you.
+BEFORE:حتى لو تقاعدتِ، سأبقى بجانبكِ دائماً……
+AFTER:حتى لو تقاعدت، سأبقى بجانبك دائماً……
+REASON:Corrected the feminine pronoun 'بجانبكِ' to the generic masculine 'بجانبك' when addressing the player character, as per style guide. The past-tense verb 'تقاعدت' is already gender-neutral in spelling.
+----
+ID=412701
+JA: 禁忌を犯した者に
+力を貸すというのですか……？
+EN:Should we lend this sinful man
+our strength?
+BEFORE:هل تنوي إعطاء القوة
+لشخص انتهك المحرمات……؟
+AFTER:هل نويت إعطاء القوة
+لشخص انتهك المحرمات……؟
+REASON:Player-address gender-neutrality: 'هل تنوي' (present tense, masc.) changed to 'هل نويت' (past tense, gender-neutral in spelling) for the player character.
+----
+ID=412702
+JA: サザントスに力を貸しますか？
+EN:Help Sazantos?
+BEFORE:هل ستمنح القوة لسازانتوس؟
+AFTER:هل منحت القوة لسازانتوس؟
+REASON:Player-address gender-neutrality: 'هل ستمنح' (future tense, masc.) changed to 'هل منحت' (past tense, gender-neutral in spelling) for the player character.
+----
+ID=412705
+JA: 覚悟はよろしいですか？
+EN:Are you prepared to proceed?
+BEFORE:هل أنت مستعد؟
+AFTER:هل استعددت؟
+REASON:Player-address gender-neutrality: 'هل أنت مستعد؟' (predicate adjective, masc.) changed to 'هل استعددت؟' (past tense, gender-neutral in spelling) for the player character.
+----
+ID=412706
+JA: 何と答えますか？
+EN:How do you respond?
+BEFORE:بماذا ستجيب؟
+AFTER:بماذا أجبت؟
+REASON:Player-address gender-neutrality: 'بماذا ستجيب؟' (future tense, masc.) changed to 'بماذا أجبت؟' (past tense, gender-neutral in spelling) for the player character.
+----
+ID=412707
+JA: 準備ができたら
+声をかけてください
+EN:Speak when you are ready to proceed.
+BEFORE:أخبرني عندما تكون مستعداً
+AFTER:أخبرني عندما استعددت
+REASON:Player-address gender-neutrality: 'تكون مستعداً' (present tense verb + predicate adjective, masc.) changed to 'استعددت' (past tense, gender-neutral in spelling) for the player character.
+----

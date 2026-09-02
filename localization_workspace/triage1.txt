@@ -1,0 +1,67 @@
+--- 154179
+JA: 'こっちでも満席とはな\nさすが大陸一の劇作家だぜ'
+EN: "Looks like we've got another full house,\ntoo. Should've expected as much from\nthe realm's greatest playwright."
+BEFORE: 'حتى هنا المقاعد ممتلئة تمامًا'
+AFTER: 'حتى هنا المقاعد ممتلئة تمامًا، كما هو متوقع من أعظم كاتب مسرحي في القارة.'
+REASON: Missing the second part of the sentence about the playwright.
+--- 154181
+JA: 'だが、観劇してる暇はねえ\n先を急がねえと'
+EN: "Right. We don't have time to\nsit back and enjoy the show.\nWe need to get moving."
+BEFORE: 'لكن، ليس لدينا وقت لمشاهدة العرض'
+AFTER: 'لكن، ليس لدينا وقت لمشاهدة العرض. علينا الإسراع.'
+REASON: Missing the second part of the sentence about needing to hurry.
+--- 154183
+JA: '見届けようではないか\n何が起きるのかな……'
+EN: "Why don't we wait and see\nwhat happens?"
+BEFORE: 'لنشهد على ذلك'
+AFTER: 'لنرَ ما سيحدث……'
+REASON: Missing the 'what happens' part of the sentence and the ellipsis count was incorrect.
+--- 154184
+JA: 'おまっ……\n観たいだけだろ、絶対'
+EN: "Wha—!? You're just making excuses\nto see the play!"
+BEFORE: 'يا إلهي……'
+AFTER: 'ألا تريد مشاهدة العرض فحسب، هذا مؤكد!'
+REASON: Mistranslation; the original Arabic completely missed the accusation in the Japanese text.
+--- 154347
+JA: '貴方の炎が……'
+EN: 'Your flame...'
+BEFORE: 'لهيبك……'
+AFTER: 'لهيبك…'
+REASON: Corrected ellipsis count from 6 to 2 (matching JA source).
+--- 154348
+JA: 'ロンドよ……'
+EN: 'Rondo...'
+BEFORE: 'يا روندو……'
+AFTER: 'يا روندو…'
+REASON: Corrected ellipsis count from 6 to 2 (matching JA source).
+--- 154365
+JA: 'サザントスさん\n……貴方を倒します'
+EN: 'Sir Sazantos...\nI will defeat you.'
+BEFORE: 'سيد سازانتوس\n……سأهزمك'
+AFTER: 'سيد سازانتوس\n…سأهزمك'
+REASON: Corrected ellipsis count from 6 to 2 (matching JA source).
+--- 411333
+JA: '東の地――フラットランドの\n聖火騎士駐屯地に行っていただけますか？'
+EN: "I need you to speak with the Knights\nArdante. You'll find their garrison in\nthe Flatlands to the east of here."
+BEFORE: 'هل يمكنكِ الذهاب إلى\nمعسكر فرسان اللهب المقدس\nفي أرض فلاتلاند بالشرق؟'
+AFTER: 'هل بالإمكان الذهاب إلى\nمعسكر فرسان اللهب المقدس\nفي أرض فلاتلاند بالشرق؟'
+REASON: Addressed player-address gender-neutrality by changing 'هل يمكنكِ الذهاب إلى' (feminine) to 'هل بالإمكان الذهاب إلى' (gender-neutral verbal noun construction).
+--- 411358
+JA: 'そんなことが……\n許されるとでも……？'
+EN: 'You think you can be forgiven...\njust like that?'
+BEFORE: 'هل يُسمحُ بـ……\nأمرٍ كهذا……؟'
+AFTER: 'هل يُغفر لكَ أمرٌ كهذا……؟'
+REASON: Rephrased 'هل يُسمحُ بـ…… أمرٍ كهذا……؟' to 'هل يُغفر لكَ أمرٌ كهذا……؟' for more natural phrasing, better capture of 'forgiven' nuance, and corrected gender for addressee (Velnorte is male). Removed unnecessary diacritics.
+--- 412060
+JA: '俺はもう……\n引き返せはしないのだ'
+EN: "There's no turning back\nfor me now."
+BEFORE: 'أنا لم أعد……\nلا يمكنني التراجع'
+AFTER: 'لا يمكنني التراجع بعد الآن'
+REASON: The original Arabic 'أنا لم أعد……
+لا يمكنني التراجع' is slightly redundant and grammatically incomplete with 'لم أعد' without a following verb. The revised translation 'لا يمكنني التراجع بعد الآن' is more concise and natural, matching the Japanese and English meaning.
+--- 412557
+JA: '全てを失い……\n指輪に願ったはずだろ……'
+EN: 'After having lost everything,\nyou must have turned to\nthe ring...'
+BEFORE: 'لقد فقدت كل شيء……'
+AFTER: 'لقد فقدت كل شيء…… لا بد أنك تمنيت على الخاتم، أليس كذلك؟'
+REASON: Incomplete translation; the second part of the Japanese sentence ('you must have wished upon the ring, right?') was omitted. Added the missing phrase using gender-neutral past tense verbs.

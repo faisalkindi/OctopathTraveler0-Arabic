@@ -1,0 +1,144 @@
+==================== 4748
+JA: 'パーディス三世\n言い分はそれでよいか？'
+EN: 'King Pardis III... Is this all you\nhave to say in your defense?'
+BEFORE: 'بارديس الثالث'
+AR: 'بارديس الثالث\nهل هذا كل ما لديك لتقوله في دفاعك؟'
+REASON: "Completed the translation; the original Arabic omitted the question '言い分はそれでよいか？' (Is this all you have to say in your defense?)."
+==================== 7591
+JA: '人の心が闇に染まれば\n聖火は黒呪炎に変わるとあった'
+EN: "which told of how the evil in\npeople's hearts can turn the\nSacred Flame into an accurst one."
+BEFORE: 'قيل إن قلوب البشر إذا تلوثت بالظلام'
+AR: 'قيل إن قلوب البشر إذا تلوثت بالظلام\nفإن الشعلة المقدسة تتحول إلى لهب أسود ملعون.'
+REASON: 'Mistranslation: The original Arabic text was a fragment and omitted the second half of the sentence. The line break was also added to match the Japanese source.'
+==================== 3853
+JA: '僕らの問題ですから\n無理に巻き込むわけには……'
+EN: "We can't go dragging other\npeople into our problems..."
+BEFORE: 'إنها مشكلتنا نحن'
+AR: 'إنها مشكلتنا نحن، ولا يمكننا أن نُقحم الآخرين فيها قسراً……'
+REASON: 'The original Arabic was incomplete, missing the second part of the Japanese sentence about not involving others. Added the missing meaning and corrected ellipsis count.'
+==================== 5340
+JA: 'ほう……\nエリカと同じ姿になりたいか'
+EN: 'So you would go like your sister,\nthen?'
+BEFORE: 'هه……'
+AR: 'هه……\nهل تريدين أن تصبحي مثل إريكا؟'
+REASON: "Completed the translation, which was incomplete, by adding the missing question and transliterating 'Erika' as 'إريكا'."
+==================== 4556
+JA: '……何を仰る\nまだです……陛下'
+EN: 'Your Majesty...\nOur fight is not over yet.'
+BEFORE: '……ماذا تقول'
+AR: '……ماذا تقول؟\nليس بعد…… يا جلالة الملك.'
+REASON: "Incomplete translation. The original Arabic was missing 'まだです……陛下' (Not yet... Your Majesty) and the line break."
+==================== 4680
+JA: '君と姉君とは\n幼い頃からの縁だ'
+EN: 'You and your sister have been\nlike daughters to me since you\nwere little.'
+BEFORE: 'أنت وأخوك الأكبر'
+AR: 'أنتِ وأختكِ الكبرى\nكنتما لي كابنتين منذ صغركما.'
+REASON: "Corrected 'أخوك الأكبر' (elder brother) to 'أختكِ الكبرى' (elder sister) as per the Japanese source '姉君'. Also added the missing second part of the sentence 'كنتما لي كابنتين منذ صغركما' (you two have been like daughters to me since you were little) for completeness. Used feminine address for the protagonist (Alaune)."
+==================== 4746
+JA: '……愚かにも\n祖国を捨て寝返ったがな'
+EN: '...How was I to know she would\nturn traitor and betray us?'
+BEFORE: '……بغباءٍ،'
+AR: '……بغباءٍ، تخلت عن وطنها وانقلبت علينا.'
+REASON: "Completed the translation; the original Arabic omitted the second part of the Japanese sentence '祖国を捨て寝返ったがな' (she abandoned her homeland and defected/betrayed)."
+==================== 5185
+JA: '王女様が受けた矢は\n幸い急所を逸れました'
+EN: 'Fortunately, the arrow just\nmissed her vitals.'
+BEFORE: 'السهم الذي تلقته سمو الأميرة'
+AR: 'السهم الذي تلقته سمو الأميرة، لحسن الحظ، أخطأ نقاطها الحيوية.'
+REASON: 'Completed the translation; the original was incomplete and missing the second half of the sentence.'
+==================== 5332
+JA: 'よーし！\n正面からお邪魔するか'
+EN: 'Well, then. Might as well go\nthrough the front door.'
+BEFORE: 'حسناً!'
+AR: 'حسناً!\nفلندخل من المدخل الرئيسي إذاً.'
+REASON: "Completed the translation, which was incomplete, by adding the second part of the sentence 'Might as well go through the front door'."
+==================== 7093
+JA: 'ここからの話は\n内密に頼む……'
+EN: 'Pray keep in close confidence\nwhat I am about to tell you.'
+BEFORE: 'ما سأقوله من الآن'
+AR: 'ما سأقوله من الآن، أرجو أن تحتفظ به سرًا……'
+REASON: "Incomplete translation. Added 'أرجو أن تحتفظ به سرًا' (pray keep in close confidence) and preserved the ellipsis count."
+==================== 7166
+JA: '流石ですね\n今度は無言でやったのに'
+EN: "Astounding. And I didn't even\nsay a word this time."
+BEFORE: 'كما هو متوقع منك'
+AR: 'كما هو متوقع منك. فعلت ذلك بصمت هذه المرة.'
+REASON: "The original Arabic omitted the second part of the Japanese sentence '今度は無言でやったのに' (even though you did it silently this time). Added the missing meaning."
+==================== 7167
+JA: '不意を突かねば\n不意打ちとは言わん'
+EN: 'You cannot surprise someone if\nyou do not catch them off guard.'
+BEFORE: 'يجب أن نباغتهم'
+AR: 'إن لم تباغتهم، فلن يُسمى ذلك هجومًا مباغتًا.'
+REASON: "The original Arabic 'يجب أن نباغتهم' was a simplification that changed the meaning from a conditional statement about the definition of a surprise attack to a direct command. Rephrased to reflect the original conditional meaning."
+==================== 7250
+JA: '有難うございます\n聖火守指長殿'
+EN: 'You have my gratitude.'
+BEFORE: 'شكراً لك'
+AR: 'شكراً لك يا سيد حارس الشعلة المقدسة'
+REASON: "Added the address 'يا سيد حارس الشعلة المقدسة' which was present in the Japanese source '聖火守指長殿'."
+==================== 4811
+JA: '自身の国や家族と\n他国の王女の命……'
+EN: 'When weighing the lives of their\nfamilies against that of a princess\nfrom another land...'
+BEFORE: 'لقد سأل ملوك الدول\nعن أيهما أهم؛ بلده وعائلته\nأو حياة أميرة من دولة أخرى……'
+AR: 'بلده وعائلته،\nأم حياة أميرة من دولة أخرى……'
+REASON: "Rephrased to directly state the two elements being weighed, removing the premature 'لقد سأل ملوك الدول' which is not present in this Japanese line."
+==================== 4594
+JA: '頼んだぞ、<chara_name>殿\nそなただけが頼りだ'
+EN: 'Thank you. I know I can trust you,\n<chara_name>.'
+BEFORE: 'أعتمد عليك، يا سيد <chara_name>\nأنت وحدك من يمكنني الاعتماد عليه'
+AR: 'أعتمد عليك، <chara_name>\nفكل اعتمادي عليك.'
+REASON: "Addressed player character with gender-neutral phrasing; removed gendered honorific 'يا سيد' and rephrased the second sentence to avoid explicit masculine 'أنتَ'."
+==================== 4248
+JA: 'そして、このソロンも\n刺客に消させようとした'
+EN: 'Meanwhile, he would have me\nassassinated.'
+BEFORE: 'وحاول أيضاً\nالتخلص من سولون هذا\nعن طريق القتلة'
+AR: 'وحاول أيضاً اغتيال سولون هذا'
+REASON: "Rephrased 'التخلص من سولون هذا عن طريق القتلة' to 'اغتيال سولون هذا' for conciseness and natural flow, while retaining the meaning of assassination."
+==================== 4402
+JA: 'エドラスの猛者たちよ……'
+EN: 'Warriors of Edoras...'
+BEFORE: 'يا أبطال إيدوراس……\nلا تستهينوا بـ أرتينيا'
+AR: 'يا أبطال إيدوراس……'
+REASON: "Split the combined line from the previous draft; this line should only contain the address 'Warriors of Edoras...'."
+==================== 4403
+JA: 'アルティニアを\n甘く見ないでもらおうか'
+EN: 'Did you think Altinia would go\nso quietly?'
+BEFORE: 'يا أبطال إيدوراس……\nلا تستهينوا بـ أرتينيا'
+AR: 'لا تستهينوا بألتينيا'
+REASON: "Split the combined line from the previous draft and corrected the transliteration of 'أرتينيا' to 'ألتينيا' as per glossary/game context."
+==================== 4624
+JA: '諸王会議で、お父様を\n審議してもらうのよ'
+EN: 'We will have Father tried at\nthe Council of Kings.'
+BEFORE: 'في اجتماع الملوك، سأطلب\nمن والدي أن ينظر في الأمر'
+AR: 'في اجتماع الملوك، سأطلب\nمحاكمة والدي'
+REASON: "Corrected mistranslation of '審議してもらう' (to be tried/deliberated) from 'أن ينظر في الأمر' (to look into the matter) to 'محاكمة والدي' (my father's trial)."
+==================== 4718
+JA: '……万が一、事実であれば\n諸王会議の威信に関わる'
+EN: 'If said report is true, this has grave\nrepercussions for this council...'
+BEFORE: '……لو كان الأمر حقيقة في حال حدوث ذلك\nفإنه سيؤثر على هيبة اجتماع الملوك'
+AR: '……لو كان الأمر حقيقة\nفإنه سيؤثر على هيبة اجتماع الملوك'
+REASON: "Removed redundant phrase 'في حال حدوث ذلك' which repeated the meaning of 'لو كان الأمر حقيقة'."
+==================== 4885
+JA: '守るべきものを守るため\n命はあるのですよ'
+EN: 'For we were given life to\nprotect those things.'
+BEFORE: 'لكي تحمي ما يجب حمايته\nيجب أن تكون هناك حياة'
+AR: 'لصون ما يجب صونه\nوُجِدَت الحياة.'
+REASON: "The original Arabic 'يجب أن تكون هناك حياة' (there must be life) was a mistranslation of '命はあるのですよ' (life exists/is given). Changed to 'وُجِدَت الحياة' (life exists/was given) to better reflect the Japanese meaning and improve naturalness in MSA."
+==================== 5225
+JA: '……もう二度と'
+EN: '...Never again, Your Majesty.'
+BEFORE: '……لن يحدث ذلك أبداً مرة أخرى'
+AR: '……لن يتكرر.'
+REASON: "The original Arabic '……لن يحدث ذلك أبداً مرة أخرى' was a bit verbose for the Japanese '……もう二度と' (Never again). Changed to the more concise and natural '……لن يتكرر.' (It will not be repeated)."
+==================== 7183
+JA: '足枷になるようなら\n即刻帰らせるぞ'
+EN: 'Know that the instant you prove\nto be an impediment, I will send\nyou straight back.'
+BEFORE: 'إذا كانت ستكون قيداً على قدميك\nفسأسمح لك بالعودة فوراً'
+AR: 'إذا كنتَ ستكون عائقاً\nفسأعيدك فوراً.'
+REASON: "Register/nuance: 'قيداً على قدميك' (shackle on your feet) was too literal; changed to 'عائقاً' (an impediment). 'فسأسمح لك بالعودة' (I will allow you to return) was too soft; changed to 'فسأعيدك فوراً' (I will send you back immediately) to match the stern tone."
+==================== 7225
+JA: 'おお……お待ちしていました\n聖火守指長殿'
+EN: "Ah, we've been awaiting you,\nFlameguard."
+BEFORE: 'أوه…… كنت في انتظارك\nأيها المسؤول عن حماية الشعلة المقدسة'
+AR: 'أوه…… كنا في انتظارك\nأيها القائد'
+REASON: "Changed 'كنت' (I was) to 'كنا' (We were) to match the English 'we've been awaiting you'. Also, replaced the overly literal and lengthy 'أيها المسؤول عن حماية الشعلة المقدسة' with the more concise and consistent 'أيها القائد' for 'Flameguard', aligning with its usage in line 7219."

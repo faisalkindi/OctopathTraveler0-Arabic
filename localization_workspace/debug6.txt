@@ -1,0 +1,15 @@
+IDX 0 ID 301522
+JA: '消費SP：8\n<item_skill_explanation>'
+BEFORE: 'استهلاك نقاط المهارة: 8'
+AFTER: 'استهلاك نقاط المهارة: 8\n<item_skill_explanation>'
+
+IDX 8 ID 301530
+JA: '消費SP：6\n<item_skill_explanation>'
+BEFORE: 'استهلاك نقاط المهارة: 6'
+AFTER: 'استهلاك نقاط المهارة: 6\n<item_skill_explanation>'
+
+IDX 33 ID 301575
+JA: '消費SP：30\n<item_skill_explanation>'
+BEFORE: 'استهلاك نقاط المهارة: 30'
+AFTER: 'استهلاك نقاط المهارة: 30\n<item_skill_explanation>'
+

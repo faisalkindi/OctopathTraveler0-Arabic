@@ -1,0 +1,205 @@
+========== 3372
+JA: 'マフレズ様！\nこの国の英雄よ！'
+BEFORE: 'أيها القائد مافريز!\nأنت بطل هذا البلد!'
+AR: 'أيها السيد مافريز!\nأنت بطل هذا البلد!'
+REASON: "Replaced 'القائد' (Commander) with 'السيد' (Lord) to match the English cross-reference 'Lord Mahrez' and the general honorific '様'."
+========== 3384
+JA: 'マフレズ様！'
+BEFORE: 'سيدي مافـرز!'
+AR: 'أيها السيد مافريز!'
+REASON: "Replaced 'سيدي مافـرز!' with 'أيها السيد مافريز!' for consistency with other 'Lord Mahrez' translations and corrected minor typo in name transliteration."
+========== 3461
+JA: '苦しゅうない\n面を上げよ、マフレズ'
+BEFORE: 'لا بأس\nارفع رأسك، يا مافـرز'
+AR: 'لا بأس\nارفع رأسك، يا مافريز'
+REASON: 'Corrected name spelling to match glossary and removed unnecessary diacritic.'
+========== 3489
+JA: 'エリカ様'
+BEFORE: 'سمو السيدة إريكا'
+AR: 'سمو السيدة إلريكا'
+REASON: "Corrected transliteration of 'Elrica' from 'إريكا' to 'إلريكا' based on official English name."
+========== 3658
+JA: 'エリカ様\n重要なお話が'
+BEFORE: 'سمو السيدة إريكا\nهناك حديث'
+AR: 'سمو الأميرة إريكا\nلدي حديث هام'
+REASON: "Improved honorific for 'Elrica-sama' to 'Princess Elrica' as per en_text, and made 'important talk' more explicit."
+========== 3667
+JA: 'どうか落ち着いてください\nエリカ様'
+BEFORE: 'أرجو أن تهدئي يا سمو الإيريكا'
+AR: 'أرجو أن تهدئي يا سمو الأميرة إريكا'
+REASON: "Improved honorific for 'Elrica-sama' to 'Princess Elrica' for consistency."
+========== 3842
+JA: '金でも落としたのか？\n世も終いって顔だ'
+BEFORE: 'هل خسرت حتى المال؟\nتبدو وكأن العالم قد انتهى بالنسبة لك'
+AR: 'هل خسرت حتى الأوراق؟\nتبدو وكأن العالم قد انتهى بالنسبة لك'
+REASON: "Changed 'المال' to 'الأوراق' for glossary compliance with 'leaves (currency)'."
+========== 3891
+JA: '私はエルと申す\n……シャルル殿'
+BEFORE: 'اسمي إيريكا\n……سيد شارل'
+AR: 'اسمي إل\n……سيد شارل'
+REASON: 'Mistranslation of the name `エル` (El). The original Arabic `إيريكا` was incorrect. Corrected to `إل`.'
+========== 3923
+JA: 'よし、行くぜ\nエル'
+BEFORE: 'حسناً، لننطلق\nإريكا'
+AR: 'حسناً، لننطلق\nإيل'
+REASON: 'Mistransliteration: The Japanese name `エル` (Eru) should be `إيل` in Arabic, not `إريكا`.'
+========== 3938
+JA: '少し前……\nリーヴェン王が変貌した'
+BEFORE: 'ولكن منذ فترة قصيرة……\nتغير الملك ليفين'
+AR: 'ولكن منذ فترة قصيرة……\nتغير ملك ريفين'
+REASON: "Changed 'الملك ليفين' (King Levin, as a proper name) to 'ملك ريفين' (King of Riven) to correctly reflect 'リーヴェン王' as 'King of Riven' based on the glossary's entry for Riven as a nation."
+========== 3983
+JA: 'あんたと目的は\n同じってことさ、エル'
+BEFORE: 'هذا يعني أن هدفك\nهو نفسه هدفي، يا إيريكا'
+AR: 'هذا يعني أن هدفك\nهو نفسه هدفي، يا إل'
+REASON: "Corrected character name transliteration from 'إيريكا' to 'إل' based on game context and standard transliteration for 'El'."
+========== 4029
+JA: '砂漠の地サンシェイドか'
+BEFORE: 'أرض شانسيد الصحراوية؟'
+AR: 'أرض سانشيد الصحراوية؟'
+REASON: "Glossary: Corrected transliteration of 'Sunshade' from 'شانسيد' to 'سانشيد'."
+========== 4052
+JA: '着いたぜ\nここがサンシェイドだ'
+BEFORE: 'لقد وصلنا\nهنا سان شيد'
+AR: 'لقد وصلنا\nهنا سانشيد'
+REASON: "Glossary: Corrected transliteration of 'Sunshade' from 'سان شيد' to 'سانشيد'."
+========== 4336
+JA: 'そなたにも感謝する\nアルティニアのために、ここまで……'
+BEFORE: 'أشكرك أيضاً\nمن أجل أرتينيا، وصلتَ إلى هذا الحد……'
+AR: 'أشكرك أيضاً\nمن أجل ألتينيا، وصلتَ إلى هذا الحد……'
+REASON: "Glossary compliance: 'أرتينيا' changed to 'ألتينيا'."
+========== 4356
+JA: 'マフレズにも劣らぬ武と知を\n見込み後釜にしたのだ'
+BEFORE: 'لقد وضعتك في الخطوط الخلفية\nلأنني رأيت فيك شجاعة ومعرفة لا تقل عن مفرز'
+AR: 'لقد جعلتك خليفة له، لأنني رأيت فيك شجاعة ومعرفة لا تقل عن مافريز'
+REASON: "Mistranslation: 'وضعتك في الخطوط الخلفية' (placed you in the back lines) changed to 'جعلتك خليفة له' (made you his successor). Name 'مفرز' transliterated to 'مافريز'."
+========== 4359
+JA: 'マフレズは強くとも\n……甘い男でした'
+BEFORE: 'مفرز كان قوياً، لكنه\n……رجلٌ ضعيف'
+AR: 'مافريز كان قوياً، لكنه……رجلٌ ساذج'
+REASON: "Mistranslation: 'رجلٌ ضعيف' (weak man) changed to 'رجلٌ ساذج' (naive man) to better reflect '甘い男'. Name 'مفرز' transliterated to 'مافريز'."
+========== 4371
+JA: 'クラウザー様\nソロン王の小賢しい頭……'
+BEFORE: 'سيدي كراوزر\nرأس ملك سورون الصغير……'
+AR: 'سيدي كراوزر\nرأس ملك سولون الماكر……'
+REASON: 'Glossary compliance (Solon); improved nuance for `小賢しい` (cunning/shrewd) with `الماكر`.'
+========== 4374
+JA: 'だが、ソロン王は私が討つ'
+BEFORE: 'ولكن، أنا من سيقضي على ملك سورون'
+AR: 'ولكن، أنا من سيقضي على ملك سولون'
+REASON: 'Glossary compliance (Solon).'
+========== 4403
+JA: 'アルティニアを\n甘く見ないでもらおうか'
+BEFORE: 'يا أبطال إيدوراس……\nلا تستهينوا بـ أرتينيا'
+AR: 'لا تستهينوا بألتينيا'
+REASON: "Split the combined line from the previous draft and corrected the transliteration of 'أرتينيا' to 'ألتينيا' as per glossary/game context."
+========== 4407
+JA: 'アルティニア王国は一度として\n他の侵略を許していない'
+BEFORE: 'لم تسمح مملكة أرتينيا\nبأي غزو آخر ولو لمرة واحدة'
+AR: 'لم تسمح مملكة ألتينيا\nبأي غزو آخر ولو لمرة واحدة'
+REASON: "Corrected the transliteration of 'أرتينيا' to 'ألتينيا' as per glossary/game context."
+========== 4415
+JA: '……ちょろちょろと\nアルティニアの鼠どもめ'
+BEFORE: '……هؤلاء الجرذان من أرتينيا\nكانوا يتسللون'
+AR: '……هؤلاء الجرذان من ألتينيا\nكانوا يتسللون'
+REASON: "Corrected the transliteration of 'أرتينيا' to 'ألتينيا' as per glossary/game context."
+========== 4688
+JA: 'レブラントから\n使いガラスが来たの'
+BEFORE: 'وصلت زجاجة الاستخدام\nمن ريبرانت'
+AR: 'وصل طائر رسول من ليبرانت.'
+REASON: "Corrected the mistranslation of '使いガラス' (messenger bird) from 'زجاجة الاستخدام' (utility bottle) to 'طائر رسول'. Also, corrected the transliteration of 'レブラント' to 'ليبرانت' as per the glossary."
+========== 4730
+JA: '他ならぬ、エドラス王国\nエリカ王女です'
+BEFORE: 'إنها الأميرة إريكا\nمن مملكة إيدوراس'
+AR: 'إنها الأميرة إلريكا\nمن مملكة إيدوراس'
+REASON: "Corrected name transliteration from 'إريكا' to 'إلريكا' to match the official English spelling 'Elrica' as per game context and character references."
+========== 4786
+JA: 'エリカ様が……\n処刑されてしまいます'
+BEFORE: 'سمو الأميرة إريكا……\nسوف تُعدم'
+AR: 'سمو الأميرة إلريكا……\nسوف تُعدم'
+REASON: "Transliterated 'Erika' to 'Elrica' to match the official English name in en_text."
+========== 4925
+JA: 'だがマフレズは\nエリカ様と出会い変わった'
+BEFORE: 'لكن مافلز\nتغير بعد لقائه\nبسامة إريكا'
+AR: 'لكن مافلز\nتغير بعد لقائه\nبالأميرة إريكا'
+REASON: "Corrected honorific for 'Elrica' from 'سامة' to 'الأميرة'."
+========== 4985
+JA: 'シャルルでいいぜ'
+BEFORE: 'شارل يكفي'
+AR: 'تشارلز يكفي'
+REASON: "Glossary/Consistency: 'Charles' was previously transliterated as 'تشارلز' (4969). Maintained consistency."
+========== 5082
+JA: 'リーヴェン王の最期も\nなかなか寒気がしましたよ？'
+BEFORE: 'نهاية الملك ريفين\nكانت تثير القشعريرة حقاً، أليس كذلك؟'
+AR: 'نهاية ملك ريفين\nكانت تثير القشعريرة حقاً، أليس كذلك؟'
+REASON: "Glossary compliance: 'Riven' is a nation, not a king's name. Changed 'الملك ريفين' (King Riven) to 'ملك ريفين' (King of Riven)."
+========== 5161
+JA: '……！？\nアラウネ殿……！'
+BEFORE: '……؟!\nألاون-دون……!'
+AR: '……؟!\nالأميرة ألاون……!'
+REASON: "Translated the honorific '殿' (dono) as 'الأميرة' instead of transliterating it as 'دون'."
+========== 5164
+JA: '何も喋るな、アラウネ殿'
+BEFORE: 'لا تنطق بكلمة، ألاون-دون'
+AR: 'لا تنطق بكلمة، الأميرة ألاون'
+REASON: "Translated the honorific '殿' (dono) as 'الأميرة' instead of transliterating it as 'دون'."
+========== 5319
+JA: 'リシャール……？'
+BEFORE: 'ريشار……؟'
+AR: 'ريشارد……؟'
+REASON: "Corrected transliteration of 'Richard' from 'ريشار' to 'ريشارد' for glossary compliance."
+========== 5324
+JA: 'アラウネ様！'
+BEFORE: 'ألاون ساما!'
+AR: 'الأميرة ألاون!'
+REASON: "Replaced transliterated honorific 'ألاون ساما!' with the appropriate translated title 'الأميرة ألاون!'."
+========== 6010
+JA: 'リーヴェン、アルティニア両国の王は'
+BEFORE: 'ملوك دولا ريفن وأرتينيا'
+AR: 'ملوك دولا ريفن وألتينيا'
+REASON: "Corrected 'أرتينيا' to 'ألتينيا' for glossary compliance (Altinia)."
+========== 7058
+JA: '我らは“黒緋”……'
+BEFORE: 'نحن "السكارليت الأسود"……'
+AR: 'نحن "القرمز الأسود"……'
+REASON: "Glossary compliance: 'Black Scarlet' is 'القرمز الأسود'."
+========== 7084
+JA: '黒緋の犯行が疑われておる'
+BEFORE: 'يُشتبه في أن الجريمة من فعل "الأحمر القاني"'
+AR: 'يُشتبه في أن الجريمة من فعل "بلاك سكارلت".'
+REASON: "Transliterated 'Black Scarlet' as a proper noun ('بلاك سكارلت') instead of a descriptive translation ('الأحمر القاني') for consistency with group names."
+========== 7094
+JA: '黒緋を\n裏で操っている者がいる'
+BEFORE: 'هناك من يحرك خيوط السواد القاني من وراء الكواليس'
+AR: 'هناك من يحرك خيوط "بلاك سكارلت" من وراء الكواليس'
+REASON: "Transliterated 'Black Scarlet' as a proper noun ('بلاك سكارلت') instead of a descriptive translation ('السواد القاني') for consistency with group names."
+========== 7207
+JA: '私たちは聖火騎士です\nタルセット司教を訪ねて参りました'
+BEFORE: 'نحن فرسان النار المقدسة\nجئنا لزيارة الأسقف تالست'
+AR: 'نحن فرسان اللهب المقدس\nجئنا لزيارة الأسقف تالست'
+REASON: "Glossary compliance: 'فرسان النار المقدسة' was changed to 'فرسان اللهب المقدس' to match the established glossary term for 'Knight Ardante'."
+========== 7294
+JA: 'リンユウさんのシチューは\n紛れもなく絶品です'
+BEFORE: 'حساء رينيو-سان\nهو بلا شك طبق رائع'
+AR: 'حساء رينيو\nهو بلا شك طبق رائع'
+REASON: "Removed the Japanese honorific 'سان' as per standard localization practice and glossary compliance (Rinyuu is just 'رينيو')."
+========== 7301
+JA: 'サザントス殿にも\nお知らせして参ります'
+BEFORE: 'سأقوم أيضاً\nبإبلاغ اللورد تافياني'
+AR: 'سأقوم أيضاً\nبإبلاغ السيد سازانتوس'
+REASON: "Mistranslation of the name 'Sazantos' to 'Lord Taviani'. Corrected to 'السيد سازانتوس' to match the Japanese source 'サザントス殿' and English 'Sir Sazantos'."
+========== 7562
+JA: 'おや、もしや……\n聖火騎士団の方々ですか？'
+BEFORE: 'أوه، هل أنتم……\nأعضاء فرسان الشعلة المقدسة؟'
+AR: 'أوه، هل أنتم……\nأعضاء فرسان اللهب المقدس؟'
+REASON: "Corrected 'فرسان الشعلة المقدسة' to 'فرسان اللهب المقدس' to comply with the glossary entry for 'Knight Ardante' (فارس اللهب المقدس)."
+========== 7567
+JA: 'あら、聖火騎士さん\nちょうど良いところに来ましたね'
+BEFORE: 'أهلاً، أيها الفارس من فرسان الشعلة المقدسة\nلقد جئت في الوقت المناسب تماماً'
+AR: 'أهلاً، أيها فارس اللهب المقدس\nلقد جئت في الوقت المناسب تماماً'
+REASON: "Changed 'الفارس من فرسان الشعلة المقدسة' to 'فارس اللهب المقدس' for glossary compliance and conciseness, matching 'Knight Ardante'."
+========== 7656
+JA: '申し遅れた\n我々は聖火騎士団だ'
+BEFORE: 'تأخرتُ في التعريف بأنفسنا\nنحن فرسان النار المقدسة'
+AR: 'تأخرتُ في التعريف بأنفسنا\nنحن فرسان اللهب المقدس.'
+REASON: "Corrected 'فرسان النار المقدسة' to 'فرسان اللهب المقدس' to match the glossary term 'Knight Ardante'."

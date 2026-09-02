@@ -1,0 +1,4 @@
+ソロン,Solon,,character_name,transliterate,char_id=30407
+ソロン王,King Solon,,character_name,transliterate,char_id=116295
+賢王に憧れる商人,Wise King's Admirer,,character_name,transliterate,char_id=118217
+賢王,Wise King,الملك الحكيم,job_class,translate,

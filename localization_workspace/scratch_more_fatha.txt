@@ -1,0 +1,40 @@
+ID=39158
+JA:まったくいい迷惑だ
+……あんたもだろ？
+EN:What a hassle. Don't you think?
+BEFORE:هذا مزعج للغاية
+AFTER:هذا مزعج للغاية.
+……ألا تعتقد ذلك أنتَ أيضاً؟
+REASON:Significant omission: The second part of the JA text '……あんたもだろ？' was missing. Added '……ألا تعتقد ذلك أنتَ أيضاً؟' and preserved ellipsis count.
+----
+ID=39172
+JA:“選ばれし者”よ
+そなたも来たのか
+EN:Ah, Ringbearer. You've come too.
+BEFORE:"المختار"
+هل أتيتَ أنتَ أيضاً؟
+AFTER:«حامل الخاتم»
+هل أتيتَ أنتَ أيضاً؟
+REASON:Used the game-specific term 'حامل الخاتم' (Ringbearer) as per game context and EN text, instead of 'المختار'.
+----
+ID=39351
+JA:何人だろうと近づけば
+翼をもがれ灰となろう……
+EN:Not unless you want your wings clipped
+and to turn to ash. That's all that awaits,
+no matter who you are.
+BEFORE:مهما كان عددكم، إن اقتربتم
+فسوف تُنتزع أجنحتكم وتصبحون رماداً……
+AFTER:مهما كنتَ، إن اقتربتَ فسوف تُنتزع أجنحتك وتصبح رماداً……
+REASON:Changed plural address to singular (generic masculine fallback) to better align with the likely intent of addressing the player character and the English translation.
+----
+ID=411705
+JA:あなたでは……
+ないというの……？
+EN:So you...are not the one?
+BEFORE:ألا أنتِ……
+لستِ هي……؟
+AFTER:ألا أنتَ……
+لستَ هي……؟
+REASON:Corrects the gender of the player address from feminine (`أنتِ`, `لستِ`) to generic masculine (`أنتَ`, `لستَ`) as required by the style guide for the silent, customizable protagonist.
+----

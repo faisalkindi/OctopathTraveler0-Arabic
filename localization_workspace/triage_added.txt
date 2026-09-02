@@ -1,0 +1,595 @@
+ID:118442
+JA:この世はまるで……
+富に呪われてやがる
+EN:This entire world is cursed
+by fortune.
+ARb:هذا العالم كأنه……
+ARa:هذا العالم كأنه…… ملعون بالثروة.
+REASON:Added missing translation for '富に呪われてやがる' (cursed by wealth).
+---
+ID:118445
+JA:誰もが何も“持たざる”
+原初の世に……
+EN:And return it to how it once was,
+with no one possessing anything.
+ARb:الجميع لا "يملكون" شيئًا
+ARa:إلى عالم بدائي حيث لا "يملك" أحد أي شيء……
+REASON:Added missing translation for '原初の世に' (to a primal world) and corrected ellipsis count.
+---
+ID:118449
+JA:生きて帰れると思うか
+イカレ野郎……？
+EN:Do you really think we'll let you
+leave this place alive?
+ARb:هل تعتقد أنك ستعود حياً؟
+ARa:هل تعتقد أنك ستعود حياً، أيها المجنون……؟
+REASON:Missing the insult `イカレ野郎` and the line break. Also, ellipsis count was wrong. Added the insult and corrected punctuation.
+---
+ID:118724
+JA:三国の王は新たな脅威に備えるべく
+EN:In order to defend against the new threat,
+ARb:من أجل الاستعداد لتهديد جديد، طلب ملوك الممالك الثلاثة
+ARa:من أجل الاستعداد لتهديد جديد، ملوك الممالك الثلاثة
+REASON:The Arabic added a verb (`طلب`) not present in the Japanese source, changing the meaning and completing a fragment. Reverted to a fragment to match the source.
+---
+ID:118740
+JA:あなたにも、いつかまた
+守るべきものができるわ
+EN:Fate may have been cruel this
+time, but there will be others
+you want to protect...
+ARb:ستحصلين أنتِ أيضاً، يوماً ما، على شيءٍ يجب عليكِ حمايته.
+ARa:ستحصلين أنتِ أيضاً، يوماً ما، على
+شيءٍ يجب عليكِ حمايته.
+REASON:Line break: Added '\n' to match Japanese source.
+---
+ID:118741
+JA:人として……
+王女として……
+EN:As a princess... And as a human...
+ARb:كإنسانة……
+ARa:كإنسانة……
+وكأميرة……
+REASON:Omission: Added 'وكأميرة……' (And as a princess...) to match Japanese source. Line break: Added '\n'.
+---
+ID:118742
+JA:そのときは
+命をかけて守りなさい
+EN:When that time comes, protect it
+with your life.
+ARb:في ذلك الوقت
+ARa:في ذلك الوقت،
+احميها بحياتكِ.
+REASON:Omission: Added 'احميها بحياتكِ.' (protect it with your life) to match Japanese source. Line break: Added '\n'.
+---
+ID:118744
+JA:守るべきものを守るため
+命はあるのですよ
+EN:For we were given life to protect
+those things.
+ARb:من أجل حماية ما يجب حمايته
+ARa:من أجل حماية ما يجب حمايته،
+وُجدت الحياة.
+REASON:Omission: Added 'وُجدت الحياة.' (life exists) to match Japanese source. Line break: Added '\n'.
+---
+ID:118779
+JA:……決まりだな
+善は急げだ
+EN:Then we're settled.
+There's no time to waste!
+ARb:……لقد حُسم الأمر
+ARa:……لقد حُسم الأمر. الخير لا ينتظر.
+REASON:Added the missing second part of the Japanese proverb 'There's no time to waste!' (善は急げだ).
+---
+ID:118780
+JA:生きて帰ってください
+リシャール
+EN:Promise you will return to us alive,
+Richard.
+ARb:عُدْ حيًّا
+ARa:عُدْ حيًّا، ريتشارد.
+REASON:Added the character's name 'ريتشارد' which was present in the Japanese source.
+---
+ID:118791
+JA:さあ……
+妾の眼を見よ……
+EN:Look into my eyes.
+ARb:هيا……
+ARa:هيا……
+انظر في عينيّ……
+REASON:Added the missing part 'انظر في عينيّ' (Look into my eyes) which was present in the Japanese source.
+---
+ID:118793
+JA:がッ……
+があああァァッ……！
+EN:Gah...
+Gaaaaaah!
+ARb:آه……
+ARa:آه……
+آهااااااه……!
+REASON:Added the missing prolonged scream and the second ellipsis to match the Japanese source 'があああァァッ……！'.
+---
+ID:118794
+JA:ふむ……
+……まずまずの味じゃ
+EN:Mmm... Not bad.
+ARb:همم……
+ARa:همم……
+……ليس سيئًا.
+REASON:Added the missing part 'ليس سيئًا' (Not bad) and the second ellipsis to match the Japanese source '……まずまずの味じゃ'.
+---
+ID:118833
+JA:グランポートには、大陸中から
+商人や金持ちがわらわら集まる
+EN:If you ain't aware, all sorts of
+merchants and rich folk flock
+to Grandport.
+ARb:في غرانبورت، يتجمع التجار والأثرياء من جميع أنحاء القارة بأعداد كبيرة.
+ARa:في غرانبورت، يتجمع التجار والأثرياء من جميع أنحاء القارة
+بأعداد كبيرة.
+REASON:Added missing line break '\n' to match source for pacing.
+---
+ID:118908
+JA:大海を治めし、偉大な港の領主
+エルトリクス様
+EN:Lord Eltrix, lord of this fine port
+and captain of the vast seas...
+ARb:يا سيد إيلتريكس، سيد الميناء العظيم الذي يحكم البحر.
+ARa:يا سيد إيلتريكس،
+سيد الميناء العظيم الذي يحكم البحر.
+REASON:Added line break (\n) to match source Japanese and English pacing.
+---
+ID:118912
+JA:いま、オルステラは
+重大な危機に瀕しています
+EN:The entire realm is facing an
+unprecedented crisis.
+ARb:الآن، تواجه أورستيلا
+أزمة خطيرة
+ARa:الآن، تواجه أورستيلا
+أزمة خطيرة.
+REASON:Added missing period at the end of the sentence.
+---
+ID:118919
+JA:時が過ぎるとも
+変わらぬものもあると
+EN:There are some things that
+time will never erase.
+ARb:حتى مع مرور الوقت
+هناك أشياء لا تتغير
+ARa:حتى مع مرور الوقت
+هناك أشياء لا تتغير.
+REASON:Added missing period at the end of the sentence.
+---
+ID:118972
+JA:お前がエドラスを憎むのは
+知っておる
+EN:I understand your hatred
+for Edoras.
+ARb:أعلمُ أنك تكره إيدوراس
+ARa:أعلمُ أنك تكره
+إيدوراس
+REASON:Added missing line break '\n' to match the Japanese and English source texts.
+---
+ID:118996
+JA:その後、２人は婚姻を結び
+母は、姉とわたしを産みましたが
+EN:After the two were married,
+my mother gave birth to my
+sister and I.
+ARb:بعد ذلك، عقد الاثنان زواجاً، وأنجبت أمي أختي وأنا.
+ARa:بعد ذلك، عقد الاثنان زواجاً،
+وأنجبت أمي أختي وأنا، لكنها
+REASON:Added the implied 'لكنها' (but she) from the Japanese 'が' particle and preserved the line break.
+---
+ID:119180
+JA:我が槍を
+いま一度握る意味もあると
+EN:if it is in service to you.
+ARb:فهناك معنىً
+لإمساك رمحي
+مرةً أخرى
+ARa:فهناك معنىً
+لإمساك رمحي مرةً أخرى
+REASON:Removed an extra line break to match the source's single line break.
+---
+ID:119232
+JA:このグランポート
+全面的に協力しよう
+EN:I hereby swear that you have
+Grandport's full support.
+ARb:لنعمل معاً
+بكل طاقتنا في هذا الميناء الكبير
+ARa:لنتعاون معاً بكل طاقتنا في غرانبورت
+REASON:Removed the added descriptive phrase 'في هذا الميناء الكبير' (in this great port) which was not present in the Japanese source, and integrated 'غرانبورت' more directly into the sentence.
+---
+ID:122745
+JA:金なら、幾らでも
+くれてやる……
+EN:If it's money you want, I'll give
+you as much as you need!
+ARb:سأعطيك أي قدر من المال……
+ARa:إن كان المال مرادك،
+فسأعطيك أي قدر منه……
+REASON:Added line break as per `ja_text` and `en_text`, and rephrased for better flow.
+---
+ID:122757
+JA:お前は、なぜパンを
+分けてくれるんだ？
+EN:Why'd you share your bread?
+ARb:لماذا تشاركني الخبز؟
+ARa:لماذا تشارك
+الخبز معي؟
+REASON:Added line break as per `ja_text` and rephrased for better flow.
+---
+ID:122758
+JA:てめーの分が
+減っちまうだろが
+EN:That means less for you, right?
+ARb:ألن ينقص نصيبك؟
+ARa:ألن يقل
+نصيبك؟
+REASON:Added line break as per `ja_text` and rephrased for better flow.
+---
+ID:122764
+JA:あの世でマフィア
+始めたかと思ったぜ？
+EN:I was starting to wonder if you'd
+up and started a mafia in the land
+of the dead!
+ARb:ظننتُ أنك بدأتَ عصابة المافيا في العالم الآخر؟
+ARa:ظننتُ أنك بدأتَ
+عصابة المافيا في العالم الآخر؟
+REASON:Added line break as per `ja_text`.
+---
+ID:122772
+JA:“ティツィアーノは死んだ”
+……と
+EN:Tiziano is dead, huh?
+ARb:"لقد مات تيزيانو"
+……و
+ARa:"لقد مات تيزيانو"
+……
+REASON:Removed extraneous 'و' which was a mistranslation of the Japanese particle 'と' indicating reported speech.
+---
+ID:122794
+JA:あんたは情報ないの？
+ピエロ・デッラ
+EN:Do you have nothing to share
+with us, Pierro?
+ARb:أليس لديك أي معلومات؟
+ARa:أليس لديك أي معلومات يا بييرو ديلا؟
+REASON:Added the character's name 'يا بييرو ديلا' as it is present in both the Japanese and English source texts.
+---
+ID:122834
+JA:町の物を買い集めたのは
+……お前か
+EN:So you were the one who bought
+everything in town.
+ARb:هل أنت من جمع
+أغراض البلدة
+……أنت؟
+ARa:هل أنت من جمع أغراض البلدة
+……أنت؟
+REASON:Removed extra line break to match source.
+---
+ID:122887
+JA:ヴァローレが
+灰になるのをよ……
+EN:As your beloved Valore is reduced
+to ash...
+ARb:بينما تتحول
+فالوري
+إلى رماد……
+ARa:بينما تتحول فالوري
+إلى رماد……
+REASON:Removed an extra line break to match the source Japanese line break count.
+---
+ID:122891
+JA:お前が、バルジェロに
+力をもたらした
+EN:The one who put Bargello
+in power!
+ARb:أنت من منحت
+بارجيلو
+القوة
+ARa:أنت من منحت بارجيلو
+القوة
+REASON:Removed an extra line break to match the source Japanese line break count.
+---
+ID:122901
+JA:いつまでチンケな皮
+被ってんだァ！？　あァ！？
+EN:How long do you plan on wearing
+that sheep's wool!? Huh!?
+ARb:إلى متى ستستمر في ارتداء هذه القشرة الضعيفة
+أيها اللعين؟! آه؟!
+ARa:إلى متى ستستمر في ارتداء هذه القشرة الضعيفة
+آه؟!
+REASON:Removed `أيها اللعين` as it was an added insult not present in the Japanese source `あァ！？`.
+---
+ID:122962
+JA:俺は、暴動を
+“鎮圧しろ”と言ったが
+EN:I admit I asked you to put an end
+to this madness.
+ARb:لقد قلتُ لكِ
+"قمعي" للتمرد
+ARa:لقد قلتُ لكِ أن تقمعي التمرد، لكن...
+REASON:Corrected grammar for 'suppress the rebellion' and added the implied 'but' from the Japanese source's 'が' particle. 'قمعي للتمرد' was grammatically awkward.
+---
+ID:123039
+JA:指輪の力を引き出す
+ってな
+EN:I was certain she'd be able to
+draw out its power.
+ARb:استخراج قوة الخاتم
+ARa:أنها ستتمكن من استخراج قوة الخاتم.
+REASON:Grammar/nuance: The original Arabic 'استخراج قوة الخاتم' was a verbal noun, which was too abrupt and didn't convey the full meaning of 'I was certain she'd be able to draw out its power' (implied from the previous line). Changed to a full clause 'أنها ستتمكن من استخراج قوة الخاتم' (that she would be able to extract the ring's power) to maintain flow and meaning.
+---
+ID:123042
+JA:くく……そして
+肥えきった頃を見計らい……
+EN:Heh heh... I bided my time until
+her wealth expanded.
+ARb:كوكو……وبعد ذلك
+ARa:كوكو…… ثم انتظرتُ حتى ازدهرت ثروتها……
+REASON:Mistranslation/omission: The original Arabic 'كوكو……وبعد ذلك' omitted the crucial part of the Japanese '肥えきった頃を見計らい' (waiting for the time when she became fat/rich). Added 'ثم انتظرتُ حتى ازدهرت ثروتها' (then I waited until her wealth flourished) to capture this meaning.
+---
+ID:123043
+JA:魔女を葬り、富を奪った
+……全ては、計画だ
+EN:Then stole it after her death.
+All according to plan.
+ARb:دفنتُ الساحرة، وسلبتُ الثروة
+ARa:دفنتُ الساحرة، وسلبتُ الثروة…… كل شيء كان وفق الخطة.
+REASON:Mistranslation/omission: The original Arabic omitted the second part of the Japanese line '……全ては、計画だ' (All according to plan) and the preceding ellipsis. Added '…… كل شيء كان وفق الخطة.' to complete the meaning and preserve the ellipsis count.
+---
+ID:123097
+JA:てめェの、その……
+小汚ェ×××をよォォ……
+EN:You bloody...insolent...hypocrite!
+ARb:ذلك الشيء القذر الخاص بك……
+ARa:ذلك، الـ……
+شيء القذر الخاص بك……
+REASON:Added missing ellipsis to match JA source's `てめェの、その……`.
+---
+ID:123326
+JA:大富豪レオパルディ？
+……ああ、知ってるぜ
+EN:Leopaldi the Wealthy?
+Yeah, I know him.
+ARb:الثري ليوباردي؟
+ARa:الثري ليوباردي؟
+……آه، أعرفه.
+REASON:The original ar_text only translated the first part of the Japanese line. Added the translation for the second part '……ああ、知ってるぜ' ('……Oh, I know him.') and preserved the line break.
+---
+ID:125710
+JA:……我が家系は
+ベルンシュタイン王家の末裔だ
+EN:My family descends from
+Bernstein's royal line.
+ARb:……سلالتي
+هي من سلالة ملك إيدوراس برنشتاين
+ARa:……سلالتي
+هي من سلالة برنشتاين الملكية
+REASON:Removed the added 'ملك إيدوراس' (King of Edoras) which is not present in the Japanese source 'ベルンシュタイン王家' (Bernstein Royal Family).
+---
+ID:125878
+JA:ば……か……な……！
+EN:Im...possible!
+ARb:يا…… لَ…… حُ……!
+ARa:مُسْ……تَحِ……يل……!
+REASON:Mistranslation: 'يا…… لَ…… حُ……!' does not convey 'Impossible!' or 'Foolish!' as intended by the Japanese 'ば……か……な……!'. Changed to 'مُسْ……تَحِ……يل……!' to match the meaning and broken speech structure. Added minimal harakat for clarity.
+---
+ID:125906
+JA:私の血を分け与えた
+EN:...and shared my blood with them.
+ARb:ومنحتُهم
+جزءاً من دمي
+ARa:ومنحتُهم جزءاً من دمي
+REASON:Removed extraneous line break (`\n`) not present in the Japanese source.
+---
+ID:125991
+JA:“妻”だ
+EN:It's your wife.
+ARb:"زوجة"
+ARa:إنها زوجتك
+REASON:Added 'إنها' for a complete sentence and 'ك' for possessive pronoun to match English and implied context.
+---
+ID:126029
+JA:たとえそれが
+いばらの道でも……か
+EN:Even if the path is overgrown
+with thorns?
+ARb:حتى لو كان ذلك
+طريقًا مليئًا بالأشواك……
+ARa:حتى لو كان ذلك
+طريقًا مليئًا بالأشواك……؟
+REASON:Punctuation: Added a question mark '؟' to match the interrogative nature of the Japanese and English source.
+---
+ID:126035
+JA:この炎で
+再び照らそうぞ
+EN:This flame will shine again,
+ARb:لنُضئها
+مرة أخرى
+بهذا اللهب
+ARa:لنُضئها مرة أخرى
+بهذا اللهب
+REASON:Layout: Removed an extra line break to match the single line break in the Japanese and English source.
+---
+ID:126399
+JA:だが、領主エルトリクスはエドラスとの間に
+EN:But Lord Eltrix was unreceptive to these overtures,
+ARb:ولكن، اللورد إلتريكس، فيما بينه وبين إيدوراس……
+ARa:ولكن، اللورد إيلتريكس، فيما بينه وبين إيدوراس
+REASON:Removed the extraneous ellipsis `……` from `ar_text` which was not present in the `ja_text`. Corrected transliteration of Eltrix to `إيلتريكس` for consistency with `126404`.
+---
+ID:126450
+JA:信用して
+よろしいのですかな？
+EN:Can we trust you now?
+ARb:فهل يمكنني أن أثق بك؟
+ARa:فهل يمكننا أن نثق بك الآن؟
+REASON:The English translation uses "Can *we* trust you now?", implying a collective question. The original Arabic used "يمكنني" (can I). Changed to "يمكننا" (can we) to match the English and implied context. Added "الآن" (now) to match "now" in English.
+---
+ID:126504
+JA:この数……
+あり得ん……！
+EN:The size of that fleet... It's absurd!
+ARb:هذا العدد……
+ARa:هذا العدد……
+لا يُعقل……!
+REASON:Incomplete translation; added the second part of the sentence and preserved the line break and ellipsis count.
+---
+ID:126506
+JA:アラウネ！！
+お前は退けッ！
+EN:Alaune! Fall back!
+ARb:ألاون!!
+ARa:ألاون!!
+تراجعي!
+REASON:Incomplete translation; added the imperative 'Fall back!' and preserved the line break.
+---
+ID:126507
+JA:エルトリクス様
+何を……！
+EN:Lord Eltrix! What are you saying!?
+ARb:يا سيد إلتريكس
+ARa:يا سمو إلتريكس!
+ماذا تقول……!
+REASON:Incomplete translation; added the question 'What are you saying!?', preserved the line break and ellipsis, and used 'سمو' for consistency with previous mentions of Eltrix.
+---
+ID:126508
+JA:お前たちは、迂回して
+敵の背後をつくのだ
+EN:I want you to flank them and strike
+from the rear!
+ARb:عليكم أن تلتفوا حولهم
+ARa:عليكم أن تلتفوا حولهم
+وتهاجموا من الخلف!
+REASON:Incomplete translation; added the second part of the instruction 'and strike from the rear!' and preserved the line break.
+---
+ID:126509
+JA:ここは……
+私が引きつける！
+EN:I'll keep them busy in
+the meantime!
+ARb:هنا……
+ARa:هنا……
+سأشغلهم!
+REASON:Incomplete translation; added the action 'I'll keep them busy!' and preserved the line break.
+---
+ID:126511
+JA:信じるぞ、アラウネ
+お前の言う未来というものを
+EN:You spoke to me of the future,
+Alaune. And I choose to believe
+in it.
+ARb:سأؤمن بكِ، يا ألاون
+ARa:سأؤمن بكِ، يا ألاون،
+وبالمستقبل الذي تتحدثين عنه.
+REASON:Incomplete translation; added the phrase 'and in the future you speak of' and preserved the line break.
+---
+ID:126662
+JA:貴方様の信ずるものを
+共に貫きましょう
+EN:...let us continue the battle for
+what you believe in.
+ARb:لنخترق معاً ما تؤمن به
+ARa:لنخترق معاً ما تؤمن به
+
+REASON:The original Arabic missed the line break (`\n`) present in the `ja_text`. Added the line break.
+---
+ID:126693
+JA:その指輪……
+貴様には重いわ
+EN:You were not made to bear such
+a burden.
+ARb:ذلك الخاتم……
+ARa:ذلك الخاتم…… إنه ثقيل عليك.
+REASON:Incomplete translation. Original Arabic 'ذلك الخاتم……' missed '貴様には重いわ' (it's too heavy for you). Added 'إنه ثقيل عليك.'.
+---
+ID:126697
+JA:その先に
+何があると言うのですか？
+EN:...what will be left for you then?
+ARb:ماذا يوجد
+ARa:ماذا يوجد في نهاية المطاف؟
+REASON:Incomplete translation. Original Arabic 'ماذا يوجد' missed 'その先に' (beyond that/in the end). Added 'في نهاية المطاف؟'.
+---
+ID:126699
+JA:……美、じゃ
+EN:Beauty, you fool.
+ARb:……جميلة، أليس كذلك؟
+ARa:……الجمال.
+REASON:Mistranslation. Original Arabic 'جميلة، أليس كذلك؟' used an adjective and added a question. Japanese '美、じゃ' is a declarative statement using the noun 'beauty'. Corrected to '……الجمال.'.
+---
+ID:126728
+JA:妾の一部となれるのじゃ
+至福じゃろう？
+EN:You are part of me now! What
+greater fortune could there be!?
+ARb:ستصبحين جزءاً مني
+ARa:ستصبحون جزءاً مني
+أليست هذه سعادة غامرة؟
+REASON:Gender/Number agreement: 'ستصبحين' (singular feminine) should be 'ستصبحون' (plural masculine) to match the previous line's address to 'males'. Line break: Preserved '\n'. Meaning: Added the missing second part of the Japanese sentence ('至福じゃろう؟' / 'What greater fortune could there be!?').
+---
+ID:126797
+JA:我がリーヴェンは……
+EN:Riven hereby vows...
+ARb:ليفين الخاصة بي……
+ARa:إن ليفين……
+REASON:Added 'إن' for formality and removed redundant 'الخاصة بي' (my own) for a more natural declaration by a nation.
+---
+ID:126799
+JA:我がアルティニアは……
+EN:Altinia hereby vows...
+ARb:أرتينيا الخاصة بي……
+ARa:إن أرتينيا……
+REASON:Added 'إن' for formality and removed redundant 'الخاصة بي' (my own) for a more natural declaration by a nation.
+---
+ID:126806
+JA:“フィニス”
+EN:"From Finis."
+ARb:"فينيس"
+ARa:"من فينيس"
+REASON:Added 'من' (From) to better convey the meaning of 'From Finis.'
+---
+ID:127444
+JA:先に進むわよ
+ピエロ・デッラ
+EN:We should hurry on.
+ARb:سأتقدم للأمام
+ARa:سأتقدم للأمام يا بييرو ديلا
+REASON:Added missing character name 'بييرو ديلا' from Japanese source.
+---
+ID:127592
+JA:“原初の炎”を求め、滅びたという伝説だった
+EN:had sought the First Flame, only to find destruction.
+ARb:وبحث عن "لهب البداية"، ففني
+ARa:وبحث عن "لهب البداية"، ففني، وكانت تلك هي الأسطورة.
+REASON:Corrected 'شعلة الأصل' to glossary term 'لهب البداية' and added 'وكانت تلك هي الأسطورة' to reflect 'という伝説だった' from the Japanese source, completing the sentence from the previous line.
+---
+ID:127600
+JA:フィナさん……セラフィナと
+戦いたくない気持ちはわかります
+EN:I can understand why you wouldn't
+want to fight Miss Phina...
+ARb:سيدة فينا…… أتفهم شعوركِ بعدم الرغبة في قتال سيرينا
+ARa:سيدة فينا…… أتفهم شعوركِ بعدم الرغبة في قتال سيرافينا
+
+REASON:Corrected 'سيرينا' to 'سيرافينا' and added missing line break '\n'.
+---
+ID:127610
+JA:遂にこの地にも
+聖火の加護が訪れたかな
+EN:Has the Sacred Flame finally
+deigned to shine its warmth
+upon this land?
+ARb:أخيرًا، هل وصلت بركة النار المقدسة إلى هذه الأرض؟
+ARa:أخيرًا، هل وصلت بركة النار المقدسة
+إلى هذه الأرض؟
+REASON:Added missing line break '\n' to match Japanese source pacing.
+---

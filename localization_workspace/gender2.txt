@@ -1,0 +1,237 @@
+=== id 19247 ===
+JA: 修行のため旅する、穏やかな物腰の剣士。
+戦闘となれば猛々しく敵に立ち向かう。
+常日頃、身なりに気を遣っており、
+衣服のほつれなどは自分で直してしまう。
+最近、お気に入りの裁縫道具を
+なくしてしまい、内心落胆している。
+EN: A warrior who is traveling in order to hone his skills. While he normally possesses a genteel demeanor, he is quite ferocious in battle. He goes to great lengths to ensure he looks presentable at all times, and even mends his own clothes. Lately, he has been distressed over the loss of his favorite sewing set.
+BEFORE: سيافة ذات سلوك هادئ تسافر من أجل التدريب.
+GEMINI: سياف ذو سلوك هادئ يسافر من أجل التدريب.
+يواجه الأعداء بشراسة في المعارك.
+يهتم بمظهره دائمًا، ويصلح تمزقات ملابسه بنفسه.
+مؤخرًا، فقد مجموعة الخياطة المفضلة لديه، وهو يشعر بخيبة أمل داخلية.
+REASON: Corrected gender error ('سيافة' to 'سياف'), mistranslation (omission of most of the description), and added missing line breaks.
+
+=== id 19253 ===
+JA: すみません
+またの機会に……
+EN: Excuse me.
+Perhaps some other time...
+BEFORE: أنا آسفة
+GEMINI: عذرًا.
+ربما في فرصة أخرى……
+REASON: Corrected gender error ('آسفة' to 'عذرًا'), mistranslation (omission of the second sentence), added missing line break, and corrected ellipsis count.
+
+=== id 19257 ===
+JA: 遥か東の国から来た剣士。
+東方では不敗を誇り、強者を求めオルステラを訪れた。
+ワーズワスの客分として特別待遇を受けていたが、
+豪華な料理よりも、故郷でよく食べていた
+ヤキトリの方が美味しいと思っている。
+EN: A warrior who hails from the distant east, where she is undefeated. She has come to Orsterra in search of worthy opponents. As a guest of Wordsworth, she has been given special treatment, but she still prefers the chicken skewers she used to eat at home over the lavish food provided for her here.
+BEFORE: سياف جاء من بلد في أقصى الشرق.
+GEMINI: محاربة جاءت من بلد بعيد في الشرق، حيث تفتخر بأنها لا تُهزم. زارت أورستيرا بحثًا عن خصوم أقوياء. تلقت معاملة خاصة كضيفة لدى وردزورث، لكنها لا تزال تفضل أسياخ الدجاج التي كانت تأكلها في وطنها على الأطباق الفاخرة المقدمة لها هنا.
+REASON: Incomplete translation; corrected gender for 'warrior' (محاربة) and 'guest' (ضيفة) to match character's gender; translated full description.
+
+=== id 19263 ===
+JA: なれ合うつもりはないわ
+EN: I have no intention of becoming
+friends with you.
+BEFORE: لا أنوي التقرب منكِ
+GEMINI: لا أنوي مصادقتك.
+REASON: Improved translation for 'becoming friends' (مصادقتك); corrected player-address gender-neutrality from منكِ to منك (generic masculine fallback); removed extraneous line break.
+
+=== id 19278 ===
+JA: リバーランドのはずれの小さな村出身の商人。
+見た目も話し方もおっとりしていて、
+相手に警戒心を抱かせず、懐に入り込む。
+商売勘は良く、商機は見逃さない。
+子供の頃からよく食べていた川豆ハンバーグが好物。
+EN: A merchant who grew up in a small village on the outskirts of the Riverlands. She worms her way into people's hearts with her warmth and friendliness, and uses her great business sense to ensure she never misses an opportunity to make some leaves. River bean patties have been her favorite food ever since she was little.
+BEFORE: تاجر من قرية صغيرة على أطراف ريفرلاند.
+GEMINI: تاجرة من قرية صغيرة على أطراف ريفرلاند. مظهرها وطريقة حديثها الهادئة تجعلها تكسب قلوب الناس دون أن تثير حذرهم. لديها حس تجاري ممتاز ولا تفوت أي فرصة عمل. طبقها المفضل منذ الطفولة هو برغر فاصوليا النهر.
+REASON: Incomplete translation; corrected gender for 'merchant' (تاجرة) to match character's gender; translated full description; used correct transliteration for Riverlands.
+
+=== id 19298 ===
+JA: 子供の頃、実の父によって人買いに指輪と交換され、
+自分の価値は指輪１個と同じという想いから
+指輪に強い執着を持つようになった。
+今は指輪より<chara_name>に執着している。
+ロースト・ニジバトを食べてみたい。
+EN: When she was a child, her birth father sold her off in exchange for a ring, causing her to believe that was her true worth and develop a deep obsession with rings. Though now she's more obsessed with <chara_name> and wants to try roast iridove.
+BEFORE: في طفولته، قام والده الحقيقي ببيعه مقابل خاتم،
+GEMINI: في طفولتها، قام والدها الحقيقي ببيعها لتاجر بشر مقابل خاتم، مما جعلها تعتقد أن قيمتها لا تتجاوز قيمة خاتم واحد، فأصبحت شديدة التعلق بالخواتم. لكنها الآن أصبحت أكثر تعلقًا بـ<chara_name> من الخواتم. وتود تذوق حمام النيجبات المشوي.
+REASON: Corrected gender from male to female (as per EN text) and completed the translation of the full Japanese text.
+
+=== id 19308 ===
+JA: 多くの人を救いたいと思って旅に出た薬師。
+腕の良い薬師だった父を尊敬している。
+父がよく作ってくれた海鮮ソテーが食べたいが、
+作り方を教わっていなかった。
+EN: An apothecary who set off on a journey in order to save as many people as possible. He greatly respects his father who was also an accomplished apothecary, and dearly misses the seafood sauté his father used to make for him. He regrets never having learned to make that special dish for himself.
+BEFORE: صيدلانية خرجت في رحلة لأنها تريد إنقاذ الكثير من الناس.
+GEMINI: صيدلاني خرج في رحلة لأنه يريد إنقاذ أكبر عدد ممكن من الناس. يحترم والده الذي كان صيدلانياً بارعاً. ويشتهي تناول طبق السوتيه البحري الذي كان والده يعدّه له غالباً، لكنه لم يتعلم طريقة تحضيره.
+REASON: Corrected gender from female to male (as per EN text) and completed the translation of the full Japanese text.
+
+=== id 19405 ===
+JA: 私の歌が聞きたいの……？
+EN: Would you like to hear my song?
+BEFORE: هل تريدين سماع أغنيتي……؟
+GEMINI: هل أردت سماع أغنيتي……؟
+REASON: Addressed player-character gender-neutrality: changed feminine present tense 'تريدين' to gender-neutral past tense 'أردت'.
+
+=== id 19450 ===
+JA: ウッドランドのシ・ワルキ出身の狩人。
+雪豹のリンデを相棒にしていて、
+よくニジバトの窯焼きを一緒に食べる。
+師匠のザンターは狩り以外は全ていい加減で、
+尻拭いをさせられることが多い。
+EN: A hunter who hails from a village called S'warkii in the Woodlands, along with her partner, a snow leopard named Linde. They often enjoy sharing a meal of roast iridove together. Her master, Z'aanta, can be a bit reckless when it comes to things that are not related to hunting, so she frequently has to clean up after his messes.
+BEFORE: صياد من سي-واركي في وودلاند.
+GEMINI: صيادة من قرية سي-واركي في وودلاند. رفيقتها هي نمر الثلج ليندي، وكثيراً ما يتشاركان وجبة حمام قوس قزح المشوي. سيدها زانتا مهمل في كل شيء عدا الصيد، لذا غالباً ما تضطر إلى إصلاح أخطائه.
+REASON: Original translation was severely truncated. Corrected gender of 'صياد' to feminine 'صيادة' to match H'aanit. Preserved line breaks.
+
+=== id 19464 ===
+JA: お役に立ててください
+EN: I hope it's of use to you.
+BEFORE: أرجو أن أكون مفيدة
+GEMINI: أرجو أن يكون مفيداً لك.
+REASON: Corrected subject-verb agreement to refer to the item being offered (مفيداً) rather than Ophilia herself (مفيدة), ensuring gender-neutrality for the player.
+
+=== id 19474 ===
+JA: キミなら使いこなせるだろう
+EN: I trust you to make full use of this.
+BEFORE: أنت قادر على استخدامه ببراعة
+GEMINI: ستتمكن من استخدامه ببراعة.
+REASON: Rephrased to use a gender-neutral future tense verb ('ستتمكن') instead of a gendered predicate adjective ('أنت قادر') when addressing the player character.
+
+=== id 19481 ===
+JA: 私と踊ってみる？
+EN: Will you dance with me?
+BEFORE: هل ترغب في الرقص معي؟
+GEMINI: هل نرقص معًا؟
+REASON: Rephrased to use gender-neutral phrasing for the player character, as present-tense verbs are visibly gendered.
+
+=== id 19485 ===
+JA: ええ、お相手するわ
+EN: All right. You have yourself a deal.
+BEFORE: حسنًا، سأواجهكِ
+GEMINI: حسنًا، سأواجهك.
+REASON: Corrected gender of addressee to generic masculine fallback for the player character.
+
+=== id 19486 ===
+JA: ごめんなさい、またね
+EN: Sorry. Another time, maybe.
+BEFORE: معذرة، أراكِ لاحقًا
+GEMINI: معذرة، أراك لاحقًا.
+REASON: Corrected gender of addressee to generic masculine fallback for the player character.
+
+=== id 19504 ===
+JA: お手合わせありがとうございました
+これをどうぞ
+EN: Thank you for the sparring match.
+Please, take this.
+BEFORE: شكرًا لكِ على التدريب
+GEMINI: شكرًا لك على التدريب.
+تفضل.
+REASON: Incomplete translation; added missing phrase and preserved line break. Corrected gender of addressee to generic masculine fallback for the player character.
+
+=== id 19505 ===
+JA: 心のうちを聞いていただけますか？
+EN: Would you tell me what's on
+your mind?
+BEFORE: هل يمكنكِ سماع ما في قلبي؟
+GEMINI: هل يمكنك الاستماع إلى ما في قلبي؟
+REASON: Corrected gender of addressee to generic masculine fallback for the player character. Adjusted meaning to be closer to the Japanese source ('listen to what's in my heart') and removed extraneous line break from EN source.
+
+=== id 19512 ===
+JA: いくらあんたでもそれはなぁ……
+EN: Sorry, but I'm not willing to give
+that up, even to you.
+BEFORE: مهما كنتَ، هذا الأمر……
+GEMINI: مهما كنت، لا يمكنني التخلي عن هذا الأمر……
+REASON: Corrected gender of addressee to gender-neutral spelling for the player character. Completed the implied meaning of the sentence. Removed extraneous line break from EN source.
+
+=== id 19523 ===
+JA: グランポートの領主。
+港を守ることを使命として、
+みずから船に乗り、海賊たちを取り締まる。
+その強さに惚れて配下となる海賊も多い。
+海の幸をたっぷり使ったブイヤベースが好物。
+EN: The lord of Grandport who captains her own ship of pirates in order to keep the harbor safe. Many join her crew after being dazzled by her overwhelming strength. Her favorite food is bouillabaisse.
+BEFORE: سيد غرانبورت.
+GEMINI: سيدة غرانبورت.
+مهمتها حماية الميناء، لذا تقود سفينتها بنفسها وتتصدى للقراصنة.
+وينضم إليها العديد من القراصنة بعد أن ينبهروا بقوتها.
+طبق البويابيس الغني بالمأكولات البحرية هو طبقها المفضل.
+REASON: Truncated translation, incorrect gender for 'lord' (Eltrix is female). Translated full description and corrected gender.
+
+=== id 19537 ===
+JA: あなたがご所望なら……
+EN: If that is your desire...
+BEFORE: إذا كنت ترغب في ذلك……
+GEMINI: إذا رغبت في ذلك……
+REASON: Rephrased to past tense for gender-neutrality when addressing the player character, and corrected ellipsis count.
+
+=== id 19553 ===
+JA: <chara_name>の幼馴染。
+大工だった父ラボレの跡を継いで
+ウィッシュベールの町を復興している。
+少しずつにぎわいを取り戻していく町を見ていると
+自分も元気になっていく気がする。
+EN: <chara_name>'s childhood friend. Her father, Lavore, was a carpenter, so she is following in his footsteps and rebuilding Wishvale. Seeing the town slowly come back to life fills her with great joy.
+BEFORE: صديق طفولة <chara_name>.
+GEMINI: صديقة طفولة <chara_name>.
+تتبع خطى والدها لابور الذي كان نجارًا، وتعيد بناء بلدة ويشفيل.
+عندما ترى البلدة تستعيد حيويتها شيئًا فشيئًا، تشعر هي أيضًا بالنشاط.
+REASON: Truncated translation, incorrect gender for 'friend' (Stia is female). Translated full description and corrected gender.
+
+=== id 19568 ===
+JA: これを託すに値する腕だ
+EN: You have proven yourself worthy
+of this.
+BEFORE: ذراع تستحق أن أعهد إليها بهذا
+GEMINI: لقد أثبتَّ جدارتك بهذا
+REASON: Rephrased 'ذراع تستحق أن أعهد إليها بهذا' (an arm worthy for me to entrust this to) to 'لقد أثبتَّ جدارتك بهذا' (You have proven your worthiness with this) for better gender-neutrality (past-tense verb 'أثبتَّ' is identical for both genders) and to better capture the meaning of 'proven yourself worthy' from the English.
+
+=== id 19714 ===
+JA: 私でお力になれるなら……
+EN: If I can be of help...
+BEFORE: إذا كان بإمكاني مساعدتكِ……
+GEMINI: إذا كان بإمكاني مساعدتك……
+REASON: Corrected 'مساعدتكِ' (feminine) to 'مساعدتك' (gender-neutral/masculine default) for player address.
+
+=== id 20005 ===
+JA: 大工ラボレの娘。
+今は父の助手をしながら、
+一人前になるため勉強をしている。
+EN: The daughter of the carpenter Lavore. She's currently helping her father with his work while studying to become a full-fledged architect herself.
+BEFORE: ابنة البنّاء لابور.
+GEMINI: ابنة البنّاء لابور.
+وهي تساعد والدها حاليًا في عمله،
+بينما تدرس لتصبح بنّاءة متكاملة بنفسها.
+REASON: Incomplete translation; fixed gender for 'architect' (بنّاءة) and completed the sentence, preserving line breaks.
+
+=== id 20010 ===
+JA: ウィッシュベールの仕立屋。
+元は修行中の剣士だったが、フリードに敗北して以来、
+剣を捨て、趣味だった裁縫を仕事にした。
+EN: Wishvale's tailor. He was originally training to be a warrior, but ended up abandoning the sword after losing to Fried, and decided to pursue his hobby of sewing instead.
+BEFORE: خياطة في ويشفيل.
+GEMINI: خياط في ويشفيل.
+كان في الأصل محاربًا متدربًا، لكنه تخلى عن السيف بعد هزيمته أمام فريد،
+وقرر ممارسة هوايته في الخياطة بدلًا من ذلك.
+REASON: Incomplete translation; fixed gender for 'tailor' (خياط) and completed the sentence, preserving line breaks.
+
+=== id 20020 ===
+JA: ウィッシュベールの教会の助祭。
+祖母のヤヤ司祭と協力して、
+聖火祭を取り仕切っている。
+EN: A deacon who serves Wishvale's church. She's helping her grandmother, Priestess Yaya, prepare for the Day of Reverence.
+BEFORE: مساعد كاهن في كنيسة ويشفيل.
+GEMINI: مساعدة كاهن في كنيسة ويشفيل.
+وهي تساعد جدتها، الكاهنة يايا،
+في التحضير لمهرجان الشعلة المقدسة.
+REASON: Incomplete translation; fixed gender for 'deacon' (مساعدة كاهن), translated 'Day of Reverence' as 'مهرجان الشعلة المقدسة' based on JA '聖火祭', and completed the sentence, preserving line breaks.
+

@@ -1,0 +1,194 @@
+=== id 20030 ===
+JA: グランポートの領主。
+港の商人たちが円滑に商売をできるよう
+効率的に事務作業をこなす。
+今では自ら船に乗ることもなくなった。
+EN: The ruler of Grandport. She efficiently completes the necessary paperwork so that the port merchants can peddle their wares without trouble. It seems like she no longer takes to the seas these days.
+BEFORE: لورد غراندبورت.
+GEMINI: حاكمة غراندبورت.
+تنجز الأعمال الورقية اللازمة بكفاءة حتى يتمكن تجار الميناء من بيع بضائعهم دون عناء.
+ويبدو أنها لم تعد تبحر في هذه الأيام.
+REASON: Incomplete translation; fixed gender for 'ruler' (حاكمة) and completed the sentence, preserving line breaks.
+
+=== id 20035 ===
+JA: 遥か東方の国からやってきた剣士。
+平和に満ちたオルステラ大陸での経験を
+自国に持ち帰ろうと思っている。
+EN: A warrior who hails from the distant east. She hopes to take what she has learned during her time in the peaceful lands of Orsterra and apply it to bettering her home country.
+BEFORE: مبارز جاء من دولة في أقصى الشرق.
+GEMINI: مبارزة جاءت من دولة في أقصى الشرق.
+وتأمل أن تأخذ ما تعلمته خلال فترة وجودها في أراضي أورستيرا المسالمة
+وتطبقه لتحسين وطنها.
+REASON: Incomplete translation; fixed gender for 'warrior' (مبارزة جاءت) and completed the sentence, preserving line breaks.
+
+=== id 20050 ===
+JA: リバーランド地方、小村出身の元商人。
+各地を渡り歩き、
+いろいろな物を配って旅している。
+EN: A former merchant who was born in a small village in the Riverlands. She travels the continent, delivering items along the way.
+BEFORE: تاجر سابق من قرية صغيرة في منطقة ريفرلاند.
+GEMINI: تاجرة سابقة من قرية صغيرة في منطقة ريفرلاند.
+وهي تتجول في القارة،
+وتسلم العناصر على طول الطريق.
+REASON: Incomplete translation; fixed gender for 'merchant' (تاجرة سابقة) and completed the sentence, preserving line breaks.
+
+=== id 20166 ===
+JA: ……お前の町なら
+見てみたくはあるニャ
+EN: I admit, I am a little curious about
+your town.
+BEFORE: ……أريد رؤية بلدتك
+GEMINI: ……أعترف، أنا فضولي بعض الشيء بشأن بلدتك.
+REASON: The original translation was too direct and missed the nuance of 'curiosity' and the character's tone. The corrected translation captures the nuance of the English reference and maintains gender-neutrality for the player character's town.
+
+=== id 20170 ===
+JA: 私の話を？
+EN: You want to hear my story?
+BEFORE: قصتي؟
+GEMINI: هل ترغب في سماع قصتي؟
+REASON: The original translation 'قصتي؟' was too abrupt. The corrected translation provides a more natural and complete question in MSA, using a gender-neutral (masculine default) phrasing for addressing the player.
+
+=== id 20172 ===
+JA: 美酒を求めるなら
+新たな地に足を運ぶべきね
+EN: One must journey to new lands
+to find new spirits.
+BEFORE: إذا كنتِ تبحثين عن المشروبات الفاخرة،
+GEMINI: من يطلب المشروبات الفاخرة، فعليه السفر إلى أراضٍ جديدة.
+REASON: The original translation was incomplete and used a feminine form 'كنتِ تبحثين' which is incorrect for a general statement or when addressing the gender-neutral player. The corrected translation is complete, uses a general and gender-neutral phrasing, and flows naturally in MSA.
+
+=== id 20174 ===
+JA: ほほう……これは面白い！
+お供させてもらいますぞ
+EN: Ho ho! Well, there's an idea!
+I'd be happy to join you.
+BEFORE: ههوه…… هذا مثير للاهتمام!
+GEMINI: ههوه…… هذا مثير للاهتمام! سأكون سعيدًا بمرافقتك.
+REASON: The original translation was incomplete, missing 'I'd be happy to join you'. The corrected translation completes the sentence and uses gender-neutral phrasing 'بمرافقتك' for the player.
+
+=== id 20175 ===
+JA: お若いの……
+もう少し精進しなされ
+EN: You young'uns think you can
+get away with anything!
+BEFORE: أيها الشاب……
+GEMINI: أيها اليافع…… عليك أن تجتهد أكثر قليلاً.
+REASON: The original translation was incomplete and used an explicitly masculine address 'أيها الشاب' for the gender-neutral player. The corrected translation is complete, uses a more gender-neutral address 'أيها اليافع', and accurately translates the nuance of 'strive a little more' from the Japanese source.
+
+=== id 20176 ===
+JA: 私の踊りについて
+聞きたいのね！？
+EN: You want to hear more about
+my dances, yes!?
+BEFORE: هل تريدين
+GEMINI: هل ترغب في سماع المزيد عن رقصاتي؟!
+REASON: The original translation was incomplete and used a feminine form 'تريدين' when addressing the gender-neutral player. The corrected translation is complete, uses a gender-neutral (masculine default) phrasing 'ترغب', and maintains the enthusiastic tone.
+
+=== id 20178 ===
+JA: あなたの戦いじゃ
+燃えないわ
+EN: You don't have what it takes
+to get me riled up.
+BEFORE: قتالكِ
+GEMINI: قتالك لا يشعل
+حماستي
+REASON: Incomplete translation; rephrased for gender-neutrality for player character and preserved line break.
+
+=== id 20274 ===
+JA: 読書の邪魔をしないで！
+EN: Don't interrupt me when I'm reading!
+BEFORE: لا تعقِ طريقي أثناء القراءة!
+GEMINI: لا تقاطعني أثناء القراءة!
+REASON: Corrected mistranslation of '邪魔をしないで' (don't interrupt) from 'لا تعقِ طريقي' (don't hinder my way) to 'لا تقاطعني'. The present-tense verb 'تقاطعني' (masculine) is an acceptable fallback for player-address gender-neutrality.
+
+=== id 20275 ===
+JA: なんかノリが悪そうだな
+EN: You don't seem like someone who
+knows how to have fun.
+BEFORE: تبدو غير متعاون على أي حال
+GEMINI: تبدو غير مرح.
+REASON: Refined the nuance of 'ノリが悪い' from 'غير متعاون' (uncooperative) to 'غير مرح' (not fun/lively) to better match the source and English translation. The present-tense verb 'تبدو' (masculine) is an acceptable fallback for player-address gender-neutrality.
+
+=== id 20280 ===
+JA: そこにいられちゃ邪魔だよ
+EN: Hey, you're blocking my wares.
+BEFORE: بقاؤك هناك يعيقني
+GEMINI: البقاء هناك يعيقني.
+REASON: Rephrased 'بقاؤك' (your staying - gendered) to 'البقاء' (staying - neutral verbal noun) for player-address gender-neutrality.
+
+=== id 20282 ===
+JA: あんた、あんまり
+おしゃれじゃないなぁ
+EN: You're not really into fashion, are you?
+BEFORE: أنت، لست
+GEMINI: ليس لديك اهتمام كبير
+بالأناقة، أليس كذلك؟
+REASON: The original translation was incomplete and used a gendered adjective. Rephrased to a gender-neutral construction ('ليس لديك اهتمام كبير بالأناقة') and added the missing line break.
+
+=== id 20285 ===
+JA: 見るだけならお断りだよ
+EN: No, not if you're not planning on
+buying anything.
+BEFORE: أرفض إذا كنت ستكتفي بالنظر فقط
+GEMINI: أرفض الاكتفاء بالنظر فقط.
+REASON: Rephrased 'إذا كنت ستكتفي' (if you will suffice - gendered present tense) to 'الاكتفاء بالنظر' (sufficing with looking - neutral verbal noun) for player-address gender-neutrality.
+
+=== id 20288 ===
+JA: 話しかけるな
+仕事中だ
+EN: Don't talk to me. I'm working.
+BEFORE: لا تحدثني
+GEMINI: لا تحدثني،
+أنا أعمل.
+REASON: The original translation was incomplete, missing the second part of the sentence ('I'm working') and the line break. The present-tense verb 'تحدثني' (masculine) is an acceptable fallback for player-address gender-neutrality.
+
+=== id 20289 ===
+JA: あなたには
+期待できそうにないわねぇ
+EN: No, I don't think I can expect much
+from you at all.
+BEFORE: لا يبدو أنني
+GEMINI: لا يبدو أنني أستطيع
+توقع الكثير منك.
+REASON: The original translation was incomplete, missing the rest of the sentence and the line break. The masculine possessive pronoun 'منك' is an acceptable fallback for player-address gender-neutrality when direct address is required.
+
+=== id 20290 ===
+JA: 聞かない方がいい……
+EN: It's best not to ask.
+BEFORE: من الأفضل ألا تسمع……
+GEMINI: من الأفضل ألا تسأل……
+REASON: Corrected mistranslation of '聞かない方がいい' from 'تسمع' (hear) to 'تسأل' (ask), which is more appropriate in context. The present-tense verb 'تسأل' (masculine) is an acceptable fallback for player-address gender-neutrality.
+
+=== id 20319 ===
+JA: このロマンが君に
+わかるかね？
+EN: Will you truly understand my passion?
+BEFORE: هل يمكنكِ
+GEMINI: هل يمكنك فهم هذا الشغف؟
+REASON: Incomplete translation; completed the sentence and corrected gendered 'يمكنكِ' to gender-neutral 'يمكنك' for player address. Preserved line break.
+
+=== id 20329 ===
+JA: あんたの戦いを近くで
+見させてもらうよ
+EN: I look forward to seeing you fight
+up close.
+BEFORE: سأشاهد قتالكِ
+GEMINI: سأشاهد قتالك
+عن كثب.
+REASON: Incomplete translation; added 'عن كثب' (up close) and corrected gendered 'قتالكِ' to gender-neutral 'قتالك' for player address. Preserved line break.
+
+=== id 20330 ===
+JA: あんたの方が一枚上手だったな
+EN: I guess you're one cut above.
+BEFORE: لقد كنتِ الأفضل
+GEMINI: لقد كنت الأفضل
+REASON: Corrected gendered 'كنتِ' to gender-neutral 'كنت' for player address.
+
+=== id 20333 ===
+JA: 人に絡むのはほどほどにしなさいね
+EN: Don't stick your nose where
+it doesn't belong.
+BEFORE: كفي عن إزعاج الناس.
+GEMINI: لا تتدخل في شؤون الناس كثيرًا.
+REASON: Corrected gendered 'كفي' and improved nuance from 'إزعاج' (bothering) to 'لا تتدخل في شؤون الناس كثيرًا' (don't interfere in people's affairs too much) for better accuracy and gender-neutrality.
+

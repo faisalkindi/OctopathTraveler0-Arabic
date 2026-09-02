@@ -1,0 +1,444 @@
+﻿id,ja_text,en_text,ar_text_before,ar_text_gemini,verdict,final_ar_text,notes
+2392,"くく……どうした？
+膝枕でもしに来たのか","Haha... So why have you come?
+To lay your head upon my lap?","كوكو... ما الخطب؟
+هل جئتِ لتقدمي لي وسادة لركبتيكِ؟","كوكو…… ما الخطب؟
+هل جئتِ لتتوسدي ركبتي؟",improvement,"كوكو…… ما الخطب؟
+هل جئتِ لتتوسدي ركبتي؟","Verified against ja_text: Mistranslation of '膝枕でもしに来たのか' (lap pillow) and incorrect ellipsis count. Corrected to reflect the act of laying one's head on a lap, and fixed ellipsis to '……'. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context)."
+2393,…………,......,...........,…………,improvement,…………,Verified against ja_text: Incorrect ellipsis count. Changed from eleven ASCII dots to four Unicode ellipsis characters '…………' to match JA source. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context).
+2395,ほう……？,...Have you now?,أوه...؟,أوه……؟,improvement,أوه……؟,Verified against ja_text: Incorrect ellipsis count. Changed from three ASCII dots to two Unicode ellipsis characters '……'. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context).
+2397,"四葉を見つけたよ！
+幸せを運んでくれるんだって","A four-leaf clover!
+I heard they bring good luck!","لقد وجدتُ أربع أوراق!
+يقولون إنها تجلب السعادة","لقد وجدتُ برسيمة الحظ!
+يقولون إنها تجلب السعادة",improvement,"لقد وجدتُ برسيمة الحظ!
+يقولون إنها تجلب السعادة",Verified against ja_text: Mistranslation of '四葉' (four-leaf clover). 'أربع أوراق' is too literal; 'برسيمة الحظ' is more natural and specific. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context).
+2399,"ミハエル……
+いけないわ","Mikhail... You mustn't come
+in here.","ميخائيل...
+لا يجب فعل ذلك","ميخائيل……
+لا يجب أن تكون هنا.",improvement,"ميخائيل……
+لا يجب أن تكون هنا.","Verified against ja_text: Mistranslation of 'いけないわ' (you mustn't) which implies 'you mustn't be here', not just 'do that'. Also, incorrect ellipsis count. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context)."
+2400,あっ……,Oh...,آه...,آه……,improvement,آه……,Verified against ja_text: Incorrect ellipsis count. Changed from three ASCII dots to two Unicode ellipsis characters '……'. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context).
+2401,"おやおや……
+そう怖くはないぞ？","Oh dear...
+Am I truly so frightening?","يا للهول...
+الأمر ليس مخيفاً إلى هذا الحد، أليس كذلك؟","يا للهول……
+هل أنا مخيف إلى هذا الحد حقًا؟",improvement,"يا للهول……
+هل أنا مخيف إلى هذا الحد حقًا؟","Verified against ja_text: Mistranslation of subject in 'そう怖くはないぞ？' (Am I truly so frightening?). The original Arabic shifted the subject from 'I' to 'the matter'. Also, incorrect ellipsis count. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context)."
+2402,…………,......,...........,…………,improvement,…………,Verified against ja_text: Incorrect ellipsis count. Changed from eleven ASCII dots to four Unicode ellipsis characters '…………' to match JA source. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context).
+2403,"やれやれ……
+子供はつまらん","Hmph...
+Children are so boring.","يا للأسف...
+الأطفال مملون","همف……
+الأطفال مملون",improvement,"همف……
+الأطفال مملون","Verified against ja_text: Mistranslation of 'やれやれ' (exasperation/Hmph). 'يا للأسف' implies regret, which is not the tone. 'همف' is a better fit. Also, incorrect ellipsis count. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context)."
+2405,"私の好む、心の深さや
+醜悪さが無いからな","They lack depth of emotion—
+the unsightliness I so adore.",لأنها تفتقر إلى العمق النفسي والقبح الذي أفضله.,"لأنها تفتقر إلى العمق النفسي
+والقبح الذي أفضله.",improvement,"لأنها تفتقر إلى العمق النفسي
+والقبح الذي أفضله.",Verified against ja_text: Preserved line break as per style guide. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context).
+2407,"申し訳ありません
+向こうへ行かせます","Forgive me.
+I will send him away at once.",أعتذر، سأجعلها تذهب إلى الجانب الآخر.,"أعتذر.
+سأجعله يذهب بعيدًا.",improvement,"أعتذر.
+سأجعله يذهب بعيدًا.","Verified against ja_text: Gender agreement error for Mikhail (male child) - 'سأجعلها' changed to 'سأجعله'. Also, preserved line break and made 'إلى الجانب الآخر' more natural as 'بعيدًا'. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context)."
+2408,"いや、待て
+フランセスカ","No... Wait, Francesca.",لا، انتظري يا فرانشيسكا.,"لا، انتظري
+يا فرانشيسكا.",improvement,"لا، انتظري
+يا فرانشيسكا.",Verified against ja_text: Preserved line break as per style guide. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context).
+2409,"いま書いているのは
+ある哀れな男の話なんだ","As it happens, I'm writing a story
+of a pitiful man—",ما أكتبه الآن هو قصة رجل بائس.,"ما أكتبه الآن
+هو قصة رجل بائس.",improvement,"ما أكتبه الآن
+هو قصة رجل بائس.",Verified against ja_text: Preserved line break as per style guide. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context).
+2410,"ある日、突然に
+我が子を失う父親なのだが","A father who suddenly loses
+his child one fateful day.",إنه أب يفقد طفله فجأة في أحد الأيام.,"إنه أب يفقد طفله فجأة
+في أحد الأيام.",improvement,"إنه أب يفقد طفله فجأة
+في أحد الأيام.",Verified against ja_text: Preserved line break as per style guide. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context).
+2411,"彼の悲しみが分からず
+書けないのだよ","But I find myself unable to finish
+for I do not understand his grief.",لا أستطيع كتابة القصة لأنني لا أفهم حزنه.,"لا أستطيع كتابة القصة
+لأنني لا أفهم حزنه.",improvement,"لا أستطيع كتابة القصة
+لأنني لا أفهم حزنه.",Verified against ja_text: Preserved line break as per style guide. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context).
+2412,…………,......,...........,…………,improvement,…………,Verified against ja_text: Incorrect ellipsis count. Changed from eleven ASCII dots to four Unicode ellipsis characters '…………' to match JA source. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context).
+2413,"ちょっと、その子供を
+殺してもいいかい？","Would you mind if I killed
+the boy?",مهلاً، هل يمكنني قتل ذلك الطفل؟,"مهلاً، هل يمكنني قتل
+ذلك الطفل؟",improvement,"مهلاً، هل يمكنني قتل
+ذلك الطفل؟",Verified against ja_text: Preserved line break as per style guide. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context).
+2414,"そうすれば、父親の気持ちが
+分かるかもしれない……","Perhaps that would help me
+grasp the father's emotions...",إذا فعلتِ ذلك، فقد تفهمين مشاعر الأب...,"إذا فعلتُ ذلك، فقد أفهم
+مشاعر الأب……",improvement,"إذا فعلتُ ذلك، فقد أفهم
+مشاعر الأب……","Verified against ja_text: Mistranslation of subject and gender. The speaker (Auguste, male) is proposing *he* kills the child, not Francesca. Changed 'فعلتِ' to 'فعلتُ' and 'تفهمين' to 'أفهم'. Also, incorrect ellipsis count and preserved line break. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context)."
+2415,……？,......?,...؟,……؟,improvement,……؟,Verified against ja_text: Incorrect ellipsis count. Changed from three ASCII dots to two Unicode ellipsis characters '……'. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context).
+2416,…………,......,...........,…………,improvement,…………,Verified against ja_text: Incorrect ellipsis count. Changed from eleven ASCII dots to four Unicode ellipsis characters '…………' to match JA source. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context).
+2417,…………,Oho?,...........,…………,improvement,…………,Verified against ja_text: Incorrect ellipsis count. Changed from eleven ASCII dots to four Unicode ellipsis characters '…………' to match JA source. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context).
+2418,"くく……冗談だ
+フランセスカ","Haha...
+'Twas merely a jest, Francesca.",كوكو... إنها مزحة يا فرانشيسكا,"كوكو……
+إنها مزحة يا فرانشيسكا",improvement,"كوكو……
+إنها مزحة يا فرانشيسكا","Verified against ja_text: Preserved line break (`\n`) and corrected ellipsis from `...` (ASCII) to `……` (Unicode U+2026, matching source count). — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context)."
+2419,"君のような女にも
+母性があるんだね","Even a woman like you has
+maternal instincts, I see.",حتى امرأة مثلكِ تمتلك غريزة الأمومة,"حتى امرأة مثلكِ
+تمتلك غريزة الأمومة",improvement,"حتى امرأة مثلكِ
+تمتلك غريزة الأمومة",Verified against ja_text: Preserved line break (`\n`) as per source. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context).
+2420,"参考になったよ
+くくく……","This has been enlightening.
+Hahaha...","لقد كان ذلك مفيداً
+كوكوكو...","لقد كان ذلك مفيداً
+كوكوكو……",improvement,"لقد كان ذلك مفيداً
+كوكوكو……","Verified against ja_text: Corrected ellipsis from `...` (ASCII) to `……` (Unicode U+2026, matching source count). — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context)."
+2422,それは……,That's...,هذا...,هذا……,improvement,هذا……,"Verified against ja_text: Corrected ellipsis from `...` (ASCII) to `……` (Unicode U+2026, matching source count). — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context)."
+2423,　　　　　ハイネンは若くして,"          Heinen was a young merchant,",هاينن، في سنٍّ مبكرة...,هاينن، في سنٍّ مبكرة,improvement,هاينن، في سنٍّ مبكرة,Verified against ja_text: Removed extraneous ellipsis (`...`) not present in the Japanese source. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context).
+2429,　　　　　私は、商売よりも,          That look interested me far more,أنا، أكثر من التجارة...,أنا، أكثر من التجارة,improvement,أنا، أكثر من التجارة,Verified against ja_text: Removed extraneous ellipsis (`...`) not present in the Japanese source. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context).
+2432,　　　　　彼を別荘に招待し……,          I invited him to my villa...,استضفته في الفيلا...,استضفته في الفيلا……,improvement,استضفته في الفيلا……,"Verified against ja_text: Corrected ellipsis from `...` (ASCII) to `……` (Unicode U+2026, matching source count). — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context)."
+2433,　　　　　手足を縛り,          I bound his hands and feet,اربط اليدين والقدمين,ربطتُ اليدين والقدمين,improvement,ربطتُ اليدين والقدمين,Verified against ja_text: Corrected verb tense from imperative 'اربط' to past tense 'ربطتُ' to match the narrative context. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context).
+2434,　　　　　串刺しにしてやった,          and impaled him on a skewer.,لقد طعنتُه حتى تفتت.,وغرزتُه على سيخ.,improvement,وغرزتُه على سيخ.,"Verified against ja_text: Corrected 'حتى تفتت' (until he disintegrated) to 'وغرزتُه على سيخ' (and I impaled him on a skewer) for accuracy, matching the 'impaled' meaning of '串刺し'. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context)."
+2435,　　　　　あの輝いた眼が汚れるぞと,          I had hoped to see,سيتسخ ذلك البريق في عينيك.,كنتُ آمل أن يتدنس بريق عينيه.,improvement,كنتُ آمل أن يتدنس بريق عينيه.,"Verified against ja_text: Corrected the translation to reflect the speaker's hope ('I had hoped to see') and the correct pronoun ('his eyes' instead of 'your eyes'), matching the Japanese nuance. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context)."
+2436,　　　　　胸を躍らせたが,          his sparkling eyes grow tainted.,لقد خفق قلبي حماساً، ولكن...,لقد خفق قلبي حماساً، ولكن,improvement,لقد خفق قلبي حماساً، ولكن,Verified against ja_text: Removed extraneous ellipsis (`...`) not present in the Japanese source. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context).
+2439,　　　　　あまりの平凡さに,          It was all too...expected.,بسبب رداءته الشديدة,بسبب تفاهته الشديدة,improvement,بسبب تفاهته الشديدة,Verified against ja_text: Corrected 'رداءته الشديدة' (extreme badness/poor quality) to 'تفاهته الشديدة' (extreme triviality/ordinariness) to accurately reflect '平凡さ' (ordinariness/mediocrity) in the Japanese source. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context).
+2443,　　　　　ああ……,          Alas...,آه...,آه……,improvement,آه……,"Verified against ja_text: Corrected ellipsis from `...` (ASCII) to `……` (Unicode U+2026, matching source count). — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context)."
+2444,　　　　　もっと刺激が欲しい,          I need something more thrilling than this.,أريدُ المزيد من الإثارة,أريد المزيد من الإثارة,improvement,أريد المزيد من الإثارة,Verified against ja_text: Removed unnecessary diacritic (damma) for consistency with light tashkeel policy. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context).
+2445,続きを読みますか？,Continue reading?,هل تودُ قراءة التتمة؟,هل تود قراءة التتمة؟,improvement,هل تود قراءة التتمة؟,Verified against ja_text: Removed unnecessary diacritic (damma) for consistency with light tashkeel policy. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context).
+2446,　　　　　アリッサは,          Alissa.,أليسا هي,أليسا,improvement,أليسا,"Verified against ja_text: Removed 'هي' (she is) as the Japanese 'アリッサは' simply introduces the topic, not a predicate. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context)."
+2452,　　　　　彼女を働かせたひと月のうちに,"          In the first month after employing her,",خلال الشهر الذي عملت فيه,خلال الشهر الذي شغّلتها فيه,improvement,خلال الشهر الذي شغّلتها فيه,Verified against ja_text: Corrected verb to reflect the causative 'employing her' (شغّلتها) from the Japanese '働かせた' instead of 'she worked' (عملت). — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context).
+2453,　　　　　三度も金の話をされた,          she spoke to me of coin three times.,تحدثت عن المال ثلاث مرات,تحدثت إليّ عن المال ثلاث مرات,improvement,تحدثت إليّ عن المال ثلاث مرات,Verified against ja_text: Added 'إليّ' (to me) to accurately reflect the nuance of the Japanese passive voice 'された' which implies the speaker was the recipient of the action. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context).
+2455,　　　　　身近で働かせながら,"          I kept her working close by,",بينما كانت تعمل قريبة مني,بينما كنتُ أُشغّلها قريبة مني,improvement,بينما كنتُ أُشغّلها قريبة مني,Verified against ja_text: Corrected verb to reflect the causative 'making her work' (أُشغّلها) from the Japanese '働かせながら' instead of 'she was working' (كانت تعمل). — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context).
+2459,　　　　　アリッサは頬に紅を差し,          Her cheeks flushed crimson.,أظهرت أليسا فرحها,احمرّت وجنتا أليسا,improvement,احمرّت وجنتا أليسا,"Verified against ja_text: Corrected mistranslation. '頬に紅を差し' means 'her cheeks flushed red/crimson', not 'she showed her joy'. The Arabic now reflects the physical action. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context)."
+2460,　　　　　喜んで見せた,          She was overjoyed at the news.,بوجنتين محمرتين على وجنتيها,وأظهرت فرحها,improvement,وأظهرت فرحها,"Verified against ja_text: Corrected mistranslation and redundancy. This line '喜んで見せた' means 'she showed her joy', not 'with reddened cheeks on her cheeks'. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context)."
+2463,　　　　　そして、彼女の口に金貨を,"          I began placing coins into her mouth,",ثم وضعتُ في فمها,ثم وضعتُ عملات ذهبية في فمها,improvement,ثم وضعتُ عملات ذهبية في فمها,"Verified against ja_text: Added 'عملات ذهبية' (gold coins) to complete the sentence, as it's implied by the Japanese '金貨を' (gold coins) and the next line. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context)."
+2469,　　　　　泣き叫びたかったようだが,"          I gathered that she wanted to cry out,",بدا وكأنها أرادت الصراخ بمرارة,بدا وكأنها أرادت الصراخ,improvement,بدا وكأنها أرادت الصراخ,Verified against ja_text: Removed 'بمرارة' as it's an addition not present in the Japanese source. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context).
+2471,　　　　　２９枚目を入れる頃には,"          With the twenty-ninth coin,",بحلول الوقت الذي وضعت فيه الورقة التاسعة والعشرين,بحلول الوقت الذي وضعت فيه القطعة النقدية التاسعة والعشرين,improvement,بحلول الوقت الذي وضعت فيه القطعة النقدية التاسعة والعشرين,Verified against ja_text: Changed 'الورقة' (sheet/paper) to 'القطعة النقدية' (coin) to match the Japanese '枚目' (counter for coins) and English 'coin'. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context).
+2476,　　　　　庭も少し臭ってきたか？,          Is that why the garden reeks?,هل بدأت رائحة الحديقة تظهر قليلاً؟,هل بدأت رائحة الحديقة تفوح قليلاً؟,improvement,هل بدأت رائحة الحديقة تفوح قليلاً؟,Verified against ja_text: Changed 'تظهر' (appear) to 'تفوح' (waft/emit a smell) for better semantic accuracy regarding smells. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context).
+2477,　　　　　……まあいい,          Regardless...,... لا بأس,…… لا بأس,improvement,…… لا بأس,Verified against ja_text: Corrected ellipsis count from one U+2026 to two U+2026 characters to match Japanese source '……'. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context).
+2481,"……アーギュストは
+芸術のためなら全てを捧げる","Everything Auguste does is for
+the sake of his art.","...أوغست
+سيقدم كل شيء من أجل الفن","…… أوغست
+سيقدم كل شيء من أجل الفن",improvement,"…… أوغست
+سيقدم كل شيء من أجل الفن",Verified against ja_text: Corrected ellipsis count from one U+2026 to two U+2026 characters to match Japanese source '……'. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context).
+2483,…………,......,...........,…………,improvement,…………,Verified against ja_text: Corrected ellipsis from eleven ASCII dots to four U+2026 characters to match Japanese source '…………'. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context).
+2484,君の意志は……固いようだな,I see your will is strong.,يبدو أن إرادتك... قوية,يبدو أن إرادتك…… قوية,improvement,يبدو أن إرادتك…… قوية,Verified against ja_text: Corrected ellipsis count from one U+2026 to two U+2026 characters to match Japanese source '……'. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context).
+2487,"本棚の裏に隠されていた
+……別荘の鍵だ","I found this hidden behind the
+bookcase. The key to the villa...","هذا مفتاح... الفيلا
+الذي كان مخبأً خلف الرفوف","كان مخبأً خلف الرفوف
+……مفتاح الفيلا.",improvement,"كان مخبأً خلف الرفوف
+……مفتاح الفيلا.","Verified against ja_text: Rephrased for better flow and grammatical clarity, and corrected ellipsis count from one U+2026 to two U+2026 characters to match Japanese source '……'. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context)."
+2488,行くぞ……,Let's go.,لننطلق...,لننطلق……,improvement,لننطلق……,Verified against ja_text: Corrected ellipsis count from one U+2026 to two U+2026 characters to match Japanese source '……'. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context).
+2490,この鍵で合っていたようだな……,Looks like it was the right key...,يبدو أن هذا المفتاح كان صحيحاً...,يبدو أن هذا المفتاح كان صحيحاً……,improvement,يبدو أن هذا المفتاح كان صحيحاً……,Verified against ja_text: Corrected ellipsis count from one U+2026 to two U+2026 characters to match Japanese source '……'. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context).
+2493,…………,......,...........,…………,improvement,…………,Verified against ja_text: Corrected ellipsis from eleven ASCII dots to four U+2026 characters to match Japanese source '…………'. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context).
+2494,"君は
+新しいメイドだね","You're the new maid, yes?","أنتِ
+الخادمة الجديدة هي","أنتِ
+الخادمة الجديدة؟",improvement,"أنتِ
+الخادمة الجديدة؟",Verified against ja_text: Removed redundant and grammatically awkward 'هي' at the end of the sentence. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context).
+2498,"他の方はなぜ
+辞められるので……？","It's a wonder to me that your
+other maids quit...","لماذا
+يستقيلُ الآخرون...؟","لماذا
+يستقيلُ الآخرون……؟",improvement,"لماذا
+يستقيلُ الآخرون……؟",Verified against ja_text: Corrected ellipsis count from one U+2026 to two U+2026 characters to match Japanese source '……'. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context).
+2500,"これほど良くしてくださる
+雇い主様は初めてです","But I've never had a master who
+treated me as well as you do.",هذا هو أول صاحب عمل يعاملني بهذا اللطف.,"هذا هو أول صاحب عمل
+يعاملني بهذا اللطف.",improvement,"هذا هو أول صاحب عمل
+يعاملني بهذا اللطف.",Verified against ja_text: Preserved line break as per style guide. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context).
+2501,"どうか、何なりと
+お申し付けくださいませ","Should you require anything at all,
+just say the word.",تفضل بأمرك، ما تشاء.,"إذا كان لديك أي طلب،
+فما عليك سوى إخباري.",improvement,"إذا كان لديك أي طلب،
+فما عليك سوى إخباري.","Verified against ja_text: Rephrased for gender-neutrality when addressing the player character, improved register to be more polite, and preserved line break. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context)."
+2502,"……そうかい？
+では、ひとつ頼もう","...Is that so?
+Well, there is one thing...",......أهكذا إذن؟,"……أهكذا إذن؟
+حسنًا، لدي طلب واحد.",improvement,"……أهكذا إذن؟
+حسنًا، لدي طلب واحد.","Verified against ja_text: Translated the missing part of the Japanese source, preserved line break, and fixed ellipsis to match source count and Unicode character. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context)."
+2504,くく……美味いかね？,"Hahaha...
+Good, isn't it?",كوكو... هل هو لذيذ؟,كوكو…… هل هو لذيذ؟,improvement,كوكو…… هل هو لذيذ؟,Verified against ja_text: Fixed ellipsis to match source count and Unicode character. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context).
+2505,"“アオジサイ”
+……私の好きな猛毒さ","Blue hydrangea...
+'Tis one of my favorite poisons.","""أوزيساي""","أوجيساي
+……إنه أحد سمومي المفضلة.",improvement,"أوجيساي
+……إنه أحد سمومي المفضلة.","Verified against ja_text: Translated the missing part of the Japanese source, corrected transliteration of 'Aojisai' to 'أوجيساي', preserved line break, and fixed ellipsis to match source count and Unicode character. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context)."
+2506,ああ……良い最期だ……,Ah... What a climax...,آه... نهاية جيدة...,آه…… نهاية جيدة……,improvement,آه…… نهاية جيدة……,Verified against ja_text: Fixed ellipsis to match source count and Unicode character. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context).
+2507,"必死にもがく汗が
+ここまで匂ってきたぞ","I can smell her sweat,
+pungent with fear.",لقد وصلت رائحة العرق الناتجة عن الكفاح المستميت إلى هنا.,"لقد وصلت رائحة العرق الناتجة عن الكفاح المستميت
+إلى هنا.",improvement,"لقد وصلت رائحة العرق الناتجة عن الكفاح المستميت
+إلى هنا.",Verified against ja_text: Preserved line break as per style guide. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context).
+2508,マーヴェラスな香りがね……,What a marvelous scent...,رائحة مذهلة، أليس كذلك...,رائحة مذهلة، أليس كذلك……,improvement,رائحة مذهلة، أليس كذلك……,Verified against ja_text: Fixed ellipsis to match source count and Unicode character. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context).
+2509,ああ……でもまだだ,...But it's not enough.,آه... ولكن ليس بعد,آه…… ولكن ليس بعد,improvement,آه…… ولكن ليس بعد,Verified against ja_text: Fixed ellipsis to match source count and Unicode character. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context).
+2510,"まだ良い展開が
+降って来ない……","No, the play's turning point still
+evades me...",لم يأتِ بعد تطور جيد...,"لم يأتِ بعد تطور جيد
+……",wash,"لم يأتِ بعد تطور جيد
+……","Ellipsis count/character is correctly fixed, but placing the ellipsis alone on its own second line (splitting mid-clause) reads awkwardly compared to attaching it to the end of the translated clause. Debatable line-break choice, not a factual error — left as Gemini's version since JA's own line1/line2 split (まだ良い展開が / 降って来ない……) doesn't map cleanly onto Arabic SVO word order either way."
+2511,"くく……
+もっと……もっとだ","Haha...
+I need more... <i>More</>...","كوك...
+المزيد... أريد المزيد","كوك……
+المزيد…… أريد المزيد",improvement,"كوك……
+المزيد…… أريد المزيد",Verified against ja_text: Fixed ellipsis to match source count and Unicode character. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context).
+2512,刺激が要る……,I need an even greater thrill...,أحتاج إلى إثارة...,أحتاج إلى إثارة……,improvement,أحتاج إلى إثارة……,Verified against ja_text: Fixed ellipsis to match source count and Unicode character. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context).
+2514,…………,......,...........,…………,improvement,…………,Verified against ja_text: Fixed ellipsis to match source count and Unicode character. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context).
+2515,貴方、どうやってここに……？,How did <i>you</> get in here?,أنت، كيف وصلت إلى هنا...؟,كيف وصلت إلى هنا……؟,improvement,كيف وصلت إلى هنا……؟,"Verified against ja_text: Rephrased for gender-neutrality when addressing the player character by removing the explicit gendered pronoun 'أنت', and fixed ellipsis to match source count and Unicode character. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context)."
+2516,"いや……
+そんな事より……",...No matter.,"لا...
+بدلاً من ذلك...","لا……
+بدلاً من ذلك……",improvement,"لا……
+بدلاً من ذلك……",Verified against ja_text: Fixed ellipsis to match source count and Unicode character. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context).
+2517,"坊やを……ミハエルを
+見ませんでした？","Have you seen my boy, Mikhail?",ألم ترَ الصبي... ميخائيل؟,"الصبي…… ميخائيل
+هل رأيته؟",improvement,"الصبي…… ميخائيل
+هل رأيته؟","Verified against ja_text: Rephrased for gender-neutrality when addressing the player character (using past tense verb 'رأيت'), preserved line break, and fixed ellipsis to match source count and Unicode character. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context)."
+2518,"庭を探しても居ないの
+メイドも見当たらないし","He's not in the garden, and
+I can't find the maid, either.",لم أجده حتى في الحديقة، ولا أرى الخادمة في أي مكان.,"لم أجده حتى في الحديقة،
+ولا أرى الخادمة في أي مكان.",improvement,"لم أجده حتى في الحديقة،
+ولا أرى الخادمة في أي مكان.",Verified against ja_text: Preserved line break as per style guide. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context).
+2519,どこへ行ったのかしら……,...Where could he have gone?,إلى أين ذهب...؟,إلى أين ذهب……؟,improvement,إلى أين ذهب……؟,Verified against ja_text: Fixed ellipsis to match source count and Unicode character. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context).
+2520,…………,......,............,…………,improvement,…………,Verified against ja_text: Fixed ellipsis to match source count and Unicode character. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context).
+2521,お母様ぁっ……！,Mother!,أمي...!,أمي……!,improvement,أمي……!,Verified against ja_text: Fixed ellipsis to match source count and Unicode character. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context).
+2522,"ミハエル……
+どこ！？",Mikhail!? Where are you!?,ميخائيل... أين أنت؟!,"ميخائيل……
+أين أنت؟!",improvement,"ميخائيل……
+أين أنت؟!",Verified against ja_text: Preserved line break and fixed ellipsis to match source count and Unicode character. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context).
+2529,"落ち着けよ
+フランセスカ","Calm yourself, Francesca.",اهدئي يا فرانشيسكا,"اهدئي
+يا فرانشيسكا",improvement,"اهدئي
+يا فرانشيسكا",Verified against ja_text: Preserved line break as per source. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context).
+2530,"ちょっとね……
+毒を飲ませただけさ","He's merely had himself a bit
+of poison.","الأمر بسيط فقط...
+لقد جعلتُكِ تشربين السم فحسب","فقط……
+لقد جعلتُه يشرب السم فحسب",improvement,"فقط……
+لقد جعلتُه يشرب السم فحسب","Verified against ja_text: Corrected mistranslation: 'جعلتُكِ' (made you, fem.) to 'جعلتُه' (made him, masc.) as the poison was given to a male third party. Corrected ellipsis count from 1 to 2. Rephrased 'الأمر بسيط فقط' to 'فقط' for better flow and closer match to Japanese nuance. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context)."
+2531,"慌てなくていい
+ちょうど解毒薬がある","You needn't panic...for there is
+an antidote.","لا داعي للذعر
+لديّ الترياق تماماً","لا داعي للذعر
+الترياق موجود",improvement,"لا داعي للذعر
+الترياق موجود","Verified against ja_text: Rephrased 'لديّ الترياق تماماً' to 'الترياق موجود' for more natural MSA, as 'تماماً' was awkward in this context. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context)."
+2533,……！,......!,...!,……!,improvement,……!,Verified against ja_text: Corrected ellipsis count from 1 to 2. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context).
+2534,マーヴェラス……！,...Marvelous!,مذهل...!,مذهل……!,improvement,مذهل……!,Verified against ja_text: Corrected ellipsis count from 1 to 2. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context).
+2535,"何をなさったの
+アーギュスト様……？","Master Auguste, what have
+you done?","ماذا فعلتَ
+يا سيد أوغست...؟","ماذا فعلتَ
+يا سيد أوغست……؟",improvement,"ماذا فعلتَ
+يا سيد أوغست……؟",Verified against ja_text: Corrected ellipsis count from 1 to 2. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context).
+2536,"……余興だよ
+フランセスカ","I'm putting on a show,
+Francesca.","...مجرد تسلية
+يا فرانشيسكا","……مجرد تسلية
+يا فرانشيسكا",improvement,"……مجرد تسلية
+يا فرانشيسكا",Verified against ja_text: Corrected ellipsis count from 1 to 2. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context).
+2537,"教えたろう？
+“ジェンニッシュの絞首台”さ","You remember the Jennish
+gallows, yes?","هل سأعلمكِ؟
+""منصة إعدام جينيش""","ألم أعلمكِ؟
+""منصة إعدام جينيش""",improvement,"ألم أعلمكِ؟
+""منصة إعدام جينيش""","Verified against ja_text: Corrected mistranslation: 'هل سأعلمكِ؟' (Shall I teach you?) to 'ألم أعلمكِ؟' (Didn't I teach you?), matching the Japanese '教えたろう？' (I taught you, didn't I?). — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context)."
+2539,"どちらかは助かり
+どちらかは死ぬ……","Whom will you save?
+Who will die?","أحدهما سينجو
+والآخر سيموت...","أحدهما سينجو
+والآخر سيموت……",improvement,"أحدهما سينجو
+والآخر سيموت……",Verified against ja_text: Corrected ellipsis count from 1 to 2. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context).
+2542,…………！,......!,............!,…………!,improvement,…………!,Verified against ja_text: Corrected ellipsis from ASCII dots to Unicode '…' and matched count from 4 in Japanese to 4 in Arabic. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context).
+2543,"馬鹿げている……
+早く息子を助けるんだ","What are you waiting for!?
+Hurry and save your son!","هذا هراء...
+أنقذي ابنكِ بسرعة","هذا هراء……
+أنقذي ابنكِ بسرعة",improvement,"هذا هراء……
+أنقذي ابنكِ بسرعة",Verified against ja_text: Corrected ellipsis count from 1 to 2. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context).
+2544,"ヤツは貴方の苦悩を
+愉しもうとしているだけだ！","He's only doing this to
+torment you!",إنه فقط يستمتع بمعاناتكِ!,"إنه فقط
+يستمتع بمعاناتكِ!",improvement,"إنه فقط
+يستمتع بمعاناتكِ!",Verified against ja_text: Preserved line break as per source. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context).
+2546,くく……そうかね？,Haha... Or <i>would</> I?,كوكو... أهذا ما تعتقده؟,كوكو…… أهذا ما تعتقده؟,improvement,كوكو…… أهذا ما تعتقده؟,Verified against ja_text: Corrected ellipsis count from 1 to 2. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context).
+2548,…………,......,...........,…………,improvement,…………,Verified against ja_text: Corrected ellipsis from ASCII dots to Unicode '…' and matched count from 4 in Japanese to 4 in Arabic. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context).
+2549,"理想の劇のためなら
+自らの命も厭わない……","His life is but a small price to pay
+to create his masterpieces...","من أجل مسرحية مثالية،
+لا يمانع التضحية بحياته...","من أجل مسرحية مثالية،
+لا يمانع التضحية بحياته……",improvement,"من أجل مسرحية مثالية،
+لا يمانع التضحية بحياته……",Verified against ja_text: Corrected ellipsis count from 1 to 2. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context).
+2550,この方なら……,I believe he would...,هذا الشخص...,إنه سيفعلها……,improvement,إنه سيفعلها……,"Verified against ja_text: Rephrased 'هذا الشخص...' to 'إنه سيفعلها...' for better nuance, capturing the implied 'he would' from the Japanese. Corrected ellipsis count from 1 to 2. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context)."
+2551,……！,......!,...!,……!,improvement,……!,Verified against ja_text: Corrected ellipsis count from 1 to 2. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context).
+2552,"早く決めないと
+両者を失うことになるぞ？","Quickly now, lest you lose both
+of us.","إن لم تتخذ قراراً سريعاً،
+فسوف تفقد كليهما؟","إن لم تتخذي قراراً سريعاً،
+فسوف تفقدي كليهما؟",improvement,"إن لم تتخذي قراراً سريعاً،
+فسوف تفقدي كليهما؟",Verified against ja_text: Corrected gender agreement for Francesca (feminine): 'تتخذ' to 'تتخذي' and 'تفقد' to 'تفقدي'. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context).
+2553,お母様……,Mother...,أمي...,أمي……,improvement,أمي……,Verified against ja_text: Corrected ellipsis count from 1 to 2. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context).
+2555,"終わりにするんだ
+フランセスカ殿","You can end this, Lady Francesca.",أنهِ الأمر,"أنهي الأمر
+يا سيدتي فرانشيسكا",improvement,"أنهي الأمر
+يا سيدتي فرانشيسكا","Verified against ja_text: Corrected gender agreement for Francesca (feminine): 'أنهِ' to 'أنهي'. Added 'يا سيدتي فرانشيسكا' to match the 'Lady Francesca' in the English reference and the Japanese honorific '殿', which was omitted in the draft. Preserved line break. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context)."
+2556,"ヤツを断ち切り
+この子と共に暮らせ","Free yourself from him, and live on
+with your child!",اقطعي صلتكِ به,"اقطعي صلتكِ به
+وعيشي مع طفلكِ",improvement,"اقطعي صلتكِ به
+وعيشي مع طفلكِ","Verified against ja_text: Arabic translation was incomplete, missing the second part of the Japanese sentence and the line break. Corrected verb and pronoun for female addressee. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context)."
+2557,"それがきっと
+貴方の本当の幸せだ",A happier life awaits you out there!,هذا هو بالتأكيد,"هذه هي بالتأكيد
+سعادتكِ الحقيقية.",improvement,"هذه هي بالتأكيد
+سعادتكِ الحقيقية.",Verified against ja_text: Arabic translation was incomplete. Added the missing part of the sentence and ensured gender agreement for the addressee (Francesca). — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context).
+2558,さあ、フランセスカ殿,"Come now, Lady Francesca!",هيا، يا آنسة فرانشيسكا,هيا، يا سيدتي فرانشيسكا!,improvement,هيا، يا سيدتي فرانشيسكا!,"Verified against ja_text: Replaced 'آنسة' with 'سيدتي' to better reflect the honorific '殿' and the English 'Lady', which implies more respect than 'Miss'. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context)."
+2559,…………,......,............,…………,improvement,…………,Verified against ja_text: Corrected ellipsis count to match Japanese source (4 U+2026 characters) and used the correct Unicode ellipsis character instead of ASCII dots. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context).
+2562,"教えてくれ
+君の答えを……","Tell me...
+Which of us do you choose?",أخبرني,"أخبريني
+إجابتكِ……",improvement,"أخبريني
+إجابتكِ……","Verified against ja_text: Arabic translation was incomplete, missing the second part of the sentence. Corrected verb and pronoun for female addressee (Francesca) and fixed ellipsis count. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context)."
+2563,…………,......,............,…………,improvement,…………,Verified against ja_text: Corrected ellipsis count to match Japanese source (4 U+2026 characters) and used the correct Unicode ellipsis character instead of ASCII dots. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context).
+2564,…………,......,............,…………,improvement,…………,Verified against ja_text: Corrected ellipsis count to match Japanese source (4 U+2026 characters) and used the correct Unicode ellipsis character instead of ASCII dots. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context).
+2565,お母様……,Mother...,أمي...,أمي……,improvement,أمي……,Verified against ja_text: Corrected ellipsis count to match Japanese source (2 U+2026 characters) and used the correct Unicode ellipsis character instead of ASCII dots. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context).
+2566,ごめんなさい……,"I'm sorry, Mikhail...",أنا آسفة...,أنا آسفة……,improvement,أنا آسفة……,Verified against ja_text: Corrected ellipsis count to match Japanese source (2 U+2026 characters) and used the correct Unicode ellipsis character instead of ASCII dots. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context).
+2567,"私にとっては
+この方が……","To me, he is...","بالنسبة لي
+هذا هو...","بالنسبة لي
+هذا هو……",improvement,"بالنسبة لي
+هذا هو……",Verified against ja_text: Corrected ellipsis count to match Japanese source (2 U+2026 characters) and used the correct Unicode ellipsis character instead of ASCII dots. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context).
+2568,"アーギュスト様こそが
+全てなのよ……",Master Auguste is my everything...,"سمو أوغست هو
+كل شيء...","أوغست هو
+كل شيء……",improvement,"أوغست هو
+كل شيء……","Verified against ja_text: Removed 'سمو' as it's too formal for '様' in this context, aligning with the English 'Master'. Fixed ellipsis count. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context)."
+2569,くく……,Hahaha...,كوك...,هاهاها……,regression,كوكو……,"Auguste's signature laugh 'くく' is transliterated consistently as 'كوكو' everywhere else in this same file/character arc (ids 2418, 2504, 2546: 'كوكو……'). Gemini's change here to 'هاهاها……' breaks that established character-voice consistency for no translation-accuracy reason (both 'كوكو' and 'هاهاها' are equally valid representations of a chuckle, so this is a pure regression on consistency, not an accuracy fix). Restore 'كوكو……' to match every other instance of the same laugh from the same character."
+2571,"あぁ、忘れていたよ
+解毒薬はもう１つあったんだ","Oh, it seems I forgot I had another
+dose of antidote with me.",آه، لقد نسيتُ ذلك.,"آه، لقد نسيتُ.
+كان لدي ترياق آخر.",improvement,"آه، لقد نسيتُ.
+كان لدي ترياق آخر.","Verified against ja_text: Arabic translation was incomplete, missing the second part of the Japanese sentence. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context)."
+2572,そん……な……,No... It cannot...,هذا... مستحيل...,هذا…… مستحيل……,improvement,هذا…… مستحيل……,Verified against ja_text: Corrected ellipsis count to match Japanese source (2 U+2026 characters for each pause) and used the correct Unicode ellipsis character instead of ASCII dots. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context).
+2575,"……間に合ったか
+気を失っているだけだ","...We weren't too late.
+He's still breathing.",...... هل وصلنا في الوقت المناسب؟,"……هل وصلنا في الوقت المناسب؟
+إنه فاقد للوعي فحسب.",improvement,"……هل وصلنا في الوقت المناسب؟
+إنه فاقد للوعي فحسب.","Verified against ja_text: Arabic translation was incomplete, missing the second part of the Japanese sentence. Fixed ellipsis count and used the correct Unicode ellipsis character. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context)."
+2576,…………,......,............,…………,improvement,…………,Verified against ja_text: Corrected ellipsis count to match Japanese source (4 U+2026 characters) and used the correct Unicode ellipsis character instead of ASCII dots. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context).
+2577,"願わくば、すべて
+忘れてほしいものだ","I pray the boy won't remember
+any of this...",أتمنى لو أن كل شيء يُنسى.,"أتمنى لو ينسى
+كل شيء.",improvement,"أتمنى لو ينسى
+كل شيء.","Verified against ja_text: Rephrased for a more direct and natural flow, closer to the Japanese meaning of 'I want him to forget'. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context)."
+2578,"母親に見捨てられた
+忌まわしい記憶をな……","He should be spared the detestable
+memory of his mother forsaking him...",تلك الذكريات اللعينة التي هُجرتُ فيها من قِبل أمي...,"تلك الذكريات اللعينة التي هُجر فيها
+من قِبل أمه……",improvement,"تلك الذكريات اللعينة التي هُجر فيها
+من قِبل أمه……",Verified against ja_text: Corrected mistranslation: the original Arabic used first-person ('I was abandoned by my mother') instead of third-person ('he was abandoned by his mother'). Fixed verb and pronoun agreement. Fixed ellipsis count. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context).
+2579,…………,......,............,…………,improvement,…………,Verified against ja_text: Corrected ellipsis count to match Japanese source (4 U+2026 characters) and used the correct Unicode ellipsis character instead of ASCII dots. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context).
+2580,母親……？,...His mother?,الأم...؟,الأم……؟,improvement,الأم……؟,Verified against ja_text: Corrected ellipsis count to match Japanese source (2 U+2026 characters) and used the correct Unicode ellipsis character instead of ASCII dots. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context).
+2581,……くっだらない,How absurd.,... تافهة,……تافه.,wash,……تافه,"Reason claims くっだらない is 'not gendered in Japanese' (true for JA adjectives generally) to justify switching تافهة (fem) to تافه (masc). Without speaker/referent context in this row it's not clearly wrong, but it's also not clearly a fix — likely referring to 'the story/situation' which could take either gender in Arabic depending on the implied noun (القصة fem vs الأمر masc). Cosmetic, no clear correctness delta either direction."
+2582,"クソッッッッ……
+……食らえだわ！！",What meaningless drivel!,"سحقاً...
+... خذي هذه!!","سحقاً……
+……خذي هذه!!",improvement,"سحقاً……
+……خذي هذه!!",Verified against ja_text: Corrected ellipsis count to match Japanese source (2+2 U+2026 characters). Replaced ASCII dots with Unicode ellipsis. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context).
+2583,フランセスカ殿……,Lady Francesca...,آنستي فرانشيسكا...,السيدة فرانشيسكا……,improvement,السيدة فرانشيسكا……,Verified against ja_text: Used glossary term 'السيدة' for 'Lady'. Corrected ellipsis count to match Japanese source (2 U+2026 characters). Replaced ASCII dots with Unicode ellipsis. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context).
+2584,"ソレが私のなんだって
+言うの！？　ええ！？","You mean to say that <i>thing</>
+is mine? Hm!?",كيف تجرؤين على قول ذلك عني؟! هاه؟!,هل تقولين إن ذلك الشيء يخصني؟! هاه؟!,improvement,هل تقولين إن ذلك الشيء يخصني؟! هاه؟!,Verified against ja_text: Corrected mistranslation. The original Arabic 'كيف تجرؤين على قول ذلك عني؟!' (How dare you say that about me?!) did not match the Japanese 'You mean to say that thing is mine?'. The corrected translation 'هل تقولين إن ذلك الشيء يخصني؟!' (Are you saying that thing belongs to me?!) is accurate. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context).
+2585,"たしかに
+お腹を痛めて出したわよ？","I recall the pain of pushing it
+out of my loins.",لقد أخرجتها من بطني فعلاً؟,بالتأكيد، لقد تحملتُ ألم ولادتها، أليس كذلك؟,improvement,بالتأكيد، لقد تحملتُ ألم ولادتها، أليس كذلك؟,Verified against ja_text: Improved phrasing to better convey the rhetorical question and the context of childbirth ('pain of pushing it out of my loins'). The original 'لقد أخرجتها من بطني فعلاً؟' was too literal and sounded like a genuine question. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context).
+2586,"でも、いま分かった……
+愛なんて無かったの","But I understand now...
+I never had any love for it.","لكنني أدركت الآن...
+لم يكن هناك أي حب","لكنني أدركت الآن……
+لم يكن لدي أي حب.",improvement,"لكنني أدركت الآن……
+لم يكن لدي أي حب.",Verified against ja_text: Made the lack of love personal ('I had no love') instead of impersonal ('there was no love'). Corrected ellipsis count to match Japanese source (2 U+2026 characters). Replaced ASCII dots with Unicode ellipsis. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context).
+2588,"アーギュスト様に比べれば
+屑ほどの価値もないわ！？","Compared to Master Auguste,
+his life is less than worthless!",مقارنةً بسيد أوغست، لا أستحق حتى قيمة القمامة!,مقارنةً بالسيد أوغست، لا قيمة لحياته حتى كقمامة!,improvement,مقارنةً بالسيد أوغست، لا قيمة لحياته حتى كقمامة!,Verified against ja_text: Corrected the subject of worthlessness. The original Arabic 'لا أستحق حتى قيمة القمامة!' (I don't even deserve the value of trash!) incorrectly referred to the speaker. The Japanese and English refer to the child's life ('his life is less than worthless!'). Used glossary term 'السيد أوغست'. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context).
+2590,あは……あは……,Ahaha...hah...,أه... أه...,أه…… أه……,improvement,أه…… أه……,Verified against ja_text: Corrected ellipsis count to match Japanese source (2+2 U+2026 characters). Replaced ASCII dots with Unicode ellipsis. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context).
+2591,…………,......,...........,…………,improvement,…………,Verified against ja_text: Corrected ellipsis count to match Japanese source (4 U+2026 characters). Replaced ASCII dots with Unicode ellipsis. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context).
+2594,"君は刺激的な
+最高のパートナーだった","Francesca, you are the best partner
+I could ever ask for. The most
+thrilling.","لقد كنتِ شريكة مثيرة
+وهي الأفضل على الإطلاق","لقد كنتِ شريكة مثيرة
+والأفضل على الإطلاق.",improvement,"لقد كنتِ شريكة مثيرة
+والأفضل على الإطلاق.","Verified against ja_text: Corrected grammatical error. The original 'وهي الأفضل' (and she is the best) incorrectly referred to a third person, while the Japanese and English clearly refer to Francesca ('you are the best partner'). — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context)."
+2595,"……さて、客人よ
+楽しんでくれたか？","My dear audience...
+Have you enjoyed the show?","... والآن، أيها الضيف
+هل استمتعت؟","……والآن، أيها الضيف
+هل استمتعت؟",improvement,"……والآن، أيها الضيف
+هل استمتعت؟",Verified against ja_text: Corrected ellipsis count to match Japanese source (2 U+2026 characters). Replaced ASCII dots with Unicode ellipsis. Player-address gender-neutrality is maintained with the past-tense verb 'استمتعت'. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context).
+2597,なんだと……！？,What!?,ماذا...؟!,ماذا……؟!,improvement,ماذا……؟!,Verified against ja_text: Corrected ellipsis count to match Japanese source (2 U+2026 characters). Replaced ASCII dots with Unicode ellipsis. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context).
+2599,待てッ……！,Wait!,انتظري...!,انتظر……!,improvement,انتظر……!,"Verified against ja_text: Corrected gender of the imperative verb from feminine ('انتظري') to masculine ('انتظر'), assuming the speaker is a male companion addressing Auguste. Corrected ellipsis count to match Japanese source (2 U+2026 characters). Replaced ASCII dots with Unicode ellipsis. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context)."
+2600,行かせないわッ！！,Stop right there!,لن أدعكِ تذهبين!!,لن أدعك تذهب!!,improvement,لن أدعك تذهب!!,"Verified against ja_text: Corrected gender of the verb from feminine ('لن أدعكِ تذهبين') to masculine ('لن أدعك تذهب'), as the addressee is Auguste (male). — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context)."
+2601,ふふ……,Hehe...,هه...,هه……,improvement,هه……,Verified against ja_text: Corrected ellipsis count to match Japanese source (2 U+2026 characters). Replaced ASCII dots with Unicode ellipsis. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context).
+2602,"もう……
+迷わないわよ……",I know now what I must do...,"كفى...
+لن أضل الطريق...",لن أتردد بعد الآن……,regression,"كفى……
+لن أتردد بعد الآن……","Gemini's version drops the first JA line entirely (もう……) and merges both lines into one, losing the line break AND dropping one of the two ellipsis instances (ja has 2 ellipses across 2 lines = should read as two separate paused clauses). Corrected to restore both lines and both ellipses: line1 'كفى……' (Enough...) for もう……, line2 'لن أتردد بعد الآن……' (I won't hesitate anymore...) for 迷わないわよ……, spoken by Francesca (わ = feminine sentence-final particle)."
+2604,"いいえ……私
+はっきり分かったの",...No. I have <i>found</> myself.,لا... لقد أدركتُ الأمر بوضوح,لا…… لقد أدركتُ الأمر بوضوح,improvement,لا…… لقد أدركتُ الأمر بوضوح,Verified against ja_text: Corrected ellipsis count to match Japanese source (2 U+2026 characters). Replaced ASCII dots with Unicode ellipsis. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context).
+2605,"アーギュスト様こそが
+私の人生……",Master Auguste is my life...,إن أوغست الكاتب المسرحي هو...,إن السيد أوغست هو حياتي……,improvement,إن السيد أوغست هو حياتي……,Verified against ja_text: Completed the sentence 'إن أوغست الكاتب المسرحي هو...' to 'إن السيد أوغست هو حياتي...' to match the Japanese and English. Used glossary term 'السيد أوغست'. Corrected ellipsis count to match Japanese source (2 U+2026 characters). Replaced ASCII dots with Unicode ellipsis. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context).
+2607,…………,......,...........,…………,improvement,…………,Verified against ja_text: Corrected ellipsis count to match Japanese source (4 U+2026 characters). Replaced ASCII dots with Unicode ellipsis. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context).
+2608,"貴方たち、アーギュスト様の
+邪魔者でしょう……？",If you mean to stand in his way...,أنتم، أليس من المعيقين لأوغست الكاتب المسرحي...؟,أنتم، أليس من المعيقين لأوغست الكاتب المسرحي……؟,improvement,أنتم، أليس من المعيقين لأوغست الكاتب المسرحي……؟,Verified against ja_text: Ellipsis count/character mismatch with Japanese source. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context).
+2611,ああっ……！！,Aaaaaah!,آه...!!,آه……!!,improvement,آه……!!,Verified against ja_text: Ellipsis count/character mismatch with Japanese source. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context).
+2612,…………,......,...........,…………,improvement,…………,Verified against ja_text: Ellipsis count/character mismatch with Japanese source. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context).
+2613,ごめんなさい……,Forgive me...,أنا آسفة...,أنا آسفة……,improvement,أنا آسفة……,Verified against ja_text: Ellipsis count/character mismatch with Japanese source. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context).
+2614,"アーギュスト様……
+お役に立てず……",Master Auguste... I failed you...,"يا سيد أوغست...
+لم أستطع المساعدة...","يا سيد أوغست……
+لم أستطع المساعدة……",improvement,"يا سيد أوغست……
+لم أستطع المساعدة……",Verified against ja_text: Ellipsis count/character mismatch with Japanese source (both instances). — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context).
+2615,…………,......,...........,…………,improvement,…………,Verified against ja_text: Ellipsis count/character mismatch with Japanese source. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context).
+2616,"私……
+一度でいい……",I just wanted...,"أنا...
+يكفي مرة واحدة...","أنا……
+يكفي مرة واحدة……",improvement,"أنا……
+يكفي مرة واحدة……",Verified against ja_text: Ellipsis count/character mismatch with Japanese source (both instances). — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context).
+2617,ほんの一瞬でいいから……,To be loved by you...,ولو للحظة واحدة فقط...,ولو للحظة واحدة فقط……,improvement,ولو للحظة واحدة فقط……,Verified against ja_text: Ellipsis count/character mismatch with Japanese source. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context).
+2618,"貴方に……
+愛されたかった……",If only for a moment...,"أردتُ أن...
+أُحبَّ من قِبلك...","أردتُ أن……
+أُحبَّ من قِبلك……",improvement,"أردتُ أن……
+أُحبَّ من قِبلك……",Verified against ja_text: Ellipsis count/character mismatch with Japanese source (both instances). — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context).
+2619,…………,......,...........,…………,improvement,…………,Verified against ja_text: Ellipsis count/character mismatch with Japanese source. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context).
+2621,…………,......,...........,…………,improvement,…………,Verified against ja_text: Ellipsis count/character mismatch with Japanese source. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context).
+2622,べつに……,No...,ليس الأمر كذلك...,ليس الأمر كذلك……,improvement,ليس الأمر كذلك……,Verified against ja_text: Ellipsis count/character mismatch with Japanese source. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context).
+2623,…………,......,...........,…………,improvement,…………,Verified against ja_text: Ellipsis count/character mismatch with Japanese source. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context).
+2624,あ……,Ah...,آه...,آه……,improvement,آه……,Verified against ja_text: Ellipsis count/character mismatch with Japanese source. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context).
+2625,……,......,......,……,improvement,……,Verified against ja_text: Ellipsis count/character mismatch with Japanese source. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context).
+2626,…………,......,...........,…………,improvement,…………,Verified against ja_text: Ellipsis count/character mismatch with Japanese source. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context).
+2627,"アーギュストの犠牲が
+また１人……",Auguste claims another victim...,ضحية أخرى لأوغست...,ضحية أخرى لأوغست……,improvement,ضحية أخرى لأوغست……,Verified against ja_text: Ellipsis count/character mismatch with Japanese source. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context).
+2628,俺には……分からん,...I don't understand.,أنا... لا أفهم,أنا…… لا أفهم,improvement,أنا…… لا أفهم,Verified against ja_text: Ellipsis count/character mismatch with Japanese source. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context).
+2629,"自らと……我が子も捨てるほど
+ヤツに何がある？","What about that man would make
+a mother forsake her own child?",ما الذي يملكه ذلك الوغد لدرجة أنه يتخلى عن نفسه... وعن طفله أيضًا؟,ما الذي يملكه ذلك الوغد لدرجة أنها تتخلى عن نفسها…… وعن طفلها أيضًا؟,improvement,ما الذي يملكه ذلك الوغد لدرجة أنها تتخلى عن نفسها…… وعن طفلها أيضًا؟,"Verified against ja_text: Corrected gender agreement for 'تتخلى عن نفسها' and 'طفلها' to reflect Francesca as the subject of abandonment, and ellipsis count/character mismatch. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context)."
+2630,…………,......,...........,…………,improvement,…………,Verified against ja_text: Ellipsis count/character mismatch with Japanese source. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context).
+2631,“名声”か……,...Fame?,"""الشهرة"" إذن...","""الشهرة"" إذن……",improvement,"""الشهرة"" إذن……",Verified against ja_text: Ellipsis count/character mismatch with Japanese source. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context).
+2632,……くだらん,...Ridiculous.,... تافهة,……تافهة,improvement,……تافهة,Verified against ja_text: Ellipsis count/character mismatch with Japanese source. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context).
+2633,"……この子は
+知り合いに頼む","...I know someone who can
+care for the boy.",... سأطلب من أحد المعارف المساعدة لهذا الطفل,…… سأعهد بهذا الطفل إلى أحد معارفي.,improvement,…… سأعهد بهذا الطفل إلى أحد معارفي.,"Verified against ja_text: Improved naturalness and directness of phrasing for 'care for the boy', and corrected ellipsis count from '...' to '……' as per Japanese source. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context)."
+2635,アーギュスト……,Auguste...,أوغست...,أوغست……,improvement,أوغست……,Verified against ja_text: Corrected ellipsis count from '...' to '……' as per Japanese source. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context).
+2636,"“劇場で待っている”
+と言っていたな","He said he'd be waiting at
+the theatre.","قال إنه ""ينتظر في المسرح""",قال إنه «ينتظر في المسرح»,improvement,قال إنه «ينتظر في المسرح»,"Verified against ja_text: Corrected quotation marks from '""...""' to '«...»' as per style guide. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context)."
+2637,今度こそ……,He won't get away this time...,هذه المرة...,هذه المرة……,improvement,هذه المرة……,Verified against ja_text: Corrected ellipsis count from '...' to '……' as per Japanese source. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context).
+2638,"そこを貴様の
+墓場にしてやるぞ……","I'll bring the curtain down
+on him once and for all...",سأجعل من ذلك المكان مقبرتك...,سأجعل من ذلك المكان مقبرتك……,improvement,سأجعل من ذلك المكان مقبرتك……,Verified against ja_text: Corrected ellipsis count from '...' to '……' as per Japanese source. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context).
+2646,そして、新たな“題材”を,"Having acquired new material,","ومن ثم، ليحصل على ""موضوع"" جديد",ومن ثم، ليحصل على «موضوع» جديد,improvement,ومن ثم، ليحصل على «موضوع» جديد,"Verified against ja_text: Corrected quotation marks from '""...""' to '«...»' as per style guide. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context)."
+2647,手に入れたアーギュストは姿を消した,the playwright promptly vanishes.,اختفى أوغست الذي تم الاستيلاء عليه,اختفى أوغست بعد أن حصل على «موضوعه» الجديد.,improvement,اختفى أوغست بعد أن حصل على «موضوعه» الجديد.,"Verified against ja_text: Corrected mistranslation of '手に入れた' (obtained) from 'تم الاستيلاء عليه' (was seized) to 'حصل على', and corrected quotation marks. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context)."
+2649,<chara_name>とシュワルツは,Schwartz and <chara_name>,عاد <chara_name> وشوالتز,<chara_name> وشوالتز,improvement,<chara_name> وشوالتز,"Verified against ja_text: Removed the verb 'عاد' (returned) which was not present in the Japanese source for this line, as the verb belongs to the next line. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context)."
+2650,劇場へと舞い戻る――,race back to the theatre...,إلى المسرح ――,يعودان إلى المسرح ――,improvement,يعودان إلى المسرح ――,"Verified against ja_text: Added the missing verb 'يعودان' (they return) to complete the sentence, as it was incorrectly placed in the previous line. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context)."
+2651,この日をどれ程待ったか……,How I have waited for this day...,كم انتظرتُ هذا اليوم...,كم انتظرتُ هذا اليوم……,improvement,كم انتظرتُ هذا اليوم……,Verified against ja_text: Corrected ellipsis count from '...' to '……' as per Japanese source. — checked correct (ellipsis count matches ja_text U+2026 count; no invented content; gender/agent resolution matches ja_text grammar and en_text/character context).

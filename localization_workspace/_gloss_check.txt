@@ -1,0 +1,48 @@
+=== id 12786 ===
+JA: オリーブ
+BEFORE: زيتون
+GEMINI: أوليف
+REASON: Name 'Olive' should be transliterated as 'أوليف' according to the glossary rule, not translated as 'زيتون'.
+
+=== id 13955 ===
+JA: 英雄タイタスの偉大さを歌い上げる吟遊詩人。
+かつては根無し草のしがない唄うたいだったが、
+“英雄の歌”が評判となり、エンバーグロウには
+長くとどまっている。
+BEFORE: شاعر جوال يغني عن عظمة البطل تايتوس.
+GEMINI: شاعر جوال يغني عن عظمة البطل تايتوس. كان في السابق مغنيًا متجولًا لا شأن له، لكن "أغنية البطل" ذاع صيتها، مما جعله يمكث في إمبرغلو لفترة طويلة.
+REASON: Mistranslation by omission; the original Arabic only translated the first sentence of the Japanese source. Expanded to include the full context about his past and why he lingered in Emberglow. Glossary term 'تايتوس' used. 'إمبرغلو' transliterated for the place name.
+
+=== id 13972 ===
+JA: 緋翼兵団に心酔している男。
+タイタスの強さに憧れるあまり、
+自ら剣を取ろうと考えたこともあった。
+しかし町外れのシロコウモリに追い回され、即断念。
+装備品もほとんど揃わなかった。
+BEFORE: رجل مهووس بفرقة الأجنحة القرمزية.
+GEMINI: رجل مهووس بفرقة الأجنحة القرمزية. من شدة إعجابه بقوة تايتوس، فكر في حمل السيف بنفسه. لكن بعد أن طاردته الخفافيش البيضاء خارج البلدة، تخلى عن الفكرة على الفور. ولم يكن لديه أي معدات تقريبًا.
+REASON: Mistranslation by omission; the original Arabic only translated the first sentence of the Japanese source. Expanded to include the full context about his admiration for Tytos, his brief thought of becoming a warrior, and his quick abandonment of the idea. Glossary terms 'تايتوس' and 'الأجنحة القرمزية' used.
+
+=== id 14006 ===
+JA: 【罪状：傷害】
+タイタスと緋翼を絶対視する緋翼兵。
+かつては気に入らないことがあると
+すぐにケンカを始めるならず者だった。
+緋翼兵団に捕縛されてからは
+タイタスの圧倒的な力に忠誠を誓っている。
+BEFORE: 【التهمة: إيذاء جسدي】
+GEMINI: 【التهمة: إيذاء جسدي】 جندي من الأجنحة القرمزية يرى تايتوس والأجنحة القرمزية كقوة مطلقة. كان في السابق مشاغبًا يبدأ الشجار فورًا إذا لم يعجبه شيء. ومنذ أن تم القبض عليه من قبل فرقة الأجنحة القرمزية، أقسم الولاء لقوة تايتوس الساحقة.
+REASON: Mistranslation by omission; the original Arabic only translated the first line (the crime). Expanded to include the full context about his devotion to Tytos and his past as a ruffian. Glossary terms 'تايتوس' and 'الأجنحة القرمزية' used.
+
+=== id 14736 ===
+JA: 駐屯地から来た聖火騎士
+BEFORE: فارس الشعلة المقدسة القادم من المعسكر
+GEMINI: فارس اللهب المقدس القادم من المعسكر
+REASON: Glossary compliance: 'Knight Ardante' must be translated as 'فارس اللهب المقدس'.
+
+=== id 14745 ===
+JA: 聖火騎士魂を貴方にも！
+BEFORE: روح فارس الشعلة المقدسة لك أيضاً!
+GEMINI: روح فارس اللهب المقدس لك أيضاً!
+REASON: Glossary compliance: 'Knight Ardante' must be translated as 'فارس اللهب المقدس'.
+

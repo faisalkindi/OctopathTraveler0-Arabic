@@ -1,0 +1,116 @@
+2407
+ja: 申し訳ありません
+向こうへ行かせます
+en: Forgive me.
+I will send him away at once.
+ar_before: أعتذر، سأجعلها تذهب إلى الجانب الآخر.
+ar: أعتذر.
+سأجعله يذهب بعيدًا.
+reason: Gender agreement error for Mikhail (male child) - 'سأجعلها' changed to 'سأجعله'. Also, preserved line break and made 'إلى الجانب الآخر' more natural as 'بعيدًا'.
+
+2414
+ja: そうすれば、父親の気持ちが
+分かるかもしれない……
+en: Perhaps that would help me
+grasp the father's emotions...
+ar_before: إذا فعلتِ ذلك، فقد تفهمين مشاعر الأب...
+ar: إذا فعلتُ ذلك، فقد أفهم
+مشاعر الأب……
+reason: Mistranslation of subject and gender. The speaker (Auguste, male) is proposing *he* kills the child, not Francesca. Changed 'فعلتِ' to 'فعلتُ' and 'تفهمين' to 'أفهم'. Also, incorrect ellipsis count and preserved line break.
+
+2501
+ja: どうか、何なりと
+お申し付けくださいませ
+en: Should you require anything at all,
+just say the word.
+ar_before: تفضل بأمرك، ما تشاء.
+ar: إذا كان لديك أي طلب،
+فما عليك سوى إخباري.
+reason: Rephrased for gender-neutrality when addressing the player character, improved register to be more polite, and preserved line break.
+
+2515
+ja: 貴方、どうやってここに……？
+en: How did <i>you</> get in here?
+ar_before: أنت، كيف وصلت إلى هنا...؟
+ar: كيف وصلت إلى هنا……؟
+reason: Rephrased for gender-neutrality when addressing the player character by removing the explicit gendered pronoun 'أنت', and fixed ellipsis to match source count and Unicode character.
+
+2517
+ja: 坊やを……ミハエルを
+見ませんでした？
+en: Have you seen my boy, Mikhail?
+ar_before: ألم ترَ الصبي... ميخائيل؟
+ar: الصبي…… ميخائيل
+هل رأيته؟
+reason: Rephrased for gender-neutrality when addressing the player character (using past tense verb 'رأيت'), preserved line break, and fixed ellipsis to match source count and Unicode character.
+
+2552
+ja: 早く決めないと
+両者を失うことになるぞ？
+en: Quickly now, lest you lose both
+of us.
+ar_before: إن لم تتخذ قراراً سريعاً،
+فسوف تفقد كليهما؟
+ar: إن لم تتخذي قراراً سريعاً،
+فسوف تفقدي كليهما؟
+reason: Corrected gender agreement for Francesca (feminine): 'تتخذ' to 'تتخذي' and 'تفقد' to 'تفقدي'.
+
+2555
+ja: 終わりにするんだ
+フランセスカ殿
+en: You can end this, Lady Francesca.
+ar_before: أنهِ الأمر
+ar: أنهي الأمر
+يا سيدتي فرانشيسكا
+reason: Corrected gender agreement for Francesca (feminine): 'أنهِ' to 'أنهي'. Added 'يا سيدتي فرانشيسكا' to match the 'Lady Francesca' in the English reference and the Japanese honorific '殿', which was omitted in the draft. Preserved line break.
+
+2557
+ja: それがきっと
+貴方の本当の幸せだ
+en: A happier life awaits you out there!
+ar_before: هذا هو بالتأكيد
+ar: هذه هي بالتأكيد
+سعادتكِ الحقيقية.
+reason: Arabic translation was incomplete. Added the missing part of the sentence and ensured gender agreement for the addressee (Francesca).
+
+2581
+ja: ……くっだらない
+en: How absurd.
+ar_before: ... تافهة
+ar: ……تافه.
+reason: Changed 'تافهة' (feminine) to 'تافه' (masculine) for generic neutrality, as the exclamation 'くっだらない' is not gendered in Japanese. Fixed ellipsis count.
+
+2595
+ja: ……さて、客人よ
+楽しんでくれたか？
+en: My dear audience...
+Have you enjoyed the show?
+ar_before: ... والآن، أيها الضيف
+هل استمتعت؟
+ar: ……والآن، أيها الضيف
+هل استمتعت؟
+reason: Corrected ellipsis count to match Japanese source (2 U+2026 characters). Replaced ASCII dots with Unicode ellipsis. Player-address gender-neutrality is maintained with the past-tense verb 'استمتعت'.
+
+2599
+ja: 待てッ……！
+en: Wait!
+ar_before: انتظري...!
+ar: انتظر……!
+reason: Corrected gender of the imperative verb from feminine ('انتظري') to masculine ('انتظر'), assuming the speaker is a male companion addressing Auguste. Corrected ellipsis count to match Japanese source (2 U+2026 characters). Replaced ASCII dots with Unicode ellipsis.
+
+2600
+ja: 行かせないわッ！！
+en: Stop right there!
+ar_before: لن أدعكِ تذهبين!!
+ar: لن أدعك تذهب!!
+reason: Corrected gender of the verb from feminine ('لن أدعكِ تذهبين') to masculine ('لن أدعك تذهب'), as the addressee is Auguste (male).
+
+2629
+ja: 自らと……我が子も捨てるほど
+ヤツに何がある？
+en: What about that man would make
+a mother forsake her own child?
+ar_before: ما الذي يملكه ذلك الوغد لدرجة أنه يتخلى عن نفسه... وعن طفله أيضًا؟
+ar: ما الذي يملكه ذلك الوغد لدرجة أنها تتخلى عن نفسها…… وعن طفلها أيضًا؟
+reason: Corrected gender agreement for 'تتخلى عن نفسها' and 'طفلها' to reflect Francesca as the subject of abandonment, and ellipsis count/character mismatch.
+

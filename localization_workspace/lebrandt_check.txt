@@ -1,0 +1,2 @@
+従者レブラント,Lebrandt the Attendant,,character_name,transliterate,char_id=116296
+重臣レブラント,Chief Vassal Lebrandt,,character_name,transliterate,char_id=116396

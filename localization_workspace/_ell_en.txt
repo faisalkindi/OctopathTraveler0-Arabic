@@ -1,0 +1,70 @@
+id=12273
+JA: うーん、まあ
+その辺はあんまりな……
+EN: Hmm... No, I'd rather not.
+GEMINI: همم... لا، لا أرغب في ذلك.
+
+id=13177
+JA: ごめんねぇ
+そのお代じゃちょっと……
+EN: I'm sorry, I'm afraid that's just
+not enough...
+GEMINI: أنا آسفة، هذا المبلغ ليس كافيًا بعض الشيء...
+
+id=13178
+JA: ごめんねぇ
+そのお代じゃちょっと……
+EN: I'm sorry, I'm afraid that's just
+not enough...
+GEMINI: أنا آسفة، هذا المبلغ ليس كافيًا بعض الشيء...
+
+id=13292
+JA: 人には言えぬ暗い過去を持つため、
+特定の言葉しか話さず、心を閉ざしてしまった男。
+……のような扱いを受けることがよくあるが、
+本人はその言葉が気に入っているだけなのかもしれない。
+EN: A man of few, but chosen words who has closed off his heart because of an unspeakably dark past...or so people think. In truth, he may just be repeating his favorite phrase.
+GEMINI: رجل يملك ماضياً مظلماً لا يمكن البوح به للآخرين،
+لا يتحدث إلا بكلمات معينة، وقد أغلق قلبه.
+...أو هكذا يعتقد الناس. في الحقيقة، ربما هو فقط يردد عبارته المفضلة.
+
+id=13309
+JA: 人には言えぬ暗い過去を持つため、
+特定の言葉しか話さず、心を閉ざしてしまった男。
+……のような扱いを受けることがよくあるが、
+本人はその言葉が気に入っているだけなのかもしれない。
+口数こそ少ないが、ファミリーへの忠誠心は厚く、
+バルジェロを助けた<chara_name>にも信頼を寄せている。
+EN: A man of few, but chosen words who has closed off his heart because of an unspeakably dark past...or so people think. In truth, he may just be repeating his favorite phrase. Despite his reticence, he is loyal to the family and trusts deeply in <chara_name> who saved Bargello.
+GEMINI: رجل يملك ماضياً مظلماً لا يمكن البوح به للآخرين،
+لا يتحدث إلا بكلمات معينة، وقد أغلق قلبه.
+...أو هكذا يعتقد الناس. في الحقيقة، ربما هو فقط يردد عبارته المفضلة.
+على الرغم من قلة كلامه، إلا أن ولاءه للعائلة كبير، ويثق ثقة عميقة بـ<chara_name> الذي أنقذ بارجيلو.
+
+id=14068
+JA: 神よ、新たな町に赴く私に
+祝福と加護を……
+EN: O gods, please protect me on this new
+path. May it bring me good fortune...
+GEMINI: يا إلهي، امنحني البركة والحماية في طريقي الجديد...
+
+id=14414
+JA: 雪山に行く者に注意を促してくる老人。
+吹雪、雪崩、滑落……
+彼はこの雪山で、多くの人間が
+命を落としたことを知っている。
+これ以上の惨劇を繰り返したくないのだ。
+EN: An old man who warns those who would venture into the mountains. He knows of many who have lost their lives to blizzards, avalanches, or even a single misstep, and is desperate to prevent further tragedies.
+GEMINI: رجل عجوز يحذر من يذهب إلى الجبال الثلجية. عواصف ثلجية، انهيارات جليدية، انزلاقات... إنه يعلم أن الكثيرين فقدوا حياتهم في هذه الجبال الثلجية. ولا يريد تكرار المزيد من المآسي.
+
+id=14737
+JA: 駐屯地から資材の買い出しに来た聖火騎士。
+厳しい訓練を経たことで、鋼の肉体と強靭な精神を
+手に入れた……はずだったが、演劇を見て
+生まれて初めて人前で涙を流してしまった。
+今はこの感動を誰かに伝えたくてたまらない。
+EN: A Knight Ardante visiting from the garrison to stock up on supplies. Drills and discipline have given him a body of steel and indomitable willpower...but when he took in a play at the theatre, he wept openly for the first time in his life. Now he is desperate to share these emotions with somebody else.
+GEMINI: فارس اللهب المقدس القادم من المعسكر لشراء الإمدادات.
+لقد منحته التدريبات الصارمة والانضباط جسدًا فولاذيًا وإرادة لا تقهر... لكنه عندما شاهد مسرحية في المسرح، بكى علنًا لأول مرة في حياته.
+والآن، يتوق بشدة لمشاركة هذه المشاعر مع شخص آخر.
+

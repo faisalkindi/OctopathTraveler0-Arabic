@@ -1,0 +1,44 @@
+### 一閃 ###
+id=94551 EN=Stunning Strike BEFORE=ومضة AFTER=ضربة مذهلة REASON=Changed 'ومضة' (flash) to 'ضربة مذهلة' (stunning strike) to align with the English translation 'Stunning Strike' and better describe a combat skill.
+id=95169 EN=Stunning Strike BEFORE=الوميض AFTER=ضربة مذهلة REASON=More accurately reflects 'Stunning Strike' and the likely effect of the skill, rather than just 'flash'.
+id=95290 EN=Stunning Strike BEFORE=ومضة AFTER=ضربة مذهلة REASON=Replaced 'ومضة' (flash) with 'ضربة مذهلة' (stunning strike) to match the English 'Stunning Strike' and imply the effect of the skill.
+id=152645 EN=Stunning Strike BEFORE=ومضة AFTER=ضربة خاطفة REASON=Improved accuracy to convey 'strike' aspect of the Japanese term, which implies a quick, decisive attack, rather than just 'flash'.
+id=152891 EN=Stunning Strike BEFORE=ومضة خاطفة AFTER=ضربة مذهلة REASON=Changed 'ومضة خاطفة' to 'ضربة مذهلة'. 'ومضة خاطفة' translates 'flash' but misses the 'strike' and 'stunning' effect of 'Stunning Strike' ('一閃'). 'ضربة مذهلة' is more accurate.
+id=153524 EN=Stunning Strike BEFORE=ومضة AFTER=ضربة مذهلة REASON=The original 'ومضة' (flash) was too weak for '一閃' (sudden strike) and the EN 'Stunning Strike'. 'ضربة مذهلة' (stunning strike) aligns better with the intended meaning and the English reference.
+
+### 威圧 ###
+id=94653 EN=Oppression BEFORE=إرهاب AFTER=قمع REASON=Changed 'إرهاب' (intimidation/terrorism) to 'قمع' (suppression/oppression) for 'Oppression' to better fit the game's context and avoid real-world connotations, aligning with the usage of 'قمع' for 'Suppression' in a subsequent line.
+id=96212 EN=Oppression BEFORE=إرهاب AFTER=ترهيب REASON=Improved translation: 'إرهاب' (terrorism/terrorization) corrected to 'ترهيب' (intimidation) for '威圧' (iatsu), which better reflects the meaning of coercion/intimidation without the strong modern connotation of 'terrorism'.
+
+### 雷公烈風 ###
+id=94666 EN=Thundersquall BEFORE=رعد إله الريح العاتية AFTER=الرعد الإلهي والريح العاتية REASON=The original Arabic `رعد إله الريح العاتية` implies 'thunder of the god of fierce wind', which misinterprets `雷公` (Thunder God) as 'god of thunder' and then combines it with 'fierce wind' in a possessive structure. The Japanese `雷公烈風` is more like 'Thunder God and Fierce Wind' or 'Thunder God's Fierce Wind'. `الرعد الإلهي والريح العاتية` (Divine Thunder and the Fierce Wind) better captures both elements without the awkward possessive chain.
+id=96155 EN=Thundersquall BEFORE=ريح رعد إله الرعد AFTER=عاصفة رعدية REASON=عاصفة رعدية (thunderstorm/thundersquall) is a more concise and natural translation of Thundersquall than ريح رعد إله الرعد, which is redundant and clunky.
+
+### さみだれ矢 ###
+id=152492 EN=Rain of Arrows BEFORE=سهم المطر المتساقط AFTER=وابل السهام REASON=Accuracy: 'سهم المطر المتساقط' (arrow of falling rain) is too literal and awkward for 'Rain of Arrows'. 'وابل السهام' (volley/rain of arrows) is more natural.
+id=153293 EN=Rain of Arrows BEFORE=سهم المطر المتساقط AFTER=مطر السهام REASON=More natural and accurate translation for 'Rain of Arrows' than 'سهم المطر المتساقط'.
+
+### 乱伏せ ###
+id=152493 EN=Wild Strike BEFORE=إخضاع فوضوي AFTER=ضربة فوضوية REASON=Accuracy: 'إخضاع فوضوي' (chaotic subjugation) does not match 'Wild Strike'. 'ضربة فوضوية' (wild strike) is accurate.
+id=153562 EN=Wild Strike BEFORE=الإخضاع AFTER=ضربة جامحة REASON=The original 'الإخضاع' (subjugation) was a mistranslation of '乱伏せ' (wild ambush/crouch). The EN 'Wild Strike' clarifies the intent. Changed to 'ضربة جامحة' (wild strike).
+
+### 復活手当 ###
+id=152500 EN=Vivify BEFORE=تعويض الإحياء AFTER=إنعاش REASON=Accuracy: 'تعويض الإحياء' (compensation for revival) is not accurate for 'Vivify' or '復活手当' (revival treatment). 'إنعاش' (revitalization/vivify) is a better fit.
+id=153236 EN=Vivify BEFORE=تعويض الإحياء AFTER=إسعاف الإحياء REASON=Mistranslation: 'تعويض الإحياء' (compensation for revival) does not match '復活手当' (revival aid/treatment). Changed to 'إسعاف الإحياء' (revival aid).
+
+### フォローバック ###
+id=152848 EN=Back Row Protection BEFORE=رد الهجوم AFTER=حماية من الخلف REASON=Mistranslation of フォローバック (Follow Back) which means 'back row protection/support', not 'counterattack'. Changed to 'protection from the back'.
+id=153547 EN=Back Row Protection BEFORE=رد الهجوم AFTER=حماية الصف الخلفي REASON=The original 'رد الهجوم' (counterattack) was a mistranslation of 'フォローバック' (Follow Back). The EN 'Back Row Protection' clarifies the intended meaning. Changed to 'حماية الصف الخلفي' (back row protection).
+
+### 会心の矢 ###
+id=152869 EN=True Strike BEFORE=سهم الضربة القاضية AFTER=سهم الضربة الحرجة REASON=Changed 'الضربة القاضية' to 'الضربة الحرجة' for 'True Strike' to align with the glossary term 'ضربة حرجة' for 'Critical' and better reflect '会心' in a combat context.
+id=153298 EN=True Strike BEFORE=سهم الضربة القاضية AFTER=سهم حاسم REASON=More accurately reflects 'True Strike' and the implication of a critical/decisive hit from the Japanese '会心の矢', rather than 'knockout blow'.
+
+### どしゃぶり矢 ###
+id=152881 EN=Arrowstorm BEFORE=سهم المطر الغزير AFTER=وابل السهام REASON=Changed 'سهم المطر الغزير' to 'وابل السهام' for 'Arrowstorm' ('どしゃぶり矢') as it's a more idiomatic and accurate translation for a barrage/storm of arrows.
+id=153300 EN=Arrowstorm BEFORE=سهم المطر الغزير AFTER=عاصفة السهام REASON=More concise and accurate translation for 'Arrowstorm' than 'سهم المطر الغزير'.
+
+### 突風の詩 ###
+id=152901 EN=Song of Winds BEFORE=قصيدة الرياح الهابطة AFTER=قصيدة الرياح العاتية REASON=The original 'الرياح الهابطة' (descending winds) does not accurately capture '突風' (gust/squall). 'الرياح العاتية' (fierce winds) is a more appropriate translation for '突風'.
+id=153067 EN=Song of Winds BEFORE=قصيدة الرياح الهابطة AFTER=قصيدة العاصفة REASON=Mistranslation: '突風' (toppū) means 'gust of wind' or 'squall', not 'descending winds'. Corrected to 'قصيدة العاصفة' for 'squall/gust'.
+

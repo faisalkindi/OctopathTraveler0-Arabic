@@ -1,0 +1,5 @@
+JA: 'かつてヴィクターホロウで対立したマフィア、デベッキオ。\nバルジェロファミリーに下った彼が君にもたらしたものは、\n達人との戦慄すべき邂逅だった――'
+EN: 'Near the arena, <chara_name> encounters Delvecchio, the syndicate member they clashed with in Victors Hollow and who is now part of the Bargello family. With no hesitation, he volunteers <chara_name> to take on the strongest of warriors...'
+AR_BEFORE: 'ديبيكيو، عضو المافيا الذي تصادم معك سابقًا في فيكتور هولو.'
+AR_AFTER: 'ديبيكيو، عضو المافيا الذي تصادم معك سابقًا في فيكتور هولو.\nما جلبه لك، هو الذي انضم إلى عائلة بارجيلو، كان لقاءً مرعبًا مع أحد الأساتذة...'
+REASON: Incomplete translation. Completed the sentence and used generic masculine for protagonist's pronoun as fallback. Ellipsis count adjusted to match `en_text` interpretation of `――`.

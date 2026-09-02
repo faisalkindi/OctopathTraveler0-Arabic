@@ -1,0 +1,679 @@
+=== 93460 ===
+JA: 指輪よ……妾にもっと力を！
+EN: Oh, power of the ring, grant me strength!
+BEFORE: أيتها الخاتم…… امنحيني المزيد من القوة!
+AFTER: أيها الخاتم…… امنحني المزيد من القوة!
+REASON: Corrected vocative particle for masculine noun 'الخاتم' from 'أيتها' to 'أيها', and verb agreement from feminine 'امنحيني' to masculine 'امنحني' as the ring is masculine.
+
+=== 93461 ===
+JA: 妾の一部となるがよい！
+EN: Become one with me!
+BEFORE: كوني جزءاً مني!
+AFTER: كُنْ جزءاً مني!
+REASON: Changed feminine imperative 'كوني' to masculine 'كُنْ' for a general/unspecified addressee (opponent), following the default masculine rule.
+
+=== 93465 ===
+JA: 妾の眼を見よ……
+EN: Look into my eyes...
+BEFORE: انظري إلى عينيَّ……
+AFTER: انظر إلى عينيَّ……
+REASON: Changed feminine imperative 'انظري' to masculine 'انظر' for a general/unspecified addressee (opponent), following the default masculine rule.
+
+=== 93578 ===
+JA: 回転石打
+EN: Spinning Boulder Bash
+BEFORE: ضربة الحجر الدوارة
+AFTER: ضربة الحجر الدوار
+REASON: Changed 'الدوارة' (feminine) to 'الدوار' (masculine) to correctly describe 'الحجر' (the stone) as spinning, rather than the strike itself.
+
+=== 94209 ===
+JA: さらに、物理回避の構えをとった！
+EN: She stands ready to avoid physical attacks!
+BEFORE: علاوة على ذلك، اتخذ وضعية تفادي الهجمات الفيزيائية!
+AFTER: علاوة على ذلك، اتخذت وضعية تفادي الهجمات الفيزيائية!
+REASON: Corrected verb gender agreement from masculine 'اتخذ' to feminine 'اتخذت' to match the implied female subject 'She' from the English source and game context.
+
+=== 94231 ===
+JA: 我が、主の……ために……
+EN: For...Her Highness...
+BEFORE: من أجل…… سيدي……
+AFTER: من أجل…… سيدتي……
+REASON: Corrected noun gender from masculine 'سيدي' to feminine 'سيدتي' to match 'Her Highness' in the English source and game context.
+
+=== 94234 ===
+JA: 主は……私が、守る……
+EN: I will protect...Her Highness...
+BEFORE: السيد…… أنا، سأحميه……
+AFTER: السيدة…… أنا، سأحميها……
+REASON: Corrected noun gender from masculine 'السيد' to feminine 'السيدة' and pronoun from masculine 'سأحميه' to feminine 'سأحميها' to match 'Her Highness' in the English source and game context.
+
+=== 94244 ===
+JA: たたかう
+EN: Attack
+BEFORE: يقاتل
+AFTER: قتال
+REASON: Changed the present tense verb 'يقاتل' to the verbal noun 'قتال' for consistency and better fit as a menu option ('Attack').
+
+=== 94549 ===
+JA: たたかう
+EN: Attack
+BEFORE: قتال
+AFTER: هجوم
+REASON: Changed 'قتال' (noun: fighting) to 'هجوم' (noun: attack) for better fit as a UI command and consistency with 'ATK' stat term.
+
+=== 94667 ===
+JA: 黒呪・雷公烈風
+EN: Cursed Thundersquall
+BEFORE: لعنة سوداء·رعد إله الريح العاتية
+AFTER: لعنة سوداء·الرعد الإلهي والريح العاتية
+REASON: Consistent with the correction for `雷公烈風` in ID 94666.
+
+=== 94780 ===
+JA: 後衛に移動するとダメージを受ける！
+EN: Moving to the back row will inflict damage!
+BEFORE: ستتلقى ضررًا عند الانتقال إلى الخط الخلفي!
+AFTER: سيُلحق الانتقال إلى الخط الخلفي ضررًا!
+REASON: The original Arabic uses a gendered present-tense verb (`ستتلقى`) addressing the player. The style guide requires gender-neutral phrasing for the player character. Rephrasing to `سيُلحق الانتقال إلى الخط الخلفي ضررًا!` (Moving to the back row will inflict damage!) makes the sentence impersonal and gender-neutral, aligning with the style guide.
+
+=== 95060 ===
+JA: アーギュストの激情が黒呪炎と共に溢れ出す！
+EN: Auguste's fury spills out with the Accurst Flame!
+BEFORE: تتدفق عاطفة أوغست مع لهيب اللعنة السوداء!
+AFTER: يتدفق غضب أوغست مع لهيب اللعنة السوداء!
+REASON: Changed 'عاطفة' (emotion/passion) to 'غضب' (fury) to match the 'fury' in en_text and the intense context of 'spills out'. Corrected subject-verb agreement: 'غضب' (masculine) requires 'يتدفق' (masculine verb) instead of 'تتدفق' (feminine verb).
+
+=== 95061 ===
+JA: アーギュストの激情が黒呪炎と共に噴き出す！
+EN: Auguste's fury erupts with the Accurst Flame!
+BEFORE: تنفجر عاطفة أوغست مع لهيب اللعنة السوداء!
+AFTER: ينفجر غضب أوغست مع لهيب اللعنة السوداء!
+REASON: Changed 'عاطفة' (emotion/passion) to 'غضب' (fury) to match the 'fury' in en_text and the intense context of 'erupts'. Corrected subject-verb agreement: 'غضب' (masculine) requires 'ينفجر' (masculine verb) instead of 'تنفجر' (feminine verb).
+
+=== 95062 ===
+JA: アーギュストの激情が黒呪炎と共にほとばしる！
+EN: Auguste's fury surges with the Accurst Flame!
+BEFORE: تتدفق عاطفة أوغست مع لهيب اللعنة السوداء!
+AFTER: يتدفق غضب أوغست مع لهيب اللعنة السوداء!
+REASON: Changed 'عاطفة' (emotion/passion) to 'غضب' (fury) to match the 'fury' in en_text and the intense context of 'surges'. Corrected subject-verb agreement: 'غضب' (masculine) requires 'يتدفق' (masculine verb) instead of 'تتدفق' (feminine verb).
+
+=== 95073 ===
+JA: 黒呪・心に巣くう闇
+EN: Cursed Darkness of the Heart
+BEFORE: اللعنة السوداء: الظلام المستوطن في القلب
+AFTER: اللعنة السوداء·الظلام المستوطن في القلب
+REASON: Changed colon `:` to interpunct `·` for consistency with other skill names.
+
+=== 95076 ===
+JA: 黒呪・盗公子の憎悪
+EN: Cursed Ire of the Prince of Thieves
+BEFORE: اللعنة السوداء: حقد اللص النبيل
+AFTER: اللعنة السوداء·حقد أمير اللصوص
+REASON: Changed colon `:` to interpunct `·` for consistency. Used `أمير اللصوص` (Prince of Thieves) as a more direct translation for `盗公子` than `اللص النبيل` (Noble Thief).
+
+=== 95084 ===
+JA: 無駄なあがきを……
+EN: Cease your struggling...
+BEFORE: كفاحكِ العبثي……
+AFTER: كف عن كفاحك العبثي……
+REASON: Changed from a feminine noun phrase (`كفاحكِ العبثي`) to a masculine imperative phrase (`كف عن كفاحك العبثي`) to match the English imperative 'Cease your struggling' and use the generic masculine fallback for the player character.
+
+=== 95183 ===
+JA: 黒呪・かまいたち
+EN: Cursed Thousand Scythes
+BEFORE: لعنة السواد· إعصار
+AFTER: لعنة السواد· ألف منجل
+REASON: Consistency with the translation of 'かまいたち' (Thousand Scythes) from id 95176.
+
+=== 95184 ===
+JA: 黒呪・輝きの矢
+EN: Cursed Radiant Arrow
+BEFORE: لعنة السواد· سهم البريق
+AFTER: لعنة السواد· سهم الضياء
+REASON: Consistency with the translation of '輝きの矢' (Radiant Arrow) from id 95177, and 'الضياء' is a better match for 'Radiant' than 'البريق'.
+
+=== 95193 ===
+JA: 切り裂いた空間からかまいたちが発生した！
+EN: Sharp blades emerged from the torn space!
+BEFORE: نشأ إعصار من الفضاء الممزق!
+AFTER: نشأت شفرات حادة من الفضاء الممزق!
+REASON: Replaced 'إعصار' (tornado) with 'شفرات حادة' (sharp blades) to better match Japanese 'かまいたち' (wind scythes/sharp blades) and English 'Sharp blades'. Also corrected verb agreement from masculine 'نشأ' to feminine 'نشأت' for plural non-human subject 'شفرات'.
+
+=== 95273 ===
+JA: <skl_user_name>は大きく身構えた！
+EN: <skl_user_name> stands ready!
+BEFORE: اتخذت <skl_user_name> وضعية الدفاع بقوة!
+AFTER: استعد <skl_user_name>!
+REASON: Changed feminine verb 'اتخذت' to masculine 'استعد' as the generic default for the placeholder '<skl_user_name>' (which can be male or female). Simplified 'وضعية الدفاع بقوة' to 'استعد' for conciseness, matching 'stands ready'.
+
+=== 95922 ===
+JA: エルフリックの行動回数が増える！
+EN: Aelfric can take more actions!
+BEFORE: تزداد عدد حركات إلفريك!
+AFTER: يزداد عدد حركات إلفريك!
+REASON: Corrected subject-verb agreement: 'عدد' (number) is masculine, so the verb should be 'يزداد' (masculine) instead of 'تزداد' (feminine).
+
+=== 96174 ===
+JA: 紳商伯の憤怒
+EN: Wrath of the Trader
+BEFORE: غضب اللورد تافيانى
+AFTER: غضب اللورد تافياني
+REASON: Glossary compliance: 'تافياني' instead of 'تافيانى'.
+
+=== 152050 ===
+JA: 味方単体に、戦闘不能になったとき
+一度だけ最大HPの<skl_boostcol>50</skl_boostcol>%で
+復活する効果を付与
+EN: Grant an effect that allows an ally to recover with <skl_boostcol>50</skl_boostcol>% of their max. HP upon being incapacitated (one time only).
+BEFORE: يمنح حليفًا واحدًا تأثيرًا للنهوض مرة واحدة بنسبة <skl_boostcol>50</skl_boostcol>% من الحد الأقصى لنقاط الصحة عند فقدان القدرة على القتال
+AFTER: يمنح حليفًا واحدًا تأثيرًا للبعث مرة واحدة
+بنسبة <skl_boostcol>50</skl_boostcol>% من الحد الأقصى لنقاط الصحة
+عند فقدان القدرة على القتال.
+REASON: Changed 'للنهوض' to 'للبعث' for better RPG term consistency, and preserved line breaks.
+
+=== 152051 ===
+JA: 味方単体に、戦闘不能になったとき
+一度だけ最大HPの<skl_boostcol>75</skl_boostcol>%で
+復活する効果を付与
+EN: Grant an effect that allows an ally to recover with <skl_boostcol>75</skl_boostcol>% of their max. HP upon being incapacitated (one time only).
+BEFORE: يمنح حليفًا واحدًا تأثيرًا للنهوض مرة واحدة بنسبة <skl_boostcol>75</skl_boostcol>% من الحد الأقصى لنقاط الصحة عند فقدان القدرة على القتال
+AFTER: يمنح حليفًا واحدًا تأثيرًا للبعث مرة واحدة
+بنسبة <skl_boostcol>75</skl_boostcol>% من الحد الأقصى لنقاط الصحة
+عند فقدان القدرة على القتال.
+REASON: Changed 'للنهوض' to 'للبعث' for better RPG term consistency, and preserved line breaks.
+
+=== 152152 ===
+JA: ……クールだ
+EN: ...It's go time.
+BEFORE: ……رائع
+AFTER: ……حان وقت العمل.
+REASON: Changed to match the idiomatic English translation 'It's go time.' as per glossary, which is a better fit for the context than a literal 'Cool'.
+
+=== 152230 ===
+JA: 敵単体に剣で大ダメージを２回与える
+EN: Deal great sword damage to a foe 2 time(s).
+BEFORE: إلحاق ضرر كبير بالسيف على عدو واحد مرتين
+AFTER: إلحاق ضرر كبير بالسيف بهدف واحد مرتين
+REASON: Improved phrasing for consistency with similar lines.
+
+=== 152232 ===
+JA: 敵単体に剣で大ダメージを３回与える
+EN: Deal great sword damage to a foe 3 time(s).
+BEFORE: إلحاق ضرر كبير بالسيف بـ 3 مرات على عدو واحد
+AFTER: إلحاق ضرر كبير بالسيف بهدف واحد 3 مرات
+REASON: Removed awkward 'بـ' and improved phrasing for consistency.
+
+=== 152233 ===
+JA: 敵単体に
+剣でダメージを３～５回与える
+EN: Deal sword damage to a foe 3 to 5 time(s).
+BEFORE: يلحق ضررًا بخصم واحد من 3 إلى 5 مرات بالسيف
+AFTER: إلحاق ضرر بالسيف بهدف واحد
+من 3 إلى 5 مرات
+REASON: Changed verb to verbal noun for skill description consistency and preserved line break.
+
+=== 152248 ===
+JA: 敵単体に槍で
+クリティカルが発生しやすい
+ダメージを与える
+EN: More easily land critical polearm hits on a foe.
+BEFORE: إلحاق ضرر يسهل حدوث ضربة حرجة بهجوم رمح على عدو واحد
+AFTER: إلحاق ضرر بالرمح على عدو واحد،
+يسهل معه حدوث ضربة حرجة.
+REASON: Preserved line break, rephrased for naturalness and accuracy, and used 'عدو' for consistency.
+
+=== 152249 ===
+JA: 敵単体に槍で
+クリティカルダメージを与える
+EN: Deal critical polearm damage to a foe.
+BEFORE: إلحاق ضرر حرج بهدف واحد بالرمح
+AFTER: إلحاق ضرر حرج بالرمح
+على عدو واحد.
+REASON: Preserved line break and reordered for better flow, used 'عدو' for consistency.
+
+=== 152258 ===
+JA: ランダムなターゲットに
+槍でダメージを５～10回与える
+EN: Deal polearm damage to random foes 5 to 10 time(s).
+BEFORE: يلحق ضررًا بـ 5 إلى 10 مرات باستخدام الرمح على هدف عشوائي
+AFTER: إلحاق ضرر بالرمح على أهداف عشوائية
+5 إلى 10 مرات.
+REASON: Changed to verbal noun for consistency, corrected number agreement from singular 'هدف عشوائي' to plural 'أهداف عشوائية', and preserved line break.
+
+=== 152260 ===
+JA: ランダムなターゲットに
+槍でダメージを３～５回与える
+EN: Deal polearm damage to random foes 3 to 5 time(s).
+BEFORE: يلحق ضررًا بـ 3 إلى 5 مرات باستخدام الرمح على هدف عشوائي
+AFTER: إلحاق ضرر بالرمح على أهداف عشوائية
+3 إلى 5 مرات.
+REASON: Changed to verbal noun for consistency, corrected number agreement from singular 'هدف عشوائي' to plural 'أهداف عشوائية', and preserved line break.
+
+=== 152264 ===
+JA: 敵単体に短剣で大ダメージを与える
+後衛から出てきて攻撃すると
+威力アップ
+EN: Deal great dagger damage to a foe. More potent if attacking from the back row.
+BEFORE: يلحق ضررًا كبيرًا بهدف واحد باستخدام الخنجر.
+AFTER: إلحاق ضرر كبير بهدف واحد باستخدام الخنجر.
+تزداد قوته عند الهجوم من الصف الخلفي.
+REASON: Completed the translation, changed to verbal noun for consistency, and preserved line breaks.
+
+=== 152265 ===
+JA: 敵単体に短剣で大ダメージを与え、
+毒の効果を確率で2ターン付与する
+EN: Deal great dagger damage to a foe, and gain a chance to inflict poison for 2 turn(s).
+BEFORE: يلحق ضررًا كبيرًا بخصم واحد باستخدام خنجر،
+AFTER: إلحاق ضرر كبير بخصم واحد باستخدام خنجر،
+مع فرصة لتطبيق تأثير التسمم لمدة دورتين.
+REASON: Completed the translation, changed to verbal noun for consistency, and preserved line break.
+
+=== 152266 ===
+JA: 敵単体に短剣でダメージを２回与える
+与えたダメージの半分のHPを奪う
+EN: Deal dagger damage to a foe 2 time(s), and steal HP equal to 50% of damage dealt.
+BEFORE: إلحاق الضرر بخصم واحد مرتين باستخدام خنجر
+AFTER: إلحاق الضرر بخصم واحد مرتين باستخدام خنجر،
+واستنزاف نقاط صحة تعادل نصف الضرر الملحق.
+REASON: Completed the translation, used glossary term 'نقاط صحة', and preserved line break.
+
+=== 152267 ===
+JA: 敵単体に短剣でダメージを２回与える
+与えたダメージの５%分のSPを奪う
+EN: Deal dagger damage to a foe 2 time(s), and steal SP equal to 5% of damage dealt.
+BEFORE: إلحاق الضرر بخصم واحد مرتين باستخدام خنجر
+AFTER: إلحاق الضرر بخصم واحد مرتين باستخدام خنجر،
+واستنزاف نقاط مهارة تعادل 5% من الضرر الملحق.
+REASON: Completed the translation, used glossary term 'نقاط مهارة', and preserved line break.
+
+=== 152270 ===
+JA: 敵単体に短剣でダメージを４回与える
+反動で自身に最大HPの
+10％分のダメージを受ける
+EN: Deal dagger damage to a foe 4 time(s), and take damage equal to 10% of own max. HP.
+BEFORE: يلحق ضررًا بخصم واحد 4 مرات باستخدام الخنجر.
+AFTER: إلحاق الضرر بخصم واحد 4 مرات باستخدام الخنجر،
+وتلقي ضرر يعادل 10% من نقاط الصحة القصوى كارتداد.
+REASON: Completed the translation, changed to verbal noun for consistency, used glossary term 'نقاط الصحة', and preserved line breaks.
+
+=== 152271 ===
+JA: 敵単体に
+短剣で大ダメージを４回与える
+EN: Deal great dagger damage to a foe 4 time(s).
+BEFORE: يلحق ضررًا كبيرًا بالعدو الواحد 4 مرات باستخدام الخنجر
+AFTER: إلحاق ضرر كبير بالعدو الواحد
+4 مرات باستخدام الخنجر.
+REASON: Changed to verbal noun for consistency and preserved line break.
+
+=== 152276 ===
+JA: ランダムなターゲットに短剣で
+ダメージを３回与える
+クリティカル攻撃が発生しやすい
+EN: Deal dagger damage to random foes 3 time(s). Has an increased chance of being a critical hit.
+BEFORE: يلحق ضررًا 3 مرات بخنجر على هدف عشوائي
+AFTER: يلحق ضررًا 3 مرات بهدف عشوائي باستخدام الخنجر.
+تزداد فرصة وقوع ضربة حرجة.
+REASON: Missing second part of the skill description and `
+` preservation. Improved phrasing for better flow and consistency.
+
+=== 152277 ===
+JA: ランダムなターゲットに
+短剣で大ダメージを与える
+攻撃後、後衛と入れ替わる
+EN: Deal great dagger damage to random foes, then move to the back row.
+BEFORE: هجوم يلحق ضررًا كبيرًا بهدف عشوائي
+AFTER: يلحق ضررًا كبيرًا بهدف عشوائي باستخدام الخنجر.
+بعد الهجوم، ينتقل إلى الصف الخلفي.
+REASON: Missing second part of the skill description and `
+` preservation. Changed verb form for consistency and better flow.
+
+=== 152280 ===
+JA: 敵単体に斧でダメージを与える
+後衛から出てきて攻撃すると
+自身のHPを回復する
+EN: Deal axe damage to a foe. Restore own HP if attacking from the back row.
+BEFORE: يلحق الضرر بهدف واحد بالفأس.
+AFTER: يلحق الضرر بهدف واحد باستخدام الفأس.
+إذا هاجم من الصف الخلفي، يستعيد نقاط صحته.
+REASON: Missing second part of the skill description and `
+` preservation. Used glossary term for HP.
+
+=== 152285 ===
+JA: 敵単体に斧で大ダメージを与える
+自身の残りHPが多いほど威力アップ
+EN: Deal great axe damage to a foe. More potent the more HP you have left.
+BEFORE: يلحق ضررًا كبيرًا بهدف واحد باستخدام الفأس
+AFTER: يلحق ضررًا كبيرًا بهدف واحد باستخدام الفأس.
+تزداد قوته كلما زادت نقاط صحته المتبقية.
+REASON: Missing second part of the skill description and `
+` preservation. Used glossary term for HP.
+
+=== 152286 ===
+JA: 敵単体に斧でダメージを与える
+自身の残りHPが少ないほど大ダメージ
+EN: Deal axe damage to a foe. Deal more damage the less HP you have left.
+BEFORE: إلحاق الضرر بهدف واحد باستخدام الفأس
+AFTER: إلحاق الضرر بهدف واحد باستخدام الفأس.
+يزداد الضرر كلما قلت نقاط صحته المتبقية.
+REASON: Missing second part of the skill description and `
+` preservation. Used glossary term for HP.
+
+=== 152348 ===
+JA: 会心＋50アップ
+EN: Crit. +50
+BEFORE: زيادة الضربة القاضية +50
+AFTER: زيادة الضربة الحرجة +50
+REASON: Corrected terminology to match glossary: 'Critical' is 'ضربة حرجة', not 'الضربة القاضية'.
+
+=== 152377 ===
+JA: 装備者の会心を＋50する
+EN: Raise the equipped character's Crit. by 50.
+BEFORE: يزيد ضربة الحظ لمرتدي العتاد بمقدار +50
+AFTER: يزيد الضربة الحرجة لمرتدي العتاد بمقدار 50
+REASON: Used glossary term 'ضربة حرجة' for 'Crit.' and removed redundant '+' sign from the number.
+
+=== 152384 ===
+JA: ブレイク中の敵を攻撃するとき
+攻撃アビリティの威力アップ
+EN: Raise the potency of attacks against broken foes.
+BEFORE: عند مهاجمة عدو في حالة كسر
+AFTER: عند مهاجمة عدو في حالة كسر التوازن، تزداد قوة قدرات الهجوم.
+REASON: Incomplete translation; added the missing effect ('raise the potency of attacks') and used the full glossary term for 'Break'.
+
+=== 152422 ===
+JA: 盗公子エベルの技巧
+EN: Aeber's Artifice
+BEFORE: مهارة إيفل، الأمير اللص
+AFTER: مهارة إيبر، الأمير اللص
+REASON: Glossary compliance: 'Aeber' is 'إيبر' in the glossary, not 'إيفل'.
+
+=== 152430 ===
+JA: 敵単体に
+無属性の物理ダメージを与え、
+減らしたHPと同じ金額を獲得する
+EN: Deal non-elemental physical damage to a foe, and obtain leaves equal to the amount of damage dealt.
+BEFORE: إلحاق ضرر فيزيائي غير عنصري بهدف واحد من الأعداء، والحصول على مبلغ مساوٍ لنقاط الصحة التي تم إنقاصها
+AFTER: إلحاق ضرر فيزيائي غير عنصري بهدف واحد من الأعداء، والحصول على أوراق مساوية لنقاط الصحة التي تم إنقاصها
+REASON: Corrected 'مبلغ' to 'أوراق' (leaves) per glossary and rephrased for natural flow.
+
+=== 152477 ===
+JA: 自身に物攻/会心アップの効果を
+<skl_turn_count>付与する
+EN: Raise own Phys. Atk./Crit. for <skl_turn_count> turn(s).
+BEFORE: إلحاق تأثير زيادة الهجوم المادي/الضربة القاضية
+AFTER: يمنح نفسه تأثير زيادة الهجوم المادي/الضربة الحرجة لمدة <skl_turn_count> دورة.
+REASON: Completed the translation to include 'for <skl_turn_count> turn(s)', changed 'إلحاق' to 'يمنح' for better register, and used glossary term 'الضربة الحرجة' for 'Crit.'.
+
+=== 152527 ===
+JA: 敵単体から集金する
+EN: Collect leaves from a foe.
+BEFORE: جمع الأموال من هدف واحد
+AFTER: جمع الأوراق من هدف واحد
+REASON: Glossary compliance: 'leaves (currency)' is 'أوراق', not 'أموال'.
+
+=== 152533 ===
+JA: ブレイクでHP回復
+EN: Invigorating Break
+BEFORE: استعادة نقاط الصحة (HP) عند كسر الدفاع
+AFTER: استعادة نقاط الصحة (HP) عند كسر التوازن
+REASON: Glossary compliance: 'Break' translates to 'كسر التوازن'.
+
+=== 152534 ===
+JA: ブレイクでSP回復
+EN: Inspiriting Break
+BEFORE: استعادة نقاط المهارة (SP) عند كسر الدفاع
+AFTER: استعادة نقاط المهارة (SP) عند كسر التوازن
+REASON: Glossary compliance: 'Break' translates to 'كسر التوازن'.
+
+=== 152535 ===
+JA: ブレイクでBP回復
+EN: Boosting Break
+BEFORE: استعادة نقاط الطاقة (BP) عند كسر الدفاع
+AFTER: استعادة نقاط الطاقة (BP) عند كسر التوازن
+REASON: Glossary compliance: 'Break' translates to 'كسر التوازن'.
+
+=== 152552 ===
+JA: 装備者が敵をブレイクしたとき
+HPを回復する
+EN: Restore the equipped character's HP when breaking a foe.
+BEFORE: عندما يكسر المجهز العدو
+AFTER: عندما يكسر المجهز توازن العدو،
+يستعيد نقاط الصحة.
+REASON: Missing part of the Japanese source text was added. Glossary compliance for 'Break'. Preserved line break.
+
+=== 152553 ===
+JA: 装備者が敵をブレイクしたとき
+SPを回復する
+EN: Restore the equipped character's SP when breaking a foe.
+BEFORE: عندما يكسر المجهز العدو
+AFTER: عندما يكسر المجهز توازن العدو،
+يستعيد نقاط المهارة.
+REASON: Missing part of the Japanese source text was added. Glossary compliance for 'Break'. Preserved line break.
+
+=== 152554 ===
+JA: 装備者が敵をブレイクしたとき
+BPを１回復する
+EN: Restore the equipped character's BP by 1 when breaking a foe.
+BEFORE: عندما يكسر المجهز العدو
+AFTER: عندما يكسر المجهز توازن العدو،
+يستعيد نقطة طاقة واحدة.
+REASON: Missing part of the Japanese source text was added. Glossary compliance for 'Break'. Preserved line break.
+
+=== 152604 ===
+JA: 敵単体に槍でダメージを与え、
+敵がブレイク中ならブレイク復帰時の
+シールドを－１する効果を付与する
+EN: Deal polearm damage to a foe. If broken, lower Shield Points of target by 1 upon recovery.
+BEFORE: إلحاق الضرر بخصم واحد بالرمح،
+AFTER: إلحاق الضرر بخصم واحد بالرمح. إذا كان الخصم في حالة كسر التوازن، يمنح تأثيرًا يخفض درع الحماية الخاص به بمقدار 1 عند استعادة التوازن.
+REASON: Completed the translation; the original Arabic was incomplete and only covered the first clause of the Japanese sentence. Used glossary terms for 'Break' and 'Shield'.
+
+=== 152632 ===
+JA: 敵単体に物攻/属攻ダウンの効果を
+<skl_turn_count>付与する
+EN: Lower Phys. Atk./Elem. Atk. of a foe for <skl_turn_count> turn(s).
+BEFORE: يمنح هدفًا واحدًا من الأعداء تأثير خفض الهجوم المادي/العنصري لمدة <skl_turn_count>
+AFTER: يمنح هدفًا واحدًا من الأعداء تأثير خفض الهجوم الفيزيائي/السحري
+لمدة <skl_turn_count>
+REASON: Missing line break and glossary compliance for 'Phys. Atk./Elem. Atk.'.
+
+=== 152751 ===
+JA: 【訓練所】EXP獲得量を
+ほんの少し増やす
+※同種の効果は重複しない
+EN: [Training Ground] Marginally increases EXP obtained.
+*Effect is not cumulative.
+BEFORE: 【معسكر تدريب】 زيادة كمية
+AFTER: 【معسكر التدريب】زيادة كمية الخبرة المكتسبة بشكل طفيف
+※لا تتراكم التأثيرات من النوع نفسه.
+REASON: Completed the incomplete sentence to include 'EXP obtained' and 'marginally', used glossary term 'الخبرة', standardized 'معسكر تدريب' to 'معسكر التدريب', and added the missing disclaimer and line break.
+
+=== 152752 ===
+JA: 【訓練所】EXP獲得量を増やす
+※同種の効果は重複しない
+EN: [Training Ground] Increase EXP obtained.
+*Effect is not cumulative.
+BEFORE: 【معسكر تدريب】 زيادة كمية
+AFTER: 【معسكر التدريب】زيادة كمية الخبرة المكتسبة
+※لا تتراكم التأثيرات من النوع نفسه.
+REASON: Completed the incomplete sentence to include 'EXP obtained', used glossary term 'الخبرة', standardized 'معسكر تدريب' to 'معسكر التدريب', and added the missing disclaimer and line break.
+
+=== 152757 ===
+JA: 【畑】リーフで肥料を購入して
+畑の収穫量を増やすことができる
+※同種の効果は重複しない
+EN: [Fields] Use leaves to purchase fertilizer to increase the yield.
+*Effect is not cumulative.
+BEFORE: 【حقل】 يمكن زيادة كمية
+AFTER: 【حقل】 يمكن شراء السماد باستخدام الأوراق لزيادة محصول الحقل.
+*لا تتراكم التأثيرات من النوع نفسه.
+REASON: The original Arabic was incomplete. Translated the full effect description and the non-cumulative note. Used 'الأوراق' for 'leaves (currency)' as per glossary.
+
+=== 152758 ===
+JA: 【牧場】リーフで飼料を購入して
+牧場の収獲量を増やすことができる
+※同種の効果は重複しない
+EN: [Ranch] Use leaves to purchase fodder to increase the yield.
+*Effect is not cumulative.
+BEFORE: 【مزرعة】 يمكن زيادة كمية
+AFTER: 【مزرعة】 يمكن شراء العلف باستخدام الأوراق لزيادة محصول المزرعة.
+*لا تتراكم التأثيرات من النوع نفسه.
+REASON: The original Arabic was incomplete. Translated the full effect description and the non-cumulative note. Used 'الأوراق' for 'leaves (currency)' as per glossary.
+
+=== 152869 ===
+JA: 会心の矢
+EN: True Strike
+BEFORE: سهم الضربة القاضية
+AFTER: سهم الضربة الحرجة
+REASON: Changed 'الضربة القاضية' to 'الضربة الحرجة' for 'True Strike' to align with the glossary term 'ضربة حرجة' for 'Critical' and better reflect '会心' in a combat context.
+
+=== 153134 ===
+JA: 敵単体に杖でダメージを２回与える
+与えたダメージの10％分のSPを回復
+EN: Deal staff damage to a foe 2 time(s), and restore SP equal to 10% of damage dealt.
+BEFORE: يلحق ضررًا بالعدو الواحد مرتين باستخدام العصا
+AFTER: يلحق ضررًا بالعدو الواحد مرتين باستخدام العصا، ويستعيد نقاط المهارة بنسبة 10% من الضرر الذي ألحقه.
+REASON: The original translation was incomplete, missing the second part of the effect: 'and restore SP equal to 10% of damage dealt'. Used glossary term 'نقاط المهارة' for SP.
+
+=== 153151 ===
+JA: 装備者が後衛にいるとき
+装備者の前衛は25%の確率で
+BPを消費しない
+EN: When the equipped character is in the back row, they will have a 25% chance to reduce paired ally's BP consumption to 0.
+BEFORE: عندما يكون المجهز في الصف الخلفي،
+AFTER: عندما يكون المجهز في الصف الخلفي، يكون لدى الصف الأمامي للمجهز فرصة 25% لعدم استهلاك نقاط الطاقة.
+REASON: The original translation was incomplete, missing the effect: 'they will have a 25% chance to reduce paired ally's BP consumption to 0'. Used glossary term 'نقاط الطاقة' for BP.
+
+=== 153159 ===
+JA: 装備者がアビリティで
+HP自動回復を付与したとき
+対象にSP自動回復の効果を
+<skl_turn_count>付与する
+EN: When the equipped character grants HP regeneration with a skill, grant SP regeneration to the target for <skl_turn_count> turn(s).
+BEFORE: عندما يمنح مرتدي العتاد تأثير الاستشفاء التلقائي لنقاط الصحة
+AFTER: عندما يمنح مرتدي العتاد تأثير الاستشفاء التلقائي لنقاط الصحة بالقدرة، يمنح الهدف تأثير الاستعادة التلقائية لنقاط المهارة لمدة <skl_turn_count>.
+REASON: The original translation was incomplete, missing the second part of the effect: 'grant SP regeneration to the target for <skl_turn_count> turn(s)'. Used glossary term 'نقاط المهارة' for SP.
+
+=== 153181 ===
+JA: バトル終了時の獲得金額（➓）が増加
+※複数人で効果は重複しない
+EN: Receive additional leaves (➓) at the end of battle. (The effect is not cumulative.)
+BEFORE: تزداد الأموال المكتسبة عند نهاية المعركة (➓)
+AFTER: تزداد الأوراق المكتسبة عند نهاية المعركة (➓)
+※ لا يتراكم التأثير عند وجود عدة أشخاص.
+REASON: Used glossary term 'أوراق' for 'leaves (currency)', completed the translation for the second part of the sentence, and added missing line break.
+
+=== 153186 ===
+JA: ランダムなターゲットに
+光属性のダメージを３回与える
+EN: Deal light damage to random foes 3 time(s).
+BEFORE: إلحاق ضرر من عنصر الضوء 3 مرات بهدف عشوائي
+AFTER: يلحق ضررًا من عنصر الضوء 3 مرات بهدف عشوائي.
+REASON: Changed verbal noun 'إلحاق ضرر' to active verb 'يلحق ضررًا' for better flow and consistency.
+
+=== 153189 ===
+JA: ランダムなターゲットに
+光属性のダメージを４回与える
+EN: Deal light damage to random foes 4 time(s).
+BEFORE: إلحاق ضرر من عنصر الضوء 4 مرات بهدف عشوائي
+AFTER: يلحق ضررًا من عنصر الضوء 4 مرات بهدف عشوائي.
+REASON: Changed verbal noun 'إلحاق ضرر' to active verb 'يلحق ضررًا' for better flow and consistency.
+
+=== 153191 ===
+JA: ランダムなターゲットに
+剣で大ダメージを<skl_exec_count>回与える
+ブーストLvが高いほど攻撃回数が増加
+EN: Deal great sword damage to random foes <skl_exec_count> time(s). Attack count increases based on Boost Lv.
+BEFORE: إلحاق ضرر كبير بالسيف <skl_exec_count> مرات بهدف عشوائي، وتزداد عدد مرات الهجوم كلما ارتفع مستوى التعزيز
+AFTER: يلحق ضررًا كبيرًا بالسيف <skl_exec_count> مرات بهدف عشوائي،
+وتزداد عدد مرات الهجوم كلما ارتفع مستوى التعزيز.
+REASON: Changed verbal noun 'إلحاق ضرر' to active verb 'يلحق ضررًا' for better flow and consistency, and added missing line break.
+
+=== 153192 ===
+JA: ブレイク中の敵に
+クリティカルが発生しやすくなる
+EN: More easily land critical hits on broken foes.
+BEFORE: زيادة احتمالية حدوث ضربة حرجة للأعداء في حالة كسر (Break)
+AFTER: تزداد احتمالية حدوث ضربة حرجة للأعداء في حالة كسر التوازن.
+REASON: Changed verbal noun to active verb and used glossary term 'كسر التوازن' for 'Break'.
+
+=== 153195 ===
+JA: 装備者がBPを使用して
+敵をブレイクしたとき
+BPを消費しない
+EN: The equipped character will consume no BP when breaking a foe.
+BEFORE: عند قيام المجهز باستخدام نقاط الطاقة (BP) لكسر العدو، لا يتم استهلاك نقاط الطاقة (BP)
+AFTER: عندما يستخدم المجهز نقاط الطاقة (BP) لكسر توازن العدو،
+لا يستهلك نقاط الطاقة (BP).
+REASON: Improved phrasing for naturalness, changed passive voice to active, used glossary term 'كسر توازن', and added missing line break.
+
+=== 153349 ===
+JA: 装備者が敵の攻撃を受けたとき
+25%の確率でBPを１回復する
+EN: The equipped character will have a 25% chance to restore 1 BP when attacked.
+BEFORE: عند تعرض المجهز لهجوم من العدو
+AFTER: عند تعرض المجهز لهجوم من العدو، هناك فرصة 25% لاستعادة نقطة طاقة واحدة.
+REASON: The original Arabic was an incomplete translation, missing the '25% chance to restore 1 BP' part. Used 'نقاط طاقة' for BP as per glossary.
+
+=== 153353 ===
+JA: 敵単体に戦闘終了時の獲得経験値と
+獲得金額が増加する効果を付与する
+EN: Target foe provides additional EXP and leaves at the end of battle.
+BEFORE: يمنح تأثيرًا يزيد من نقاط الخبرة والمبلغ المكتسب عند نهاية المعركة على عدو واحد.
+AFTER: يمنح عدوًا واحدًا تأثيرًا يزيد من نقاط الخبرة والأوراق المكتسبة عند نهاية المعركة.
+REASON: Changed 'المبلغ المكتسب' to 'الأوراق المكتسبة' as 'leaves' (currency) is 'أوراق' in the glossary. Rephrased for better flow.
+
+=== 153357 ===
+JA: 「たたかう」で攻撃したとき
+ダメージ１%分のSPを回復する
+EN: Restore SP equal to 1% of damage dealt when using "Attack."
+BEFORE: عند الهجوم باستخدام "قتال"
+AFTER: عند الهجوم باستخدام "قتال"، تُستعاد نقاط المهارة بنسبة 1% من الضرر الذي أُلحق.
+REASON: The original Arabic was an incomplete translation, missing the 'restore SP equal to 1% of damage dealt' part. Used 'نقاط المهارة' for SP as per glossary.
+
+=== 153359 ===
+JA: ブレイク中の敵を攻撃するとき
+複数回攻撃アビリティの威力アップ
+EN: Raise the potency of multiple-hit attacks against broken foes.
+BEFORE: عند مهاجمة عدو في حالة كسر
+AFTER: عند مهاجمة عدو في حالة كسر التوازن، تزداد قوة قدرات الهجوم المتعدد.
+REASON: The original Arabic was an incomplete translation, missing the 'raise the potency of multiple-hit attacks' part. Used 'كسر التوازن' for 'Break' as per glossary.
+
+=== 153422 ===
+JA: 味方単体のHPを回復する
+EN: Restore HP of an ally.
+BEFORE: يستعيد نقاط حياة (HP) هدف واحد من الحلفاء.
+AFTER: يستعيد نقاط الصحة لهدف واحد من الحلفاء.
+REASON: Used glossary term 'نقاط الصحة' for HP instead of 'نقاط حياة (HP)'.
+
+=== 153432 ===
+JA: 装備者のHP/SPが回復するときの
+回復量が増加する
+EN: Raise the amount of HP/SP restored by the equipped character.
+BEFORE: تزداد كمية الاستشفاء
+AFTER: تزداد كمية نقاط الصحة/نقاط المهارة التي يستعيدها المرتدي.
+REASON: Incomplete translation; missed specifying HP/SP and 'by the equipped character'. Corrected SP term to 'نقاط المهارة' per glossary.
+
+=== 153444 ===
+JA: 味方前衛もしくは後衛全体の
+HPを回復する
+EN: Restore HP of the entire front row or entire back row.
+BEFORE: يستعيد نقاط حياة (HP)
+AFTER: يستعيد نقاط الصحة لجميع أفراد الخط الأمامي أو الخلفي من الحلفاء.
+REASON: Incomplete translation; missing the target ('entire front row or entire back row'). Used glossary term 'نقاط الصحة' for HP.
+
+=== 153448 ===
+JA: 味方前衛もしくは後衛全体の
+HPを大回復する
+EN: Greatly restore HP of the entire front row or entire back row.
+BEFORE: يستعيد نقاط حياة (HP) بشكل كبير
+AFTER: يستعيد نقاط الصحة بشكل كبير لجميع أفراد الخط الأمامي أو الخلفي من الحلفاء.
+REASON: Incomplete translation; missing the target ('entire front row or entire back row'). Used glossary term 'نقاط الصحة' for HP.
+
+=== 153453 ===
+JA: 装備者がステータスアップ効果を
+受けるとき、ターン数を１増加する
+EN: When the equipped character is granted an attribute-raising effect, extend duration by 1 turn.
+BEFORE: عندما يتلقى المجهز تأثير زيادة الإحصائيات، تزداد عدد الأدوار بمقدار 1
+AFTER: عندما يتلقى المجهز تأثير زيادة الإحصائيات، يزداد عدد الأدوار بمقدار 1.
+REASON: Subject-verb agreement: 'يزداد' (masculine) for 'عدد' (masculine) instead of 'تزداد'.
+

@@ -1,0 +1,499 @@
+=== 93466 ===
+JA: 全ては妾の虜じゃ！
+EN: All bow to me!
+BEFORE: كل شيء هو أسيرُ سموي!
+AFTER: كل شيء هو أسيري!
+REASON: Changed 'أسيرُ سموي' to 'أسيري' for a more direct and less formal translation of 'my captive', aligning with the 'grittier' tone.
+
+=== 93569 ===
+JA: 気張っていくぞ！
+EN: Let's go!
+BEFORE: ...حان وقت العمل.
+AFTER: لننطلق!
+REASON: Removed leading ellipsis not present in source. Changed to 'لننطلق!' for a more energetic and direct translation of 'Let's go!'/'気張っていくぞ！' compared to the more formal 'حان وقت العمل'.
+
+=== 93570 ===
+JA: 逝っちまいな～！
+EN: See ya!
+BEFORE: مت..!
+AFTER: مت!
+REASON: Removed trailing dots as the Japanese '～！' indicates a prolonged sound, not an ellipsis.
+
+=== 93579 ===
+JA: 鉄腕鋼胴
+EN: Arms of Steel
+BEFORE: درع الفولاذ ذو الذراع الحديدية
+AFTER: الجسد الفولاذي
+REASON: Mistranslation of 鋼胴 (torso) as "درع" (shield). "الجسد الفولاذي" is a more accurate and concise skill name for "Arms of Steel" that encompasses both "iron arm" and "steel torso".
+
+=== 93635 ===
+JA: <skl_user_name>は大きく身構えた！
+EN: <skl_user_name> stands ready!
+BEFORE: اتخذ <skl_user_name> وضعية الدفاع بقوة!
+AFTER: تأهب <skl_user_name> بقوة!
+REASON: «اتخذ وضعية الدفاع بقوة» is a bit verbose and specific. «تأهب بقوة» (braced strongly/stood ready strongly) is more concise and closer to the nuance of «身構えた» and «stands ready».
+
+=== 93903 ===
+JA: 剛絶剣
+EN: Stalwart Strike
+BEFORE: سيف الصلابة المطلقة
+AFTER: ضربة صلبة مطلقة
+REASON: The original Arabic translated '剣' (blade/sword) as 'سيف', but the English 'Stalwart Strike' implies an action. Changed to 'ضربة' (strike) to align with the English interpretation of the skill name, while retaining 'مطلقة' for '剛絶'.
+
+=== 93911 ===
+JA: <skl_user_name>はうごめいている……
+EN: <skl_user_name> writhes...
+BEFORE: <skl_user_name> يتلوى من الألم……
+AFTER: <skl_user_name> يتلوى……
+REASON: Removed the unstated addition 'من الألم' (from pain) to be more faithful to the Japanese and English source, which simply state 'writhes'.
+
+=== 94029 ===
+JA: 幽美の剣
+EN: Ghostly Blade
+BEFORE: سيف الجمال الخفي
+AFTER: سيف شبحي
+REASON: The original 'سيف الجمال الخفي' is a bit verbose and doesn't directly convey 'Ghostly' as well as 'سيف شبحي' (ghostly blade), which is a more direct translation of 'Ghostly Blade' and the '幽' in '幽美の剣'.
+
+=== 94198 ===
+JA: 瞬身の構え
+EN: Swift Stance
+BEFORE: وضعية الجسد الخاطف
+AFTER: وضعية سريعة
+REASON: More concise and natural translation for 'Swift Stance', aligning with the 'grounded, natural' tone.
+
+=== 94200 ===
+JA: 怨嗟の嵐刺突
+EN: Storm of Rancour
+BEFORE: طعنة عاصفة الحقد
+AFTER: عاصفة الحقد
+REASON: Simplified to 'عاصفة الحقد' to directly match the English 'Storm of Rancour' and improve conciseness for a skill name.
+
+=== 94201 ===
+JA: 怨嗟四連
+EN: Fourfold Rancour
+BEFORE: أربع طعنات حقد متتالية
+AFTER: الحقد الرباعي
+REASON: More concise and direct translation 'الحقد الرباعي' for 'Fourfold Rancour', suitable for a skill name.
+
+=== 94653 ===
+JA: 威圧
+EN: Oppression
+BEFORE: إرهاب
+AFTER: قمع
+REASON: Changed 'إرهاب' (intimidation/terrorism) to 'قمع' (suppression/oppression) for 'Oppression' to better fit the game's context and avoid real-world connotations, aligning with the usage of 'قمع' for 'Suppression' in a subsequent line.
+
+=== 94655 ===
+JA: 迅雷風烈
+EN: Stormwind
+BEFORE: رعد الرياح الخاطف
+AFTER: عاصفة رعدية
+REASON: Changed 'رعد الرياح الخاطف' to 'عاصفة رعدية' for 'Stormwind' to be more natural and concise in Arabic, reflecting the meaning of '迅雷風烈' (fierce storm).
+
+=== 95093 ===
+JA: 黒葬送
+EN: Dark Burial
+BEFORE: إرسال الجنازة السوداء
+AFTER: دفن أسود
+REASON: The original Arabic 'إرسال الجنازة السوداء' was a literal and clunky translation of 'sending the funeral'. 'دفن أسود' (Black Burial) is more concise and natural for a skill name.
+
+=== 95135 ===
+JA: 麻痺の大顎
+EN: Paralyzing Jaws
+BEFORE: الفك السفلي المشل
+AFTER: الفك المشل
+REASON: Mistranslation of 'Paralyzing Jaws' as 'الفك السفلي المشل' (The Paralyzed Lower Jaw). This implied the jaw itself was paralyzed, not that it causes paralysis, and '大顎' means 'large jaw', not specifically 'lower jaw'. 'الفك المشل' (The Paralyzing Jaw) is accurate.
+
+=== 95163 ===
+JA: たくわえる
+EN: Gather
+BEFORE: التخزين
+AFTER: تجميع
+REASON: More active and accurate translation for 'Gather' as a skill name.
+
+=== 95168 ===
+JA: 三連斬
+EN: Trifold Slash
+BEFORE: الضربات الثلاث المتتالية
+AFTER: القطع الثلاثي
+REASON: More concise and direct translation for a skill name, matching 'Trifold Slash'.
+
+=== 95176 ===
+JA: かまいたち
+EN: Thousand Scythes
+BEFORE: إعصار الرياح
+AFTER: ألف منجل
+REASON: More accurately reflects 'Thousand Scythes' as a skill name.
+
+=== 95189 ===
+JA: 黒呪・月輪
+EN: Cursed Full Moon
+BEFORE: لعنة السواد· هالة القمر
+AFTER: لعنة السواد· البدر
+REASON: 'البدر' (full moon) is a more accurate translation for 'Full Moon' than 'هالة القمر' (lunar halo).
+
+=== 95197 ===
+JA: 精神汚染の粉
+EN: Mindrot Powder
+BEFORE: مسحوق التلوث الروحي
+AFTER: مسحوق تلف العقل
+REASON: Replaced 'التلوث الروحي' (spiritual pollution) with 'تلف العقل' (mind rot/decay) to better match English 'Mindrot Powder' and Japanese '精神汚染' (mental pollution).
+
+=== 95273 ===
+JA: <skl_user_name>は大きく身構えた！
+EN: <skl_user_name> stands ready!
+BEFORE: اتخذت <skl_user_name> وضعية الدفاع بقوة!
+AFTER: استعد <skl_user_name>!
+REASON: Changed feminine verb 'اتخذت' to masculine 'استعد' as the generic default for the placeholder '<skl_user_name>' (which can be male or female). Simplified 'وضعية الدفاع بقوة' to 'استعد' for conciseness, matching 'stands ready'.
+
+=== 95288 ===
+JA: 大足払い
+EN: Wide Leg Sweep
+BEFORE: ركلة القدم الكبيرة
+AFTER: مسحة قدم واسعة
+REASON: Replaced 'ركلة القدم الكبيرة' (big foot kick) with 'مسحة قدم واسعة' (wide leg sweep) to accurately reflect 'Leg Sweep' in the English and Japanese source.
+
+=== 95891 ===
+JA: 寵愛の祈掌
+EN: Affectionate Prayer
+BEFORE: ضربة اليد للصلاة بالرعاية
+AFTER: صلاة الرعاية
+REASON: Simplified the verbose 'ضربة اليد للصلاة بالرعاية' to 'صلاة الرعاية' for better conciseness and naturalness as a skill name, aligning with the English 'Affectionate Prayer' while still capturing the essence of the Japanese '寵愛の祈'.
+
+=== 95893 ===
+JA: 無我無心
+EN: Selfless Spirit
+BEFORE: انعدام الذات والقلب
+AFTER: روح التضحية
+REASON: Changed 'انعدام الذات والقلب' to 'روح التضحية' for better register and naturalness as a skill name, aligning with 'Selfless Spirit'.
+
+=== 96155 ===
+JA: 雷公烈風
+EN: Thundersquall
+BEFORE: ريح رعد إله الرعد
+AFTER: عاصفة رعدية
+REASON: عاصفة رعدية (thunderstorm/thundersquall) is a more concise and natural translation of Thundersquall than ريح رعد إله الرعد, which is redundant and clunky.
+
+=== 96171 ===
+JA: 天獄頭刀
+EN: Skyfire
+BEFORE: سيف قمة الجحيم
+AFTER: نار السماء
+REASON: نار السماء (Skyfire) is a direct and accurate translation of the English Skyfire, which is the official localized name for the skill. The previous Arabic was a literal interpretation of the Japanese kanji that did not match the English.
+
+=== 96172 ===
+JA: 絶縁大合掌
+EN: Hands of Isolation
+BEFORE: التحام العزل الكبير
+AFTER: أيدي العزلة
+REASON: أيدي العزلة (Hands of Isolation) is a more accurate and natural translation of Hands of Isolation, directly reflecting the 'hands' aspect of 合掌 and the 'isolation' of 絶縁. التحام العزل الكبير was less precise.
+
+=== 96238 ===
+JA: ぶっ飛ばし
+EN: Knock Down
+BEFORE: طرد بعيداً
+AFTER: إسقاط
+REASON: «طرد بعيداً» (expel far away) doesn't fully capture «Knock Down» (make fall). «إسقاط» (knocking down/felling) is more accurate.
+
+=== 96242 ===
+JA: 天裁
+EN: Divine Judgment
+BEFORE: الموهبة الفائقة
+AFTER: حكم إلهي
+REASON: «الموهبة الفائقة» (superior talent) is a mistranslation of «天裁» (divine judgment). «حكم إلهي» is the correct translation.
+
+=== 152156 ===
+JA: 十文字斬り
+EN: Cross Strike
+BEFORE: ضربة علامة الترس
+AFTER: ضربة الصليب
+REASON: The original 'ضربة علامة الترس' (Strike of the Shield Mark) was a mistranslation of '十文字' (cross-shaped). Changed to 'ضربة الصليب' (Cross Strike).
+
+=== 152171 ===
+JA: 荒鷲斬り
+EN: Talon Strike
+BEFORE: ضرب العقاب الهائج
+AFTER: ضربة المخلب
+REASON: `ضرب العقاب الهائج` is verbose. `ضربة المخلب` (Talon Strike) is a more concise and direct translation of 'Talon Strike'.
+
+=== 152178 ===
+JA: 急所突き
+EN: Deadly Thrust
+BEFORE: طعنة النقطة القاتلة
+AFTER: طعنة قاتلة
+REASON: `طعنة النقطة القاتلة` is verbose. `طعنة قاتلة` (Deadly Thrust) is more concise and natural.
+
+=== 152179 ===
+JA: 会心の槍
+EN: Piercing Thrust
+BEFORE: رمح الضربة القاضية
+AFTER: طعنة خارقة
+REASON: `رمح الضربة القاضية` is not an accurate translation of 'Piercing Thrust'. `طعنة خارقة` (Piercing Thrust) is direct and accurate.
+
+=== 152183 ===
+JA: 両足突き
+EN: Leg-Crippling Thrust
+BEFORE: طعنة بكلتا القدمين
+AFTER: طعنة تشل الساق
+REASON: `طعنة بكلتا القدمين` is a literal translation of the Japanese. The English 'Leg-Crippling Thrust' implies the *effect* of the skill, which the Arabic should reflect. `طعنة تشل الساق` (Leg-Crippling Thrust) is more accurate to the English.
+
+=== 152184 ===
+JA: 滅多突き
+EN: Crippling Thrust
+BEFORE: الطعنة المتقطعة
+AFTER: طعنة معوقة
+REASON: `الطعنة المتقطعة` does not accurately convey 'Crippling Thrust'. `طعنة معوقة` (Crippling Thrust) is a direct translation of the English.
+
+=== 152186 ===
+JA: 弧旋月
+EN: Lunar Arc
+BEFORE: هلال الدوران
+AFTER: قوس قمري
+REASON: `هلال الدوران` is a bit literal and 'crescent of rotation' doesn't quite match 'Lunar Arc'. `قوس قمري` (Lunar Arc) is a more direct translation.
+
+=== 152187 ===
+JA: 大回転槍
+EN: Spear Whirl
+BEFORE: رمح الدوران الكبير
+AFTER: دوامة الرمح
+REASON: `رمح الدوران الكبير` is a literal translation. `دوامة الرمح` (Spear Whirlwind) is more concise and captures the 'whirl' aspect of 'Spear Whirl'.
+
+=== 152188 ===
+JA: 千本槍
+EN: Thousand Spears
+BEFORE: رمح الألف نصل
+AFTER: ألف رمح
+REASON: `نصل` (blade) is a mistranslation of `槍` (spear). `ألف رمح` is the correct translation for 'Thousand Spears'.
+
+=== 152189 ===
+JA: むんっ！むんっ！むんっ！
+EN: Hya! Hya! Hya!
+BEFORE: مُنّ! مُنّ! مُنّ!
+AFTER: ها! ها! ها!
+REASON: `مُنّ!` is a verb meaning 'grant!' or 'bestow!' and is a mistranslation of the onomatopoeia `むんっ！`. `ها!` is a more appropriate sound of exertion. Diacritics removed as per style guide.
+
+=== 152195 ===
+JA: 蛇毒牙
+EN: Serpent's Fang
+BEFORE: ناب سم الأفعى
+AFTER: ناب الأفعى
+REASON: `ناب سم الأفعى` is verbose. `ناب الأفعى` (Serpent's Fang) is a more concise and natural translation of 'Serpent's Fang'.
+
+=== 152223 ===
+JA: 大斬鳴動
+EN: Thundering Cleave
+BEFORE: اهتزاز القطع الكبير
+AFTER: القطع المدوّي
+REASON: Replaced 'اهتزاز' with 'المدوّي' for a more accurate translation of 'Thundering'.
+
+=== 152456 ===
+JA: 受け流し
+EN: Parry
+BEFORE: صدّ الانزلاق
+AFTER: صدّ
+REASON: Simplified 'صدّ الانزلاق' to 'صدّ' for direct translation of 'Parry' and better naturalness.
+
+=== 152458 ===
+JA: 妖霧の舞
+EN: Dance of Mist
+BEFORE: رقصة الضباب الشيطاني
+AFTER: رقصة الضباب
+REASON: Removed 'الشيطاني' from 'رقصة الضباب الشيطاني' to better match 'Dance of Mist' and avoid over-translation of '妖'.
+
+=== 152489 ===
+JA: 突撃
+EN: Assault
+BEFORE: هجوم خاطف
+AFTER: اندفاع
+REASON: Register/Accuracy: 'هجوم خاطف' (swift attack) is less direct than 'اندفاع' (charge/rush) for 'Assault'.
+
+=== 152492 ===
+JA: さみだれ矢
+EN: Rain of Arrows
+BEFORE: سهم المطر المتساقط
+AFTER: وابل السهام
+REASON: Accuracy: 'سهم المطر المتساقط' (arrow of falling rain) is too literal and awkward for 'Rain of Arrows'. 'وابل السهام' (volley/rain of arrows) is more natural.
+
+=== 152500 ===
+JA: 復活手当
+EN: Vivify
+BEFORE: تعويض الإحياء
+AFTER: إنعاش
+REASON: Accuracy: 'تعويض الإحياء' (compensation for revival) is not accurate for 'Vivify' or '復活手当' (revival treatment). 'إنعاش' (revitalization/vivify) is a better fit.
+
+=== 152506 ===
+JA: 山嵐の舞
+EN: Porcupine Stomp
+BEFORE: رقصة عاصفة الجبل
+AFTER: رقصة النيص
+REASON: Mistranslation of `山嵐` (porcupine) based on `en_text`.
+
+=== 152581 ===
+JA: 彼岸蓮刃
+EN: Lotus Blade
+BEFORE: نصل لوتس الضفة الأخرى
+AFTER: نصل اللوتس
+REASON: Simplified 'نصل لوتس الضفة الأخرى' to 'نصل اللوتس' to match the English 'Lotus Blade' and align with the 'grounded' tone.
+
+=== 152582 ===
+JA: 豪盾踏み
+EN: Enervating Thrust
+BEFORE: سحق الدرع العظيم
+AFTER: طعنة الإضعاف
+REASON: Changed 'سحق الدرع العظيم' to 'طعنة الإضعاف' to better reflect 'Enervating Thrust'.
+
+=== 152679 ===
+JA: 交渉上手
+EN: Negotiator
+BEFORE: مهارة التفاوض
+AFTER: مفاوض
+REASON: The Japanese '交渉上手' (good at negotiation) and English 'Negotiator' refer to the person/role. The original Arabic 'مهارة التفاوض' means 'skill of negotiation'. Changed to 'مفاوض' (negotiator) to match the person/role.
+
+=== 152689 ===
+JA: 値切りの達人
+EN: Master Haggler
+BEFORE: خبير في المساومة
+AFTER: سيد المساومة
+REASON: The Japanese '達人' and English 'Master' imply a higher level of skill than 'خبير' (expert). Changed to 'سيد المساومة' (Master of Haggling) for a more accurate match.
+
+=== 152691 ===
+JA: 売り込みの達人
+EN: Master Salesman
+BEFORE: خبير في البيع
+AFTER: سيد البيع
+REASON: The Japanese '達人' and English 'Master' imply a higher level of skill than 'خبير' (expert). Changed to 'سيد البيع' (Master of Selling) for a more accurate match.
+
+=== 152693 ===
+JA: 交易の達人
+EN: Master Tradesman
+BEFORE: خبير في التجارة
+AFTER: سيد التجارة
+REASON: The Japanese '達人' and English 'Master' imply a higher level of skill than 'خبير' (expert). Changed to 'سيد التجارة' (Master of Trade) for a more accurate match.
+
+=== 152881 ===
+JA: どしゃぶり矢
+EN: Arrowstorm
+BEFORE: سهم المطر الغزير
+AFTER: وابل السهام
+REASON: Changed 'سهم المطر الغزير' to 'وابل السهام' for 'Arrowstorm' ('どしゃぶり矢') as it's a more idiomatic and accurate translation for a barrage/storm of arrows.
+
+=== 152886 ===
+JA: 属性防御破壊叩き
+EN: Elemental Bash
+BEFORE: ضربة تحطيم الدفاعات العنصرية
+AFTER: ضربة عنصرية
+REASON: Changed 'ضربة تحطيم الدفاعات العنصرية' to 'ضربة عنصرية'. The original was overly long and literal for 'Elemental Bash'; 'ضربة عنصرية' is more concise and natural.
+
+=== 152889 ===
+JA: 大往復ビンタ
+EN: Triple Slap
+BEFORE: صفعة متبادلة كبرى
+AFTER: صفعة ثلاثية
+REASON: Changed 'صفعة متبادلة كبرى' to 'صفعة ثلاثية'. Similar to the previous line, 'متبادلة' is incorrect. 'صفعة ثلاثية' is more accurate for 'Triple Slap' ('大往復ビンタ').
+
+=== 152915 ===
+JA: 丸くなる
+EN: Curl Up
+BEFORE: الانحناء
+AFTER: التكور
+REASON: The original 'الانحناء' (bending/bowing) is too general. 'التكور' (curling up/forming a ball) is a more precise translation for '丸くなる' (curl up).
+
+=== 152928 ===
+JA: 土竜の舞
+EN: Mole Dance
+BEFORE: رقصة دودة الأرض
+AFTER: رقصة الخلد
+REASON: Mistranslation: `土竜` (mogura) means 'mole', not 'earthworm' (`دودة الأرض`). Corrected to `الخلد`.
+
+=== 153029 ===
+JA: たまにBP消費しない
+EN: BP Luck
+BEFORE: لا يستهلك نقاط الطاقة أحياناً
+AFTER: حظ نقاط الطاقة
+REASON: The original Arabic was a description ('لا يستهلك نقاط الطاقة أحياناً') instead of a skill name. Changed to reflect the English localized skill name 'BP Luck'.
+
+=== 153033 ===
+JA: 骨休め
+EN: Recuperate
+BEFORE: راحة العظام
+AFTER: استشفاء
+REASON: The literal translation 'راحة العظام' (rest of bones) is less natural for a skill name than 'استشفاء' (recuperation), which aligns with the English 'Recuperate'.
+
+=== 153065 ===
+JA: 土竜の舞
+EN: Mole Dance
+BEFORE: رقصة دودة الأرض
+AFTER: رقصة الخلد
+REASON: Mistranslation: '土竜' (mogura) means 'mole', not 'earthworm'. Corrected to 'رقصة الخلد'.
+
+=== 153067 ===
+JA: 突風の詩
+EN: Song of Winds
+BEFORE: قصيدة الرياح الهابطة
+AFTER: قصيدة العاصفة
+REASON: Mistranslation: '突風' (toppū) means 'gust of wind' or 'squall', not 'descending winds'. Corrected to 'قصيدة العاصفة' for 'squall/gust'.
+
+=== 153245 ===
+JA: 雪辱の三矢
+EN: Avenging Triple Shot
+BEFORE: السهام الثلاثة للانتقام الثلجي
+AFTER: السهام الثلاثة للانتقام
+REASON: Mistranslation: 'الثلجي' (snowy) in 'السهام الثلاثة للانتقام الثلجي' is a false friend error for '雪辱' (vengeance/wiping out disgrace). Changed to 'السهام الثلاثة للانتقام' (Three Arrows of Vengeance).
+
+=== 153270 ===
+JA: たまにSP消費しない
+EN: SP Luck
+BEFORE: لا يستهلك نقاط المهارة أحيانًا
+AFTER: حظ نقاط المهارة
+REASON: Rephrased to be a concise skill name ('SP Luck') rather than a descriptive sentence, matching the English localization style.
+
+=== 153278 ===
+JA: ついでにたたかう
+EN: Incidental Attack
+BEFORE: القتال أثناء المرور
+AFTER: هجوم عرضي
+REASON: Made more concise and suitable as a skill name ('Incidental Attack') rather than a verbose description.
+
+=== 153289 ===
+JA: 状態異常回避アップ
+EN: Resist Ailments
+BEFORE: زيادة تجنب الحالات غير الطبيعية
+AFTER: مقاومة الأمراض
+REASON: Made more concise and suitable as a skill name ('Resist Ailments') rather than a verbose description.
+
+=== 153292 ===
+JA: 回復効果アップ
+EN: Heightened Healing
+BEFORE: زيادة تأثير الاستشفاء
+AFTER: شفاء معزز
+REASON: Made more concise and suitable as a skill name ('Heightened Healing') rather than a verbose description.
+
+=== 153293 ===
+JA: さみだれ矢
+EN: Rain of Arrows
+BEFORE: سهم المطر المتساقط
+AFTER: مطر السهام
+REASON: More natural and accurate translation for 'Rain of Arrows' than 'سهم المطر المتساقط'.
+
+=== 153298 ===
+JA: 会心の矢
+EN: True Strike
+BEFORE: سهم الضربة القاضية
+AFTER: سهم حاسم
+REASON: More accurately reflects 'True Strike' and the implication of a critical/decisive hit from the Japanese '会心の矢', rather than 'knockout blow'.
+
+=== 153300 ===
+JA: どしゃぶり矢
+EN: Arrowstorm
+BEFORE: سهم المطر الغزير
+AFTER: عاصفة السهام
+REASON: More concise and accurate translation for 'Arrowstorm' than 'سهم المطر الغزير'.
+
+=== 153454 ===
+JA: 装備者が最大HPを超える
+回復効果を受けたとき、
+最大HPを超えて回復する
+EN: Grants the equipped character the ability to be healed above their max. HP.
+BEFORE: عندما يتلقى المجهز تأثير علاج يتجاوز الحد الأقصى لنقاط الصحة، يتم العلاج بما يتجاوز الحد الأقصى لنقاط الصحة
+AFTER: عندما يتلقى المجهز تأثير شفاء يتجاوز الحد الأقصى لنقاط الصحة، يُشفى بما يتجاوزها
+REASON: Improved flow and conciseness, replaced 'علاج' with 'شفاء' for better gaming context, and clarified the pronoun reference.
+

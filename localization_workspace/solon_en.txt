@@ -1,0 +1,9 @@
+IDX 533 ID 10404042
+EN: Wise King Solon
+
+IDX 534 ID 10404043
+EN: When it is discovered that the secret meeting is a ruse to assassinate King Solon, <chara_name> hurries to the desert town of Sunshade with the swordsman El and fellow traveler Charles.
+
+IDX 536 ID 10405053
+EN: Edoras has annihilated Riven and threatens to consolidate its power. In the face of a powerful enemy, King Solon and the swordsman El are forced to fight...
+

@@ -1,0 +1,134 @@
+=== id 12799 ===
+JA: ウィッシュベール出身の女性。
+町が襲撃された悲劇を忘れたくて
+カランとシェパードロックに住んでいたが、
+<chara_name>たちと再会して
+故郷に戻ることを決意した。
+EN: A woman from Wishvale. Wanting to forget the attack on her hometown, she moved to Shepherds Rock with Karan. But after reuniting with <chara_name>, she has decided to return to Wishvale.
+BEFORE: امرأة من ويشفيل.
+GEMINI: امرأة من ويشفيل.
+رغبةً في نسيان مأساة هجوم بلدتها،
+عاشت في شيبرد روك مع كاران،
+ولكن بعد لم شملها مع <chara_name>،
+قررت العودة إلى مسقط رأسها.
+REASON: Missing three sentences and three line breaks from the Japanese source. Also ensured placeholder <chara_name> is preserved.
+
+=== id 13070 ===
+JA: 寡黙なボディガード
+EN: Taciturn Bodyguard
+BEFORE: حارس شخصي صامت.
+GEMINI: حارس شخصي كتوم.
+REASON: Improved vocabulary: 'كتوم' (taciturn, reserved) is a better fit for '寡黙な' than 'صامت' (silent), which implies not speaking at all.
+
+=== id 13088 ===
+JA: ドン・タヴィアーニの部下。
+かつては通りの旅行者にスリを働く悪ガキだったが、
+タヴィアーニに拾われてから心を入れ替えた。
+彼から盗んだ財布は今でも大事にとっているらしい。
+EN: One of Lord Taviani's subordinates. He often lightened the pockets of passersby on the street in his youth, but turned over a new leaf when Taviani took him in. Apparently, the wallet he stole from him is still quite dear to him today.
+BEFORE: أحد أتباع دون تافياني.
+GEMINI: أحد أتباع اللورد تافياني.
+كان في شبابه يسرق جيوب المارة في الشارع،
+لكنه غيّر حياته عندما تبناه تافياني.
+يبدو أن المحفظة التي سرقها منه لا تزال عزيزة عليه جداً حتى اليوم.
+REASON: Corrected for severe incompleteness; translated the full character description. Ensured glossary compliance for 'اللورد تافياني' and used appropriate line breaks.
+
+=== id 13258 ===
+JA: いつも軽口を叩いてバルジェロにたしなめられる、
+ファミリーのムードメーカー。
+下品な言葉遣いが多いが心根はまっすぐで、
+誰よりもファミリーのことを愛している。
+EN: The life of the Bargello family party who always has a joke at the ready and gets scolded for it in turn. Though his words may be crude, he has a heart of gold and loves his family more than anyone.
+BEFORE: هو الشخص الذي يضفي البهجة على العائلة، ودائمًا ما يلقي النكات التي تجعل بارجيلو يوبخه.
+GEMINI: هو الشخص الذي يضفي البهجة على العائلة، ودائمًا ما يلقي النكات التي تجعل بارجيلو يوبخه.
+على الرغم من أن كلامه غالبًا ما يكون فظًا، إلا أن قلبه طيب ومستقيم،
+ويحب عائلته أكثر من أي شخص آخر.
+REASON: Incomplete translation; missing sentences and line breaks from the Japanese source.
+
+=== id 13275 ===
+JA: いつも軽口を叩いてバルジェロにたしなめられる、
+ファミリーのムードメーカー。
+下品な言葉遣いが多いが心根はまっすぐで、
+誰よりもファミリーのことを愛している。
+最近は、暇を見つけてはシロブドウの丘に向かい、
+些末な日常を亡き親友たちに報告している。
+EN: The life of the Bargello family party who always has a joke at the ready and gets scolded for it in turn. Though his words may be crude, he has a heart of gold and loves his family more than anyone. Lately, he's been heading to White Grape Hill in his free time to tell his late parents and friends about his life.
+BEFORE: هو الشخص الذي يضفي البهجة على العائلة، وغالبًا ما يطلق النكات التي تجعل بارجيلو يوبخه.
+GEMINI: هو الشخص الذي يضفي البهجة على العائلة، ودائمًا ما يلقي النكات التي تجعل بارجيلو يوبخه.
+على الرغم من أن كلامه غالبًا ما يكون فظًا، إلا أن قلبه طيب ومستقيم،
+ويحب عائلته أكثر من أي شخص آخر.
+مؤخرًا، كلما وجد وقت فراغ، يتوجه إلى تل العنب الأبيض،
+ويخبر أصدقاءه المقربين الراحلين عن تفاصيل حياته اليومية.
+REASON: Incomplete translation; missing sentences and line breaks from the Japanese source. Also corrected 'غالبًا' to 'دائمًا' for 'always'.
+
+=== id 13496 ===
+JA: シアトポリスの劇場で役者をしていた男。
+持ち前の演技力で準主役にまで上り詰めたが、
+その舞台で劇作家にひどく罵られてしまう。
+傷心のあまり、この町で“粉”に手を出し、名声を失った。
+かつての舞台衣装もなくしてしまったようだ。
+EN: A man who once worked as an actor onstage in Theatropolis. His natural talents helped him become something of a lead, but he was reviled by the playwright. In his frustration, he turned to powder, which cost him his reputation. It seems he's also accidentally misplaced his old stage costume.
+BEFORE: رجل كان يعمل ممثلاً في مسرح سياتوبوليس.
+GEMINI: رجل كان يعمل ممثلاً في مسرح سياتوبوليس. ساعدته مواهبه الطبيعية على أن يصبح شبه بطل، لكن الكاتب المسرحي وبّخه بشدة على خشبة المسرح. من شدة إحباطه، لجأ إلى 'المسحوق' في هذه المدينة، مما كلفه سمعته. ويبدو أنه أضاع أيضًا زيّه المسرحي القديم.
+REASON: Incomplete translation; the original Arabic only translated the first clause of the description. Completed the translation to match the full Japanese and English source, including transliteration of 'Theatropolis' as 'سياتوبوليس'.
+
+=== id 13530 ===
+JA: うつろな目をした若い女性。
+ボロ布に身を包んでいるが、よく見ると美しい。
+失恋をきっかけに“粉”に手を出してしまったが、
+実は今ではやっていない。
+隣の男性と一緒にいるために、フリをしているだけだ。
+EN: A young woman with hollow eyes. Though dressed in rags, she is quite beautiful. After having her heart broken, she turned to powder, but no longer indulges in it. She merely pretends to so she can be with the man next to her.
+BEFORE: امرأة شابة ذات نظرات خاوية.
+GEMINI: امرأة شابة ذات نظرات خاوية. على الرغم من أنها ترتدي أسمالًا بالية، إلا أنها جميلة جدًا عند التدقيق. بعد أن كُسر قلبها، لجأت إلى 'المسحوق'، لكنها في الواقع لم تعد تتعاطاه الآن. إنها تتظاهر بذلك فقط لتبقى مع الرجل الذي بجانبها.
+REASON: Original translation was a severe truncation, omitting most of the character description. Full description translated.
+
+=== id 13870 ===
+JA: 寒空の中に立ち続ける少女。
+父親は半年前に雪山へ行くと告げたきり失踪。
+その帰りを待ち続けている。
+一緒に拾った美しい形の石が、最後の思い出。
+EN: A little girl standing out in the cold. Her father went into the mountains six months ago, but was never heard from again. She continues to await his return and holds fast to her last memory of him: a beautiful stone they found together.
+BEFORE: فتاة تقف باستمرار في السماء الباردة.
+GEMINI: فتاة تقف باستمرار في السماء الباردة.
+اختفى والدها قبل ستة أشهر بعد أن ذهب إلى الجبال الثلجية ولم يُسمع عنه شيء منذ ذلك الحين. وهي لا تزال تنتظر عودته.
+الحجر الجميل الذي وجداه معًا هو آخر ذكرى لها.
+REASON: The original translation was severely incomplete, only translating the first sentence. The full character description was added, preserving line breaks.
+
+=== id 14125 ===
+JA: 無邪気に母の帰りを待つ少女。
+たまに会える母が話してくれるタイタスの英雄譚は、
+まるでおとぎ話のようで大好きだ。
+古い毛皮のローブには、母の匂いが染み込んでいる。
+EN: A girl innocently awaiting her mother's return. She adores her mother's stories of Tytos, the hero, as if they were fairy tales. Her old fur robe smells like her mother.
+BEFORE: فتاة تنتظر عودة والدتها ببراءة.
+GEMINI: فتاة تنتظر عودة والدتها ببراءة. تعشق حكايات تايتوس البطولية التي ترويها لها والدتها عندما تلتقيان أحيانًا، وكأنها قصص خيالية. رداء الفرو القديم الخاص بها تفوح منه رائحة والدتها.
+REASON: The original Arabic was a severe truncation, translating only the first sentence. The corrected version provides the full description as per the Japanese and English sources, including her love for Tytos's tales and the detail about her robe.
+
+=== id 14907 ===
+JA: 勉学に励んでいる屈強な男性。
+昔はあらくれた生活を送っていたが、
+一念発起して図書館通いを続けている。
+密かにここの司書に恋い焦がれており、
+小説好きな彼女を振り向かせようと自ら書き始めた。
+EN: A burly fellow diligently pursuing his studies. He lived a rougher lifestyle once, but turned over a new leaf and became a regular at the library. He secretly pines for the novel-reading librarian, and has begun writing in the hopes of winning her over.
+BEFORE: رجل قوي يجتهد في الدراسة.
+GEMINI: رجل قوي يجتهد في الدراسة.
+كان يعيش حياة خشنة في الماضي، لكنه قرر تغيير حياته وأصبح يتردد على المكتبة باستمرار.
+إنه يتوق سرًا إلى أمينة المكتبة المحبة للروايات، وقد بدأ الكتابة بنفسه على أمل أن يلفت انتباهها.
+REASON: The original Arabic was a severe truncation, translating only the first sentence of the Japanese source. Expanded to include the full character description, respecting line breaks.
+
+=== id 14941 ===
+JA: 書物式格闘術を究めた男性。
+師のめくるめく本捌きに心動かされて
+日夜がむしゃらに頁をめくり、素振りを続け、
+分厚いオルステラ大陸史すら自在に操る術を身につけた。
+現在はその技術を残すため、
+更に分厚い書物を執筆している。
+EN: A man who has mastered the Way of the Book. Thrilled by his teacher's rapid riffling, he spent day and night turning the pages of weighty tomes, practicing the fundamentals until even the heaviest history of Orsterra was his to command. To ensure that his technique will not be lost, he is currently writing an even thicker book.
+BEFORE: رجل أتقن فنون القتال بالكتب.
+GEMINI: رجل أتقن فنون القتال بالكتب.
+وقد تأثر بمهارة معلمه في تقليب الصفحات بسرعة، فقضى الليل والنهار يقلّب الصفحات بشغف، ويواصل التدريب، حتى أتقن فن التحكم حتى في أضخم كتب تاريخ قارة أورستيرا.
+وحاليًا، للحفاظ على هذه التقنية، يكتب كتابًا أكثر سمكًا.
+REASON: The original Arabic translation was severely truncated, only translating the first sentence. Expanded to fully translate the Japanese source text, preserving line breaks.
+

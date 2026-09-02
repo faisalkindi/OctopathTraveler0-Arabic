@@ -1,0 +1,481 @@
+﻿id,ja_text,en_text,ar_text_before,ar_text_gemini,verdict,final_ar_text,notes
+2896,名声とは……,Fame...,الشهرة هي...,الشهرة هي……,improvement,الشهرة هي……,
+2897,……虚像なり,"Fame is nothing more than
+pretense.",...... مجرد وهم,…… مجرد وهم,improvement,…… مجرد وهم,
+2901,より強い刺激を彼は求める,he is in constant search of greater thrills.,كان يبحث عن تحفيز أقوى,يبحث عن تحفيز أقوى,improvement,يبحث عن تحفيز أقوى,
+2905,彼に妻を殺され、復讐を誓う男,"<chara_name> meets the widower Schwartz,",رجل أقسم على الانتقام بعد أن قتل الرجل زوجته,رجل قُتلت زوجته على يديه وأقسم على الانتقام,improvement,رجل قُتلت زوجته على يديه وأقسم على الانتقام,
+3032,聖火守指長殿！,"Flameguard, sir!",أيها القائد حامي الشعلة المقدسة!,أيها قائد حراس الشعلة!,improvement,أيها قائد حراس الشعلة!,
+3036,"そこに
+指輪の巫女がいる",There the ring maidens await.,"هناك
+توجد كاهنة الخواتم","هناك
+توجد كاهنات الخواتم",improvement,"هناك
+توجد كاهنات الخواتم",
+3037,"彼女らに、呪われし指輪を
+封印してもらうのだ","They have the power to bind
+the accursed relics.",سأجعلهن يختمن الخاتم الملعون.,"سأجعلهن يختمن
+الخواتم الملعونة.",improvement,"سأجعلهن يختمن
+الخواتم الملعونة.",
+3053,“選ばれし者”よ……,Ringbearer chosen...,"أيها ""المختار""...","أيها ""المختار""……",improvement,"أيها ""المختار""……",
+3054,"“聖火神の指輪”が
+微笑むように輝いている……","The Flamebringer's ring shines,
+almost as if smiling...","""خاتم إله النار المقدس"" يلمع وكأنه يبتسم...","""خاتم إله النار المقدس"" يلمع وكأنه يبتسم……",improvement,"""خاتم إله النار المقدس"" يلمع وكأنه يبتسم……",
+3056,"我々は
+神の指輪の巫女","We are the maidens of
+the divine rings.",نحن كاهنات خاتم الإله.,نحن كاهنات خواتم الإله.,improvement,نحن كاهنات خواتم الإله.,
+3057,"古より指輪を
+守ってきた一族です","Our clan has protected the rings
+since time immemorial.",نحن سلالة حمت الخاتم منذ القدم.,نحن سلالة حمت الخواتم منذ القدم.,improvement,نحن سلالة حمت الخواتم منذ القدم.,
+3058,親指のパトスと……,I am Pathos the Thumb...,باثوس الإبهام و...,باثوس الإبهام و……,improvement,باثوس الإبهام و……,
+3060,"長い間、“選ばれし者”を
+お待ちしていました","Long have we awaited the coming
+of the Chosen.","لقد انتظرتُ ""المختار""
+لفترة طويلة","لقد انتظرنا ""المختار""
+لفترة طويلة",improvement,"لقد انتظرنا ""المختار""
+لفترة طويلة",
+3062,…………,......,...........,…………,improvement,…………,
+3063,なんと……邪悪な……,Such...overwhelming evil...,يا للهول... يا لها من... شريرة...,يا للهول…… يا له من شر……,improvement,يا للهول…… يا له من شر……,
+3065,どうかこちらへ……,Follow me.,من فضلك، تعال إلى هنا...,من فضلك، تعال إلى هنا…,regression,من فضلك، تعال إلى هنا……,ellipsis undercount fixed to 2 chars
+3077,……指輪を,"...The rings, if you would.",...الخاتم,…الخواتم,regression,……الخواتم,ellipsis undercount fixed to 2 chars
+3078,マデイ　ドラネ　イグム　サルム,Mahdee dohrane igumu saluma...,مادي دراني إيغوم سالوم,مادي دوراني إيغوم سالوم,improvement,مادي دوراني إيغوم سالوم,
+3079,ロフェム　カダティオ　ノスタ,Rophemu cadatio nosta...,لوفيم كاداتيو نوستا,روفيم كاداتيو نوستا,improvement,روفيم كاداتيو نوستا,
+3080,セレ　リベノエク　イムダ　ムディ,Seleh libenoek imudah muhdee...,سيري ليبينوك إيمدا مودي,سيري ريبينويك إيمدا مودي,improvement,سيري ريبينويك إيمدا مودي,
+3081,セレ　デシデラ　イミリ……,Seleh deshidelah imilee...,سيري ديسيديلا إيميري...,سيري ديسيديلا إيميري…,regression,سيري ديسيديلا إيميري……,ellipsis undercount fixed to 2 chars
+3082,……！！,......!,...!!,…!!,regression,……!!,ellipsis undercount fixed to 2 chars
+3083,そんな……,No...,هذا لا يمكن...,هذا لا يمكن…,regression,هذا لا يمكن……,ellipsis undercount fixed to 2 chars
+3084,まさか……！？,Impossible!,مستحيل...؟!,مستحيل…؟!,regression,مستحيل……؟!,ellipsis undercount fixed to 2 chars
+3085,指輪の邪悪は、もはや……,"The evil within these rings is
+too great...",شر الخاتم، لم يعد...,شر الخواتم، لم يعد…,regression,شر الخواتم، لم يعد……,ellipsis undercount fixed to 2 chars
+3086,"我々の手にも
+負えぬほどに……！？","It defies our fetters!
+We cannot contain it!",إلى درجةٍ لا يمكننا الصمود أمامها...؟!,إلى درجةٍ لا يمكننا الصمود أمامها…؟!,regression,إلى درجةٍ لا يمكننا الصمود أمامها……؟!,ellipsis undercount fixed to 2 chars
+3087,“選ばれし者”よ、来るぞ……！,Ringbearer chosen... It comes!,"أيها ""المختار""، إنه قادم...!","أيها ""المختار""، إنه قادم…!",regression,"أيها ""المختار""، إنه قادم……!",ellipsis undercount fixed to 2 chars
+3098,"指輪に注がれた邪心が
+魔物を呼んだのだろう","Summoned forth by the wickedness
+permeating these rings, I think.",ربما استدعت النوايا الخبيثة المصبوبة في الخاتم تلك الوحوش.,ربما استدعت النوايا الخبيثة المصبوبة في الخواتم تلك الوحوش.,improvement,ربما استدعت النوايا الخبيثة المصبوبة في الخواتم تلك الوحوش.,
+3099,"“選ばれし者”よ
+……恩に着ます","Chosen One, we owe you
+our lives.","""أيها المختار""","أيها ""المختار""، …نحن مدينون لك بحياتنا.",regression,"أيها ""المختار""،
+……نحن مدينون لك بحياتنا.","ellipsis undercount fixed to 2 chars, line break restored"
+3100,"これで、邪悪な指輪を
+封印できます","We can at last bind the evil
+of the rings.",بهذا، يمكن ختم الخاتم الشرير.,بهذا، يمكن ختم الخواتم الشريرة.,improvement,بهذا، يمكن ختم الخواتم الشريرة.,
+3101,…………,......,............,…,regression,……………,ellipsis undercount fixed to 4 chars (ja has 4)
+3102,"そなたの持つ指輪は
+“聖火神”の力を宿すもの……","Know that ring you bear harbors
+the power of the Flamebringer
+Himself.","الخاتم الذي تحمله
+يحتوي على قوة ""إلفريك"" ...","الخاتم الذي تحمله
+يحتوي على قوة ""إلفريك""…",regression,"الخاتم الذي تحمله
+يحتوي على قوة ""إلفريك""……",ellipsis undercount fixed to 2 chars
+3103,そなたと、その指輪が……,"There you stand with the ring
+of legend...",أنت، وهذا الخاتم...,أنت، وهذا الخاتم…,regression,أنت، وهذا الخاتم……,ellipsis undercount fixed to 2 chars
+3106,指輪の導きのままに……,Trust in the ring's guidance...,واتبع إرشاد الخاتم...,واتبع إرشاد الخاتم…,regression,واتبع إرشاد الخاتم……,ellipsis undercount fixed to 2 chars
+3116,……何者だ？,Who are you?,...من أنت؟,…من أنت؟,regression,……من أنت؟,ellipsis undercount fixed to 2 chars
+3117,…………,Hm...,............,…,regression,……………,ellipsis undercount fixed to 4 chars (ja has 4)
+3118,そうですねぇ……,"Who, indeed?",أجل، هذا صحيح...,أجل، هذا صحيح……,improvement,أجل، هذا صحيح……,
+3120,"……とでも
+名乗りましょうか","Yes, that will do for now.","...أو هكذا
+يمكننا أن نُعرّف بأنفسنا","……أو هكذا
+أعرّف بنفسي؟",improvement,"……أو هكذا
+أعرّف بنفسي؟",
+3121,不届き者め……！,You fiend...,أيها العاصي!,أيها الوقح……!,improvement,أيها الوقح……!,
+3123,シフィ　デシデオ……,Shuphi decideo...,سيفي ديسيديو...,سيفي ديسيديو……,improvement,سيفي ديسيديو……,
+3124,シテムアフク　マフェムド……,Shutemuafukha maphemudo...,سيتم أفك مافيمدو...,سيتم أفك مافيمدو……,improvement,سيتم أفك مافيمدو……,
+3125,力というものは……,Power is a curious thing...,القوة هي...,القوة هي……,improvement,القوة هي……,
+3126,"相応しき者が
+持たなければ……","Something only the worthy
+should possess...",إذا لم يمتلكها الشخص المناسب...,إذا لم يمتلكها الشخص المناسب……,improvement,إذا لم يمتلكها الشخص المناسب……,
+3127,"……我が
+“真なる王”がね","Like my lord, the True Sovereign.",...... ملكي,……ملكي، الملك الحقيقي.,improvement,……ملكي، الملك الحقيقي.,
+3138,"３つの指輪が……
+奪われました……",The three rings...were stolen...,الخواتم الثلاثة...,الخواتم الثلاثة…… سُرقت……,improvement,الخواتم الثلاثة…… سُرقت……,
+3140,"あの男……
+“真なる王の遣い”と……","That man... He called himself...
+an envoy of the True Sovereign...",ذلك الرجل...,"ذلك الرجل…… قال إنه…… ""رسول الملك الحقيقي""……",regression,"ذلك الرجل……
+""رسول الملك الحقيقي""……","ellipsis count fixed to 2+2=4 matching ja 2-line structure, removed invented extra clause"
+3141,指輪が……,The ring...,الخاتم...,الخاتم……,improvement,الخاتم……,
+3142,あの先は……クリフランド……,"...lights your way...
+to the Cliftlands...",ما وراء ذلك هو... كليفلاند...,ما وراء ذلك هو…… كليفلاند……,improvement,ما وراء ذلك هو…… كليفلاند……,
+3143,"そこにきっと……
+指輪を奪った邪悪が……","The vile thief is there,
+most surely...",لا بد أن يكون هناك...,لا بد أن يكون هناك…… الشر الذي سرق الخاتم……,improvement,لا بد أن يكون هناك…… الشر الذي سرق الخاتم……,
+3146,"クリフランド……
+エドラス王国か","The Cliftlands are home to
+the Kingdom of Edoras.",كليفلاند...,كليفلاند…… مملكة إيدوراس؟,improvement,كليفلاند…… مملكة إيدوراس؟,
+3147,"“選ばれし者”よ
+……共に来てくれるか？","Will you accompany me there,
+Chosen One?","""أيها المختار""","""أيها المختار""…… هل ستأتي معي؟",regression,"""أيها المختار""
+……هل ستأتي معي؟",restored dropped line break from ja_text 2-line structure
+3152,富――,Wealth—,الثراء...,الثراء—,improvement,الثراء—,
+3153,権力――,Power—,السلطة...,السلطة—,improvement,السلطة—,
+3156,手にしたとしても,lay claim to all three...,حتى لو حصلت عليه,حتى لو حصل المرء عليه,improvement,حتى لو حصل المرء عليه,
+3157,邪悪な心は,The covetous heart,القلب الشرير هو,القلب الشرير,improvement,القلب الشرير,
+3161,…………,......,...........,…………,improvement,…………,
+3164,余は……,Who...,أنا...,أنا…,regression,أنا……,ellipsis undercount fixed to 2 chars
+3167,……当然だ,...Indeed it does.,...هذا أمر بديهي,…هذا أمر بديهي,regression,……هذا أمر بديهي,ellipsis undercount fixed to 2 chars
+3169,"陛下の“碩学王”と合わせ
+４つの指輪がその手に……","Along with the Scholarking's ring,
+that makes four upon your hand...","ومع ""أليفان"" الخاص بجلالتكم
+ستكون الخواتم الأربعة في تلك اليد...","ومع ""أليفان"" الخاص بجلالتكم
+ستكون الخواتم الأربعة في تلك اليد…",regression,"ومع ""أليفان"" الخاص بجلالتكم
+ستكون الخواتم الأربعة في تلك اليد……",ellipsis undercount fixed to 2 chars
+3170,…………,......,...........,…………,improvement,…………,
+3171,"褒めて遣わす
+道化師よ","You have done well, jester.","كافئ وأرسل
+أيها المهرج","أحسنت صنعًا،
+أيها المهرج",improvement,"أحسنت صنعًا،
+أيها المهرج",
+3172,間もなくその御手に……,Before long...,قريباً في تلك اليد...,قريباً في تلك اليد…,regression,قريباً في تلك اليد……,ellipsis undercount fixed to 2 chars
+3178,"お美しいわ
+エリカ王女様……",Princess Elrica is so beautiful...,"إنها جميلة جداً
+الأميرة إيريكا...","إنها جميلة جداً
+الأميرة إيريكا…",regression,"إنها جميلة جداً
+الأميرة إلريكا……","ellipsis fixed + name consistency (إلريكا not إيريكا, matches Elrica correction at id 3321)"
+3179,ああ、天使のようだ……,She's like an angel...,آه، إنها كالملاك...,آه، إنها كالملاك…,regression,آه، إنها كالملاك……,ellipsis undercount fixed to 2 chars
+3183,"ええ、この国は
+きっと良くなるわ……","Days of plenty and prosperity lie
+ahead, aye...",نعم، هذا البلد سيصبح أفضل بالتأكيد...,نعم، هذا البلد سيصبح أفضل بالتأكيد…,regression,نعم، هذا البلد سيصبح أفضل بالتأكيد……,ellipsis undercount fixed to 2 chars
+3184,エリカ様……！,Princess Elrica!,سيدة إيريكا...!,سيدة إيريكا…!,regression,سيدة إلريكا……!,ellipsis fixed + name consistency (إلريكا not إيريكا)
+3185,"これ、家で焼いたパイです
+お祝いに……",I baked a pie for the occasion...,"هذه فطيرة خبزتها في المنزل
+كاحتفال...","هذه فطيرة خبزتها في المنزل
+كاحتفال…",regression,"هذه فطيرة خبزتها في المنزل
+كاحتفال……",ellipsis undercount fixed to 2 chars
+3188,"下賤な者の、下賤なパイなど
+何が入っているか分からん","There's no telling what sort of
+filth you put into that pie!",أوراقُ هؤلاءِ الحثالةِ، لا أدري ما الذي بداخلها.,"فطيرة وضيعة كهذه،
+لا أدري ما الذي بداخلها.",improvement,"فطيرة وضيعة كهذه،
+لا أدري ما الذي بداخلها.",
+3190,"そ、そんな……
+あたしは……","Oh, I...I didn't mean to...",لا، ليس هذا...,"أوه، لا……
+أنا……",improvement,"أوه، لا……
+أنا……",
+3191,おやめなさい,That's enough.,توقف عن ذلك.,كفى.,improvement,كفى.,
+3192,"……ベリーパイね
+ふふ、私の好物よ","A berry pie, is it?
+That's my favorite.",...... فطيرة التوت,"……فطيرة توت، أليس كذلك؟
+إنها مفضلتي.",improvement,"……فطيرة توت، أليس كذلك؟
+إنها مفضلتي.",
+3193,"エリカ様……
+どうかお幸せに……","Your Highness... I wish you the very
+best on this most blessed day...",يا سيدة إيريكا...,"يا سمو إيريكا……
+أتمنى لكِ كل السعادة……",improvement,"يا سمو إيريكا……
+أتمنى لكِ كل السعادة……",
+3195,"エドラス王国は
+民に支えられています","Edoras is nothing without
+its people.",مملكة إيدوراس,"مملكة إيدوراس
+لا شيء بدون شعبها.",improvement,"مملكة إيدوراس
+لا شيء بدون شعبها.",
+3196,"彼女は、この国の宝よ
+忘れないで","She is a treasure of our kingdom.
+You would do well to remember
+that.",إنها كنز هذا البلد,"إنها كنز هذا البلد.
+لا تنسَ ذلك.",improvement,"إنها كنز هذا البلد.
+لا تنسَ ذلك.",
+3198,"その通りです、エリカ様
+民無くして、国はありません","You speak true, Princess. A nation
+bereft of people is no nation at all.",هذا صحيح، يا سمو الإيريكا,"هذا صحيح، يا سمو إيريكا.
+فلا وجود لدولة بلا شعب.",improvement,"هذا صحيح، يا سمو إيريكا.
+فلا وجود لدولة بلا شعب.",
+3199,マフレズ、ありがとう,"Thank you, Mahrez...",مفرز، شكراً لك,ماهرز، شكراً لك.,improvement,ماهرز، شكراً لك.,
+3202,マフレズ様！,Lord Mahrez!,يا سيد مافلز!,يا سيد ماهرز!,improvement,يا سيد ماهرز!,
+3203,"……おい、見ろよ
+パーディス陛下だ",...Look! It's King Pardis!,......مهلاً، انظر,"……مهلاً، انظر!
+إنه الملك بارديس!",improvement,"……مهلاً، انظر!
+إنه الملك بارديس!",
+3204,お父様……,Father...,والدي...,والدي……,improvement,والدي……,
+3205,"……陛下
+いつ見ても、冷たい目だ","His Majesty's eyes are as cold
+as ever...","...جلالة الملك
+دائمًا ما تكون نظراته باردة مهما نظرت إليه","……جلالة الملك
+عيناه باردتان كالعادة.",improvement,"……جلالة الملك
+عيناه باردتان كالعادة.",
+3206,バカ、目を合わせるな,Fool! Don't look him in the eye!,أيها الأحمق، لا تطلق نظرك معه,أيها الأحمق، لا تنظر في عينيه!,improvement,أيها الأحمق، لا تنظر في عينيه!,
+3207,ああ、恐ろしい……,What a frightening man...,آه، إنه مرعب...,آه، إنه مرعب……,improvement,آه، إنه مرعب……,
+3210,"エリカ様とマフレズ様の
+治世になれば……","But if Princess Elrica and
+Lord Mahrez ruled instead...","لو كان الحكم
+للسيدة إريكا والسيد مافليز...","لو كان الحكم
+لسمو إيريكا وسيد ماهرز……",improvement,"لو كان الحكم
+لسمو إيريكا وسيد ماهرز……",
+3211,この国は良くなるのに……,"Then surely our kingdom would
+be better for it...",لكانت هذه البلاد ستصبح أفضل...,لكانت هذه البلاد ستصبح أفضل……,improvement,لكانت هذه البلاد ستصبح أفضل……,
+3212,"ああ……
+どうしましょう……","...Oh, what do I do?","آه...
+ماذا عليّ أن أفعل...","آه……
+ماذا عليّ أن أفعل……",improvement,"آه……
+ماذا عليّ أن أفعل……",
+3214,"ああ……
+どうしましょう……",There must be another way...,"آه...
+ماذا عليّ أن أفعل...","آه……
+ماذا عليّ أن أفعل……",improvement,"آه……
+ماذا عليّ أن أفعل……",
+3215,"申し訳ありません
+私の手違いで……","I am so very, very sorry.
+'Twas my mistake...","أعتذر بشدة
+لقد كان خطئي...","أعتذر بشدة
+لقد كان خطئي……",improvement,"أعتذر بشدة
+لقد كان خطئي……",
+3217,"……アラウネ様
+私が手に入れて参ります","Princess Alaune.
+I will go and fetch them.","...سيدتي ألاون
+سأقوم بالحصول عليه","……سيدتي ألاون
+سأقوم بالحصول عليها",improvement,"……سيدتي ألاون
+سأقوم بالحصول عليها",
+3218,"まあ……レブラント
+本当に？","Oh, Lebrandt... Are you sure?","يا إلهي... ريبرانت
+هل أنت جاد؟","أوه…… ريبرانت
+هل أنت جاد؟",improvement,"أوه…… ريبرانت
+هل أنت جاد؟",
+3219,でも、危険です……,It will be dangerous...,ولكن، الأمر خطير...,ولكن، الأمر خطير……,improvement,ولكن، الأمر خطير……,
+3221,でも……,But...,ولكن...,ولكن……,improvement,ولكن……,
+3224,……ありがとう、レブラント,"...Thank you, Lebrandt.",...شكراً لك، ريبرانت,……شكراً لك، ريبرانت,improvement,……شكراً لك، ريبرانت,
+3226,貴方は……？,And you are...?,وأنتِ...؟,وأنتَ……؟,improvement,وأنتَ……؟,
+3227,"<chara_name>様……！？
+そうですか……貴方が……","<chara_name>...!?
+I have heard tell of your exploits.","<chara_name>...؟!
+أرى ذلك... أنتِ...","<chara_name>……؟!
+أرى ذلك…… أنتَ……",improvement,"<chara_name>……؟!
+أرى ذلك…… أنتَ……",
+3228,"じつは……その腕を見込んで
+お願いがございます","To tell the truth, I have need
+of a warrior of your skill.","في الحقيقة... نظراً لمهارتك في استخدام السلاح
+لدي طلب","في الحقيقة…… نظراً لمهارتك
+لدي طلب",improvement,"في الحقيقة…… نظراً لمهارتك
+لدي طلب",
+3231,"……もしよければ
+ご同行願えませんかな？","Would you be willing to assist me
+in this endeavor?","...إذا لم يكن لديك مانع
+هل يمكنك مرافقتي؟","……إذا لم يكن لديك مانع
+هل يمكنك مرافقتي؟",improvement,"……إذا لم يكن لديك مانع
+هل يمكنك مرافقتي؟",
+3232,……無理もない話,...I know I ask much of you.,...أدرك أن هذا طلب صعب,……أدرك أن هذا طلب صعب,improvement,……أدرك أن هذا طلب صعب,
+3235,"シキレンカの花言葉は
+“永遠の契り”……","In the language of flowers,
+the adorabloom represents
+an eternal vow.","لغة زهرة شيكيلينكا هي
+""عهد الأبدية""...","لغة زهرة شيكيلينكا هي
+""عهد الأبدية""……",improvement,"لغة زهرة شيكيلينكا هي
+""عهد الأبدية""……",
+3237,どうか……お力添えを,Please...lend me your strength.,أرجوك... ساعدني.,أرجوك…… ساعدني.,improvement,أرجوك…… ساعدني.,
+3240,"その紋章……
+エドラス王国の者だな？","That crest...
+You're a man of Edoras, aye?","ذلك الشعار...
+هل أنت من مملكة إيدوراس؟","ذلك الشعار……
+هل أنت من مملكة إيدوراس؟",improvement,"ذلك الشعار……
+هل أنت من مملكة إيدوراس؟",
+3242,貴様ら……盗賊か？,"And you lot... Bandits, I presume.",أنتم... هل أنتم لصوص؟,أنتم…… هل أنتم لصوص؟,improvement,أنتم…… هل أنتم لصوص؟,
+3243,"見ての通りさ
+さあ、二度言わすなよ……","You presume right. Now don't
+make me repeat myself...","كما ترى.
+هيا، لا تجعلني أكرر كلامي...","كما ترى.
+هيا، لا تجعلني أكرر كلامي……",improvement,"كما ترى.
+هيا، لا تجعلني أكرر كلامي……",
+3244,……！,......!,......!,……!,improvement,……!,
+3245,"その構え
+我が国の……","I can tell by your stance you are
+also of Edoras...",تلك الوقفة...,"تلك الوقفة
+من بلادنا……",improvement,"تلك الوقفة
+من بلادنا……",
+3246,くく……ばれたか？,Heh heh... Old habits.,كوكو... هل كُشف أمري؟,كوكو…… هل كُشف أمري؟,improvement,كوكو…… هل كُشف أمري؟,
+3247,"昔はあんたらの国に仕える
+剣士だったんだぜ","Aye, I once pledged my blade
+to Edoras.",لقد كنتُ في الماضي سيفاً يخدم بلدكم.,"لقد كنتُ في الماضي سيافاً أخدم
+بلدكم.",improvement,"لقد كنتُ في الماضي سيافاً أخدم
+بلدكم.",
+3248,なに……？,Did you now?,ما هذا...؟,ما هذا……؟,improvement,ما هذا……؟,
+3249,"だが、あの王の気まぐれで
+国を追われた","Until His Majesty banished me
+on a whim.",ولكن، بسبب نزوة ذلك الملك,"ولكن، بسبب نزوة ذلك الملك
+طُردتُ من البلاد.",improvement,"ولكن، بسبب نزوة ذلك الملك
+طُردتُ من البلاد.",
+3250,…………,......,............,…………,improvement,…………,
+3251,"食い扶持なんてねえ……
+こうするしかないんだよ","But a man's got to eat. So this is
+how I earn my meals these days.",لا يوجد من يعيلنا...,"لا يوجد ما نقتات به……
+هذا هو الحل الوحيد.",improvement,"لا يوجد ما نقتات به……
+هذا هو الحل الوحيد.",
+3254,"やれやれ……仕方ねえ
+じゃあ力ずくか","...Have it your way, then.","يا للهول... لا مفر من هذا
+إذًا، سنستخدم القوة","يا للهول…… لا مفر من هذا
+إذًا، سنستخدم القوة",improvement,"يا للهول…… لا مفر من هذا
+إذًا، سنستخدم القوة",
+3256,"その腕……
+盗賊にしておくには惜しい",Your skills are wasted on thievery.,"تلك الذراع...
+من المؤسف أن تكون للص","تلك المهارات……
+من المؤسف أن تُهدَر في اللصوصية.",improvement,"تلك المهارات……
+من المؤسف أن تُهدَر في اللصوصية.",
+3258,…………,......,...........,…………,improvement,…………,
+3259,くっくっく……,Heh heh heh...,كوكوكو...,كوكوكو……,improvement,كوكوكو……,
+3260,"あのパーディス三世にか？
+……死んでも御免だ","Serve King Pardis III? Hah!
+...Not while I live and breathe.","لملك هورنبورغ الثالث؟
+...لن أفعل حتى لو مت","للملك بارديس الثالث؟
+……لن أفعل حتى لو مت",improvement,"للملك بارديس الثالث؟
+……لن أفعل حتى لو مت",
+3261,…………,......,...........,…………,improvement,…………,
+3262,"当時……俺たちの隊は
+戦果を挙げ、国へ帰還した","We'd returned home after
+a great victory...","في ذلك الوقت... كانت فرقتنا
+قد حققت انتصارات وعادت إلى البلاد","في ذلك الوقت…… كانت فرقتنا
+قد حققت انتصارات وعادت إلى البلاد",improvement,"في ذلك الوقت…… كانت فرقتنا
+قد حققت انتصارات وعادت إلى البلاد",
+3265,"勝利の高揚からか
+頭を垂れるのが少し遅れた","Emboldened by his victory, he was
+too slow to bow his head...","ربما بسبب نشوة النصر
+تأخرتُ قليلاً في خفض رأسي","ربما بسبب نشوة النصر
+تأخرتُ قليلاً في خفض رأسي",improvement,"ربما بسبب نشوة النصر
+تأخرتُ قليلاً في خفض رأسي",
+3266,"それだけで……
+隊長は斬首された","So the king took it clean off
+his neck.","وبسبب ذلك فقط...
+قُطع رأس القائد","وبسبب ذلك فقط……
+قُطع رأس القائد",improvement,"وبسبب ذلك فقط……
+قُطع رأس القائد",
+3268,…………,......,...........,…………,improvement,…………,
+3269,"知ってるだろ？
+そういう王だ","That's your king. But you knew
+that, didn't you?","أنت تعلم ذلك، أليس كذلك؟
+إنه ملك من هذا النوع","علمت ذلك، أليس كذلك؟
+إنه ملك من هذا النوع",improvement,"علمت ذلك، أليس كذلك؟
+إنه ملك من هذا النوع",
+3270,"……さあ、やれよ
+殺さねえと次も襲うぜ","...Now kill me. It's the only way
+you'll stop me for good.","...ها، افعلها
+إن لم تقتله، سيهجم علينا مجددًا","……ها، افعلها
+إن لم تقتلني، فسأهاجم مجددًا",improvement,"……ها، افعلها
+إن لم تقتلني، فسأهاجم مجددًا",
+3272,くッ……！,Tch...,تباً...!,تباً……!,improvement,تباً……!,
+3273,"地獄で見てやる
+あの王の末路をな……","I'll wait as long as it takes for
+His Majesty to join me in hell...","سأشاهده في الجحيم
+نهاية ذلك الملك...","سأشاهده في الجحيم
+نهاية ذلك الملك……",improvement,"سأشاهده في الجحيم
+نهاية ذلك الملك……",
+3274,"……急ぎましょう
+<chara_name>様","Let us return,
+<chara_name>.","...لنُسرع
+سيد <chara_name>","……لنُسرع
+سيد <chara_name>",improvement,"……لنُسرع
+سيد <chara_name>",
+3276,レブラント！,Lebrandt!,ريبرانت!,لبرانت!,improvement,لبرانت!,
+3277,"無事だったのですね
+ああよかった……",Thank heavens you're safe...,"لقد كنتَ بخير
+آه، هذا جيد...","لقد كنتَ بخير
+آه، هذا جيد……",improvement,"لقد كنتَ بخير
+آه، هذا جيد……",
+3278,"それ、シキレンカ……
+採って来てくれたのですね","And you brought me a bouquet
+of adorablooms!",تلك هي الشيكلينكا...,"تلك هي الشيكلينكا……
+لقد أحضرتها لي، أليس كذلك؟",improvement,"تلك هي الشيكلينكا……
+لقد أحضرتها لي، أليس كذلك؟",
+3280,こちらのお方がご助力を,"I could not have done it without
+this traveler.",هذا الشخص سيقدم المساعدة,هذا الشخص قدم المساعدة,improvement,هذا الشخص قدم المساعدة,
+3281,まあ……！,Is that so?,يا إلهي...!,أوه……!,improvement,أوه……!,
+3283,"なんとお礼を言ったら……
+これで姉を祝福できます","I cannot thank you enough.
+My sister will be overjoyed to
+receive this.",كيف يمكنني أن أشكرك...,"كيف يمكنني أن أشكرك……
+بهذا، يمكنني مباركة أختي.",improvement,"كيف يمكنني أن أشكرك……
+بهذا، يمكنني مباركة أختي.",
+3288,"シキレンカ……
+なんと見事な……",Adorablooms... A wonderful gift.,"شيكيلينكا...
+يا له من جمال...","شيكيلينكا……
+يا له من جمال……",improvement,"شيكيلينكا……
+يا له من جمال……",
+3289,この花に誓うよ、エリカ,"By these flowers I swear to you,
+Elrica...",أقسمُ بهذه الزهرة، يا إريكا,أقسمُ بهذه الزهور، يا إريكا,improvement,أقسمُ بهذه الزهور، يا إريكا,
+3291,マフレズ……,Mahrez...,مافريز...,مافريز……,improvement,مافريز……,
+3293,陛下……！,...Your Majesty!,سموّكم...!,سموّكم……!,improvement,سموّكم……!,
+3294,マフレズ……,Mahrez...,مافريز...,مافريز……,improvement,مافريز……,
+3295,"余は、そなたが
+剣を握る前から知っている","I've known you since before
+you'd ever held a sword.",لقد عرفتكُ قبل أن تمسكَ بالسيف,"لقد عرفتكَ قبل أن
+تمسكَ بالسيف",improvement,"لقد عرفتكَ قبل أن
+تمسكَ بالسيف",
+3297,"マフレズ……
+我が息子よ",Mahrez... My son.,"مافريز...
+يا بني","مافريز……
+يا بني",improvement,"مافريز……
+يا بني",
+3298,"おお……
+なんと有難きお言葉……",Your Majesty... You honor me.,"أوه...
+يا لها من كلماتٍ كريمة...","أوه……
+يا لها من كلماتٍ كريمة……",improvement,"أوه……
+يا لها من كلماتٍ كريمة……",
+3300,命に……代えても……！,"And I shall dedicate my very life
+to her!",حتى لو كلفني ذلك... حياتي...!,حتى لو كلفني ذلك…… حياتي……!,improvement,حتى لو كلفني ذلك…… حياتي……!,
+3301,……ふむ,...Good.,...همم,……همم,improvement,……همم,
+3303,"宴を終えたら即刻
+出発せよ","You are to march once the feast
+is finished.",بمجرد انتهاء المأدبة، انطلق فوراً.,"بمجرد انتهاء المأدبة، انطلق
+فوراً.",improvement,"بمجرد انتهاء المأدبة، انطلق
+فوراً.",
+3305,お父様……,Father...,والدي...,والدي……,improvement,والدي……,
+3306,エリカ様……！,Princess Elrica!,آنسة إريكا...!,الأميرة إلريكا……!,improvement,الأميرة إلريكا……!,
+3307,"王の御前です
+お召し物をお替えに……","To present yourself to the king
+thus attired is...","أنت في حضرة الملك.
+هل ترغبين في تغيير ملابسكِ...","أنتِ في حضرة الملك.
+ألا ينبغي أن تغيري ملابسكِ……",improvement,"أنتِ في حضرة الملك.
+ألا ينبغي أن تغيري ملابسكِ……",
+3310,"ふむ……
+申してみよ",Hm. Then speak.,"همم...
+قليه.","همم……
+قليه.",improvement,"همم……
+قليه.",
+3316,"それに……戦が続き
+兵たちも疲弊しています","Moreover...this protracted campaign
+has taken a toll on our soldiers.","بالإضافة إلى ذلك... استمرت الحرب،
+وقواتنا أصبحت منهكة.","بالإضافة إلى ذلك…… استمرت الحرب،
+وقواتنا أصبحت منهكة.",improvement,"بالإضافة إلى ذلك…… استمرت الحرب،
+وقواتنا أصبحت منهكة.",
+3317,"数日ほど……休息を
+与えてはいかがでしょうか？","Thus I implore you to grant them
+a few days of respite.","ألا يمكننا منحهم... قسطاً من الراحة
+لعدة أيام؟","ألا يمكننا منحهم…… قسطاً من الراحة
+لعدة أيام؟",improvement,"ألا يمكننا منحهم…… قسطاً من الراحة
+لعدة أيام؟",
+3318,……ほう、なるほど,Hm... I see now.,...همم، أفهم ذلك.,……همم، أفهم ذلك.,improvement,……همم، أفهم ذلك.,
+3319,そうか、そうか,"Yes, yes...",هكذا إذن، هكذا.,أجل، أجل...,regression,أجل، أجل.,removed invented ellipsis not present in ja_text (そうか、そうか has none)
+3320,…………,......,...........,…………,improvement,…………,
+3321,エリカ,Elrica...,إيريكا,إلريكا...,regression,إلريكا,removed invented ellipsis not in ja_text; kept correct Elrica transliteration
+3322,……余に楯突くというのか？,...You would defy your king?,...... أتريدين مواجهتي؟,…… أتعصين ملكك؟,improvement,…… أتعصين ملكك؟,
+3323,……！,......!,......!,……!,improvement,……!,
+3324,そんな……ことは……,No... Of course not...,هذا... لا يمكن...,هذا…… لا يمكن……,improvement,هذا…… لا يمكن……,
+3325,……宰相,...Minister.,...... أيها الوزير,…… أيها الوزير.,improvement,…… أيها الوزير.,
+3326,剣を取って参れ,Fetch me my sword.,استل سيفك,أحضر لي سيفي.,improvement,أحضر لي سيفي.,
+3327,お父……様……？,Father...?,والدي...؟,والدي……؟,regression,والدي……؟,ellipsis undercount fixed to 2 chars
+3328,"……もう少し
+利口だと思っていた",...I thought you smarter than this.,......ظننتُك أكثر ذكاءً,……ظننتُك أكثر ذكاءً.,improvement,……ظننتُك أكثر ذكاءً.,
+3330,……レブラント,...Lebrandt.,......ليبرانت,……ليبرانت.,improvement,……ليبرانت.,
+3331,"娘が赤子の頃から
+躾けさせてきたな","You have been charged with my
+daughter's education since she
+was but an infant child.",لقد جعلتَها تتدرب على الانضباط منذ أن كانت رضيعة,لقد عهدتُ إليك بتعليم ابنتي منذ أن كانت رضيعة.,improvement,لقد عهدتُ إليك بتعليم ابنتي منذ أن كانت رضيعة.,
+3332,"学問に剣技、教養……
+すべてを任せた","You have seen to her studies,
+manners, and swordsmanship...","العلم، وفنون السيف، والثقافة...
+لقد وكلتُ إليك كل شيء","العلم، وفنون السيف، والثقافة……
+لقد وكلتُ إليك كل شيء",improvement,"العلم، وفنون السيف، والثقافة……
+لقد وكلتُ إليك كل شيء",
+3334,つまり、娘の過ちは……,"Then, her transgression...",هذا يعني أن خطأ ابنتي...,هذا يعني أن خطأ ابنتي……,improvement,هذا يعني أن خطأ ابنتي……,
+3338,"レブラント
+貴公は、王女の教育を誤った","You were a poor teacher to
+my daughter, Lebrandt.","ريبرانت
+لقد أخطأت في تربية الأميرة","ليبرانت
+لقد أخطأت في تربية الأميرة",improvement,"ليبرانت
+لقد أخطأت في تربية الأميرة",
+3341,お父様っ……！,...Father!,والدي...!,والدي……!,improvement,والدي……!,
+3342,"申し訳……ございません
+レブラントに罪はありません","I beg for your forgiveness...
+Lebrandt has committed no crime.","أعتذر... بشدة
+ليس لـ ريبرانت ذنب","أعتذر…… بشدة
+ليس لـ ليبرانت ذنب",improvement,"أعتذر…… بشدة
+ليس لـ ليبرانت ذنب",
+3343,"すべては私の過ち……
+私が愚かでした","The fault is mine and mine alone.
+I was foolish to speak out of turn.","كل شيء كان خطئي...
+لقد كنتُ حمقاء","كل شيء كان خطئي……
+لقد كنتُ حمقاء",improvement,"كل شيء كان خطئي……
+لقد كنتُ حمقاء",
