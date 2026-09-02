@@ -42,3 +42,4 @@ __pycache__/
 localization_workspace/minimal_test_input/
 localization_workspace/control2_input/
 localization_workspace/remaining_dump.txt
+release_assets/
